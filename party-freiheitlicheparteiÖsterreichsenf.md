@@ -10,9 +10,9 @@ Last result: **19.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.7% | 22.7–27.0% | 22.1–27.7% | 21.6–28.4% | 20.7–29.6% |
+| N/A | [Poll Average](average.html) | 24.5% | 22.5–26.8% | 22.0–27.5% | 21.5–28.1% | 20.6–29.4% |
 | [12–15 March 2018](2018-03-15-UniqueResearch.html) | Unique Research <br> profil | 25.0% | 22.6–27.6% | 22.0–28.3% | 21.4–29.0% | 20.3–30.3% |
-| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 24.0% | N/A | N/A | N/A | N/A |
+| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 24.0% | 22.2–26.0% | 21.7–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [1–7 March 2018](2018-03-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.6–26.7% | 20.8–27.6% |
 | [15–21 February 2018](2018-02-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | 22.3–25.7% | 21.8–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 25.1% | 23.1–27.2% | 22.5–27.8% | 22.1–28.3% | 21.1–29.4% |
@@ -30,18 +30,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.3% | 99.9% | Last Result |
-| 20.5–21.5% | 2% | 99.6% |  |
-| 21.5–22.5% | 7% | 98% |  |
-| 22.5–23.5% | 15% | 91% |  |
-| 23.5–24.5% | 23% | 76% |  |
-| 24.5–25.5% | 22% | 53% | Median |
-| 25.5–26.5% | 16% | 31% |  |
-| 26.5–27.5% | 9% | 15% |  |
-| 27.5–28.5% | 4% | 6% |  |
-| 28.5–29.5% | 1.4% | 2% |  |
-| 29.5–30.5% | 0.4% | 0.5% |  |
+| 18.5–19.5% | 0.1% | 100% |  |
+| 19.5–20.5% | 0.4% | 99.9% | Last Result |
+| 20.5–21.5% | 2% | 99.5% |  |
+| 21.5–22.5% | 8% | 97% |  |
+| 22.5–23.5% | 17% | 90% |  |
+| 23.5–24.5% | 24% | 73% |  |
+| 24.5–25.5% | 22% | 49% | Median |
+| 25.5–26.5% | 15% | 28% |  |
+| 26.5–27.5% | 8% | 13% |  |
+| 27.5–28.5% | 3% | 5% |  |
+| 28.5–29.5% | 1.1% | 2% |  |
+| 29.5–30.5% | 0.3% | 0.4% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
@@ -54,9 +54,9 @@ Last result: **4** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [12–15 March 2018](2018-03-15-UniqueResearch.html) | Unique Research <br> profil | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard |  |  |  |  |  |
+| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–7 March 2018](2018-03-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [15–21 February 2018](2018-02-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 5 | 5 | 5 | 4–5 | 4–6 |
@@ -76,9 +76,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% | Last Result |
-| 5 | 82% | 98% | Median |
-| 6 | 16% | 16% |  |
+| 4 | 17% | 100% | Last Result |
+| 5 | 71% | 83% | Median |
+| 6 | 12% | 12% |  |
 | 7 | 0% | 0% |  |
 
 

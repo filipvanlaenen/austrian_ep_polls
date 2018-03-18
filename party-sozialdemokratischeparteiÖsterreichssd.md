@@ -10,9 +10,9 @@ Last result: **24.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.7% | 24.1–29.4% | 23.4–30.3% | 22.8–31.0% | 21.7–32.5% |
+| N/A | [Poll Average](average.html) | 27.3% | 24.5–30.2% | 23.7–30.9% | 23.0–31.6% | 21.9–32.9% |
 | [12–15 March 2018](2018-03-15-UniqueResearch.html) | Unique Research <br> profil | 28.0% | 25.5–30.7% | 24.8–31.4% | 24.2–32.1% | 23.1–33.4% |
-| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 29.0% | N/A | N/A | N/A | N/A |
+| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 29.0% | 27.0–31.1% | 26.4–31.7% | 26.0–32.2% | 25.0–33.3% |
 | [1–7 March 2018](2018-03-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 27.0% | 25.3–28.8% | 24.8–29.3% | 24.4–29.8% | 23.6–30.7% |
 | [15–21 February 2018](2018-02-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 26.0% | 24.3–27.9% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 25.1% | 23.1–27.2% | 22.5–27.8% | 22.1–28.3% | 21.1–29.4% |
@@ -31,20 +31,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.3% | 100% |  |
-| 21.5–22.5% | 1.4% | 99.6% |  |
-| 22.5–23.5% | 4% | 98% |  |
-| 23.5–24.5% | 9% | 94% | Last Result |
-| 24.5–25.5% | 14% | 86% |  |
-| 25.5–26.5% | 19% | 72% |  |
-| 26.5–27.5% | 19% | 53% | Median |
-| 27.5–28.5% | 15% | 34% |  |
-| 28.5–29.5% | 10% | 19% |  |
-| 29.5–30.5% | 5% | 9% |  |
-| 30.5–31.5% | 2% | 4% |  |
-| 31.5–32.5% | 1.0% | 2% |  |
-| 32.5–33.5% | 0.4% | 0.5% |  |
-| 33.5–34.5% | 0.1% | 0.1% |  |
+| 20.5–21.5% | 0.2% | 100% |  |
+| 21.5–22.5% | 1.1% | 99.7% |  |
+| 22.5–23.5% | 3% | 98.7% |  |
+| 23.5–24.5% | 6% | 96% | Last Result |
+| 24.5–25.5% | 11% | 89% |  |
+| 25.5–26.5% | 15% | 79% |  |
+| 26.5–27.5% | 18% | 64% | Median |
+| 27.5–28.5% | 17% | 46% |  |
+| 28.5–29.5% | 13% | 29% |  |
+| 29.5–30.5% | 9% | 16% |  |
+| 30.5–31.5% | 5% | 7% |  |
+| 31.5–32.5% | 2% | 3% |  |
+| 32.5–33.5% | 0.6% | 0.8% |  |
+| 33.5–34.5% | 0.1% | 0.2% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
 
@@ -56,9 +56,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [12–15 March 2018](2018-03-15-UniqueResearch.html) | Unique Research <br> profil | 5 | 5 | 5 | 5 | 5–6 |
-| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard |  |  |  |  |  |
+| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [1–7 March 2018](2018-03-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [15–21 February 2018](2018-02-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 5 | 5 | 5–6 | 5–6 | 4–6 |
@@ -78,10 +78,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.8% | 100% |  |
-| 5 | 91% | 99.2% | Last Result, Median |
-| 6 | 8% | 8% |  |
-| 7 | 0.2% | 0.2% |  |
+| 4 | 0.6% | 100% |  |
+| 5 | 71% | 99.4% | Last Result, Median |
+| 6 | 15% | 29% |  |
+| 7 | 14% | 14% |  |
 | 8 | 0% | 0% |  |
 
 
