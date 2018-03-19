@@ -27,12 +27,12 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#Österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 5 | 7 | 6–8 |6–8 |6–8 |6–9 |
-| <a href="#sozialdemokratische-partei-Österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 5 | 5–6 |5–6 |5–6 |4–6 |
-| <a href="#freiheitliche-partei-Österreichs-(enf)">Freiheitliche Partei Österreichs (ENF)</a> | 4 | 6 | 4–6 |4–6 |4–6 |4–6 |
-| <a href="#neos–das-neue-Österreich-und-liberales-forum-(alde)">NEOS–Das Neue Österreich und Liberales Forum (ALDE)</a> | 1 | 1 | 0–2 |0–2 |0–2 |0–2 |
+| <a href="#Österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 5 | 7 | 6–8 |6–8 |6–8 |6–8 |
+| <a href="#sozialdemokratische-partei-Österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 5 | 5–6 |5–6 |5–6 |4–7 |
+| <a href="#freiheitliche-partei-Österreichs-(enf)">Freiheitliche Partei Österreichs (ENF)</a> | 4 | 5 | 4–6 |4–6 |4–6 |4–6 |
+| <a href="#neos–das-neue-Österreich-und-liberales-forum-(alde)">NEOS–Das Neue Österreich und Liberales Forum (ALDE)</a> | 1 | 1 | 1 |1 |0–1 |0–2 |
 | <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 3 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#liste-peter-pilz-(—)">Liste Peter Pilz (—)</a> | 0 | 0 | 0 |0 |0 |0–1 |
+| <a href="#liste-peter-pilz-(—)">Liste Peter Pilz (—)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
 
 ### Österreichische Volkspartei (EPP)
 
@@ -42,11 +42,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.3% | 100% | Last Result |
-| 6 | 28% | 99.7% |  |
-| 7 | 53% | 72% | Median |
-| 8 | 17% | 19% |  |
-| 9 | 2% | 2% |  |
+| 5 | 0.1% | 100% | Last Result |
+| 6 | 13% | 99.9% |  |
+| 7 | 66% | 87% | Median |
+| 8 | 21% | 21% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -57,10 +57,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.9% | 100% |  |
-| 5 | 60% | 99.1% | Last Result, Median |
-| 6 | 39% | 39% |  |
-| 7 | 0.1% | 0.1% |  |
+| 4 | 1.1% | 100% |  |
+| 5 | 50% | 98.9% | Last Result, Median |
+| 6 | 47% | 49% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ENF)
@@ -71,10 +71,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 13% | 100% | Last Result |
-| 5 | 34% | 87% |  |
-| 6 | 54% | 54% | Median |
-| 7 | 0% | 0% |  |
+| 4 | 10% | 100% | Last Result |
+| 5 | 72% | 90% | Median |
+| 6 | 18% | 18% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
 
@@ -84,9 +85,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% |  |
-| 1 | 66% | 83% | Last Result, Median |
-| 2 | 17% | 17% |  |
+| 0 | 5% | 100% |  |
+| 1 | 94% | 95% | Last Result, Median |
+| 2 | 1.0% | 1.0% |  |
 | 3 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -97,8 +98,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Median |
-| 1 | 27% | 27% |  |
+| 0 | 68% | 100% | Median |
+| 1 | 32% | 32% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -110,8 +111,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -123,59 +124,60 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Österreichische Volkspartei (EPP) | 5 | 7 | 0% | 6–8 | 6–8 | 6–8 | 6–9 |
-| Sozialdemokratische Partei Österreichs (S&D) | 5 | 5 | 0% | 5–6 | 5–6 | 5–6 | 4–6 |
-| Freiheitliche Partei Österreichs (ENF) | 4 | 6 | 0% | 4–6 | 4–6 | 4–6 | 4–6 |
-| NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 1 | 1 | 0% | 0–2 | 0–2 | 0–2 | 0–2 |
+| Österreichische Volkspartei (EPP) | 5 | 7 | 0% | 6–8 | 6–8 | 6–8 | 6–8 |
+| Sozialdemokratische Partei Österreichs (S&D) | 5 | 5 | 0% | 5–6 | 5–6 | 5–6 | 4–7 |
+| Freiheitliche Partei Österreichs (ENF) | 4 | 5 | 0% | 4–6 | 4–6 | 4–6 | 4–6 |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) | 3 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 1 | 1 | 0% | 1 | 1 | 0–1 | 0–2 |
 
 ### Österreichische Volkspartei (EPP)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.3% | 100% | Last Result |
-| 6 | 28% | 99.7% |  |
-| 7 | 53% | 72% | Median |
-| 8 | 17% | 19% |  |
-| 9 | 2% | 2% |  |
+| 5 | 0.1% | 100% | Last Result |
+| 6 | 13% | 99.9% |  |
+| 7 | 66% | 87% | Median |
+| 8 | 21% | 21% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.9% | 100% |  |
-| 5 | 60% | 99.1% | Last Result, Median |
-| 6 | 39% | 39% |  |
-| 7 | 0.1% | 0.1% |  |
+| 4 | 1.1% | 100% |  |
+| 5 | 50% | 98.9% | Last Result, Median |
+| 6 | 47% | 49% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ENF)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 13% | 100% | Last Result |
-| 5 | 34% | 87% |  |
-| 6 | 54% | 54% | Median |
-| 7 | 0% | 0% |  |
-
-### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% |  |
-| 1 | 66% | 83% | Last Result, Median |
-| 2 | 17% | 17% |  |
-| 3 | 0% | 0% |  |
+| 4 | 10% | 100% | Last Result |
+| 5 | 72% | 90% | Median |
+| 6 | 18% | 18% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Median |
-| 1 | 27% | 27% |  |
+| 0 | 68% | 100% | Median |
+| 1 | 32% | 32% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
+
+### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 5% | 100% |  |
+| 1 | 94% | 95% | Last Result, Median |
+| 2 | 1.0% | 1.0% |  |
+| 3 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -189,6 +191,6 @@
 ### Calculations
 
 + **Sample size:** 500
-+ **Simulations done:** 1,024
-+ **Error estimate:** 6.22%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.17%
 
