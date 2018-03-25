@@ -8,226 +8,86 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 24 Mar 2018 15:44:19 +0100</pubDate>
-    <item>
-      <title>Opinion Poll by Unique Research for profil, 12–15 March 2018 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-15-UniqueResearch.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-15-UniqueResearch-seats.png"
-        length="203515"
-        type="image/png"/>
-      <pubDate>Wed, 21 Mar 2018 16:55:04 +0100</pubDate>
-      <dc:date>2018-03-21T16:55:04.934063+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for profil, 12–15 March 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-15-UniqueResearch.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-15-UniqueResearch-coalitions-seats.png"
-        length="135443"
-        type="image/png"/>
-      <pubDate>Wed, 21 Mar 2018 16:55:04 +0100</pubDate>
-      <dc:date>2018-03-21T16:55:04.934063+01:00</dc:date>
-    </item>
+    <pubDate>Sun, 25 Mar 2018 17:52:32 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 12–15 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-15-UniqueResearch.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 27.1–35.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.2–32.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.4–29.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.1–9.6%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 1.8–4.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 4.2–8.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 27.1–35.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.2–32.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.4–29.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.1–9.6%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.8–4.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 4.2–8.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-15-UniqueResearch.png"
-        length="213802"
+        length="214072"
         type="image/png"/>
-      <pubDate>Wed, 21 Mar 2018 16:55:04 +0100</pubDate>
-      <dc:date>2018-03-21T16:55:04.934063+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by market for Der Standard, 6–8 March 2018 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-08-market.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-08-market-seats.png"
-        length="174582"
-        type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 21:15:44 +0100</pubDate>
-      <dc:date>2018-03-19T21:15:44.771914+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by market for Der Standard, 6–8 March 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-08-market.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-08-market-coalitions-seats.png"
-        length="108122"
-        type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 21:15:44 +0100</pubDate>
-      <dc:date>2018-03-19T21:15:44.771914+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 15:43:14 +0200</pubDate>
+      <dc:date>2018-03-25T15:43:14.052396+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by market for Der Standard, 6–8 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-08-market.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 26.0–32.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.2–27.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 6.4–10.2%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.0–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 26.0–32.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.2–27.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 6.4–10.2%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.0–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-08-market.png"
-        length="193295"
+        length="193590"
         type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 21:15:44 +0100</pubDate>
-      <dc:date>2018-03-19T21:15:44.771914+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–7 March 2018 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-07-ResearchAffairs.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-07-ResearchAffairs-seats.png"
-        length="175257"
-        type="image/png"/>
-      <pubDate>Wed, 21 Mar 2018 17:10:43 +0100</pubDate>
-      <dc:date>2018-03-21T17:10:43.11885+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–7 March 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-07-ResearchAffairs.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-07-ResearchAffairs-coalitions-seats.png"
-        length="107812"
-        type="image/png"/>
-      <pubDate>Wed, 21 Mar 2018 17:10:43 +0100</pubDate>
-      <dc:date>2018-03-21T17:10:43.11885+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 15:53:05 +0200</pubDate>
+      <dc:date>2018-03-25T15:53:05.432923+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–7 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-07-ResearchAffairs.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.2–34.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.4–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.6–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.2–34.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.4–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.6–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-07-ResearchAffairs.png"
-        length="194017"
+        length="194291"
         type="image/png"/>
-      <pubDate>Wed, 21 Mar 2018 17:10:43 +0100</pubDate>
-      <dc:date>2018-03-21T17:10:43.11885+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–21 February 2018 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-21-ResearchAffairs.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-21-ResearchAffairs-seats.png"
-        length="180947"
-        type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 17:26:26 +0100</pubDate>
-      <dc:date>2018-03-19T17:26:26.517983+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–21 February 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-21-ResearchAffairs.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-21-ResearchAffairs-coalitions-seats.png"
-        length="111335"
-        type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 17:26:26 +0100</pubDate>
-      <dc:date>2018-03-19T17:26:26.517983+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 16:03:09 +0200</pubDate>
+      <dc:date>2018-03-25T16:03:09.325808+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–21 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-21-ResearchAffairs.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.4–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.9–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.4–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.9–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-21-ResearchAffairs.png"
-        length="195937"
+        length="196234"
         type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 17:26:26 +0100</pubDate>
-      <dc:date>2018-03-19T17:26:26.517983+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peter Hajek for ATV, 12–20 February 2018 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek-seats.png"
-        length="191935"
-        type="image/png"/>
-      <pubDate>Sat, 24 Mar 2018 15:44:19 +0100</pubDate>
-      <dc:date>2018-03-24T15:44:19.274112+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peter Hajek for ATV, 12–20 February 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek-coalitions-seats.png"
-        length="121472"
-        type="image/png"/>
-      <pubDate>Sat, 24 Mar 2018 15:44:19 +0100</pubDate>
-      <dc:date>2018-03-24T15:44:19.274112+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 16:09:46 +0200</pubDate>
+      <dc:date>2018-03-25T16:09:46.900891+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 12–20 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.7–37.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 22.1–28.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 22.1–28.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.4–9.1%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 1.2–3.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.6–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.7–37.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 22.1–28.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 22.1–28.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.4–9.1%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.2–3.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.6–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek.png"
-        length="196272"
+        length="196574"
         type="image/png"/>
-      <pubDate>Sat, 24 Mar 2018 15:44:19 +0100</pubDate>
-      <dc:date>2018-03-24T15:44:19.274112+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for profil, 11–16 February 2018 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-16-UniqueResearch.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-16-UniqueResearch-seats.png"
-        length="192405"
-        type="image/png"/>
-      <pubDate>Fri, 23 Mar 2018 11:44:11 +0100</pubDate>
-      <dc:date>2018-03-23T11:44:11.925226+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for profil, 11–16 February 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-16-UniqueResearch.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-16-UniqueResearch-coalitions-seats.png"
-        length="121961"
-        type="image/png"/>
-      <pubDate>Fri, 23 Mar 2018 11:44:11 +0100</pubDate>
-      <dc:date>2018-03-23T11:44:11.925226+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 16:17:13 +0200</pubDate>
+      <dc:date>2018-03-25T16:17:13.009315+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 11–16 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-16-UniqueResearch.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.0–37.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 22.3–30.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 22.3–30.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.1–9.6%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.4–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.0–37.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 22.3–30.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 22.3–30.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.1–9.6%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.4–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-16-UniqueResearch.png"
-        length="208726"
+        length="209031"
         type="image/png"/>
-      <pubDate>Fri, 23 Mar 2018 11:44:11 +0100</pubDate>
-      <dc:date>2018-03-23T11:44:11.925226+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–8 February 2018 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-08-ResearchAffairs.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-08-ResearchAffairs-seats.png"
-        length="161318"
-        type="image/png"/>
-      <pubDate>Sat, 24 Mar 2018 14:38:54 +0100</pubDate>
-      <dc:date>2018-03-24T14:38:54.887562+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–8 February 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-08-ResearchAffairs.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-08-ResearchAffairs-coalitions-seats.png"
-        length="97910"
-        type="image/png"/>
-      <pubDate>Sat, 24 Mar 2018 14:38:54 +0100</pubDate>
-      <dc:date>2018-03-24T14:38:54.887562+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 16:23:12 +0200</pubDate>
+      <dc:date>2018-03-25T16:23:12.457583+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–8 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-08-ResearchAffairs.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 22.4–27.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 22.4–27.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-08-ResearchAffairs.png"
-        length="195354"
+        length="195674"
         type="image/png"/>
-      <pubDate>Sat, 24 Mar 2018 14:38:54 +0100</pubDate>
-      <dc:date>2018-03-24T14:38:54.887562+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 16:30:13 +0200</pubDate>
+      <dc:date>2018-03-25T16:30:13.190455+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 18–24 January 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-24-ResearchAffairs.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 5–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 5–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-24-ResearchAffairs-seats.png"
-        length="161692"
+        length="162022"
         type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 16:55:51 +0100</pubDate>
-      <dc:date>2018-03-19T16:55:51.969968+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 17:52:32 +0200</pubDate>
+      <dc:date>2018-03-25T17:52:32.604166+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 18–24 January 2018 – Seat Projections for a Selection of Coalitions</title>
@@ -236,28 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-24-ResearchAffairs-coalitions-seats.png"
         length="97307"
         type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 16:55:51 +0100</pubDate>
-      <dc:date>2018-03-19T16:55:51.969968+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 17:52:32 +0200</pubDate>
+      <dc:date>2018-03-25T17:52:32.604166+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 18–24 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-24-ResearchAffairs.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.3–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 23.4–28.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.3–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 23.4–28.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-24-ResearchAffairs.png"
-        length="197130"
+        length="197426"
         type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 16:55:51 +0100</pubDate>
-      <dc:date>2018-03-19T16:55:51.969968+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 17:52:32 +0200</pubDate>
+      <dc:date>2018-03-25T17:52:32.604166+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 15–19 January 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-19-UniqueResearch.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-19-UniqueResearch-seats.png"
-        length="178970"
+        length="179393"
         type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 12:05:21 +0100</pubDate>
-      <dc:date>2018-03-19T12:05:21.922799+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 17:31:23 +0200</pubDate>
+      <dc:date>2018-03-25T17:31:23.665207+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 15–19 January 2018 – Seat Projections for a Selection of Coalitions</title>
@@ -266,109 +126,49 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-19-UniqueResearch-coalitions-seats.png"
         length="116449"
         type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 12:05:21 +0100</pubDate>
-      <dc:date>2018-03-19T12:05:21.922799+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 17:31:23 +0200</pubDate>
+      <dc:date>2018-03-25T17:31:23.665207+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 15–19 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-19-UniqueResearch.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.0–38.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.3–31.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.4–29.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.2–8.4%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 1.8–4.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.6–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.0–38.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.3–31.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.4–29.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.2–8.4%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.8–4.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.6–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-19-UniqueResearch.png"
-        length="207326"
+        length="207631"
         type="image/png"/>
-      <pubDate>Mon, 19 Mar 2018 12:05:21 +0100</pubDate>
-      <dc:date>2018-03-19T12:05:21.922799+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 4–10 January 2018 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-10-ResearchAffairs.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 5–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-10-ResearchAffairs-seats.png"
-        length="160240"
-        type="image/png"/>
-      <pubDate>Fri, 23 Mar 2018 18:53:38 +0100</pubDate>
-      <dc:date>2018-03-23T18:53:38.958982+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 4–10 January 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-10-ResearchAffairs.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-10-ResearchAffairs-coalitions-seats.png"
-        length="97332"
-        type="image/png"/>
-      <pubDate>Fri, 23 Mar 2018 18:53:38 +0100</pubDate>
-      <dc:date>2018-03-23T18:53:38.958982+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 17:31:23 +0200</pubDate>
+      <dc:date>2018-03-25T17:31:23.665207+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 4–10 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-10-ResearchAffairs.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.3–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 24.3–29.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.3–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 24.3–29.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-01-10-ResearchAffairs.png"
-        length="190552"
+        length="190849"
         type="image/png"/>
-      <pubDate>Fri, 23 Mar 2018 18:53:38 +0100</pubDate>
-      <dc:date>2018-03-23T18:53:38.958982+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peter Hajek for ATV, 18–21 December 2017 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-21-PeterHajek.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 5–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-21-PeterHajek-seats.png"
-        length="179310"
-        type="image/png"/>
-      <pubDate>Thu, 22 Mar 2018 21:47:35 +0100</pubDate>
-      <dc:date>2018-03-22T21:47:35.417293+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peter Hajek for ATV, 18–21 December 2017 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-21-PeterHajek.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-21-PeterHajek-coalitions-seats.png"
-        length="110587"
-        type="image/png"/>
-      <pubDate>Thu, 22 Mar 2018 21:47:35 +0100</pubDate>
-      <dc:date>2018-03-22T21:47:35.417293+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 16:51:32 +0200</pubDate>
+      <dc:date>2018-03-25T16:51:32.500345+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 18–21 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-21-PeterHajek.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 27.7–34.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.8–31.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 22.9–29.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.5–8.0%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 1.2–3.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.6–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 27.7–34.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.8–31.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 22.9–29.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.5–8.0%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.2–3.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.6–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-21-PeterHajek.png"
-        length="204740"
+        length="205044"
         type="image/png"/>
-      <pubDate>Thu, 22 Mar 2018 21:47:35 +0100</pubDate>
-      <dc:date>2018-03-22T21:47:35.417293+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by market for Der Standard, 18–20 December 2017 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-20-market.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 5–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-20-market-seats.png"
-        length="157001"
-        type="image/png"/>
-      <pubDate>Fri, 23 Mar 2018 10:55:55 +0100</pubDate>
-      <dc:date>2018-03-23T10:55:55.012834+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by market for Der Standard, 18–20 December 2017 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-20-market.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-20-market-coalitions-seats.png"
-        length="95099"
-        type="image/png"/>
-      <pubDate>Fri, 23 Mar 2018 10:55:55 +0100</pubDate>
-      <dc:date>2018-03-23T10:55:55.012834+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 16:58:17 +0200</pubDate>
+      <dc:date>2018-03-25T16:58:17.915282+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by market for Der Standard, 18–20 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-20-market.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.0–30.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 23.1–29.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.6–7.9%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (—): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.9–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.0–30.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 23.1–29.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.6–7.9%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.9–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2017-12-20-market.png"
-        length="198537"
+        length="198827"
         type="image/png"/>
-      <pubDate>Fri, 23 Mar 2018 10:55:55 +0100</pubDate>
-      <dc:date>2018-03-23T10:55:55.012834+01:00</dc:date>
+      <pubDate>Sun, 25 Mar 2018 17:05:23 +0200</pubDate>
+      <dc:date>2018-03-25T17:05:23.851122+02:00</dc:date>
     </item>
-    <dc:date>2018-03-24T15:44:19.274112+01:00</dc:date>
+    <dc:date>2018-03-25T17:52:32.604166+02:00</dc:date>
   </channel>
 </rss>
