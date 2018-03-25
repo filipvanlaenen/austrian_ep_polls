@@ -15,7 +15,7 @@
 | Freiheitliche Partei Österreichs (ENF) | 19.7% | 25.0% | 22.6–27.6% |22.0–28.3% |21.4–29.0% |20.3–30.3% |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 8.1% | 6.0% | 4.8–7.6% |4.5–8.0% |4.2–8.4% |3.7–9.3% |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) | 14.5% | 4.0% | 3.1–5.4% |2.8–5.8% |2.6–6.1% |2.2–6.8% |
-| Liste Peter Pilz (—) | 0.0% | 3.0% | 2.2–4.2% |2.0–4.6% |1.8–4.9% |1.5–5.5% |
+| Liste Peter Pilz (*) | 0.0% | 3.0% | 2.2–4.2% |2.0–4.6% |1.8–4.9% |1.5–5.5% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -32,7 +32,7 @@
 | <a href="#freiheitliche-partei-Österreichs-(enf)">Freiheitliche Partei Österreichs (ENF)</a> | 4 | 5 | 4–6 |4–6 |4–6 |4–6 |
 | <a href="#neos–das-neue-Österreich-und-liberales-forum-(alde)">NEOS–Das Neue Österreich und Liberales Forum (ALDE)</a> | 1 | 1 | 1 |1 |0–1 |0–2 |
 | <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 3 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#liste-peter-pilz-(—)">Liste Peter Pilz (—)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
+| <a href="#liste-peter-pilz-(*)">Liste Peter Pilz (*)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
 
 ### Österreichische Volkspartei (EPP)
 
@@ -103,11 +103,11 @@
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
-### Liste Peter Pilz (—)
+### Liste Peter Pilz (*)
 
-*For a full overview of the results for this party, see the [Liste Peter Pilz (—)](party-listepeterpilz—.html) page.*
+*For a full overview of the results for this party, see the [Liste Peter Pilz (*)](party-listepeterpilz.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-19-UniqueResearch-seats-pmf-listepeterpilz—.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-19-UniqueResearch-seats-pmf-listepeterpilz.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

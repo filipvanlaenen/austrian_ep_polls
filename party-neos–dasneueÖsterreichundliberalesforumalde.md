@@ -50,19 +50,19 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [12–15 March 2018](2018-03-15-UniqueResearch.html) | Unique Research <br> profil | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–15 March 2018](2018-03-15-UniqueResearch.html) | Unique Research <br> profil | 1 | 1 | 1 | 1 | 1–2 |
+| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–7 March 2018](2018-03-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 0–1 |
-| [15–21 February 2018](2018-02-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1–2 |
+| [15–21 February 2018](2018-02-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 1 | 1 | 1 | 1–2 | 1–2 |
-| [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 1 | 1 | 1 | 1 | 1–2 |
 | [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 0–1 |
 | [18–24 January 2018](2018-01-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 0–1 |
 | [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 1 | 1 | 1 | 0–1 | 0–2 |
-| [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 0–1 |
-| [18–21 December 2017](2017-12-21-PeterHajek.html) | Peter Hajek <br> ATV | 1 | 1 | 1 | 0–1 | 0–1 |
-| [18–20 December 2017](2017-12-20-market.html) | market <br> Der Standard | 1 | 1 | 1 | 1 | 0–1 |
+| [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–21 December 2017](2017-12-21-PeterHajek.html) | Peter Hajek <br> ATV | 1 | 1 | 1 | 1 | 0–1 |
+| [18–20 December 2017](2017-12-20-market.html) | market <br> Der Standard | 1 | 1 | 1 | 1 | 1 |
 
 ### Probability Mass Function
 
@@ -72,9 +72,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 93% | 99.7% | Last Result, Median |
-| 2 | 7% | 7% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 85% | 99.8% | Last Result, Median |
+| 2 | 14% | 14% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -15,7 +15,7 @@
 | Freiheitliche Partei Österreichs (ENF) | 19.7% | 26.0% | 24.2–27.8% |23.8–28.3% |23.4–28.8% |22.5–29.7% |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 8.1% | 6.0% | 5.2–7.1% |4.9–7.4% |4.7–7.7% |4.3–8.2% |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) | 14.5% | 4.0% | 3.3–4.9% |3.1–5.2% |3.0–5.4% |2.7–5.9% |
-| Liste Peter Pilz (—) | 0.0% | 3.0% | 2.4–3.8% |2.3–4.1% |2.1–4.3% |1.9–4.7% |
+| Liste Peter Pilz (*) | 0.0% | 3.0% | 2.4–3.8% |2.3–4.1% |2.1–4.3% |1.9–4.7% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -32,7 +32,7 @@
 | <a href="#freiheitliche-partei-Österreichs-(enf)">Freiheitliche Partei Österreichs (ENF)</a> | 4 | 5 | 5–6 |5–6 |5–6 |5–6 |
 | <a href="#neos–das-neue-Österreich-und-liberales-forum-(alde)">NEOS–Das Neue Österreich und Liberales Forum (ALDE)</a> | 1 | 1 | 1 |1 |1 |0–1 |
 | <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 3 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#liste-peter-pilz-(—)">Liste Peter Pilz (—)</a> | 0 | 0 | 0 |0 |0 |0–1 |
+| <a href="#liste-peter-pilz-(*)">Liste Peter Pilz (*)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 
 ### Österreichische Volkspartei (EPP)
 
@@ -101,11 +101,11 @@
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
-### Liste Peter Pilz (—)
+### Liste Peter Pilz (*)
 
-*For a full overview of the results for this party, see the [Liste Peter Pilz (—)](party-listepeterpilz—.html) page.*
+*For a full overview of the results for this party, see the [Liste Peter Pilz (*)](party-listepeterpilz.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-24-ResearchAffairs-seats-pmf-listepeterpilz—.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-24-ResearchAffairs-seats-pmf-listepeterpilz.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
