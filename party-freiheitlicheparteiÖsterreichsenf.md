@@ -54,11 +54,11 @@ Last result: **4** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [12–15 March 2018](2018-03-15-UniqueResearch.html) | Unique Research <br> profil | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [1–7 March 2018](2018-03-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [15–21 February 2018](2018-02-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| [12–15 March 2018](2018-03-15-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [1–7 March 2018](2018-03-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| [15–21 February 2018](2018-02-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 5 | 5 | 5 | 4–5 | 4–6 |
 | [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 4–6 | 4–6 |
@@ -76,9 +76,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 17% | 100% | Last Result |
-| 5 | 71% | 83% | Median |
-| 6 | 12% | 12% |  |
+| 4 | 9% | 100% | Last Result |
+| 5 | 84% | 91% | Median |
+| 6 | 6% | 6% |  |
 | 7 | 0% | 0% |  |
 
 
