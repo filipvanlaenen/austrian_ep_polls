@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 27.0% <br> 5 | 24.1% <br> 5 | 19.7% <br> 4 | 14.5% <br> 3 | 8.1% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 29–36% <br> 6–8 | 23–32% <br> 5–7 | 20–27% <br> 4–6 | 2–7% <br> 0–1 | 5–10% <br> 1–2 | 1–4% <br> 0–1 | N/A <br> N/A |
-| [19–22 March 2018](2018-03-22-UniqueResearch.html) | Unique Research <br> Heute | 29–35% <br> 6–7 | 27–33% <br> 5–7 | 20–26% <br> 4–5 | 3–6% <br> 0–1 | 6–10% <br> 1 | 1–3% <br> 0 | N/A <br> N/A |
+| [19–22 March 2018](2018-03-22-UniqueResearch.html) | Unique Research <br> Heute | 29–35% <br> 6–8 | 27–33% <br> 5–7 | 20–26% <br> 4–5 | 3–6% <br> 0–1 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [14–21 March 2018](2018-03-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29–35% <br> 6–7 | 25–31% <br> 5–7 | 20–25% <br> 4–5 | 4–6% <br> 0–1 | 5–8% <br> 1 | 2–4% <br> 0–1 | N/A <br> N/A |
 | [19–21 March 2018](2018-03-21-OGM.html) | OGM <br> ServusTV | 28–36% <br> 6–8 | 24–32% <br> 4–6 | 21–28% <br> 4–6 | 3–7% <br> 0–1 | 5–9% <br> 1–2 | 2–5% <br> 0–1 | N/A <br> N/A |
 | [14 February–18 March 2018](2018-03-18-IMAS.html) | IMAS <br> Kronen Zeitung | 30–34% <br> 6–7 | 26–30% <br> 6 | 23–27% <br> 5–6 | 2–4% <br> 0 | 6–8% <br> 1 | 1–3% <br> 0 | N/A <br> N/A |
