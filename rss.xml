@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 02 Apr 2018 14:58:04 +0200</pubDate>
+    <pubDate>Mon, 02 Apr 2018 19:04:05 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 19–22 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-22-UniqueResearch.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-22-UniqueResearch.png"
         length="200135"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 14:41:39 +0200</pubDate>
-      <dc:date>2018-04-02T14:41:39.682274+02:00</dc:date>
+      <pubDate>Mon, 02 Apr 2018 19:04:05 +0200</pubDate>
+      <dc:date>2018-04-02T19:04:05.79509+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 14–21 March 2018 – Voting Intentions</title>
@@ -289,6 +289,6 @@
       <pubDate>Sun, 25 Mar 2018 17:05:23 +0200</pubDate>
       <dc:date>2018-03-25T17:05:23.851122+02:00</dc:date>
     </item>
-    <dc:date>2018-04-02T14:58:04.82551+02:00</dc:date>
+    <dc:date>2018-04-02T19:04:05.79509+02:00</dc:date>
   </channel>
 </rss>
