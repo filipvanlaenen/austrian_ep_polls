@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 03 Apr 2018 06:58:32 +0200</pubDate>
+    <pubDate>Tue, 03 Apr 2018 11:23:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 19–22 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-22-UniqueResearch.html#seats</link>
@@ -40,14 +40,54 @@
       <dc:date>2018-04-03T06:55:30.070089+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 14–21 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-ResearchAffairs-seats.png"
+        length="180107"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 10:29:29 +0200</pubDate>
+      <dc:date>2018-04-03T10:29:29.628272+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 14–21 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-ResearchAffairs-coalitions-seats.png"
+        length="110470"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 10:29:29 +0200</pubDate>
+      <dc:date>2018-04-03T10:29:29.628272+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 14–21 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-ResearchAffairs.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.2–35.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 25.3–30.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 19.6–24.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.6–7.6%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-ResearchAffairs.png"
         length="195042"
         type="image/png"/>
-      <pubDate>Tue, 03 Apr 2018 06:58:32 +0200</pubDate>
-      <dc:date>2018-04-03T06:58:32.893465+02:00</dc:date>
+      <pubDate>Tue, 03 Apr 2018 10:29:29 +0200</pubDate>
+      <dc:date>2018-04-03T10:29:29.628272+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for ServusTV, 19–21 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-OGM-seats.png"
+        length="196928"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 10:45:54 +0200</pubDate>
+      <dc:date>2018-04-03T10:45:54.47342+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for ServusTV, 19–21 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-OGM-coalitions-seats.png"
+        length="128886"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 10:45:54 +0200</pubDate>
+      <dc:date>2018-04-03T10:45:54.47342+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGM for ServusTV, 19–21 March 2018 – Voting Intentions</title>
@@ -56,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-OGM.png"
         length="211799"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 14:50:05 +0200</pubDate>
-      <dc:date>2018-04-02T14:50:05.472106+02:00</dc:date>
+      <pubDate>Tue, 03 Apr 2018 10:45:54 +0200</pubDate>
+      <dc:date>2018-04-03T10:45:54.47342+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Kronen Zeitung, 14 February–18 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-18-IMAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 5–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-18-IMAS-seats.png"
+        length="159375"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 11:03:15 +0200</pubDate>
+      <dc:date>2018-04-03T11:03:15.954441+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Kronen Zeitung, 14 February–18 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-18-IMAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-18-IMAS-coalitions-seats.png"
+        length="95115"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 11:03:15 +0200</pubDate>
+      <dc:date>2018-04-03T11:03:15.954441+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS for Kronen Zeitung, 14 February–18 March 2018 – Voting Intentions</title>
@@ -66,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-18-IMAS.png"
         length="178695"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 14:58:04 +0200</pubDate>
-      <dc:date>2018-04-02T14:58:04.82551+02:00</dc:date>
+      <pubDate>Tue, 03 Apr 2018 11:03:15 +0200</pubDate>
+      <dc:date>2018-04-03T11:03:15.954441+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 12–15 March 2018 – Seat Projections</title>
@@ -190,14 +250,34 @@
       <dc:date>2018-03-26T14:10:49.910921+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 12–20 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek-seats.png"
+        length="192305"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 11:23:57 +0200</pubDate>
+      <dc:date>2018-04-03T11:23:57.912553+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 12–20 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek-coalitions-seats.png"
+        length="121472"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 11:23:57 +0200</pubDate>
+      <dc:date>2018-04-03T11:23:57.912553+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peter Hajek for ATV, 12–20 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.7–37.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 22.1–28.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 22.1–28.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.4–9.1%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.2–3.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.6–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-02-20-PeterHajek.png"
         length="196574"
         type="image/png"/>
-      <pubDate>Sun, 25 Mar 2018 16:17:13 +0200</pubDate>
-      <dc:date>2018-03-25T16:17:13.009315+02:00</dc:date>
+      <pubDate>Tue, 03 Apr 2018 11:23:57 +0200</pubDate>
+      <dc:date>2018-04-03T11:23:57.912553+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 11–16 February 2018 – Voting Intentions</title>
@@ -309,6 +389,6 @@
       <pubDate>Sun, 25 Mar 2018 17:05:23 +0200</pubDate>
       <dc:date>2018-03-25T17:05:23.851122+02:00</dc:date>
     </item>
-    <dc:date>2018-04-03T06:58:32.893465+02:00</dc:date>
+    <dc:date>2018-04-03T11:23:57.912553+02:00</dc:date>
   </channel>
 </rss>
