@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 02 Apr 2018 19:04:05 +0200</pubDate>
+    <pubDate>Tue, 03 Apr 2018 06:58:32 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 19–22 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-22-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-22-UniqueResearch-seats.png"
+        length="181666"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 06:55:30 +0200</pubDate>
+      <dc:date>2018-04-03T06:55:30.070089+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 19–22 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-22-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-22-UniqueResearch-coalitions-seats.png"
+        length="112250"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 06:55:30 +0200</pubDate>
+      <dc:date>2018-04-03T06:55:30.070089+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 19–22 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-22-UniqueResearch.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-22-UniqueResearch.png"
         length="200135"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 19:04:05 +0200</pubDate>
-      <dc:date>2018-04-02T19:04:05.79509+02:00</dc:date>
+      <pubDate>Tue, 03 Apr 2018 06:55:30 +0200</pubDate>
+      <dc:date>2018-04-03T06:55:30.070089+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 14–21 March 2018 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-21-ResearchAffairs.png"
         length="195042"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 14:49:06 +0200</pubDate>
-      <dc:date>2018-04-02T14:49:06.366468+02:00</dc:date>
+      <pubDate>Tue, 03 Apr 2018 06:58:32 +0200</pubDate>
+      <dc:date>2018-04-03T06:58:32.893465+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGM for ServusTV, 19–21 March 2018 – Voting Intentions</title>
@@ -289,6 +309,6 @@
       <pubDate>Sun, 25 Mar 2018 17:05:23 +0200</pubDate>
       <dc:date>2018-03-25T17:05:23.851122+02:00</dc:date>
     </item>
-    <dc:date>2018-04-02T19:04:05.79509+02:00</dc:date>
+    <dc:date>2018-04-03T06:58:32.893465+02:00</dc:date>
   </channel>
 </rss>
