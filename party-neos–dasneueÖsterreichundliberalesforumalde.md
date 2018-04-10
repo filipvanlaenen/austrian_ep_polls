@@ -10,7 +10,8 @@ Last result: **8.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 5.8–8.8% | 5.4–9.3% | 5.1–9.7% | 4.6–10.4% |
+| N/A | [Poll Average](average.html) | 7.2% | 5.8–8.8% | 5.4–9.2% | 5.1–9.6% | 4.6–10.4% |
+| [26–29 March 2018](2018-03-29-market.html) | market <br> Der Standard | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [19–22 March 2018](2018-03-22-UniqueResearch.html) | Unique Research <br> Heute | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [14–21 March 2018](2018-03-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6.0% | 5.1–7.0% | 4.8–7.3% | 4.6–7.6% | 4.3–8.1% |
 | [19–21 March 2018](2018-03-21-OGM.html) | OGM <br> ServusTV | 6.9% | 5.7–8.6% | 5.3–9.1% | 5.0–9.5% | 4.5–10.3% |
@@ -38,7 +39,7 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.4% | 100% |  |
 | 4.5–5.5% | 6% | 99.6% |  |
 | 5.5–6.5% | 21% | 94% |  |
-| 6.5–7.5% | 34% | 73% | Median |
+| 6.5–7.5% | 34% | 72% | Median |
 | 7.5–8.5% | 25% | 38% | Last Result |
 | 8.5–9.5% | 11% | 14% |  |
 | 9.5–10.5% | 3% | 3% |  |
@@ -55,6 +56,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [26–29 March 2018](2018-03-29-market.html) | market <br> Der Standard | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–22 March 2018](2018-03-22-UniqueResearch.html) | Unique Research <br> Heute | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–21 March 2018](2018-03-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 0–1 |
 | [19–21 March 2018](2018-03-21-OGM.html) | OGM <br> ServusTV | 1 | 1 | 1–2 | 1–2 | 0–2 |

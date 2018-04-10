@@ -10,7 +10,8 @@ Last result: **27.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.4% | 30.4–34.9% | 29.7–35.7% | 29.2–36.3% | 28.0–37.6% |
+| N/A | [Poll Average](average.html) | 32.3% | 30.2–34.7% | 29.6–35.5% | 29.0–36.2% | 27.9–37.6% |
+| [26–29 March 2018](2018-03-29-market.html) | market <br> Der Standard | 32.1% | 30.0–34.2% | 29.4–34.8% | 28.9–35.4% | 28.0–36.4% |
 | [19–22 March 2018](2018-03-22-UniqueResearch.html) | Unique Research <br> Heute | 32.0% | 29.9–34.2% | 29.4–34.8% | 28.9–35.3% | 27.9–36.4% |
 | [14–21 March 2018](2018-03-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32.0% | 30.2–34.0% | 29.7–34.5% | 29.2–35.0% | 28.4–35.9% |
 | [19–21 March 2018](2018-03-21-OGM.html) | OGM <br> ServusTV | 32.0% | 29.4–34.7% | 28.7–35.5% | 28.1–36.1% | 26.9–37.4% |
@@ -36,17 +37,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0.2% | 99.9% | Last Result |
-| 27.5–28.5% | 0.9% | 99.7% |  |
-| 28.5–29.5% | 3% | 98.9% |  |
-| 29.5–30.5% | 8% | 96% |  |
-| 30.5–31.5% | 17% | 88% |  |
-| 31.5–32.5% | 23% | 71% | Median |
-| 32.5–33.5% | 20% | 47% |  |
-| 33.5–34.5% | 14% | 27% |  |
-| 34.5–35.5% | 8% | 13% |  |
-| 35.5–36.5% | 4% | 6% |  |
-| 36.5–37.5% | 1.4% | 2% |  |
-| 37.5–38.5% | 0.4% | 0.6% |  |
+| 27.5–28.5% | 1.0% | 99.7% |  |
+| 28.5–29.5% | 3% | 98.7% |  |
+| 29.5–30.5% | 9% | 95% |  |
+| 30.5–31.5% | 18% | 86% |  |
+| 31.5–32.5% | 24% | 68% | Median |
+| 32.5–33.5% | 20% | 44% |  |
+| 33.5–34.5% | 13% | 24% |  |
+| 34.5–35.5% | 7% | 11% |  |
+| 35.5–36.5% | 3% | 5% |  |
+| 36.5–37.5% | 1.2% | 2% |  |
+| 37.5–38.5% | 0.4% | 0.5% |  |
 | 38.5–39.5% | 0.1% | 0.1% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
@@ -60,6 +61,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [26–29 March 2018](2018-03-29-market.html) | market <br> Der Standard | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [19–22 March 2018](2018-03-22-UniqueResearch.html) | Unique Research <br> Heute | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [14–21 March 2018](2018-03-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [19–21 March 2018](2018-03-21-OGM.html) | OGM <br> ServusTV | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
@@ -86,9 +88,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% | Last Result |
-| 6 | 23% | 99.8% |  |
-| 7 | 72% | 76% | Median |
-| 8 | 5% | 5% |  |
+| 6 | 26% | 99.8% |  |
+| 7 | 69% | 73% | Median |
+| 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
 
