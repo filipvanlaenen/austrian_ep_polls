@@ -61,7 +61,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [26–29 March 2018](2018-03-29-market.html) | market <br> Der Standard | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [26–29 March 2018](2018-03-29-market.html) | market <br> Der Standard | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [19–22 March 2018](2018-03-22-UniqueResearch.html) | Unique Research <br> Heute | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [14–21 March 2018](2018-03-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [19–21 March 2018](2018-03-21-OGM.html) | OGM <br> ServusTV | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -75,7 +75,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [18–24 January 2018](2018-01-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [18–21 December 2017](2017-12-21-PeterHajek.html) | Peter Hajek <br> ATV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [18–20 December 2017](2017-12-20-market.html) | market <br> Der Standard | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 

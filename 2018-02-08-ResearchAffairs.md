@@ -43,9 +43,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.4% | 100% | Last Result |
-| 6 | 57% | 99.6% | Median |
-| 7 | 42% | 42% |  |
-| 8 | 0.2% | 0.2% |  |
+| 6 | 55% | 99.6% | Median |
+| 7 | 45% | 45% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -56,9 +56,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.9% | 100% |  |
-| 5 | 69% | 99.1% | Last Result, Median |
-| 6 | 30% | 31% |  |
+| 4 | 0.7% | 100% |  |
+| 5 | 68% | 99.3% | Last Result, Median |
+| 6 | 31% | 31% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -71,8 +71,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 3% | 100% | Last Result |
-| 5 | 80% | 97% | Median |
-| 6 | 17% | 17% |  |
+| 5 | 83% | 97% | Median |
+| 6 | 14% | 14% |  |
 | 7 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
@@ -83,8 +83,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 99.3% | 99.5% | Last Result, Median |
+| 0 | 0.8% | 100% |  |
+| 1 | 99.2% | 99.2% | Last Result, Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -109,8 +109,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Last Result, Median |
-| 1 | 1.2% | 1.2% |  |
+| 0 | 98.9% | 100% | Last Result, Median |
+| 1 | 1.1% | 1.1% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -133,18 +133,18 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.4% | 100% | Last Result |
-| 6 | 57% | 99.6% | Median |
-| 7 | 42% | 42% |  |
-| 8 | 0.2% | 0.2% |  |
+| 6 | 55% | 99.6% | Median |
+| 7 | 45% | 45% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.9% | 100% |  |
-| 5 | 69% | 99.1% | Last Result, Median |
-| 6 | 30% | 31% |  |
+| 4 | 0.7% | 100% |  |
+| 5 | 68% | 99.3% | Last Result, Median |
+| 6 | 31% | 31% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -153,16 +153,16 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 3% | 100% | Last Result |
-| 5 | 80% | 97% | Median |
-| 6 | 17% | 17% |  |
+| 5 | 83% | 97% | Median |
+| 6 | 14% | 14% |  |
 | 7 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 99.3% | 99.5% | Last Result, Median |
+| 0 | 0.8% | 100% |  |
+| 1 | 99.2% | 99.2% | Last Result, Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -187,6 +187,6 @@
 ### Calculations
 
 + **Sample size:** 1001
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.23%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.66%
 
