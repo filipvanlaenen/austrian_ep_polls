@@ -79,7 +79,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [18–21 December 2017](2017-12-21-PeterHajek.html) | Peter Hajek <br> ATV | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [18–20 December 2017](2017-12-20-market.html) | market <br> Der Standard | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [18–20 December 2017](2017-12-20-market.html) | market <br> Der Standard | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 
 ### Probability Mass Function
 
