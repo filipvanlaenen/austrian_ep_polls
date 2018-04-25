@@ -65,7 +65,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–18 April 2018](2018-04-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–13 April 2018](2018-04-13-UniqueResearch.html) | Unique Research <br> profil | 1 | 1 | 1 | 0–1 | 0–2 |
+| [8–13 April 2018](2018-04-13-UniqueResearch.html) | Unique Research <br> profil | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [29 March–4 April 2018](2018-04-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–29 March 2018](2018-03-29-market.html) | market <br> Der Standard | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–22 March 2018](2018-03-22-UniqueResearch.html) | Unique Research <br> Heute | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -95,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 41% | 100% |  |
 | 1 | 59% | 59% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% | Last Result |
 
 
