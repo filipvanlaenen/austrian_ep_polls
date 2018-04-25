@@ -197,7 +197,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% | Last Result |
 | 6 | 25% | 99.8% |  |
-| 7 | 70% | 75% | Median |
+| 7 | 70% | 74% | Median |
 | 8 | 5% | 5% |  |
 | 9 | 0% | 0% |  |
 
@@ -210,8 +210,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 1.2% | 100% |  |
-| 5 | 41% | 98.8% | Last Result |
-| 6 | 56% | 58% | Median |
+| 5 | 40% | 98.8% | Last Result |
+| 6 | 57% | 59% | Median |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
@@ -224,7 +224,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 11% | 100% | Last Result |
-| 5 | 80% | 89% | Median |
+| 5 | 81% | 89% | Median |
 | 6 | 8% | 8% |  |
 | 7 | 0% | 0% |  |
 
@@ -238,7 +238,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 41% | 100% |  |
 | 1 | 59% | 59% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
@@ -249,8 +249,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 94% | 99.2% | Last Result, Median |
+| 0 | 0.9% | 100% |  |
+| 1 | 94% | 99.1% | Last Result, Median |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
@@ -288,7 +288,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% | Last Result |
 | 6 | 25% | 99.8% |  |
-| 7 | 70% | 75% | Median |
+| 7 | 70% | 74% | Median |
 | 8 | 5% | 5% |  |
 | 9 | 0% | 0% |  |
 
@@ -297,8 +297,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 1.2% | 100% |  |
-| 5 | 41% | 98.8% | Last Result |
-| 6 | 56% | 58% | Median |
+| 5 | 40% | 98.8% | Last Result |
+| 6 | 57% | 59% | Median |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
@@ -307,7 +307,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 11% | 100% | Last Result |
-| 5 | 80% | 89% | Median |
+| 5 | 81% | 89% | Median |
 | 6 | 8% | 8% |  |
 | 7 | 0% | 0% |  |
 
@@ -315,8 +315,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 94% | 99.2% | Last Result, Median |
+| 0 | 0.9% | 100% |  |
+| 1 | 94% | 99.1% | Last Result, Median |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
@@ -326,7 +326,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 41% | 100% |  |
 | 1 | 59% | 59% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Liste Peter Pilz (*) – Meine Stimme Gilt! (*)
