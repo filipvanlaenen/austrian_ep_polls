@@ -66,7 +66,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [19–25 April 2018](2018-04-25-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [19–25 April 2018](2018-04-25-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [12–18 April 2018](2018-04-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [8–13 April 2018](2018-04-13-UniqueResearch.html) | Unique Research <br> profil | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [29 March–4 April 2018](2018-04-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -97,8 +97,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% | Last Result |
-| 6 | 28% | 99.8% |  |
-| 7 | 68% | 72% | Median |
+| 6 | 27% | 99.8% |  |
+| 7 | 69% | 72% | Median |
 | 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
