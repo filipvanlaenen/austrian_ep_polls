@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 25 Apr 2018 16:41:02 +0200</pubDate>
+    <pubDate>Tue, 01 May 2018 10:04:13 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 19–25 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-04-25-PeterHajek.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.6–36.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 22.9–29.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 22.9–29.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 6.2–10.3%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.2–3.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.8–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-04-25-PeterHajek.png"
+        length="211273"
+        type="image/png"/>
+      <pubDate>Tue, 01 May 2018 10:04:13 +0200</pubDate>
+      <dc:date>2018-05-01T10:04:13.512609+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 12–18 April 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-04-18-ResearchAffairs.html#seats</link>
@@ -609,6 +619,6 @@
       <pubDate>Fri, 13 Apr 2018 11:20:22 +0200</pubDate>
       <dc:date>2018-04-13T11:20:22.421464+02:00</dc:date>
     </item>
-    <dc:date>2018-04-25T16:41:02.204887+02:00</dc:date>
+    <dc:date>2018-05-01T10:04:13.512609+02:00</dc:date>
   </channel>
 </rss>
