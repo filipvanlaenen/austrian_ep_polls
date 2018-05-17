@@ -11,6 +11,7 @@ Last result: **14.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.5% | 3.0–6.3% | 2.8–6.9% | 2.6–7.4% | 2.3–8.4% |
+| [26 April–2 May 2018](2018-05-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [19–25 April 2018](2018-04-25-PeterHajek.html) | Peter Hajek <br> ATV | 4.0% | 3.2–5.1% | 3.0–5.4% | 2.8–5.7% | 2.4–6.3% |
 | [12–18 April 2018](2018-04-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.4–7.0% |
 | [8–13 April 2018](2018-04-13-UniqueResearch.html) | Unique Research <br> profil | 6.0% | 4.8–7.6% | 4.5–8.0% | 4.2–8.4% | 3.7–9.3% |
@@ -65,6 +66,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26 April–2 May 2018](2018-05-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–25 April 2018](2018-04-25-PeterHajek.html) | Peter Hajek <br> ATV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–18 April 2018](2018-04-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–13 April 2018](2018-04-13-UniqueResearch.html) | Unique Research <br> profil | 1 | 1 | 0–1 | 0–1 | 0–2 |

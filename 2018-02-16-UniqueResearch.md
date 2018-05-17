@@ -27,18 +27,18 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#Österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 5 | 7 | 6–7 |6–8 |6–8 |6–8 |
-| <a href="#sozialdemokratische-partei-Österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 5 | 5–6 |4–6 |4–6 |4–6 |
-| <a href="#freiheitliche-partei-Österreichs-(enf)">Freiheitliche Partei Österreichs (ENF)</a> | 4 | 5 | 5–6 |5–6 |4–6 |4–6 |
-| <a href="#neos–das-neue-Österreich-und-liberales-forum-(alde)">NEOS–Das Neue Österreich und Liberales Forum (ALDE)</a> | 1 | 1 | 1 |1–2 |1–2 |0–2 |
+| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 5 | 7 | 6–7 |6–8 |6–8 |6–8 |
+| <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 5 | 5–6 |4–6 |4–6 |4–6 |
+| <a href="#freiheitliche-partei-österreichs-(enf)">Freiheitliche Partei Österreichs (ENF)</a> | 4 | 5 | 5–6 |5–6 |4–6 |4–6 |
+| <a href="#neos–das-neue-österreich-und-liberales-forum-(alde)">NEOS–Das Neue Österreich und Liberales Forum (ALDE)</a> | 1 | 1 | 1 |1–2 |1–2 |0–2 |
 | <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 3 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#liste-peter-pilz-(*)">Liste Peter Pilz (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Österreichische Volkspartei (EPP)
 
-*For a full overview of the results for this party, see the [Österreichische Volkspartei (EPP)](party-Österreichischevolksparteiepp.html) page.*
+*For a full overview of the results for this party, see the [Österreichische Volkspartei (EPP)](party-österreichischevolksparteiepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-02-16-UniqueResearch-seats-pmf-Österreichischevolksparteiepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-02-16-UniqueResearch-seats-pmf-österreichischevolksparteiepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -50,9 +50,9 @@
 
 ### Sozialdemokratische Partei Österreichs (S&D)
 
-*For a full overview of the results for this party, see the [Sozialdemokratische Partei Österreichs (S&D)](party-sozialdemokratischeparteiÖsterreichssd.html) page.*
+*For a full overview of the results for this party, see the [Sozialdemokratische Partei Österreichs (S&D)](party-sozialdemokratischeparteiösterreichssd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-02-16-UniqueResearch-seats-pmf-sozialdemokratischeparteiÖsterreichssd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-02-16-UniqueResearch-seats-pmf-sozialdemokratischeparteiösterreichssd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -64,9 +64,9 @@
 
 ### Freiheitliche Partei Österreichs (ENF)
 
-*For a full overview of the results for this party, see the [Freiheitliche Partei Österreichs (ENF)](party-freiheitlicheparteiÖsterreichsenf.html) page.*
+*For a full overview of the results for this party, see the [Freiheitliche Partei Österreichs (ENF)](party-freiheitlicheparteiösterreichsenf.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-02-16-UniqueResearch-seats-pmf-freiheitlicheparteiÖsterreichsenf.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-02-16-UniqueResearch-seats-pmf-freiheitlicheparteiösterreichsenf.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -78,9 +78,9 @@
 
 ### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
 
-*For a full overview of the results for this party, see the [NEOS–Das Neue Österreich und Liberales Forum (ALDE)](party-neos–dasneueÖsterreichundliberalesforumalde.html) page.*
+*For a full overview of the results for this party, see the [NEOS–Das Neue Österreich und Liberales Forum (ALDE)](party-neos–dasneueösterreichundliberalesforumalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-02-16-UniqueResearch-seats-pmf-neos–dasneueÖsterreichundliberalesforumalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-02-16-UniqueResearch-seats-pmf-neos–dasneueösterreichundliberalesforumalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
