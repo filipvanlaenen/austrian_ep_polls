@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 03 Jun 2018 20:23:47 +0200</pubDate>
+    <pubDate>Mon, 04 Jun 2018 17:47:30 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 24–30 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-05-30-ResearchAffairs.html</link>
@@ -28,6 +28,26 @@
         type="image/png"/>
       <pubDate>Sun, 03 Jun 2018 20:23:47 +0200</pubDate>
       <dc:date>2018-06-03T20:23:47.733032+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 10–16 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-05-16-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.2–35.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.3–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 20.5–25.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 4.6–7.6%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-05-16-ResearchAffairs.png"
+        length="204407"
+        type="image/png"/>
+      <pubDate>Sun, 03 Jun 2018 21:05:00 +0200</pubDate>
+      <dc:date>2018-06-03T21:05:00.65305+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Kronen Zeitung, 18 April–9 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-05-09-IMAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.8–35.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 25.0–30.6%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 23.1–28.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-05-09-IMAS.png"
+        length="200210"
+        type="image/png"/>
+      <pubDate>Mon, 04 Jun 2018 17:47:30 +0200</pubDate>
+      <dc:date>2018-06-04T17:47:30.113858+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 26 April–2 May 2018 – Seat Projections for the Parties</title>
@@ -689,6 +709,6 @@
       <pubDate>Fri, 13 Apr 2018 11:20:22 +0200</pubDate>
       <dc:date>2018-04-13T11:20:22.421464+02:00</dc:date>
     </item>
-    <dc:date>2018-06-03T20:23:47.733032+02:00</dc:date>
+    <dc:date>2018-06-04T17:47:30.113858+02:00</dc:date>
   </channel>
 </rss>
