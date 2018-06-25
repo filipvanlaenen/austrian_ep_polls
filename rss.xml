@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Jun 2018 19:00:40 +0200</pubDate>
+    <pubDate>Mon, 25 Jun 2018 20:28:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 18–21 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-21-UniqueResearch.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-21-UniqueResearch.png"
         length="208346"
         type="image/png"/>
-      <pubDate>Sat, 23 Jun 2018 17:51:29 +0200</pubDate>
-      <dc:date>2018-06-23T17:51:29.154852+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 18:15:26 +0200</pubDate>
+      <dc:date>2018-06-25T18:15:26.695894+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by market for Der Standard, 12–15 June 2018 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-15-market.png"
         length="203291"
         type="image/png"/>
-      <pubDate>Sat, 23 Jun 2018 18:02:43 +0200</pubDate>
-      <dc:date>2018-06-23T18:02:43.292885+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 20:28:12 +0200</pubDate>
+      <dc:date>2018-06-25T20:28:12.979542+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 7–13 June 2018 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-13-ResearchAffairs.png"
         length="201166"
         type="image/png"/>
-      <pubDate>Sat, 23 Jun 2018 18:25:45 +0200</pubDate>
-      <dc:date>2018-06-23T18:25:45.328239+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 18:13:02 +0200</pubDate>
+      <dc:date>2018-06-25T18:13:02.943738+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 4–11 June 2018 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-11-PeterHajek.png"
         length="207555"
         type="image/png"/>
-      <pubDate>Sat, 23 Jun 2018 18:48:43 +0200</pubDate>
-      <dc:date>2018-06-23T18:48:43.95602+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 17:40:34 +0200</pubDate>
+      <dc:date>2018-06-25T17:40:34.219049+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 4–6 June 2018 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-06-UniqueResearch.png"
         length="206644"
         type="image/png"/>
-      <pubDate>Sat, 23 Jun 2018 19:00:40 +0200</pubDate>
-      <dc:date>2018-06-23T19:00:40.179901+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 17:42:59 +0200</pubDate>
+      <dc:date>2018-06-25T17:42:59.055215+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 24–30 May 2018 – Seat Projections for the Parties</title>
@@ -839,6 +839,6 @@
       <pubDate>Fri, 13 Apr 2018 11:20:22 +0200</pubDate>
       <dc:date>2018-04-13T11:20:22.421464+02:00</dc:date>
     </item>
-    <dc:date>2018-06-23T19:00:40.179901+02:00</dc:date>
+    <dc:date>2018-06-25T20:28:12.979542+02:00</dc:date>
   </channel>
 </rss>
