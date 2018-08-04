@@ -87,7 +87,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
-| [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [6–29 June 2018](2018-06-29-Spectra.html) | Spectra <br> OÖNachrichten | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [26–28 June 2018](2018-06-28-OGM.html) | OGM <br> ServusTV | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -136,8 +136,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 17% | 100% |  |
-| 7 | 72% | 83% | Median |
+| 6 | 16% | 100% |  |
+| 7 | 73% | 84% | Median |
 | 8 | 11% | 11% |  |
 | 9 | 0% | 0% |  |
 

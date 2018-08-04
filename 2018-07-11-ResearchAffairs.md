@@ -27,7 +27,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 5 | 7 | 6–7 |6–7 |6–8 |6–8 |
+| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 5 | 7 | 6–7 |6–8 |6–8 |6–8 |
 | <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 5 | 5–6 |5–6 |5–6 |5–6 |
 | <a href="#freiheitliche-partei-österreichs-(enf)">Freiheitliche Partei Österreichs (ENF)</a> | 4 | 5 | 5 |4–5 |4–6 |4–6 |
 | <a href="#neos–das-neue-österreich-und-liberales-forum-(alde)">NEOS–Das Neue Österreich und Liberales Forum (ALDE)</a> | 1 | 1 | 1 |1 |1 |1–2 |
@@ -43,8 +43,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 13% | 100% |  |
-| 7 | 82% | 87% | Median |
+| 6 | 12% | 100% |  |
+| 7 | 82% | 88% | Median |
 | 8 | 5% | 5% |  |
 | 9 | 0% | 0% |  |
 
@@ -56,11 +56,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.4% | 100% |  |
-| 5 | 72% | 99.6% | Last Result, Median |
+| 4 | 0.3% | 100% |  |
+| 5 | 71% | 99.7% | Last Result, Median |
 | 6 | 28% | 28% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ENF)
 
@@ -70,8 +69,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 9% | 100% | Last Result |
-| 5 | 87% | 91% | Median |
+| 4 | 10% | 100% | Last Result |
+| 5 | 86% | 90% | Median |
 | 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
@@ -95,8 +94,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 84% | 84% | Median |
+| 0 | 18% | 100% |  |
+| 1 | 82% | 82% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -119,7 +118,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Österreichische Volkspartei (EPP) | 5 | 7 | 0% | 6–7 | 6–7 | 6–8 | 6–8 |
+| Österreichische Volkspartei (EPP) | 5 | 7 | 0% | 6–7 | 6–8 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs (S&D) | 5 | 5 | 0% | 5–6 | 5–6 | 5–6 | 5–6 |
 | Freiheitliche Partei Österreichs (ENF) | 4 | 5 | 0% | 5 | 4–5 | 4–6 | 4–6 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 1 | 1 | 0% | 1 | 1 | 1 | 1–2 |
@@ -130,8 +129,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 13% | 100% |  |
-| 7 | 82% | 87% | Median |
+| 6 | 12% | 100% |  |
+| 7 | 82% | 88% | Median |
 | 8 | 5% | 5% |  |
 | 9 | 0% | 0% |  |
 
@@ -139,18 +138,17 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.4% | 100% |  |
-| 5 | 72% | 99.6% | Last Result, Median |
+| 4 | 0.3% | 100% |  |
+| 5 | 71% | 99.7% | Last Result, Median |
 | 6 | 28% | 28% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ENF)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 9% | 100% | Last Result |
-| 5 | 87% | 91% | Median |
+| 4 | 10% | 100% | Last Result |
+| 5 | 86% | 90% | Median |
 | 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
@@ -166,8 +164,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 84% | 84% | Median |
+| 0 | 18% | 100% |  |
+| 1 | 82% | 82% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -183,6 +181,6 @@
 ### Calculations
 
 + **Sample size:** 1008
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.94%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.88%
 
