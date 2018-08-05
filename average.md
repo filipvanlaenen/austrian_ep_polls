@@ -215,7 +215,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.7% | 100% |  |
 | 5 | 49% | 99.3% | Last Result |
-| 6 | 48% | 50% | Median |
+| 6 | 49% | 51% | Median |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
@@ -227,8 +227,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 7% | 100% | Last Result |
-| 5 | 74% | 93% | Median |
+| 4 | 8% | 100% | Last Result |
+| 5 | 73% | 92% | Median |
 | 6 | 18% | 19% |  |
 | 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
@@ -303,7 +303,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.7% | 100% |  |
 | 5 | 49% | 99.3% | Last Result |
-| 6 | 48% | 50% | Median |
+| 6 | 49% | 51% | Median |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
@@ -311,8 +311,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 7% | 100% | Last Result |
-| 5 | 74% | 93% | Median |
+| 4 | 8% | 100% | Last Result |
+| 5 | 73% | 92% | Median |
 | 6 | 18% | 19% |  |
 | 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
