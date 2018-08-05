@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Aug 2018 16:37:35 +0200</pubDate>
+    <pubDate>Sun, 05 Aug 2018 19:39:34 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 19–25 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-07-25-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-07-25-ResearchAffairs-seats.png"
+        length="186069"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 19:27:54 +0200</pubDate>
+      <dc:date>2018-08-05T19:27:54.698569+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 19–25 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-07-25-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-07-25-ResearchAffairs-coalitions-seats.png"
+        length="116585"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 19:27:54 +0200</pubDate>
+      <dc:date>2018-08-05T19:27:54.698569+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 19–25 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-07-25-ResearchAffairs.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-07-25-ResearchAffairs.png"
         length="201242"
         type="image/png"/>
-      <pubDate>Fri, 03 Aug 2018 17:51:54 +0200</pubDate>
-      <dc:date>2018-08-03T17:51:54.536453+02:00</dc:date>
+      <pubDate>Sun, 05 Aug 2018 19:27:54 +0200</pubDate>
+      <dc:date>2018-08-05T19:27:54.698569+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 9–13 July 2018 – Voting Intentions</title>
@@ -280,14 +300,34 @@
       <dc:date>2018-06-27T16:39:10.801617+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Spectra for OÖNachrichten, 9 May–5 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-05-Spectra.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 5–7 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-05-Spectra-seats.png"
+        length="191344"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 17:15:10 +0200</pubDate>
+      <dc:date>2018-08-05T17:15:10.917735+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spectra for OÖNachrichten, 9 May–5 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-05-Spectra.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-05-Spectra-coalitions-seats.png"
+        length="125577"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 17:15:10 +0200</pubDate>
+      <dc:date>2018-08-05T17:15:10.917735+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Spectra for OÖNachrichten, 9 May–5 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-05-Spectra.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.7–36.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.9–30.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 24.9–31.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 2.8–5.6%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 2.8–5.6%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.0–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-06-05-Spectra.png"
         length="211514"
         type="image/png"/>
-      <pubDate>Fri, 03 Aug 2018 18:01:14 +0200</pubDate>
-      <dc:date>2018-08-03T18:01:14.538563+02:00</dc:date>
+      <pubDate>Sun, 05 Aug 2018 17:15:10 +0200</pubDate>
+      <dc:date>2018-08-05T17:15:10.917735+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 24–30 May 2018 – Seat Projections for the Parties</title>
@@ -440,14 +480,34 @@
       <dc:date>2018-05-19T14:01:22.081995+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Spectra for OÖNachrichten, 9–30 April 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-04-30-Spectra.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 5–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-04-30-Spectra-seats.png"
+        length="187623"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 19:39:34 +0200</pubDate>
+      <dc:date>2018-08-05T19:39:34.23042+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spectra for OÖNachrichten, 9–30 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-04-30-Spectra.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-04-30-Spectra-coalitions-seats.png"
+        length="122032"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 19:39:34 +0200</pubDate>
+      <dc:date>2018-08-05T19:39:34.23042+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Spectra for OÖNachrichten, 9–30 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-04-30-Spectra.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.7–37.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.9–31.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 23.9–30.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 3.7–6.8%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 2.9–5.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0.5–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-04-30-Spectra.png"
         length="208536"
         type="image/png"/>
-      <pubDate>Fri, 03 Aug 2018 17:41:26 +0200</pubDate>
-      <dc:date>2018-08-03T17:41:26.696052+02:00</dc:date>
+      <pubDate>Sun, 05 Aug 2018 19:39:34 +0200</pubDate>
+      <dc:date>2018-08-05T19:39:34.23042+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 19–25 April 2018 – Seat Projections for the Parties</title>
@@ -600,14 +660,34 @@
       <dc:date>2018-04-12T15:36:05.251283+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Spectra for OÖNachrichten, 6–26 March 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-26-Spectra.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 5–7 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-26-Spectra-seats.png"
+        length="172995"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 18:01:29 +0200</pubDate>
+      <dc:date>2018-08-05T18:01:29.844359+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spectra for OÖNachrichten, 6–26 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-26-Spectra.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-26-Spectra-coalitions-seats.png"
+        length="111313"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 18:01:29 +0200</pubDate>
+      <dc:date>2018-08-05T18:01:29.844359+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Spectra for OÖNachrichten, 6–26 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-26-Spectra.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 27.7–34.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.9–30.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 25.8–32.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 2.8–5.8%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 4.5–8.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1.2–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-03-26-Spectra.png"
         length="213170"
         type="image/png"/>
-      <pubDate>Fri, 03 Aug 2018 07:01:30 +0200</pubDate>
-      <dc:date>2018-08-03T07:01:30.494066+02:00</dc:date>
+      <pubDate>Sun, 05 Aug 2018 18:01:29 +0200</pubDate>
+      <dc:date>2018-08-05T18:01:29.844359+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 19–22 March 2018 – Seat Projections for the Parties</title>
@@ -1099,6 +1179,6 @@
       <pubDate>Fri, 13 Apr 2018 11:20:22 +0200</pubDate>
       <dc:date>2018-04-13T11:20:22.421464+02:00</dc:date>
     </item>
-    <dc:date>2018-08-04T16:37:35.410648+02:00</dc:date>
+    <dc:date>2018-08-05T19:39:34.23042+02:00</dc:date>
   </channel>
 </rss>
