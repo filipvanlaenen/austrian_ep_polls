@@ -200,8 +200,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 16% | 100% |  |
-| 7 | 73% | 84% | Median |
+| 6 | 17% | 100% |  |
+| 7 | 72% | 83% | Median |
 | 8 | 11% | 11% |  |
 | 9 | 0% | 0% |  |
 
@@ -214,7 +214,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.7% | 100% |  |
-| 5 | 49% | 99.3% | Last Result |
+| 5 | 48% | 99.3% | Last Result |
 | 6 | 49% | 51% | Median |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
@@ -227,10 +227,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 8% | 100% | Last Result |
-| 5 | 73% | 92% | Median |
-| 6 | 18% | 19% |  |
-| 7 | 1.0% | 1.0% |  |
+| 4 | 7% | 100% | Last Result |
+| 5 | 73% | 93% | Median |
+| 6 | 19% | 20% |  |
+| 7 | 0.9% | 0.9% |  |
 | 8 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -254,8 +254,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 81% | 84% | Last Result, Median |
+| 0 | 17% | 100% |  |
+| 1 | 80% | 83% | Last Result, Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
@@ -292,8 +292,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 16% | 100% |  |
-| 7 | 73% | 84% | Median |
+| 6 | 17% | 100% |  |
+| 7 | 72% | 83% | Median |
 | 8 | 11% | 11% |  |
 | 9 | 0% | 0% |  |
 
@@ -302,7 +302,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.7% | 100% |  |
-| 5 | 49% | 99.3% | Last Result |
+| 5 | 48% | 99.3% | Last Result |
 | 6 | 49% | 51% | Median |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
@@ -311,18 +311,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 8% | 100% | Last Result |
-| 5 | 73% | 92% | Median |
-| 6 | 18% | 19% |  |
-| 7 | 1.0% | 1.0% |  |
+| 4 | 7% | 100% | Last Result |
+| 5 | 73% | 93% | Median |
+| 6 | 19% | 20% |  |
+| 7 | 0.9% | 0.9% |  |
 | 8 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 81% | 84% | Last Result, Median |
+| 0 | 17% | 100% |  |
+| 1 | 80% | 83% | Last Result, Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
