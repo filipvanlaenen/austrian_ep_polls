@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 08 Aug 2018 21:42:28 +0200</pubDate>
+    <pubDate>Thu, 23 Aug 2018 10:58:42 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 6–10 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-10-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.8–37.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 26.0–32.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 20.2–26.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 3.7–6.8%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.9–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-10-UniqueResearch.png"
+        length="204812"
+        type="image/png"/>
+      <pubDate>Thu, 23 Aug 2018 10:58:42 +0200</pubDate>
+      <dc:date>2018-08-23T10:58:42.436378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 2–8 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-08-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.2–36.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.4–29.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.4–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-08-ResearchAffairs.png"
+        length="201589"
+        type="image/png"/>
+      <pubDate>Thu, 23 Aug 2018 06:45:15 +0200</pubDate>
+      <dc:date>2018-08-23T06:45:15.387126+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 19–25 July 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-07-25-ResearchAffairs.html#seats</link>
@@ -1239,6 +1259,6 @@
       <pubDate>Fri, 13 Apr 2018 11:20:22 +0200</pubDate>
       <dc:date>2018-04-13T11:20:22.421464+02:00</dc:date>
     </item>
-    <dc:date>2018-08-08T21:42:28.583919+02:00</dc:date>
+    <dc:date>2018-08-23T10:58:42.436378+02:00</dc:date>
   </channel>
 </rss>
