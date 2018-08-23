@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | PILZ | GILT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 27.0% <br> 5 | 24.1% <br> 5 | 19.7% <br> 4 | 14.5% <br> 3 | 8.1% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 6–8 | 26–32% <br> 5–7 | 20–26% <br> 4–6 | 3–6% <br> 0–1 | 4–7% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A |
+| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30–36% <br> 6–8 | 24–30% <br> 5–6 | 21–27% <br> 4–6 | 2–4% <br> 0 | 6–9% <br> 1 | 1–3% <br> 0 | N/A <br> N/A |
 | [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30–36% <br> 6–8 | 24–30% <br> 5–6 | 21–27% <br> 4–6 | 3–5% <br> 0–1 | 5–8% <br> 1 | 1–3% <br> 0 | N/A <br> N/A |
 | [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 6–8 | 26–32% <br> 5–7 | 21–27% <br> 4–6 | 3–6% <br> 0–1 | 4–7% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A |
 | [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30–36% <br> 6–8 | 23–29% <br> 5–6 | 21–27% <br> 4–6 | 4–6% <br> 0–1 | 6–9% <br> 1 | 1–3% <br> 0 | N/A <br> N/A |
