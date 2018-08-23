@@ -10,7 +10,9 @@ Last result: **19.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.2% | 22.9–28.0% | 22.4–28.9% | 21.9–29.8% | 20.9–31.2% |
+| N/A | [Poll Average](average.html) | 24.9% | 22.5–28.1% | 21.8–29.1% | 21.3–29.9% | 20.2–31.4% |
+| [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
+| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | 22.3–25.7% | 21.8–26.3% | 21.4–26.7% | 20.6–27.6% |
 | [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | 22.3–25.8% | 21.8–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.5–26.7% | 20.7–27.6% |
@@ -59,20 +61,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.2% | 100% | Last Result |
-| 20.5–21.5% | 1.3% | 99.8% |  |
-| 21.5–22.5% | 5% | 98% |  |
-| 22.5–23.5% | 12% | 93% |  |
-| 23.5–24.5% | 19% | 82% |  |
-| 24.5–25.5% | 21% | 63% | Median |
-| 25.5–26.5% | 17% | 42% |  |
-| 26.5–27.5% | 11% | 24% |  |
-| 27.5–28.5% | 6% | 13% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.1% | 100% |  |
+| 19.5–20.5% | 0.7% | 99.9% | Last Result |
+| 20.5–21.5% | 3% | 99.2% |  |
+| 21.5–22.5% | 7% | 96% |  |
+| 22.5–23.5% | 14% | 89% |  |
+| 23.5–24.5% | 19% | 75% |  |
+| 24.5–25.5% | 19% | 56% | Median |
+| 25.5–26.5% | 14% | 38% |  |
+| 26.5–27.5% | 10% | 23% |  |
+| 27.5–28.5% | 6% | 14% |  |
 | 28.5–29.5% | 4% | 7% |  |
 | 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.8% | 1.1% |  |
-| 31.5–32.5% | 0.3% | 0.3% |  |
+| 30.5–31.5% | 0.9% | 1.3% |  |
+| 31.5–32.5% | 0.3% | 0.4% |  |
 | 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
@@ -86,6 +89,8 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 4–5 | 4–6 | 4–6 |
@@ -136,10 +141,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 7% | 100% | Last Result |
-| 5 | 73% | 93% | Median |
+| 4 | 10% | 100% | Last Result |
+| 5 | 70% | 90% | Median |
 | 6 | 19% | 20% |  |
-| 7 | 0.9% | 0.9% |  |
+| 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 
 
