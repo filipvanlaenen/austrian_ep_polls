@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 23 Aug 2018 10:58:42 +0200</pubDate>
+    <pubDate>Sun, 02 Sep 2018 08:52:58 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 23–29 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-29-PeterHajek.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.6–37.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.8–31.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 20.0–26.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.3–9.1%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 2.0–4.6%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.8–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-29-PeterHajek.png"
+        length="212430"
+        type="image/png"/>
+      <pubDate>Sun, 02 Sep 2018 08:17:50 +0200</pubDate>
+      <dc:date>2018-09-02T08:17:50.267235+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by market for Der Standard, 20–23 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-23-market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 25.0–31.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 20.2–26.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.4–9.0%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 4.6–7.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-23-market.png"
+        length="209768"
+        type="image/png"/>
+      <pubDate>Sun, 02 Sep 2018 08:48:57 +0200</pubDate>
+      <dc:date>2018-09-02T08:48:57.424864+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 16–22 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-22-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.1–36.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 20.5–25.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-22-ResearchAffairs.png"
+        length="203015"
+        type="image/png"/>
+      <pubDate>Sun, 02 Sep 2018 08:52:58 +0200</pubDate>
+      <dc:date>2018-09-02T08:52:58.1819+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 6–10 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-10-UniqueResearch.html</link>
@@ -1259,6 +1289,6 @@
       <pubDate>Fri, 13 Apr 2018 11:20:22 +0200</pubDate>
       <dc:date>2018-04-13T11:20:22.421464+02:00</dc:date>
     </item>
-    <dc:date>2018-08-23T10:58:42.436378+02:00</dc:date>
+    <dc:date>2018-09-02T08:52:58.1819+02:00</dc:date>
   </channel>
 </rss>
