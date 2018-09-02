@@ -10,7 +10,10 @@ Last result: **19.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.9% | 22.5–28.1% | 21.8–29.1% | 21.3–29.9% | 20.2–31.4% |
+| N/A | [Poll Average](average.html) | 23.8% | 21.5–27.9% | 21.0–29.0% | 20.5–29.9% | 19.6–31.3% |
+| [23–29 August 2018](2018-08-29-PeterHajek.html) | Peter Hajek <br> ATV | 23.0% | 21.0–25.1% | 20.5–25.7% | 20.0–26.3% | 19.1–27.3% |
+| [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
+| [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23.0% | 21.3–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
 | [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | 22.3–25.7% | 21.8–26.3% | 21.4–26.7% | 20.6–27.6% |
 | [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | 22.3–25.8% | 21.8–26.3% | 21.4–26.7% | 20.7–27.6% |
@@ -62,16 +65,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.7% | 99.9% | Last Result |
-| 20.5–21.5% | 3% | 99.2% |  |
-| 21.5–22.5% | 7% | 96% |  |
-| 22.5–23.5% | 14% | 89% |  |
-| 23.5–24.5% | 19% | 75% |  |
-| 24.5–25.5% | 19% | 56% | Median |
-| 25.5–26.5% | 14% | 38% |  |
-| 26.5–27.5% | 10% | 23% |  |
-| 27.5–28.5% | 6% | 14% |  |
+| 18.5–19.5% | 0.4% | 99.9% |  |
+| 19.5–20.5% | 2% | 99.5% | Last Result |
+| 20.5–21.5% | 8% | 97% |  |
+| 21.5–22.5% | 15% | 90% |  |
+| 22.5–23.5% | 19% | 75% |  |
+| 23.5–24.5% | 18% | 55% | Median |
+| 24.5–25.5% | 12% | 37% |  |
+| 25.5–26.5% | 8% | 25% |  |
+| 26.5–27.5% | 6% | 17% |  |
+| 27.5–28.5% | 5% | 12% |  |
 | 28.5–29.5% | 4% | 7% |  |
 | 29.5–30.5% | 2% | 3% |  |
 | 30.5–31.5% | 0.9% | 1.3% |  |
@@ -88,7 +91,10 @@ Last result: **4** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [23–29 August 2018](2018-08-29-PeterHajek.html) | Peter Hajek <br> ATV | 5 | 5 | 5 | 5 | 4–6 |
+| [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -141,9 +147,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 10% | 100% | Last Result |
-| 5 | 70% | 90% | Median |
-| 6 | 19% | 20% |  |
+| 4 | 16% | 100% | Last Result |
+| 5 | 66% | 84% | Median |
+| 6 | 17% | 18% |  |
 | 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 
