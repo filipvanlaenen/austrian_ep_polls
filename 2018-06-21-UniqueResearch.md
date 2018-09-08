@@ -130,6 +130,8 @@
 
 ### Österreichische Volkspartei (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-06-21-UniqueResearch-coalitions-seats-pmf-övp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
@@ -139,6 +141,8 @@
 | 9 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-06-21-UniqueResearch-coalitions-seats-pmf-spö.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -150,6 +154,8 @@
 
 ### Freiheitliche Partei Österreichs (ENF)
 
+![Graph with seats probability mass function not yet produced](2018-06-21-UniqueResearch-coalitions-seats-pmf-fpö.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 4% | 100% | Last Result |
@@ -159,6 +165,8 @@
 
 ### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-06-21-UniqueResearch-coalitions-seats-pmf-neos.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
@@ -167,6 +175,8 @@
 | 3 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2018-06-21-UniqueResearch-coalitions-seats-pmf-grüne.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
