@@ -93,7 +93,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [23–29 August 2018](2018-08-29-PeterHajek.html) | Peter Hajek <br> ATV | 5 | 5 | 5 | 5 | 4–6 |
-| [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 4–5 | 4–6 | 4–6 |
@@ -147,9 +147,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 18% | 100% | Last Result |
-| 5 | 66% | 82% | Median |
-| 6 | 14% | 16% |  |
+| 4 | 19% | 100% | Last Result |
+| 5 | 66% | 81% | Median |
+| 6 | 15% | 16% |  |
 | 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 
