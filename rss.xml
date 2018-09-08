@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 02 Sep 2018 08:52:58 +0200</pubDate>
+    <pubDate>Sat, 08 Sep 2018 15:22:15 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 23–29 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-29-PeterHajek.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-22-ResearchAffairs.png"
         length="203015"
         type="image/png"/>
-      <pubDate>Sun, 02 Sep 2018 08:52:58 +0200</pubDate>
-      <dc:date>2018-09-02T08:52:58.1819+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 15:22:15 +0200</pubDate>
+      <dc:date>2018-09-08T15:22:15.840273+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 6–10 August 2018 – Voting Intentions</title>
@@ -1289,6 +1289,6 @@
       <pubDate>Fri, 13 Apr 2018 11:20:22 +0200</pubDate>
       <dc:date>2018-04-13T11:20:22.421464+02:00</dc:date>
     </item>
-    <dc:date>2018-09-02T08:52:58.1819+02:00</dc:date>
+    <dc:date>2018-09-08T15:22:15.840273+02:00</dc:date>
   </channel>
 </rss>
