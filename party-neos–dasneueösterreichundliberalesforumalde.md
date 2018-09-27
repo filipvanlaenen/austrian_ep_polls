@@ -11,6 +11,10 @@ Last result: **8.1%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.3% | 4.1–8.3% | 3.6–8.8% | 3.3–9.2% | 2.8–9.9% |
+| [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.9% | 6.6–9.7% | 6.2–10.2% | 5.9–10.6% | 5.3–11.5% |
+| [10–13 September 2018](2018-09-13-UniqueResearch.html) | Unique Research <br> profil | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.4–9.0% | 5.0–9.6% |
+| [3–6 September 2018](2018-09-06-UniqueResearch.html) | Unique Research <br> Heute | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.4–9.0% | 5.0–9.6% |
+| [30 August–5 September 2018](2018-09-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.1–9.3% |
 | [23–29 August 2018](2018-08-29-PeterHajek.html) | Peter Hajek <br> ATV | 7.0% | 5.9–8.4% | 5.6–8.8% | 5.3–9.1% | 4.8–9.8% |
 | [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.4–9.0% | 5.0–9.6% |
 | [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.5% |
@@ -87,6 +91,10 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–13 September 2018](2018-09-13-UniqueResearch.html) | Unique Research <br> profil | 1 | 1 | 1 | 1 | 1 |
+| [3–6 September 2018](2018-09-06-UniqueResearch.html) | Unique Research <br> Heute | 1 | 1 | 1 | 1 | 1 |
+| [30 August–5 September 2018](2018-09-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1–2 |
 | [23–29 August 2018](2018-08-29-PeterHajek.html) | Peter Hajek <br> ATV | 1 | 1 | 1 | 1–2 | 1–2 |
 | [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 1 | 1 | 1 | 1 | 1–2 |
 | [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
