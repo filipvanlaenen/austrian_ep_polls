@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 28 Sep 2018 06:51:31 +0200</pubDate>
+    <pubDate>Fri, 28 Sep 2018 17:06:11 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 19–20 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-09-20-ResearchAffairs.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2018-09-27T22:41:12.210983+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Unique Research for profil, 10–13 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-09-13-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-09-13-UniqueResearch-seats.png"
+        length="184955"
+        type="image/png"/>
+      <pubDate>Fri, 28 Sep 2018 17:06:11 +0200</pubDate>
+      <dc:date>2018-09-28T17:06:11.842043+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 10–13 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-09-13-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-09-13-UniqueResearch-coalitions-seats.png"
+        length="115684"
+        type="image/png"/>
+      <pubDate>Fri, 28 Sep 2018 17:06:11 +0200</pubDate>
+      <dc:date>2018-09-28T17:06:11.842043+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Unique Research for profil, 10–13 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-09-13-UniqueResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.8–37.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 25.0–31.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 22.1–28.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.4–9.0%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2.9–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-09-13-UniqueResearch.png"
         length="203314"
         type="image/png"/>
-      <pubDate>Fri, 28 Sep 2018 06:51:31 +0200</pubDate>
-      <dc:date>2018-09-28T06:51:31.726107+02:00</dc:date>
+      <pubDate>Fri, 28 Sep 2018 17:06:11 +0200</pubDate>
+      <dc:date>2018-09-28T17:06:11.842043+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 3–6 September 2018 – Voting Intentions</title>
@@ -1429,6 +1449,6 @@
       <pubDate>Fri, 13 Apr 2018 11:20:22 +0200</pubDate>
       <dc:date>2018-04-13T11:20:22.421464+02:00</dc:date>
     </item>
-    <dc:date>2018-09-28T06:51:31.726107+02:00</dc:date>
+    <dc:date>2018-09-28T17:06:11.842043+02:00</dc:date>
   </channel>
 </rss>
