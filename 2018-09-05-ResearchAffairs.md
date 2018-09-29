@@ -43,8 +43,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 7% | 100% |  |
-| 7 | 79% | 93% | Median |
+| 6 | 6% | 100% |  |
+| 7 | 80% | 94% | Median |
 | 8 | 13% | 13% |  |
 | 9 | 0% | 0% |  |
 
@@ -56,9 +56,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 27% | 100% | Last Result |
-| 6 | 71% | 73% | Median |
-| 7 | 2% | 2% |  |
+| 5 | 26% | 100% | Last Result |
+| 6 | 73% | 74% | Median |
+| 7 | 1.4% | 1.4% |  |
 | 8 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ENF)
@@ -69,8 +69,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 18% | 100% | Last Result |
-| 5 | 80% | 82% | Median |
+| 4 | 19% | 100% | Last Result |
+| 5 | 79% | 81% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -94,8 +94,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Last Result, Median |
-| 1 | 1.2% | 1.2% |  |
+| 0 | 98.7% | 100% | Last Result, Median |
+| 1 | 1.3% | 1.3% |  |
 | 2 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -133,8 +133,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 7% | 100% |  |
-| 7 | 79% | 93% | Median |
+| 6 | 6% | 100% |  |
+| 7 | 80% | 94% | Median |
 | 8 | 13% | 13% |  |
 | 9 | 0% | 0% |  |
 
@@ -144,9 +144,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 27% | 100% | Last Result |
-| 6 | 71% | 73% | Median |
-| 7 | 2% | 2% |  |
+| 5 | 26% | 100% | Last Result |
+| 6 | 73% | 74% | Median |
+| 7 | 1.4% | 1.4% |  |
 | 8 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ENF)
@@ -155,8 +155,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 18% | 100% | Last Result |
-| 5 | 80% | 82% | Median |
+| 4 | 19% | 100% | Last Result |
+| 5 | 79% | 81% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -193,6 +193,6 @@
 ### Calculations
 
 + **Sample size:** 1002
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.08%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.61%
 
