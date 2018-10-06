@@ -96,8 +96,8 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [27 September–3 October 2018](2018-10-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 5 | 4–5 | 4–5 |
-| [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [27 September–3 October 2018](2018-10-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [10–13 September 2018](2018-09-13-UniqueResearch.html) | Unique Research <br> profil | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [3–6 September 2018](2018-09-06-UniqueResearch.html) | Unique Research <br> Heute | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -157,9 +157,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 26% | 100% | Last Result |
-| 5 | 66% | 74% | Median |
-| 6 | 8% | 8% |  |
+| 4 | 25% | 100% | Last Result |
+| 5 | 70% | 75% | Median |
+| 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
 
