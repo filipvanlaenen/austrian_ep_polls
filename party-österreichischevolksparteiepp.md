@@ -10,7 +10,11 @@ Last result: **27.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.8% | 31.4–36.2% | 30.8–36.9% | 30.2–37.5% | 29.1–38.8% |
+| N/A | [Poll Average](average.html) | 33.7% | 31.6–35.9% | 31.0–36.5% | 30.5–37.1% | 29.5–38.2% |
+| [11–17 October 2018](2018-10-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
+| [1–13 October 2018](2018-10-13-GfK.html) | GfK <br> Die Presse | 33.0% | 31.5–34.6% | 31.0–35.0% | 30.7–35.4% | 29.9–36.2% |
+| [8–12 October 2018](2018-10-12-UniqueResearch.html) | Unique Research <br> profil | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
+| [9–11 October 2018](2018-10-11-OGM.html) | OGM <br> KURIER | 34.0% | 31.9–36.2% | 31.4–36.9% | 30.8–37.4% | 29.8–38.5% |
 | [27 September–3 October 2018](2018-10-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
 | [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 33.0% | 30.9–35.1% | 30.3–35.8% | 29.8–36.3% | 28.8–37.3% |
 | [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 31.4–36.8% | 30.6–37.6% | 30.0–38.2% | 28.8–39.6% |
@@ -71,20 +75,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 26.5–27.5% | 0% | 100% | Last Result |
-| 27.5–28.5% | 0.2% | 100% |  |
-| 28.5–29.5% | 0.8% | 99.8% |  |
-| 29.5–30.5% | 3% | 99.0% |  |
-| 30.5–31.5% | 8% | 96% |  |
-| 31.5–32.5% | 14% | 89% |  |
-| 32.5–33.5% | 20% | 74% |  |
-| 33.5–34.5% | 21% | 55% | Median |
-| 34.5–35.5% | 16% | 33% |  |
-| 35.5–36.5% | 10% | 17% |  |
-| 36.5–37.5% | 5% | 7% |  |
-| 37.5–38.5% | 2% | 2% |  |
-| 38.5–39.5% | 0.5% | 0.7% |  |
-| 39.5–40.5% | 0.1% | 0.2% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 27.5–28.5% | 0.1% | 100% |  |
+| 28.5–29.5% | 0.4% | 99.9% |  |
+| 29.5–30.5% | 2% | 99.5% |  |
+| 30.5–31.5% | 7% | 97% |  |
+| 31.5–32.5% | 15% | 91% |  |
+| 32.5–33.5% | 23% | 75% |  |
+| 33.5–34.5% | 23% | 53% | Median |
+| 34.5–35.5% | 16% | 30% |  |
+| 35.5–36.5% | 9% | 13% |  |
+| 36.5–37.5% | 3% | 5% |  |
+| 37.5–38.5% | 1.0% | 1.3% |  |
+| 38.5–39.5% | 0.2% | 0.3% |  |
+| 39.5–40.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -96,6 +99,10 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [11–17 October 2018](2018-10-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [1–13 October 2018](2018-10-13-GfK.html) | GfK <br> Die Presse | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [8–12 October 2018](2018-10-12-UniqueResearch.html) | Unique Research <br> profil | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [9–11 October 2018](2018-10-11-OGM.html) | OGM <br> KURIER | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [27 September–3 October 2018](2018-10-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -158,10 +165,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 14% | 100% |  |
-| 7 | 71% | 86% | Median |
-| 8 | 15% | 15% |  |
-| 9 | 0.2% | 0.2% |  |
-| 10 | 0% | 0% | Majority |
+| 6 | 12% | 100% |  |
+| 7 | 75% | 88% | Median |
+| 8 | 13% | 13% |  |
+| 9 | 0% | 0% |  |
 
 
