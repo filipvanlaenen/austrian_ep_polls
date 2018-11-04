@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 03 Nov 2018 21:16:30 +0100</pubDate>
+    <pubDate>Sun, 04 Nov 2018 11:47:43 +0100</pubDate>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 22–31 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-10-31-PeterHajek.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-10-31-PeterHajek.png"
         length="200777"
         type="image/png"/>
-      <pubDate>Sat, 03 Nov 2018 21:12:16 +0100</pubDate>
-      <dc:date>2018-11-03T21:12:16.396241+01:00</dc:date>
+      <pubDate>Sun, 04 Nov 2018 11:43:54 +0100</pubDate>
+      <dc:date>2018-11-04T11:43:54.905034+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 24–30 October 2018 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-10-30-ResearchAffairs.png"
         length="198858"
         type="image/png"/>
-      <pubDate>Sat, 03 Nov 2018 21:16:30 +0100</pubDate>
-      <dc:date>2018-11-03T21:16:30.735077+01:00</dc:date>
+      <pubDate>Sun, 04 Nov 2018 11:47:43 +0100</pubDate>
+      <dc:date>2018-11-04T11:47:43.75629+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 11–17 October 2018 – Seat Projections for the Parties</title>
@@ -1709,6 +1709,6 @@
       <pubDate>Fri, 13 Apr 2018 11:20:22 +0200</pubDate>
       <dc:date>2018-04-13T11:20:22.421464+02:00</dc:date>
     </item>
-    <dc:date>2018-11-03T21:16:30.735077+01:00</dc:date>
+    <dc:date>2018-11-04T11:47:43.75629+01:00</dc:date>
   </channel>
 </rss>
