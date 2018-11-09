@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 04 Nov 2018 17:02:54 +0100</pubDate>
+    <pubDate>Fri, 09 Nov 2018 14:24:09 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 22–31 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-10-31-PeterHajek.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 5–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-10-31-PeterHajek-seats.png"
+        length="148942"
+        type="image/png"/>
+      <pubDate>Fri, 09 Nov 2018 14:24:09 +0100</pubDate>
+      <dc:date>2018-11-09T14:24:09.315753+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 22–31 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-10-31-PeterHajek.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-10-31-PeterHajek-coalitions-seats.png"
+        length="87858"
+        type="image/png"/>
+      <pubDate>Fri, 09 Nov 2018 14:24:09 +0100</pubDate>
+      <dc:date>2018-11-09T14:24:09.315753+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 22–31 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-10-31-PeterHajek.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-10-31-PeterHajek.png"
         length="200777"
         type="image/png"/>
-      <pubDate>Sun, 04 Nov 2018 11:43:54 +0100</pubDate>
-      <dc:date>2018-11-04T11:43:54.905034+01:00</dc:date>
+      <pubDate>Fri, 09 Nov 2018 14:24:09 +0100</pubDate>
+      <dc:date>2018-11-09T14:24:09.315753+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 24–30 October 2018 – Seat Projections for the Parties</title>
@@ -1729,6 +1749,6 @@
       <pubDate>Fri, 13 Apr 2018 11:20:22 +0200</pubDate>
       <dc:date>2018-04-13T11:20:22.421464+02:00</dc:date>
     </item>
-    <dc:date>2018-11-04T17:02:54.890731+01:00</dc:date>
+    <dc:date>2018-11-09T14:24:09.315753+01:00</dc:date>
   </channel>
 </rss>
