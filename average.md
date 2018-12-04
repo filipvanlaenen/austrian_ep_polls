@@ -199,7 +199,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 14% | 100% |  |
 | 7 | 77% | 86% | Median |
-| 8 | 10% | 10% |  |
+| 8 | 9% | 10% |  |
 | 9 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -211,7 +211,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 6% | 100% |  |
-| 5 | 74% | 94% | Last Result, Median |
+| 5 | 73% | 94% | Last Result, Median |
 | 6 | 21% | 21% |  |
 | 7 | 0% | 0% |  |
 
@@ -223,8 +223,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 10% | 100% | Last Result |
-| 5 | 79% | 90% | Median |
+| 4 | 9% | 100% | Last Result |
+| 5 | 79% | 91% | Median |
 | 6 | 12% | 12% |  |
 | 7 | 0% | 0% |  |
 
@@ -236,8 +236,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% |  |
-| 1 | 68% | 68% | Median |
+| 0 | 33% | 100% |  |
+| 1 | 67% | 67% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -291,7 +291,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 14% | 100% |  |
 | 7 | 77% | 86% | Median |
-| 8 | 10% | 10% |  |
+| 8 | 9% | 10% |  |
 | 9 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ENF)
@@ -300,8 +300,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 10% | 100% | Last Result |
-| 5 | 79% | 90% | Median |
+| 4 | 9% | 100% | Last Result |
+| 5 | 79% | 91% | Median |
 | 6 | 12% | 12% |  |
 | 7 | 0% | 0% |  |
 
@@ -312,7 +312,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 6% | 100% |  |
-| 5 | 74% | 94% | Last Result, Median |
+| 5 | 73% | 94% | Last Result, Median |
 | 6 | 21% | 21% |  |
 | 7 | 0% | 0% |  |
 
@@ -333,8 +333,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% |  |
-| 1 | 68% | 68% | Median |
+| 0 | 33% | 100% |  |
+| 1 | 67% | 67% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -353,5 +353,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 7
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,505,024
++ **Total number of simulations done in the polls included in this average:** 6,422,528
 + **Error estimate:** 1.26%
