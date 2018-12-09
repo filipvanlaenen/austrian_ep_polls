@@ -6,8 +6,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 27.0% <br> 5 | 24.1% <br> 5 | 19.7% <br> 4 | 14.5% <br> 3 | 8.1% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 30–37% <br> 6–8 | 22–29% <br> 4–6 | 22–28% <br> 4–6 | 3–7% <br> 0–1 | 5–10% <br> 1–2 | 1–6% <br> 0–1 | N/A <br> N/A |
-| [3–6 December 2018](2018-12-06-UniqueResearch.html) | Unique Research <br> Heute | 30–36% <br> 6–8 | 23–29% <br> 5–6 | 19–25% <br> 4–5 | 5–8% <br> 0–1 | 7–11% <br> 1–2 | 2–4% <br> 0–1 | N/A <br> N/A |
-| [22–28 November 2018](2018-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–6 December 2018](2018-12-06-UniqueResearch.html) | Unique Research <br> Heute | 30–36% <br> 6–8 | 23–29% <br> 5–6 | 19–25% <br> 4–5 | 5–8% <br> 1 | 7–11% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A |
+| [22–28 November 2018](2018-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 6–8 | 22–28% <br> 4–6 | 21–27% <br> 4–5 | 5–8% <br> 1 | 6–9% <br> 1 | 1–3% <br> 0 | N/A <br> N/A |
 | [13–15 November 2018](2018-11-15-market.html) | market <br> Der Standard | 30–36% <br> 6–8 | 23–29% <br> 5–6 | 22–28% <br> 4–6 | 4–7% <br> 0–1 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [22–31 October 2018](2018-10-31-PeterHajek.html) | Peter Hajek <br> ATV | 30–36% <br> 6–7 | 22–28% <br> 5–6 | 22–28% <br> 5–6 | 5–8% <br> 1 | 6–9% <br> 1 | 1–3% <br> 0 | N/A <br> N/A |
 | [9–29 October 2018](2018-10-29-Spectra.html) | Spectra | 30–37% <br> 6–8 | 22–28% <br> 4–6 | 23–29% <br> 4–6 | 3–6% <br> 0–1 | 4–8% <br> 0–1 | 4–7% <br> 0–1 | N/A <br> N/A |
