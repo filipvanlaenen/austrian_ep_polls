@@ -43,9 +43,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 25% | 100% |  |
-| 7 | 67% | 75% | Median |
-| 8 | 8% | 8% |  |
+| 6 | 21% | 100% |  |
+| 7 | 72% | 79% | Median |
+| 8 | 6% | 6% |  |
 | 9 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -57,8 +57,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 68% | 98% | Last Result, Median |
-| 6 | 31% | 31% |  |
+| 5 | 72% | 98% | Last Result, Median |
+| 6 | 27% | 27% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -71,8 +71,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% |  |
-| 4 | 65% | 99.7% | Last Result, Median |
-| 5 | 35% | 35% |  |
+| 4 | 63% | 99.7% | Last Result, Median |
+| 5 | 37% | 37% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -135,9 +135,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 25% | 100% |  |
-| 7 | 67% | 75% | Median |
-| 8 | 8% | 8% |  |
+| 6 | 21% | 100% |  |
+| 7 | 72% | 79% | Median |
+| 8 | 6% | 6% |  |
 | 9 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -147,8 +147,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 68% | 98% | Last Result, Median |
-| 6 | 31% | 31% |  |
+| 5 | 72% | 98% | Last Result, Median |
+| 6 | 27% | 27% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -159,8 +159,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% |  |
-| 4 | 65% | 99.7% | Last Result, Median |
-| 5 | 35% | 35% |  |
+| 4 | 63% | 99.7% | Last Result, Median |
+| 5 | 37% | 37% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -197,6 +197,6 @@
 ### Calculations
 
 + **Sample size:** 800
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.08%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.11%
 
