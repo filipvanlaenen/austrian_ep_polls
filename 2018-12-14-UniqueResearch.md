@@ -43,9 +43,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 4% | 100% |  |
-| 7 | 68% | 96% | Median |
-| 8 | 28% | 28% |  |
+| 6 | 3% | 100% |  |
+| 7 | 68% | 97% | Median |
+| 8 | 29% | 29% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -58,8 +58,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 69% | 98% | Last Result, Median |
-| 6 | 29% | 29% |  |
+| 5 | 72% | 98% | Last Result, Median |
+| 6 | 27% | 27% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ENF)
@@ -70,10 +70,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% |  |
-| 4 | 64% | 99.6% | Last Result, Median |
-| 5 | 35% | 35% |  |
-| 6 | 0% | 0% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 64% | 99.7% | Last Result, Median |
+| 5 | 36% | 36% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
 
@@ -132,9 +133,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 4% | 100% |  |
-| 7 | 68% | 96% | Median |
-| 8 | 28% | 28% |  |
+| 6 | 3% | 100% |  |
+| 7 | 68% | 97% | Median |
+| 8 | 29% | 29% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -145,8 +146,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 69% | 98% | Last Result, Median |
-| 6 | 29% | 29% |  |
+| 5 | 72% | 98% | Last Result, Median |
+| 6 | 27% | 27% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ENF)
@@ -155,10 +156,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% |  |
-| 4 | 64% | 99.6% | Last Result, Median |
-| 5 | 35% | 35% |  |
-| 6 | 0% | 0% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 64% | 99.7% | Last Result, Median |
+| 5 | 36% | 36% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
 
@@ -193,6 +195,6 @@
 ### Calculations
 
 + **Sample size:** 800
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.94%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.46%
 
