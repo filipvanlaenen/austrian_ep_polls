@@ -114,7 +114,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [3–11 December 2018](2018-12-11-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [26 November–9 December 2018](2018-12-09-GfK.html) | GfK <br> Die Presse | 7 | 7 | 7 | 7–8 | 6–8 |
