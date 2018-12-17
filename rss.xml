@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 16 Dec 2018 19:57:35 +0100</pubDate>
+    <pubDate>Mon, 17 Dec 2018 06:53:58 +0100</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 10–14 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-14-UniqueResearch.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2018-12-16T19:57:35.339591+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by market for Der Standard, 7–12 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-12-market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–6 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-12-market-seats.png"
+        length="184093"
+        type="image/png"/>
+      <pubDate>Sun, 16 Dec 2018 21:17:33 +0100</pubDate>
+      <dc:date>2018-12-16T21:17:33.070709+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by market for Der Standard, 7–12 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-12-market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-12-market-coalitions-seats.png"
+        length="114723"
+        type="image/png"/>
+      <pubDate>Sun, 16 Dec 2018 21:17:33 +0100</pubDate>
+      <dc:date>2018-12-16T21:17:33.070709+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by market for Der Standard, 7–12 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-12-market.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.8–37.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.0–30.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.2–27.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.4–8.9%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.7–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-12-market.png"
         length="203689"
         type="image/png"/>
-      <pubDate>Sun, 16 Dec 2018 13:47:08 +0100</pubDate>
-      <dc:date>2018-12-16T13:47:08.252251+01:00</dc:date>
+      <pubDate>Sun, 16 Dec 2018 21:17:33 +0100</pubDate>
+      <dc:date>2018-12-16T21:17:33.070709+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 6–12 December 2018 – Seat Projections for the Parties</title>
@@ -80,14 +100,54 @@
       <dc:date>2018-12-16T16:32:35.077676+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 3–11 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-11-PeterHajek.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-11-PeterHajek-seats.png"
+        length="186315"
+        type="image/png"/>
+      <pubDate>Sun, 16 Dec 2018 22:49:16 +0100</pubDate>
+      <dc:date>2018-12-16T22:49:16.479707+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 3–11 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-11-PeterHajek.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-11-PeterHajek-coalitions-seats.png"
+        length="116991"
+        type="image/png"/>
+      <pubDate>Sun, 16 Dec 2018 22:49:16 +0100</pubDate>
+      <dc:date>2018-12-16T22:49:16.479707+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peter Hajek for ATV, 3–11 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-11-PeterHajek.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 31.6–38.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.0–29.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 19.3–25.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 7.2–11.2%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 2.0–4.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.7–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-11-PeterHajek.png"
         length="205877"
         type="image/png"/>
-      <pubDate>Sun, 16 Dec 2018 14:53:22 +0100</pubDate>
-      <dc:date>2018-12-16T14:53:22.491726+01:00</dc:date>
+      <pubDate>Sun, 16 Dec 2018 22:49:16 +0100</pubDate>
+      <dc:date>2018-12-16T22:49:16.479707+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GfK for Die Presse, 26 November–9 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-09-GfK.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-09-GfK-seats.png"
+        length="147190"
+        type="image/png"/>
+      <pubDate>Mon, 17 Dec 2018 06:53:58 +0100</pubDate>
+      <dc:date>2018-12-17T06:53:58.209141+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GfK for Die Presse, 26 November–9 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-09-GfK.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-09-GfK-coalitions-seats.png"
+        length="87335"
+        type="image/png"/>
+      <pubDate>Mon, 17 Dec 2018 06:53:58 +0100</pubDate>
+      <dc:date>2018-12-17T06:53:58.209141+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GfK for Die Presse, 26 November–9 December 2018 – Voting Intentions</title>
@@ -96,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-09-GfK.png"
         length="187992"
         type="image/png"/>
-      <pubDate>Sun, 16 Dec 2018 15:10:58 +0100</pubDate>
-      <dc:date>2018-12-16T15:10:58.300109+01:00</dc:date>
+      <pubDate>Mon, 17 Dec 2018 06:53:58 +0100</pubDate>
+      <dc:date>2018-12-17T06:53:58.209141+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 3–6 December 2018 – Seat Projections for the Parties</title>
@@ -2019,6 +2079,6 @@
       <pubDate>Fri, 13 Apr 2018 11:20:22 +0200</pubDate>
       <dc:date>2018-04-13T11:20:22.421464+02:00</dc:date>
     </item>
-    <dc:date>2018-12-16T19:57:35.339591+01:00</dc:date>
+    <dc:date>2018-12-17T06:53:58.209141+01:00</dc:date>
   </channel>
 </rss>
