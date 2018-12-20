@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.6–4.6% | 1.4–5.4% | 1.3–5.8% | 1.1–6.7% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.5–4.6% | 1.3–5.4% | 1.2–5.8% | 1.0–6.7% |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -88,11 +88,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 62% | 90% | Median |
-| 2.5–3.5% | 14% | 28% |  |
-| 3.5–4.5% | 4% | 14% |  |
-| 4.5–5.5% | 6% | 10% |  |
+| 0.5–1.5% | 15% | 100% |  |
+| 1.5–2.5% | 49% | 85% | Median |
+| 2.5–3.5% | 19% | 36% |  |
+| 3.5–4.5% | 7% | 18% |  |
+| 4.5–5.5% | 7% | 11% |  |
 | 5.5–6.5% | 3% | 4% |  |
 | 6.5–7.5% | 0.6% | 0.6% |  |
 | 7.5–8.5% | 0% | 0.1% |  |
