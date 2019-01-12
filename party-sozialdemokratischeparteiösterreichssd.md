@@ -11,6 +11,7 @@ Last result: **24.1%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.9% | 23.9–27.9% | 23.3–28.6% | 22.8–29.1% | 21.8–30.3% |
+| [3–9 January 2019](2019-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 26.0% | 24.3–27.9% | 23.8–28.4% | 23.4–28.9% | 22.6–29.8% |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil | 26.0% | 24.1–28.1% | 23.5–28.7% | 23.1–29.2% | 22.2–30.2% |
 | [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 27.0% | 25.0–29.1% | 24.5–29.7% | 24.0–30.2% | 23.1–31.2% |
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.6% |
@@ -112,6 +113,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [3–9 January 2019](2019-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 5–6 | 4–6 | 4–6 |
