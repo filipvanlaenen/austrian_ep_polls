@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.5–4.6% | 1.3–5.4% | 1.2–5.8% | 1.0–6.7% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.4–4.8% | 1.3–5.5% | 1.2–5.9% | 1.0–6.7% |
 | [3–9 January 2019](2019-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
@@ -90,13 +90,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 15% | 100% |  |
-| 1.5–2.5% | 49% | 85% | Median |
-| 2.5–3.5% | 19% | 36% |  |
-| 3.5–4.5% | 7% | 18% |  |
-| 4.5–5.5% | 7% | 11% |  |
-| 5.5–6.5% | 3% | 4% |  |
-| 6.5–7.5% | 0.6% | 0.6% |  |
-| 7.5–8.5% | 0% | 0.1% |  |
+| 1.5–2.5% | 46% | 85% | Median |
+| 2.5–3.5% | 19% | 39% |  |
+| 3.5–4.5% | 8% | 20% |  |
+| 4.5–5.5% | 8% | 12% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.7% | 0.7% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -188,8 +188,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 13% | 13% |  |
 | 2 | 0% | 0% |  |
 
 
