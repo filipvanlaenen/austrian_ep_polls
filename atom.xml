@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-01-19T14:50:51.073149+01:00</updated>
+  <updated>2019-01-28T15:00:30.827396+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 31.6–38.2%, 6–8 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 23.9–30.1%, 5–6 seats</li><li>Freiheitliche Partei Österreichs (ENF): 21.1–27.0%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.4–9.0%, 1–2 seats</li><li>Liste Peter Pilz (*): 1.2–3.2%, 0 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 3.7–6.7%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-17-OGM.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-17-OGM.html"/>
+    <title>Opinion Poll by OGM for KURIER, 15–17 January 2019</title>
+    <updated>2019-01-28T15:00:30.827396+01:00</updated>
+    <dc:date>2019-01-28T15:00:30.827396+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 31.2–37.0%, 6–8 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 23.4–28.9%, 5–6 seats</li><li>Freiheitliche Partei Österreichs (ENF): 21.4–26.7%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.6–8.7%, 1 seats</li><li>Liste Peter Pilz (*): 1.3–3.1%, 0 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 3.8–6.5%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-09-ResearchAffairs.html</id>
@@ -567,5 +575,5 @@
     <updated>2019-01-19T13:20:30.993892+01:00</updated>
     <dc:date>2019-01-19T13:20:30.993892+01:00</dc:date>
   </entry>
-  <dc:date>2019-01-19T14:50:51.073149+01:00</dc:date>
+  <dc:date>2019-01-28T15:00:30.827396+01:00</dc:date>
 </feed>
