@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 27 Jan 2019 21:13:15 +0100</pubDate>
+    <pubDate>Mon, 28 Jan 2019 15:00:30 +0100</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 17–23 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-23-ResearchAffairs.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2019-01-26T18:30:07.476472+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by OGM for KURIER, 15–17 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-17-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-17-OGM-seats.png"
+        length="186386"
+        type="image/png"/>
+      <pubDate>Mon, 28 Jan 2019 15:00:30 +0100</pubDate>
+      <dc:date>2019-01-28T15:00:30.827396+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 15–17 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-17-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-17-OGM-coalitions-seats.png"
+        length="115861"
+        type="image/png"/>
+      <pubDate>Mon, 28 Jan 2019 15:00:30 +0100</pubDate>
+      <dc:date>2019-01-28T15:00:30.827396+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by OGM for KURIER, 15–17 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-17-OGM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 31.6–38.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.9–30.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.1–27.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.4–9.0%&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3.7–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-17-OGM.png"
         length="203589"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 21:13:15 +0100</pubDate>
-      <dc:date>2019-01-27T21:13:15.201002+01:00</dc:date>
+      <pubDate>Mon, 28 Jan 2019 15:00:30 +0100</pubDate>
+      <dc:date>2019-01-28T15:00:30.827396+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 7–11 January 2019 – Voting Intentions</title>
@@ -2139,6 +2159,6 @@
       <pubDate>Sat, 19 Jan 2019 13:20:30 +0100</pubDate>
       <dc:date>2019-01-19T13:20:30.993892+01:00</dc:date>
     </item>
-    <dc:date>2019-01-27T21:13:15.201002+01:00</dc:date>
+    <dc:date>2019-01-28T15:00:30.827396+01:00</dc:date>
   </channel>
 </rss>
