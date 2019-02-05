@@ -43,9 +43,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 6% | 100% |  |
-| 7 | 82% | 94% | Median |
-| 8 | 13% | 13% |  |
+| 6 | 5% | 100% |  |
+| 7 | 83% | 95% | Median |
+| 8 | 12% | 12% |  |
 | 9 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -56,9 +56,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.5% | 100% |  |
-| 5 | 75% | 99.5% | Last Result, Median |
-| 6 | 24% | 25% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 74% | 99.6% | Last Result, Median |
+| 6 | 25% | 25% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ENF)
@@ -94,8 +94,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.2% | 100% |  |
-| 1 | 98.8% | 98.8% | Median |
+| 0 | 1.1% | 100% |  |
+| 1 | 98.8% | 98.9% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -131,9 +131,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 6% | 100% |  |
-| 7 | 82% | 94% | Median |
-| 8 | 13% | 13% |  |
+| 6 | 5% | 100% |  |
+| 7 | 83% | 95% | Median |
+| 8 | 12% | 12% |  |
 | 9 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -142,9 +142,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.5% | 100% |  |
-| 5 | 75% | 99.5% | Last Result, Median |
-| 6 | 24% | 25% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 74% | 99.6% | Last Result, Median |
+| 6 | 25% | 25% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ENF)
@@ -164,8 +164,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.2% | 100% |  |
-| 1 | 98.8% | 98.8% | Median |
+| 0 | 1.1% | 100% |  |
+| 1 | 98.8% | 98.9% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -191,6 +191,6 @@
 ### Calculations
 
 + **Sample size:** 1002
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.82%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.52%
 
