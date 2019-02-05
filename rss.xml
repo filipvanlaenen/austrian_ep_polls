@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 04 Feb 2019 11:23:15 +0100</pubDate>
+    <pubDate>Tue, 05 Feb 2019 13:39:22 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 17–23 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-23-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Liste Peter Pilz (*): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-23-ResearchAffairs-seats.png"
+        length="165750"
+        type="image/png"/>
+      <pubDate>Tue, 05 Feb 2019 13:39:22 +0100</pubDate>
+      <dc:date>2019-02-05T13:39:22.201914+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 17–23 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-23-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-23-ResearchAffairs-coalitions-seats.png"
+        length="100970"
+        type="image/png"/>
+      <pubDate>Tue, 05 Feb 2019 13:39:22 +0100</pubDate>
+      <dc:date>2019-02-05T13:39:22.201914+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 17–23 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-23-ResearchAffairs.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-23-ResearchAffairs.png"
         length="189164"
         type="image/png"/>
-      <pubDate>Sat, 26 Jan 2019 18:30:07 +0100</pubDate>
-      <dc:date>2019-01-26T18:30:07.476472+01:00</dc:date>
+      <pubDate>Tue, 05 Feb 2019 13:39:22 +0100</pubDate>
+      <dc:date>2019-02-05T13:39:22.201914+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGM for KURIER, 15–17 January 2019 – Seat Projections for the Parties</title>
@@ -2179,6 +2199,6 @@
       <pubDate>Sat, 19 Jan 2019 13:20:30 +0100</pubDate>
       <dc:date>2019-01-19T13:20:30.993892+01:00</dc:date>
     </item>
-    <dc:date>2019-02-04T11:23:15.592919+01:00</dc:date>
+    <dc:date>2019-02-05T13:39:22.201914+01:00</dc:date>
   </channel>
 </rss>
