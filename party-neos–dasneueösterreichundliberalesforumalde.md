@@ -10,7 +10,10 @@ Last result: **8.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 5.9–9.1% | 5.5–9.7% | 5.1–10.2% | 4.5–11.1% |
+| N/A | [Poll Average](average.html) | 7.6% | 6.3–9.4% | 5.9–10.0% | 5.6–10.4% | 5.1–11.3% |
+| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 8.0% | N/A | N/A | N/A | N/A |
+| [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 8.5% | N/A | N/A | N/A | N/A |
+| [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | N/A | N/A | N/A | N/A |
 | [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.1–9.3% |
 | [15–17 January 2019](2019-01-17-OGM.html) | OGM <br> KURIER | 7.0% | 5.9–8.3% | 5.7–8.6% | 5.4–9.0% | 5.0–9.6% |
 | [7–11 January 2019](2019-01-11-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
@@ -91,16 +94,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.6% | 100% |  |
-| 4.5–5.5% | 5% | 99.4% |  |
-| 5.5–6.5% | 18% | 94% |  |
-| 6.5–7.5% | 33% | 76% | Median |
-| 7.5–8.5% | 26% | 44% | Last Result |
-| 8.5–9.5% | 12% | 17% |  |
-| 9.5–10.5% | 4% | 6% |  |
-| 10.5–11.5% | 1.1% | 1.3% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 2% | 100% |  |
+| 5.5–6.5% | 14% | 98% |  |
+| 6.5–7.5% | 34% | 84% |  |
+| 7.5–8.5% | 29% | 50% | Last Result, Median |
+| 8.5–9.5% | 13% | 22% |  |
+| 9.5–10.5% | 6% | 8% |  |
+| 10.5–11.5% | 2% | 2% |  |
+| 11.5–12.5% | 0.3% | 0.3% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -112,7 +114,10 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse |  |  |  |  |  |
+| [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1–2 |
 | [15–17 January 2019](2019-01-17-OGM.html) | OGM <br> KURIER | 1 | 1 | 1 | 1–2 | 1–2 |
 | [7–11 January 2019](2019-01-11-UniqueResearch.html) | Unique Research <br> profil | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -195,9 +200,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 89% | 99.5% | Last Result, Median |
-| 2 | 11% | 11% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 86% | 99.9% | Last Result, Median |
+| 2 | 14% | 14% |  |
 | 3 | 0% | 0% |  |
 
 
