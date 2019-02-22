@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 20 Feb 2019 19:28:57 +0100</pubDate>
+    <pubDate>Fri, 22 Feb 2019 19:55:36 +0100</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 11–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-02-15-UniqueResearch.html</link>
@@ -136,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-12-12-market.png"
         length="206422"
         type="image/png"/>
-      <pubDate>Tue, 19 Feb 2019 22:26:24 +0100</pubDate>
-      <dc:date>2019-02-19T22:26:24.316459+01:00</dc:date>
+      <pubDate>Fri, 22 Feb 2019 19:55:36 +0100</pubDate>
+      <dc:date>2019-02-22T19:55:36.345736+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 6–12 December 2018 – Voting Intentions</title>
@@ -496,8 +496,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-09-20-ResearchAffairs.png"
         length="229297"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 12:01:42 +0100</pubDate>
-      <dc:date>2019-02-20T12:01:42.129092+01:00</dc:date>
+      <pubDate>Fri, 22 Feb 2019 19:24:26 +0100</pubDate>
+      <dc:date>2019-02-22T19:24:26.291809+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 10–13 September 2018 – Seat Projections for the Parties</title>
@@ -676,8 +676,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-08-08-ResearchAffairs.png"
         length="204327"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 12:11:59 +0100</pubDate>
-      <dc:date>2019-02-20T12:11:59.919181+01:00</dc:date>
+      <pubDate>Fri, 22 Feb 2019 19:41:54 +0100</pubDate>
+      <dc:date>2019-02-22T19:41:54.137258+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 19–25 July 2018 – Voting Intentions</title>
@@ -1609,6 +1609,6 @@
       <pubDate>Sat, 19 Jan 2019 13:20:30 +0100</pubDate>
       <dc:date>2019-01-19T13:20:30.993892+01:00</dc:date>
     </item>
-    <dc:date>2019-02-20T19:28:57.220221+01:00</dc:date>
+    <dc:date>2019-02-22T19:55:36.345736+01:00</dc:date>
   </channel>
 </rss>
