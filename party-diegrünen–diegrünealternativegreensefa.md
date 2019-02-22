@@ -145,7 +145,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [9–11 October 2018](2018-10-11-OGM.html) | OGM <br> KURIER | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 September–3 October 2018](2018-10-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 0–1 | 0–1 |
+| [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–13 September 2018](2018-09-13-UniqueResearch.html) | Unique Research <br> profil | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–6 September 2018](2018-09-06-UniqueResearch.html) | Unique Research <br> Heute | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 August–5 September 2018](2018-09-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 0–1 |
@@ -153,7 +153,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 1 | 1 | 1 | 1 | 0–1 |
 | [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
+| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–1 |
 | [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–1 |
 | [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -204,8 +204,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 93% | 94% | Median |
+| 0 | 8% | 100% |  |
+| 1 | 92% | 92% | Median |
 | 2 | 0.8% | 0.8% |  |
 | 3 | 0% | 0% | Last Result |
 

@@ -126,7 +126,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [7–11 January 2019](2019-01-11-UniqueResearch.html) | Unique Research <br> profil | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [3–9 January 2019](2019-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [3–11 December 2018](2018-12-11-PeterHajek.html) | Peter Hajek <br> ATV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26 November–9 December 2018](2018-12-09-GfK.html) | GfK <br> Die Presse | 5 | 5 | 5 | 5–6 | 5–6 |
@@ -144,7 +144,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [9–11 October 2018](2018-10-11-OGM.html) | OGM <br> KURIER | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [27 September–3 October 2018](2018-10-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 6 | 6 | 6–7 | 6–7 |
+| [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [10–13 September 2018](2018-09-13-UniqueResearch.html) | Unique Research <br> profil | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [3–6 September 2018](2018-09-06-UniqueResearch.html) | Unique Research <br> Heute | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [30 August–5 September 2018](2018-09-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -152,7 +152,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 5 | 5–7 | 5–7 |
+| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -203,10 +203,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 1.2% | 100% |  |
-| 5 | 71% | 98.8% | Last Result, Median |
-| 6 | 27% | 28% |  |
-| 7 | 0.3% | 0.3% |  |
+| 4 | 0.5% | 100% |  |
+| 5 | 70% | 99.5% | Last Result, Median |
+| 6 | 29% | 29% |  |
+| 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 
 

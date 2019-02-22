@@ -124,7 +124,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 7 | 7 | 7–8 | 7–8 | 6–8 |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -133,7 +133,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [7–11 January 2019](2019-01-11-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [3–9 January 2019](2019-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 6 | 5–6 | 5–6 | 4–7 |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7 | 7 | 6–8 | 6–8 |
 | [3–11 December 2018](2018-12-11-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [26 November–9 December 2018](2018-12-09-GfK.html) | GfK <br> Die Presse | 7 | 7 | 7 | 7 | 7 |
@@ -151,7 +151,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [9–11 October 2018](2018-10-11-OGM.html) | OGM <br> KURIER | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [27 September–3 October 2018](2018-10-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 6 | 6 | 6 | 6–7 |
 | [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 5 | 5 | 5 |
+| [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [10–13 September 2018](2018-09-13-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [3–6 September 2018](2018-09-06-UniqueResearch.html) | Unique Research <br> Heute | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [30 August–5 September 2018](2018-09-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 6 | 6 | 6 | 6 |
@@ -159,7 +159,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
-| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7 | 7 | 6–7 | 6–7 |
 | [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7 | 7 | 7 | 6–7 |
@@ -211,9 +211,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 4% | 100% | Last Result |
-| 6 | 16% | 96% |  |
-| 7 | 69% | 80% | Median |
-| 8 | 10% | 10% |  |
+| 6 | 15% | 96% |  |
+| 7 | 73% | 81% | Median |
+| 8 | 8% | 8% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
