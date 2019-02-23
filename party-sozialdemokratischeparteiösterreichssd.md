@@ -188,7 +188,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [25 January–19 February 2018](2018-02-19-Spectra.html) | Spectra <br> OÖNachrichten | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [18–24 January 2018](2018-01-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
