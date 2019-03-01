@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Feb 2019 16:54:26 +0100</pubDate>
+    <pubDate>Fri, 01 Mar 2019 19:59:24 +0100</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 11–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-02-15-UniqueResearch.html</link>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-01-09-ResearchAffairs.png"
         length="214973"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 11:35:34 +0100</pubDate>
-      <dc:date>2019-02-20T11:35:34.930308+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 18:03:59 +0100</pubDate>
+      <dc:date>2019-03-01T18:03:59.242431+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 10–14 December 2018 – Seat Projections for the Parties</title>
@@ -726,8 +726,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-07-11-ResearchAffairs.png"
         length="203994"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 12:23:18 +0100</pubDate>
-      <dc:date>2019-02-20T12:23:18.331096+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 19:59:24 +0100</pubDate>
+      <dc:date>2019-03-01T19:59:24.17071+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spectra for OÖNachrichten, 6–29 June 2018 – Seat Projections for the Parties</title>
@@ -966,8 +966,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-05-30-ResearchAffairs.png"
         length="204841"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 12:41:30 +0100</pubDate>
-      <dc:date>2019-02-20T12:41:30.68292+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 17:17:21 +0100</pubDate>
+      <dc:date>2019-03-01T17:17:21.648089+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 22–25 May 2018 – Seat Projections for the Parties</title>
@@ -1046,8 +1046,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2018-05-02-ResearchAffairs.png"
         length="206887"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 14:43:03 +0100</pubDate>
-      <dc:date>2019-02-20T14:43:03.371002+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 19:56:55 +0100</pubDate>
+      <dc:date>2019-03-01T19:56:55.898631+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spectra for OÖNachrichten, 9–30 April 2018 – Seat Projections for the Parties</title>
@@ -1609,6 +1609,6 @@
       <pubDate>Sat, 19 Jan 2019 13:20:30 +0100</pubDate>
       <dc:date>2019-01-19T13:20:30.993892+01:00</dc:date>
     </item>
-    <dc:date>2019-02-23T16:54:26.62336+01:00</dc:date>
+    <dc:date>2019-03-01T19:59:24.17071+01:00</dc:date>
   </channel>
 </rss>
