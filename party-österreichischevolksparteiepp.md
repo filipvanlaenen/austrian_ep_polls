@@ -131,7 +131,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [15–17 January 2019](2019-01-17-OGM.html) | OGM <br> KURIER | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [7–11 January 2019](2019-01-11-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [3–9 January 2019](2019-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 6 | 5–6 | 5–6 | 4–7 |
+| [3–9 January 2019](2019-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
@@ -162,7 +162,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
-| [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7 | 7 | 7 | 6–7 |
+| [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [6–29 June 2018](2018-06-29-Spectra.html) | Spectra <br> OÖNachrichten | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [26–28 June 2018](2018-06-28-OGM.html) | OGM <br> ServusTV | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -176,7 +176,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [22–25 May 2018](2018-05-25-UniqueResearch.html) | Unique Research <br> profil | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [10–16 May 2018](2018-05-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [18 April–9 May 2018](2018-05-09-IMAS.html) | IMAS <br> Kronen Zeitung | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [26 April–2 May 2018](2018-05-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7 | 7–8 | 7–8 | 6–8 |
+| [26 April–2 May 2018](2018-05-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [9–30 April 2018](2018-04-30-Spectra.html) | Spectra <br> OÖNachrichten | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [19–25 April 2018](2018-04-25-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [12–18 April 2018](2018-04-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
