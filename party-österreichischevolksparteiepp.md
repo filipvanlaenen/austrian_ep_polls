@@ -143,7 +143,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [13–15 November 2018](2018-11-15-market.html) | market <br> Der Standard | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [8–14 November 2018](2018-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [22–31 October 2018](2018-10-31-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [24–30 October 2018](2018-10-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [24–30 October 2018](2018-10-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [9–29 October 2018](2018-10-29-Spectra.html) | Spectra | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [11–17 October 2018](2018-10-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [1–13 October 2018](2018-10-13-GfK.html) | GfK <br> Die Presse | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
