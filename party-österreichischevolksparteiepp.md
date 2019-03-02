@@ -10,7 +10,10 @@ Last result: **27.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.7% | 27.8–36.1% | 26.5–36.8% | 25.8–37.4% | 24.6–38.6% |
+| N/A | [Poll Average](average.html) | 33.5% | 27.7–35.9% | 26.5–36.6% | 25.7–37.2% | 24.5–38.3% |
+| [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
+| [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.3% | 29.8–38.4% |
+| [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 27.0% | 25.2–28.8% | 24.7–29.3% | 24.3–29.8% | 23.5–30.7% |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 32.0% | 29.9–34.2% | 29.4–34.8% | 28.9–35.3% | 27.9–36.4% |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.4–29.9% | 23.6–30.8% |
@@ -96,22 +99,22 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 0.4% | 99.9% |  |
-| 24.5–25.5% | 1.4% | 99.5% |  |
+| 23.5–24.5% | 0.5% | 99.9% |  |
+| 24.5–25.5% | 2% | 99.5% |  |
 | 25.5–26.5% | 3% | 98% |  |
 | 26.5–27.5% | 4% | 95% | Last Result |
 | 27.5–28.5% | 3% | 91% |  |
-| 28.5–29.5% | 2% | 88% |  |
+| 28.5–29.5% | 2% | 87% |  |
 | 29.5–30.5% | 3% | 85% |  |
 | 30.5–31.5% | 5% | 83% |  |
-| 31.5–32.5% | 10% | 78% |  |
-| 32.5–33.5% | 16% | 68% |  |
-| 33.5–34.5% | 20% | 52% | Median |
-| 34.5–35.5% | 16% | 32% |  |
-| 35.5–36.5% | 10% | 16% |  |
-| 36.5–37.5% | 4% | 6% |  |
-| 37.5–38.5% | 2% | 2% |  |
-| 38.5–39.5% | 0.4% | 0.5% |  |
+| 31.5–32.5% | 10% | 77% |  |
+| 32.5–33.5% | 17% | 67% |  |
+| 33.5–34.5% | 20% | 50% | Median |
+| 34.5–35.5% | 16% | 29% |  |
+| 35.5–36.5% | 9% | 14% |  |
+| 36.5–37.5% | 4% | 5% |  |
+| 37.5–38.5% | 1.2% | 2% |  |
+| 38.5–39.5% | 0.3% | 0.4% |  |
 | 39.5–40.5% | 0.1% | 0.1% |  |
 | 40.5–41.5% | 0% | 0% |  |
 
@@ -125,8 +128,11 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 7 | 7 | 7–8 | 7–8 | 6–8 |
+| [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [15–17 January 2019](2019-01-17-OGM.html) | OGM <br> KURIER | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
@@ -154,7 +160,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [10–13 September 2018](2018-09-13-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [3–6 September 2018](2018-09-06-UniqueResearch.html) | Unique Research <br> Heute | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [30 August–5 September 2018](2018-09-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 6 | 6 | 6 | 6 |
+| [30 August–5 September 2018](2018-09-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [23–29 August 2018](2018-08-29-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
@@ -165,7 +171,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [6–29 June 2018](2018-06-29-Spectra.html) | Spectra <br> OÖNachrichten | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [26–28 June 2018](2018-06-28-OGM.html) | OGM <br> ServusTV | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [18–21 June 2018](2018-06-21-UniqueResearch.html) | Unique Research <br> profil | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [12–15 June 2018](2018-06-15-market.html) | market <br> Der Standard | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [7–13 June 2018](2018-06-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -210,11 +216,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 5% | 100% | Last Result |
-| 6 | 18% | 95% |  |
-| 7 | 68% | 77% | Median |
-| 8 | 9% | 9% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% | Majority |
+| 5 | 6% | 100% | Last Result |
+| 6 | 20% | 94% |  |
+| 7 | 67% | 74% | Median |
+| 8 | 7% | 7% |  |
+| 9 | 0% | 0% |  |
 
 
