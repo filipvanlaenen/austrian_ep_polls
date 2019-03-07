@@ -122,9 +122,9 @@ Last result: **4** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -211,8 +211,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.6% | 100% |  |
-| 4 | 39% | 99.4% | Last Result |
+| 3 | 0.5% | 100% |  |
+| 4 | 39% | 99.5% | Last Result |
 | 5 | 58% | 60% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
