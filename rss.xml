@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 08 Mar 2019 17:33:32 +0100</pubDate>
+    <pubDate>Fri, 08 Mar 2019 20:33:39 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by INSA for SWG, 27 February–1 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-01-INSA.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 26.3–31.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 22.4–27.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ENF): 21.4–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 6.5–9.9%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 7.4–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-01-INSA.png"
+        length="209602"
+        type="image/png"/>
+      <pubDate>Fri, 08 Mar 2019 20:33:39 +0100</pubDate>
+      <dc:date>2019-03-08T20:33:39.796623+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 21–28 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-02-28-PeterHajek.html#seats</link>
@@ -1779,6 +1789,6 @@
       <pubDate>Sat, 19 Jan 2019 13:20:30 +0100</pubDate>
       <dc:date>2019-01-19T13:20:30.993892+01:00</dc:date>
     </item>
-    <dc:date>2019-03-08T17:33:32.824731+01:00</dc:date>
+    <dc:date>2019-03-08T20:33:39.796623+01:00</dc:date>
   </channel>
 </rss>
