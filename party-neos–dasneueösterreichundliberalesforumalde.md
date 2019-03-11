@@ -121,7 +121,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 1 | 1 | 1 | 1 | 1–2 |
+| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 2 | 2 | 2 | 1–2 | 1–3 |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
