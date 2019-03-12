@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 12 Mar 2019 20:03:35 +0100</pubDate>
+    <pubDate>Tue, 12 Mar 2019 20:32:19 +0100</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 4–7 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-07-UniqueResearch.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-07-UniqueResearch.png"
         length="211030"
         type="image/png"/>
-      <pubDate>Tue, 12 Mar 2019 20:00:52 +0100</pubDate>
-      <dc:date>2019-03-12T20:00:52.397166+01:00</dc:date>
+      <pubDate>Tue, 12 Mar 2019 20:32:19 +0100</pubDate>
+      <dc:date>2019-03-12T20:32:19.351675+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 26 February–6 March 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-06-ResearchAffairs.png"
         length="202898"
         type="image/png"/>
-      <pubDate>Tue, 12 Mar 2019 20:03:35 +0100</pubDate>
-      <dc:date>2019-03-12T20:03:35.838344+01:00</dc:date>
+      <pubDate>Tue, 12 Mar 2019 20:20:42 +0100</pubDate>
+      <dc:date>2019-03-12T20:20:42.202035+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA for SWG, 27 February–1 March 2019 – Voting Intentions</title>
@@ -1829,6 +1829,6 @@
       <pubDate>Sat, 19 Jan 2019 13:20:30 +0100</pubDate>
       <dc:date>2019-01-19T13:20:30.993892+01:00</dc:date>
     </item>
-    <dc:date>2019-03-12T20:03:35.838344+01:00</dc:date>
+    <dc:date>2019-03-12T20:32:19.351675+01:00</dc:date>
   </channel>
 </rss>
