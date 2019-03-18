@@ -127,7 +127,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 5 | 5 | 5–6 | 4–6 | 4–6 |
+| [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 5 | 5 | 4–6 |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 5 | 5 | 4–5 | 4–6 | 4–6 |
