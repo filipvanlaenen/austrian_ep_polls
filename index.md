@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 27.0% <br> 5 | 24.1% <br> 5 | 19.7% <br> 4 | 14.5% <br> 3 | 8.1% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 26–37% <br> 5–8 | 23–30% <br> 5–6 | 20–27% <br> 4–5 | 4–9% <br> 0–1 | 6–12% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 26–37% <br> 5–8 | 23–30% <br> 4–6 | 20–26% <br> 4–5 | 4–10% <br> 0–2 | 6–12% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A |
 | [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 25–31% <br> 5–6 | 23–29% <br> 5 | 20–26% <br> 5 | 6–10% <br> 1 | 6–10% <br> 2 | 2–4% <br> 0 | N/A <br> N/A |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 6–8 | 22–28% <br> 4–6 | 21–27% <br> 4–5 | 4–7% <br> 0–1 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 26–32% <br> 5–7 | 22–28% <br> 5–6 | 21–27% <br> 4–6 | 7–11% <br> 1–2 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
