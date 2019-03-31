@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-03-11T23:21:46.297135+01:00</updated>
+  <updated>2019-03-31T00:00:58.171375+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 25.3–30.9%, 5–7 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 23.4–28.9%, 5–6 seats</li><li>Freiheitliche Partei Österreichs (ENF): 20.5–25.7%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (ALDE): 6.5–9.8%, 1–2 seats</li><li>JETZT–Liste Pilz (Greens/EFA): 2.1–4.3%, 0 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 6.5–9.8%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-20-ResearchAffairs.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-20-ResearchAffairs.html"/>
+    <title>Opinion Poll by Research Affairs for ÖSTERREICH, 14–20 March 2019</title>
+    <updated>2019-03-31T00:00:58.171375+01:00</updated>
+    <dc:date>2019-03-31T00:00:58.171375+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 30.8–37.4%, 6–8 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 24.0–30.2%, 5–6 seats</li><li>Freiheitliche Partei Österreichs (ENF): 20.2–26.0%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (ALDE): 6.3–10.1%, 1–2 seats</li><li>JETZT–Liste Pilz (Greens/EFA): 0.5–2.0%, 0 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 4.6–7.9%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2019-02-28-PeterHajek.html</id>
@@ -407,5 +415,5 @@
     <updated>2019-01-19T13:20:30.993892+01:00</updated>
     <dc:date>2019-01-19T13:20:30.993892+01:00</dc:date>
   </entry>
-  <dc:date>2019-03-11T23:21:46.297135+01:00</dc:date>
+  <dc:date>2019-03-31T00:00:58.171375+01:00</dc:date>
 </feed>
