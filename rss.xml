@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 31 Mar 2019 00:06:28 +0100</pubDate>
+    <pubDate>Wed, 03 Apr 2019 15:52:34 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 14–20 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-20-ResearchAffairs.html#seats</link>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-06-ResearchAffairs.png"
         length="212184"
         type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 15:16:27 +0100</pubDate>
-      <dc:date>2019-03-16T15:16:27.62382+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 15:52:34 +0200</pubDate>
+      <dc:date>2019-04-03T15:52:34.690842+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA for SWG, 27 February–1 March 2019 – Voting Intentions</title>
@@ -1869,6 +1869,6 @@
       <pubDate>Sat, 19 Jan 2019 13:20:30 +0100</pubDate>
       <dc:date>2019-01-19T13:20:30.993892+01:00</dc:date>
     </item>
-    <dc:date>2019-03-31T00:06:28.496098+01:00</dc:date>
+    <dc:date>2019-04-03T15:52:34.690842+02:00</dc:date>
   </channel>
 </rss>
