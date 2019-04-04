@@ -135,7 +135,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -224,9 +224,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 3% | 100% | Last Result |
-| 6 | 39% | 97% |  |
-| 7 | 52% | 58% | Median |
+| 5 | 4% | 100% | Last Result |
+| 6 | 39% | 96% |  |
+| 7 | 52% | 57% | Median |
 | 8 | 6% | 6% |  |
 | 9 | 0% | 0% |  |
 
