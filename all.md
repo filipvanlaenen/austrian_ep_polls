@@ -100,7 +100,7 @@ Only polls for which at least the sample size has been published are included in
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
 + **ÖVP:** Österreichische Volkspartei (EPP)
 + **SPÖ:** Sozialdemokratische Partei Österreichs (S&D)
-+ **FPÖ:** Freiheitliche Partei Österreichs (ENF)
++ **FPÖ:** Freiheitliche Partei Österreichs (EAPN)
 + **Grüne:** Die Grünen–Die Grüne Alternative (Greens/EFA)
 + **NEOS:** NEOS–Das Neue Österreich und Liberales Forum (ALDE)
 + **JETZT:** JETZT–Liste Pilz (Greens/EFA)
