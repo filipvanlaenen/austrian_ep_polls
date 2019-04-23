@@ -14,9 +14,8 @@
 | Sozialdemokratische Partei Österreichs (S&D) | 24.1% | 27.0% | 25.3–28.9% |24.8–29.4% |24.4–29.8% |23.5–30.7% |
 | Freiheitliche Partei Österreichs (EAPN) | 19.7% | 22.0% | 20.4–23.8% |20.0–24.3% |19.6–24.7% |18.8–25.6% |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 8.1% | 10.0% | 8.9–11.4% |8.6–11.7% |8.3–12.1% |7.8–12.7% |
-| Meine Stimme Gilt! (*) | 0.0% | 7.0% | 6.0–8.1% |5.8–8.4% |5.5–8.7% |5.1–9.3% |
-| Die Grünen–Die Grüne Alternative (Greens/EFA) | 14.5% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.0% |1.1–3.4% |
-| JETZT–Liste Pilz (Greens/EFA) | 0.0% | 0.3% | 0.2–0.7% |0.1–0.8% |0.1–0.9% |0.1–1.1% |
+| Die Grünen–Die Grüne Alternative (Greens/EFA) | 14.5% | 7.0% | 6.0–8.1% |5.8–8.4% |5.5–8.7% |5.1–9.3% |
+| JETZT–Liste Pilz (Greens/EFA) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.0% |1.1–3.4% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -28,12 +27,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 5 | 6 | 5–6 |5–6 |5–6 |5–7 |
-| <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 5 | 5–6 |5–6 |5–6 |4–6 |
-| <a href="#freiheitliche-partei-österreichs-(eapn)">Freiheitliche Partei Österreichs (EAPN)</a> | 4 | 4 | 4–5 |4–5 |4–5 |4–5 |
-| <a href="#neos–das-neue-österreich-und-liberales-forum-(alde)">NEOS–Das Neue Österreich und Liberales Forum (ALDE)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#meine-stimme-gilt!-(*)">Meine Stimme Gilt! (*)</a> | 0 | 1 | 1 |1 |1 |1–2 |
-| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 3 | 0 | 0 |0 |0 |0 |
+| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 5 | 6 | 6 |5–6 |5–6 |5–6 |
+| <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 5 | 5 |5 |5 |5 |
+| <a href="#freiheitliche-partei-österreichs-(eapn)">Freiheitliche Partei Österreichs (EAPN)</a> | 4 | 4 | 4 |4 |4–5 |4–5 |
+| <a href="#neos–das-neue-österreich-und-liberales-forum-(alde)">NEOS–Das Neue Österreich und Liberales Forum (ALDE)</a> | 1 | 2 | 2 |2 |2 |2 |
+| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 3 | 1 | 1 |1 |1 |1 |
 | <a href="#jetzt–liste-pilz-(greens/efa)">JETZT–Liste Pilz (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Österreichische Volkspartei (EPP)
@@ -44,9 +42,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 21% | 100% | Last Result |
-| 6 | 77% | 79% | Median |
-| 7 | 2% | 2% |  |
+| 5 | 5% | 100% | Last Result |
+| 6 | 94% | 95% | Median |
+| 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -57,9 +55,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.7% | 100% |  |
-| 5 | 79% | 99.3% | Last Result, Median |
-| 6 | 21% | 21% |  |
+| 5 | 99.6% | 100% | Last Result, Median |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (EAPN)
@@ -70,9 +67,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% |  |
-| 4 | 79% | 99.6% | Last Result, Median |
-| 5 | 20% | 20% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 95% | 99.9% | Last Result, Median |
+| 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
@@ -83,21 +80,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 21% | 100% | Last Result |
-| 2 | 79% | 79% | Median |
-| 3 | 0% | 0% |  |
-
-### Meine Stimme Gilt! (*)
-
-*For a full overview of the results for this party, see the [Meine Stimme Gilt! (*)](party-meinestimmegilt.html) page.*
-
-![Graph with seats probability mass function not yet produced](2019-04-17-ResearchAffairs-seats-pmf-meinestimmegilt.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 99.4% | 100% | Median |
-| 2 | 0.6% | 0.6% |  |
+| 1 | 0.5% | 100% | Last Result |
+| 2 | 99.5% | 99.5% | Median |
 | 3 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -108,8 +92,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% |  |
+| 1 | 100% | 100% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -132,23 +115,11 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Sozialdemokratische Partei Österreichs (S&D) | 5 | 5 | 0% | 5–6 | 5–6 | 5–6 | 4–6 |
-| Österreichische Volkspartei (EPP) | 5 | 6 | 0% | 5–6 | 5–6 | 5–6 | 5–7 |
-| Freiheitliche Partei Österreichs (EAPN) | 4 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
-| NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 1 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Meine Stimme Gilt! (*) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
-| Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA) | 3 | 0 | 0% | 0 | 0 | 0 | 0 |
-
-### Sozialdemokratische Partei Österreichs (S&D)
-
-![Graph with seats probability mass function not yet produced](2019-04-17-ResearchAffairs-coalitions-seats-pmf-spö.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.7% | 100% |  |
-| 5 | 79% | 99.3% | Last Result, Median |
-| 6 | 21% | 21% |  |
-| 7 | 0% | 0% |  |
+| Österreichische Volkspartei (EPP) | 5 | 6 | 0% | 6 | 5–6 | 5–6 | 5–6 |
+| Sozialdemokratische Partei Österreichs (S&D) | 5 | 5 | 0% | 5 | 5 | 5 | 5 |
+| Freiheitliche Partei Österreichs (EAPN) | 4 | 4 | 0% | 4 | 4 | 4–5 | 4–5 |
+| NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 1 | 2 | 0% | 2 | 2 | 2 | 2 |
+| Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA) | 3 | 1 | 0% | 1 | 1 | 1 | 1 |
 
 ### Österreichische Volkspartei (EPP)
 
@@ -156,10 +127,20 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 21% | 100% | Last Result |
-| 6 | 77% | 79% | Median |
-| 7 | 2% | 2% |  |
+| 5 | 5% | 100% | Last Result |
+| 6 | 94% | 95% | Median |
+| 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
+
+### Sozialdemokratische Partei Österreichs (S&D)
+
+![Graph with seats probability mass function not yet produced](2019-04-17-ResearchAffairs-coalitions-seats-pmf-spö.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 5 | 99.6% | 100% | Last Result, Median |
+| 6 | 0.4% | 0.4% |  |
+| 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (EAPN)
 
@@ -167,9 +148,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% |  |
-| 4 | 79% | 99.6% | Last Result, Median |
-| 5 | 20% | 20% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 95% | 99.9% | Last Result, Median |
+| 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
@@ -178,19 +159,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 21% | 100% | Last Result |
-| 2 | 79% | 79% | Median |
-| 3 | 0% | 0% |  |
-
-### Meine Stimme Gilt! (*)
-
-![Graph with seats probability mass function not yet produced](2019-04-17-ResearchAffairs-coalitions-seats-pmf-gilt.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 99.4% | 100% | Median |
-| 2 | 0.6% | 0.6% |  |
+| 1 | 0.5% | 100% | Last Result |
+| 2 | 99.5% | 99.5% | Median |
 | 3 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA)
@@ -199,8 +169,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% |  |
+| 1 | 100% | 100% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -216,6 +185,6 @@
 ### Calculations
 
 + **Sample size:** 1007
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.10%
++ **Simulations done:** 1,024
++ **Error estimate:** 2.77%
 
