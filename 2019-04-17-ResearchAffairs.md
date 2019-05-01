@@ -43,8 +43,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 24% | 100% | Last Result |
-| 6 | 75% | 76% | Median |
-| 7 | 1.3% | 1.3% |  |
+| 6 | 74% | 76% | Median |
+| 7 | 1.1% | 1.1% |  |
 | 8 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -56,7 +56,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.6% | 100% |  |
-| 5 | 74% | 99.4% | Last Result, Median |
+| 5 | 75% | 99.4% | Last Result, Median |
 | 6 | 25% | 25% |  |
 | 7 | 0% | 0% |  |
 
@@ -68,8 +68,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.5% | 100% |  |
-| 4 | 82% | 99.5% | Last Result, Median |
+| 3 | 0.6% | 100% |  |
+| 4 | 81% | 99.4% | Last Result, Median |
 | 5 | 18% | 18% |  |
 | 6 | 0% | 0% |  |
 
@@ -130,7 +130,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.6% | 100% |  |
-| 5 | 74% | 99.4% | Last Result, Median |
+| 5 | 75% | 99.4% | Last Result, Median |
 | 6 | 25% | 25% |  |
 | 7 | 0% | 0% |  |
 
@@ -141,8 +141,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 24% | 100% | Last Result |
-| 6 | 75% | 76% | Median |
-| 7 | 1.3% | 1.3% |  |
+| 6 | 74% | 76% | Median |
+| 7 | 1.1% | 1.1% |  |
 | 8 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (EAPN)
@@ -151,8 +151,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.5% | 100% |  |
-| 4 | 82% | 99.5% | Last Result, Median |
+| 3 | 0.6% | 100% |  |
+| 4 | 81% | 99.4% | Last Result, Median |
 | 5 | 18% | 18% |  |
 | 6 | 0% | 0% |  |
 
@@ -189,6 +189,6 @@
 ### Calculations
 
 + **Sample size:** 1007
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.16%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.25%
 
