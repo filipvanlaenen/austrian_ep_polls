@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 May 2019 16:00:39 +0200</pubDate>
+    <pubDate>Sat, 04 May 2019 17:44:48 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demox Research, 25 April–2 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-02-DemoxResearch.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-05-04T16:00:39.717623+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 25 April–1 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-01-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (EAPN): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-01-ResearchAffairs-seats.png"
+        length="179168"
+        type="image/png"/>
+      <pubDate>Sat, 04 May 2019 17:44:48 +0200</pubDate>
+      <dc:date>2019-05-04T17:44:48.367379+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 25 April–1 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-01-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-01-ResearchAffairs-coalitions-seats.png"
+        length="110391"
+        type="image/png"/>
+      <pubDate>Sat, 04 May 2019 17:44:48 +0200</pubDate>
+      <dc:date>2019-05-04T17:44:48.367379+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 25 April–1 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-01-ResearchAffairs.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 26.3–31.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.4–29.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (EAPN): 19.5–24.6%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 8.3–12.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 5.6–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-01-ResearchAffairs.png"
         length="213013"
         type="image/png"/>
-      <pubDate>Sat, 04 May 2019 14:24:43 +0200</pubDate>
-      <dc:date>2019-05-04T14:24:43.378342+02:00</dc:date>
+      <pubDate>Sat, 04 May 2019 17:44:48 +0200</pubDate>
+      <dc:date>2019-05-04T17:44:48.367379+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 11–17 April 2019 – Seat Projections for the Parties</title>
@@ -289,6 +309,6 @@
       <pubDate>Wed, 16 Jan 2019 20:59:17 +0100</pubDate>
       <dc:date>2019-01-16T20:59:17.817393+01:00</dc:date>
     </item>
-    <dc:date>2019-05-04T16:00:39.717623+02:00</dc:date>
+    <dc:date>2019-05-04T17:44:48.367379+02:00</dc:date>
   </channel>
 </rss>
