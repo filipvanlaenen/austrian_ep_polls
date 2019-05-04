@@ -11,8 +11,8 @@ Last result: **19.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.5% | 20.5–24.7% | 20.0–25.4% | 19.5–25.9% | 18.7–26.9% |
-| [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 22.0% | N/A | N/A | N/A | N/A |
-| [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | N/A | N/A | N/A | N/A |
+| [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.3–24.9% |
+| [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | 20.3–23.7% | 19.9–24.2% | 19.5–24.6% | 18.7–25.5% |
 | [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | 20.4–23.8% | 20.0–24.3% | 19.6–24.7% | 18.8–25.6% |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 22.0% | 20.2–24.0% | 19.7–24.6% | 19.3–25.0% | 18.5–26.0% |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
@@ -133,8 +133,8 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research |  |  |  |  |  |
-| [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
