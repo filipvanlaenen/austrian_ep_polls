@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 May 2019 17:44:48 +0200</pubDate>
+    <pubDate>Sun, 05 May 2019 15:44:31 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demox Research, 25 April–2 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-02-DemoxResearch.html#seats</link>
@@ -160,6 +160,36 @@
       <dc:date>2019-04-18T09:35:54.638457+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Demox Research, 28 March–11 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-04-11-DemoxResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (EAPN): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-04-11-DemoxResearch-seats.png"
+        length="152260"
+        type="image/png"/>
+      <pubDate>Sun, 05 May 2019 15:44:31 +0200</pubDate>
+      <dc:date>2019-05-05T15:44:31.390856+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demox Research, 28 March–11 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-04-11-DemoxResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-04-11-DemoxResearch-coalitions-seats.png"
+        length="89351"
+        type="image/png"/>
+      <pubDate>Sun, 05 May 2019 15:44:31 +0200</pubDate>
+      <dc:date>2019-05-05T15:44:31.390856+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demox Research, 28 March–11 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-04-11-DemoxResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.7–35.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.8–29.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (EAPN): 21.9–26.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.8–8.4%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 4.9–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-04-11-DemoxResearch.png"
+        length="196276"
+        type="image/png"/>
+      <pubDate>Sun, 05 May 2019 15:44:31 +0200</pubDate>
+      <dc:date>2019-05-05T15:44:31.390856+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 28 March–3 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-04-03-ResearchAffairs.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (EAPN): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -309,6 +339,6 @@
       <pubDate>Wed, 16 Jan 2019 20:59:17 +0100</pubDate>
       <dc:date>2019-01-16T20:59:17.817393+01:00</dc:date>
     </item>
-    <dc:date>2019-05-04T17:44:48.367379+02:00</dc:date>
+    <dc:date>2019-05-05T15:44:31.390856+02:00</dc:date>
   </channel>
 </rss>
