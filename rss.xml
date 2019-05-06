@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 May 2019 17:42:53 +0200</pubDate>
+    <pubDate>Mon, 06 May 2019 19:20:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 29 April–2 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-02-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (EAPN): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-02-OGM-seats.png"
+        length="170885"
+        type="image/png"/>
+      <pubDate>Mon, 06 May 2019 19:20:07 +0200</pubDate>
+      <dc:date>2019-05-06T19:20:07.481653+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 29 April–2 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-02-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-02-OGM-coalitions-seats.png"
+        length="103201"
+        type="image/png"/>
+      <pubDate>Mon, 06 May 2019 19:20:07 +0200</pubDate>
+      <dc:date>2019-05-06T19:20:07.481653+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by OGM for KURIER, 29 April–2 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-02-OGM.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-02-OGM.png"
         length="212584"
         type="image/png"/>
-      <pubDate>Sun, 05 May 2019 17:42:53 +0200</pubDate>
-      <dc:date>2019-05-05T17:42:53.837993+02:00</dc:date>
+      <pubDate>Mon, 06 May 2019 19:20:07 +0200</pubDate>
+      <dc:date>2019-05-06T19:20:07.481653+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demox Research, 25 April–2 May 2019 – Seat Projections for the Parties</title>
@@ -349,6 +369,6 @@
       <pubDate>Wed, 16 Jan 2019 20:59:17 +0100</pubDate>
       <dc:date>2019-01-16T20:59:17.817393+01:00</dc:date>
     </item>
-    <dc:date>2019-05-05T17:42:53.837993+02:00</dc:date>
+    <dc:date>2019-05-06T19:20:07.481653+02:00</dc:date>
   </channel>
 </rss>
