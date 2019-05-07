@@ -10,7 +10,7 @@ Last result: **27.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.2% | 28.1–35.2% | 27.4–36.0% | 26.8–36.6% | 25.9–37.8% |
+| N/A | [Poll Average](average.html) | 32.2% | 28.1–35.2% | 27.4–36.0% | 26.9–36.6% | 25.9–37.8% |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 30.5% | 28.5–32.5% | 28.0–33.1% | 27.5–33.6% | 26.6–34.6% |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 34.0% | 32.4–35.6% | 32.0–36.0% | 31.6–36.4% | 30.9–37.2% |
 | [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29.0% | 27.3–30.9% | 26.7–31.5% | 26.3–31.9% | 25.5–32.9% |
@@ -112,7 +112,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0.2% | 100% |  |
-| 25.5–26.5% | 1.3% | 99.7% |  |
+| 25.5–26.5% | 1.3% | 99.8% |  |
 | 26.5–27.5% | 4% | 98% | Last Result |
 | 27.5–28.5% | 9% | 94% |  |
 | 28.5–29.5% | 11% | 85% |  |
@@ -239,9 +239,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 7% | 100% | Last Result |
-| 6 | 56% | 93% | Median |
-| 7 | 36% | 37% |  |
+| 5 | 9% | 100% | Last Result |
+| 6 | 55% | 91% | Median |
+| 7 | 35% | 37% |  |
 | 8 | 1.2% | 1.2% |  |
 | 9 | 0% | 0% |  |
 
