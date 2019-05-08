@@ -21,7 +21,7 @@ Last result: **27.0%** (General Election of 25 May 2014)
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.2–31.9% | 25.4–32.8% |
 | [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28.0% | 26.3–29.9% | 25.8–30.5% | 25.3–30.9% | 24.5–31.8% |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
-| [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 33.0% | N/A | N/A | N/A | N/A |
+| [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28.0% | N/A | N/A | N/A | N/A |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
@@ -148,7 +148,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5 | 5 | 5 | 5 | 5–6 |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
+| [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
