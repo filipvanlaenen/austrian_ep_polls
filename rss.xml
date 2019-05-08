@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 06 May 2019 19:20:07 +0200</pubDate>
+    <pubDate>Wed, 08 May 2019 06:51:54 +0200</pubDate>
     <item>
       <title>Opinion Poll by OGM for KURIER, 29 April–2 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-05-02-OGM.html#seats</link>
@@ -270,6 +270,16 @@
       <dc:date>2019-04-12T10:45:43.54342+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Unique Research for Heute, 4–7 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-07-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.0–30.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (EAPN): 21.2–27.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 5.4–9.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 4.6–7.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-07-UniqueResearch.png"
+        length="211757"
+        type="image/png"/>
+      <pubDate>Wed, 08 May 2019 06:51:54 +0200</pubDate>
+      <dc:date>2019-05-08T06:51:54.034108+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSA for SWG, 27 February–1 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-03-01-INSA.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (EAPN): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -369,6 +379,6 @@
       <pubDate>Wed, 16 Jan 2019 20:59:17 +0100</pubDate>
       <dc:date>2019-01-16T20:59:17.817393+01:00</dc:date>
     </item>
-    <dc:date>2019-05-06T19:20:07.481653+02:00</dc:date>
+    <dc:date>2019-05-08T06:51:54.034108+02:00</dc:date>
   </channel>
 </rss>
