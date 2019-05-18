@@ -11,6 +11,7 @@ Last result: **24.1%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.5% | 25.7–29.6% | 25.2–30.2% | 24.7–30.7% | 23.9–31.8% |
+| [9–15 May 2019](2019-05-15-ResearchAffairs.html) | Research Affairs | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [29 April–9 May 2019](2019-05-09-UniqueResearch.html) | Unique Research | 27.0% | 25.8–28.2% | 25.5–28.5% | 25.2–28.8% | 24.7–29.4% |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 27.6% | 25.7–29.6% | 25.1–30.1% | 24.7–30.7% | 23.8–31.6% |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 27.0% | 25.6–28.5% | 25.2–28.9% | 24.8–29.3% | 24.1–30.0% |
@@ -135,6 +136,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [9–15 May 2019](2019-05-15-ResearchAffairs.html) | Research Affairs | 5 | 5 | 5 | 5–6 | 5–6 |
 | [29 April–9 May 2019](2019-05-09-UniqueResearch.html) | Unique Research | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
