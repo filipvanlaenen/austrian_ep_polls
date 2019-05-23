@@ -10,7 +10,7 @@ Last result: **27.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.0% | 28.7–35.5% | 27.9–36.2% | 27.3–36.8% | 26.2–38.0% |
+| N/A | [Poll Average](average.html) | 30.4% | 28.3–34.3% | 27.6–35.1% | 27.1–35.6% | 26.1–36.6% |
 | [9–15 May 2019](2019-05-15-ResearchAffairs.html) | Research Affairs | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [29 April–9 May 2019](2019-05-09-UniqueResearch.html) | Unique Research | 30.0% | 28.8–31.2% | 28.5–31.6% | 28.2–31.9% | 27.7–32.5% |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 30.5% | 28.5–32.5% | 28.0–33.1% | 27.5–33.6% | 26.6–34.6% |
@@ -113,22 +113,21 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.8% | 99.9% |  |
-| 26.5–27.5% | 3% | 99.1% | Last Result |
-| 27.5–28.5% | 5% | 96% |  |
-| 28.5–29.5% | 7% | 91% |  |
-| 29.5–30.5% | 6% | 84% |  |
-| 30.5–31.5% | 8% | 78% |  |
-| 31.5–32.5% | 13% | 70% |  |
-| 32.5–33.5% | 18% | 57% | Median |
-| 33.5–34.5% | 18% | 39% |  |
-| 34.5–35.5% | 12% | 21% |  |
-| 35.5–36.5% | 6% | 10% |  |
-| 36.5–37.5% | 2% | 3% |  |
-| 37.5–38.5% | 0.7% | 0.9% |  |
-| 38.5–39.5% | 0.2% | 0.2% |  |
-| 39.5–40.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.2% | 100% |  |
+| 25.5–26.5% | 0.9% | 99.8% |  |
+| 26.5–27.5% | 3% | 98.9% | Last Result |
+| 27.5–28.5% | 9% | 95% |  |
+| 28.5–29.5% | 17% | 87% |  |
+| 29.5–30.5% | 21% | 70% | Median |
+| 30.5–31.5% | 15% | 48% |  |
+| 31.5–32.5% | 8% | 33% |  |
+| 32.5–33.5% | 8% | 25% |  |
+| 33.5–34.5% | 9% | 17% |  |
+| 34.5–35.5% | 6% | 8% |  |
+| 35.5–36.5% | 2% | 3% |  |
+| 36.5–37.5% | 0.5% | 0.5% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -139,7 +138,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [9–15 May 2019](2019-05-15-ResearchAffairs.html) | Research Affairs | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [29 April–9 May 2019](2019-05-09-UniqueResearch.html) | Unique Research | 6 | 6 | 5–6 | 5–6 | 5–6 |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 6 | 6 | 5–7 | 5–7 | 5–7 |
@@ -243,10 +242,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 6% | 100% | Last Result |
-| 6 | 49% | 94% | Median |
-| 7 | 44% | 45% |  |
-| 8 | 1.4% | 1.4% |  |
-| 9 | 0% | 0% |  |
+| 5 | 9% | 100% | Last Result |
+| 6 | 69% | 91% | Median |
+| 7 | 22% | 22% |  |
+| 8 | 0% | 0% |  |
 
 
