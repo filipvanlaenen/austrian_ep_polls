@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-06-09T12:06:14.936044+02:00</updated>
+  <updated>2019-06-10T23:20:52.412928+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 34.7–41.4%, 7–8 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 19.3–25.0%, 3–5 seats</li><li>Freiheitliche Partei Österreichs (EAPN): 16.5–21.9%, 3–4 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (ALDE): 7.2–11.2%, 1–2 seats</li><li>JETZT–Liste Pilz (Greens/EFA): 0.5–2.0%, 0 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 8.1–12.3%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2019-06-06-Market.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2019-06-06-Market.html"/>
+    <title>Opinion Poll by Market for Der Standard, 5–6 June 2019</title>
+    <updated>2019-06-10T23:20:52.412928+02:00</updated>
+    <dc:date>2019-06-10T23:20:52.412928+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 33.7–40.4%, 6–8 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 17.4–22.9%, 3–4 seats</li><li>Freiheitliche Partei Österreichs (EAPN): 18.3–24.0%, 3–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (ALDE): 8.1–12.3%, 1–2 seats</li><li>JETZT–Liste Pilz (Greens/EFA): 0.5–2.0%, 0 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 8.1–12.3%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2019-06-05-UniqueResearch.html</id>
@@ -55,5 +63,5 @@
     <updated>2019-06-09T11:30:10.030369+02:00</updated>
     <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
   </entry>
-  <dc:date>2019-06-09T12:06:14.936044+02:00</dc:date>
+  <dc:date>2019-06-10T23:20:52.412928+02:00</dc:date>
 </feed>
