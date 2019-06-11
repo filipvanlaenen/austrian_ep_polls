@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 27.0% <br> 5 | 24.1% <br> 5 | 19.7% <br> 4 | 14.5% <br> 3 | 8.1% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 34–41% <br> 6–8 | 18–25% <br> 3–5 | 16–23% <br> 3–4 | 7–12% <br> 1–2 | 7–12% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
-| [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 35–41% <br> 7–8 | 19–25% <br> 4–5 | 16–22% <br> 3–4 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
+| [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 35–41% <br> 7–8 | 19–25% <br> 3–5 | 16–22% <br> 3–4 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 34–40% <br> 6–8 | 17–23% <br> 3–4 | 18–24% <br> 3–5 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 35–41% <br> 7–9 | 20–26% <br> 4–5 | 15–19% <br> 3–4 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 35–41% <br> 7–8 | 20–25% <br> 4–5 | 16–21% <br> 3–4 | 7–10% <br> 1–2 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
@@ -191,9 +191,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 3% | 100% |  |
-| 7 | 62% | 97% | Median |
-| 8 | 35% | 36% |  |
-| 9 | 0.7% | 0.7% |  |
+| 7 | 61% | 97% | Median |
+| 8 | 36% | 37% |  |
+| 9 | 0.8% | 0.8% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -204,8 +204,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 7% | 100% |  |
-| 4 | 75% | 93% | Median |
+| 3 | 8% | 100% |  |
+| 4 | 74% | 92% | Median |
 | 5 | 18% | 18% | Last Result |
 | 6 | 0% | 0% |  |
 
@@ -218,8 +218,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 46% | 99.9% |  |
-| 4 | 53% | 54% | Last Result, Median |
+| 3 | 45% | 99.9% |  |
+| 4 | 53% | 55% | Last Result, Median |
 | 5 | 1.4% | 1.4% |  |
 | 6 | 0% | 0% |  |
 
@@ -243,8 +243,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 51% | 100% | Last Result, Median |
-| 2 | 49% | 49% |  |
+| 1 | 53% | 100% | Last Result, Median |
+| 2 | 47% | 47% |  |
 | 3 | 0% | 0% |  |
 
 ### JETZT–Liste Pilz (Greens/EFA)
@@ -281,9 +281,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 3% | 100% |  |
-| 7 | 62% | 97% | Median |
-| 8 | 35% | 36% |  |
-| 9 | 0.7% | 0.7% |  |
+| 7 | 61% | 97% | Median |
+| 8 | 36% | 37% |  |
+| 9 | 0.8% | 0.8% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -292,8 +292,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 7% | 100% |  |
-| 4 | 75% | 93% | Median |
+| 3 | 8% | 100% |  |
+| 4 | 74% | 92% | Median |
 | 5 | 18% | 18% | Last Result |
 | 6 | 0% | 0% |  |
 
@@ -304,8 +304,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 46% | 99.9% |  |
-| 4 | 53% | 54% | Last Result, Median |
+| 3 | 45% | 99.9% |  |
+| 4 | 53% | 55% | Last Result, Median |
 | 5 | 1.4% | 1.4% |  |
 | 6 | 0% | 0% |  |
 
@@ -325,8 +325,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 51% | 100% | Last Result, Median |
-| 2 | 49% | 49% |  |
+| 1 | 53% | 100% | Last Result, Median |
+| 2 | 47% | 47% |  |
 | 3 | 0% | 0% |  |
 
 ### Meine Stimme Gilt! (*)
@@ -341,6 +341,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
-+ **Error estimate:** 1.55%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 1.34%
