@@ -10,6 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 27.0% <br> 5 | 24.1% <br> 5 | 19.7% <br> 4 | 14.5% <br> 3 | 8.1% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 34–41% <br> 6–8 | 18–25% <br> 3–5 | 16–23% <br> 3–4 | 7–12% <br> 1–2 | 7–12% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
+| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 35–41% <br> 7–8 | 19–25% <br> 3–5 | 16–22% <br> 3–4 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 34–40% <br> 6–8 | 17–23% <br> 3–4 | 18–24% <br> 3–5 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 35–41% <br> 7–9 | 20–26% <br> 4–5 | 15–19% <br> 3–4 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
@@ -340,7 +341,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Number of polls included in this average:** 6
++ **Lowest number of simulations done in a poll included in this average:** 0
 + **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.34%
