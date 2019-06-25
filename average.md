@@ -192,8 +192,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 2% | 100% |  |
-| 7 | 51% | 98% | Median |
-| 8 | 47% | 47% |  |
+| 7 | 52% | 98% | Median |
+| 8 | 46% | 47% |  |
 | 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -232,8 +232,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 37% | 100% |  |
-| 2 | 62% | 63% | Median |
+| 1 | 36% | 100% |  |
+| 2 | 63% | 64% | Median |
 | 3 | 0.6% | 0.6% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -283,8 +283,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 2% | 100% |  |
-| 7 | 51% | 98% | Median |
-| 8 | 47% | 47% |  |
+| 7 | 52% | 98% | Median |
+| 8 | 46% | 47% |  |
 | 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -317,8 +317,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 37% | 100% |  |
-| 2 | 62% | 63% | Median |
+| 1 | 36% | 100% |  |
+| 2 | 63% | 64% | Median |
 | 3 | 0.6% | 0.6% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -344,6 +344,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.08%
