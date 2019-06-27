@@ -12,8 +12,8 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Österreichische Volkspartei (EPP) | 27.0% | 37.7% | 35.8–39.7% |35.2–40.3% |34.7–40.8% |33.8–41.7% |
 | Sozialdemokratische Partei Österreichs (S&D) | 24.1% | 22.6% | 21.0–24.4% |20.5–24.9% |20.1–25.3% |19.3–26.2% |
-| Freiheitliche Partei Österreichs (EAPN) | 19.7% | 18.6% | 17.1–20.3% |16.7–20.7% |16.3–21.1% |15.6–21.9% |
-| NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 8.1% | 10.6% | 9.4–11.9% |9.1–12.3% |8.8–12.7% |8.3–13.3% |
+| Freiheitliche Partei Österreichs (ID) | 19.7% | 18.6% | 17.1–20.3% |16.7–20.7% |16.3–21.1% |15.6–21.9% |
+| NEOS–Das Neue Österreich und Liberales Forum (RE) | 8.1% | 10.6% | 9.4–11.9% |9.1–12.3% |8.8–12.7% |8.3–13.3% |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) | 14.5% | 8.5% | 7.5–9.7% |7.2–10.1% |6.9–10.4% |6.4–11.0% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -28,8 +28,8 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 5 | 7 | 7–8 |7–8 |7–8 |6–8 |
 | <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 4 | 4–5 |4–5 |4–5 |3–5 |
-| <a href="#freiheitliche-partei-österreichs-(eapn)">Freiheitliche Partei Österreichs (EAPN)</a> | 4 | 3 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#neos–das-neue-österreich-und-liberales-forum-(alde)">NEOS–Das Neue Österreich und Liberales Forum (ALDE)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 4 | 3 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 3 | 1 | 1–2 |1–2 |1–2 |1–2 |
 
 ### Österreichische Volkspartei (EPP)
@@ -60,11 +60,11 @@
 | 5 | 20% | 20% | Last Result |
 | 6 | 0% | 0% |  |
 
-### Freiheitliche Partei Österreichs (EAPN)
+### Freiheitliche Partei Österreichs (ID)
 
-*For a full overview of the results for this party, see the [Freiheitliche Partei Österreichs (EAPN)](party-freiheitlicheparteiösterreichseapn.html) page.*
+*For a full overview of the results for this party, see the [Freiheitliche Partei Österreichs (ID)](party-freiheitlicheparteiösterreichsid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-05-31-DemoxResearch-seats-pmf-freiheitlicheparteiösterreichseapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-05-31-DemoxResearch-seats-pmf-freiheitlicheparteiösterreichsid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -72,11 +72,11 @@
 | 4 | 37% | 37% | Last Result |
 | 5 | 0% | 0% |  |
 
-### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
+### NEOS–Das Neue Österreich und Liberales Forum (RE)
 
-*For a full overview of the results for this party, see the [NEOS–Das Neue Österreich und Liberales Forum (ALDE)](party-neos–dasneueösterreichundliberalesforumalde.html) page.*
+*For a full overview of the results for this party, see the [NEOS–Das Neue Österreich und Liberales Forum (RE)](party-neos–dasneueösterreichundliberalesforumre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-05-31-DemoxResearch-seats-pmf-neos–dasneueösterreichundliberalesforumalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-05-31-DemoxResearch-seats-pmf-neos–dasneueösterreichundliberalesforumre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -108,8 +108,8 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Österreichische Volkspartei (EPP) | 5 | 7 | 0% | 7–8 | 7–8 | 7–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs (S&D) | 5 | 4 | 0% | 4–5 | 4–5 | 4–5 | 3–5 |
-| Freiheitliche Partei Österreichs (EAPN) | 4 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
-| NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 1 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Freiheitliche Partei Österreichs (ID) | 4 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
+| NEOS–Das Neue Österreich und Liberales Forum (RE) | 1 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 
 ### Österreichische Volkspartei (EPP)
 
@@ -135,7 +135,7 @@
 | 5 | 20% | 20% | Last Result |
 | 6 | 0% | 0% |  |
 
-### Freiheitliche Partei Österreichs (EAPN)
+### Freiheitliche Partei Österreichs (ID)
 
 ![Graph with seats probability mass function not yet produced](2019-05-31-DemoxResearch-coalitions-seats-pmf-fpö.png "Seats Probability Mass Function")
 
@@ -145,7 +145,7 @@
 | 4 | 37% | 37% | Last Result |
 | 5 | 0% | 0% |  |
 
-### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
+### NEOS–Das Neue Österreich und Liberales Forum (RE)
 
 ![Graph with seats probability mass function not yet produced](2019-05-31-DemoxResearch-coalitions-seats-pmf-neos.png "Seats Probability Mass Function")
 

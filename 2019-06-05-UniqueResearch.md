@@ -11,9 +11,9 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Österreichische Volkspartei (EPP) | 27.0% | 37.0% | 34.8–39.2% |34.2–39.9% |33.7–40.4% |32.7–41.5% |
-| Freiheitliche Partei Österreichs (EAPN) | 19.7% | 21.0% | 19.2–22.9% |18.7–23.5% |18.3–24.0% |17.5–24.9% |
+| Freiheitliche Partei Österreichs (ID) | 19.7% | 21.0% | 19.2–22.9% |18.7–23.5% |18.3–24.0% |17.5–24.9% |
 | Sozialdemokratische Partei Österreichs (S&D) | 24.1% | 20.0% | 18.3–21.9% |17.8–22.5% |17.4–22.9% |16.6–23.9% |
-| NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 8.1% | 10.0% | 8.7–11.5% |8.4–11.9% |8.1–12.3% |7.5–13.0% |
+| NEOS–Das Neue Österreich und Liberales Forum (RE) | 8.1% | 10.0% | 8.7–11.5% |8.4–11.9% |8.1–12.3% |7.5–13.0% |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) | 14.5% | 10.0% | 8.7–11.5% |8.4–11.9% |8.1–12.3% |7.5–13.0% |
 | JETZT–Liste Pilz (Greens/EFA) | 0.0% | 1.0% | 0.7–1.6% |0.6–1.8% |0.5–2.0% |0.4–2.3% |
 
@@ -28,9 +28,9 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 5 | 7 | 7–8 |6–8 |6–8 |6–8 |
-| <a href="#freiheitliche-partei-österreichs-(eapn)">Freiheitliche Partei Österreichs (EAPN)</a> | 4 | 4 | 3–4 |3–4 |3–5 |3–5 |
+| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 4 | 4 | 3–4 |3–4 |3–5 |3–5 |
 | <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 4 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#neos–das-neue-österreich-und-liberales-forum-(alde)">NEOS–Das Neue Österreich und Liberales Forum (ALDE)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 3 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#jetzt–liste-pilz-(greens/efa)">JETZT–Liste Pilz (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -49,11 +49,11 @@
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
-### Freiheitliche Partei Österreichs (EAPN)
+### Freiheitliche Partei Österreichs (ID)
 
-*For a full overview of the results for this party, see the [Freiheitliche Partei Österreichs (EAPN)](party-freiheitlicheparteiösterreichseapn.html) page.*
+*For a full overview of the results for this party, see the [Freiheitliche Partei Österreichs (ID)](party-freiheitlicheparteiösterreichsid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-05-UniqueResearch-seats-pmf-freiheitlicheparteiösterreichseapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-05-UniqueResearch-seats-pmf-freiheitlicheparteiösterreichsid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -75,11 +75,11 @@
 | 5 | 0.4% | 0.4% | Last Result |
 | 6 | 0% | 0% |  |
 
-### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
+### NEOS–Das Neue Österreich und Liberales Forum (RE)
 
-*For a full overview of the results for this party, see the [NEOS–Das Neue Österreich und Liberales Forum (ALDE)](party-neos–dasneueösterreichundliberalesforumalde.html) page.*
+*For a full overview of the results for this party, see the [NEOS–Das Neue Österreich und Liberales Forum (RE)](party-neos–dasneueösterreichundliberalesforumre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-05-UniqueResearch-seats-pmf-neos–dasneueösterreichundliberalesforumalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-05-UniqueResearch-seats-pmf-neos–dasneueösterreichundliberalesforumre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -119,10 +119,10 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Österreichische Volkspartei (EPP) | 5 | 7 | 0% | 7–8 | 6–8 | 6–8 | 6–8 |
-| Freiheitliche Partei Österreichs (EAPN) | 4 | 4 | 0% | 3–4 | 3–4 | 3–5 | 3–5 |
+| Freiheitliche Partei Österreichs (ID) | 4 | 4 | 0% | 3–4 | 3–4 | 3–5 | 3–5 |
 | Sozialdemokratische Partei Österreichs (S&D) | 5 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA) | 3 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum (ALDE) | 1 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum (RE) | 1 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 
 ### Österreichische Volkspartei (EPP)
 
@@ -137,7 +137,7 @@
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
-### Freiheitliche Partei Österreichs (EAPN)
+### Freiheitliche Partei Österreichs (ID)
 
 ![Graph with seats probability mass function not yet produced](2019-06-05-UniqueResearch-coalitions-seats-pmf-fpö.png "Seats Probability Mass Function")
 
@@ -169,7 +169,7 @@
 | 2 | 59% | 59% | Median |
 | 3 | 0% | 0% | Last Result |
 
-### NEOS–Das Neue Österreich und Liberales Forum (ALDE)
+### NEOS–Das Neue Österreich und Liberales Forum (RE)
 
 ![Graph with seats probability mass function not yet produced](2019-06-05-UniqueResearch-coalitions-seats-pmf-neos.png "Seats Probability Mass Function")
 
