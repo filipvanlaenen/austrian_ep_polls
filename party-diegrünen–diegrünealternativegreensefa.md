@@ -10,7 +10,7 @@ Last result: **14.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.1% | 8.3–12.2% | 7.9–12.8% | 7.5–13.3% | 6.9–14.1% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.4–12.1% | 7.9–12.7% | 7.6–13.2% | 7.0–14.0% |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 10.0% | 8.8–11.3% | 8.5–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.1% | 9.7–14.8% |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 10.0% | 8.8–11.5% | 8.4–11.9% | 8.1–12.3% | 7.6–13.0% |
@@ -30,14 +30,14 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.1% | 100% |  |
 | 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 11% | 97% |  |
-| 8.5–9.5% | 22% | 86% |  |
-| 9.5–10.5% | 26% | 64% | Median |
-| 10.5–11.5% | 19% | 38% |  |
-| 11.5–12.5% | 12% | 19% |  |
-| 12.5–13.5% | 6% | 7% |  |
-| 13.5–14.5% | 1.4% | 2% |  |
-| 14.5–15.5% | 0.2% | 0.2% | Last Result |
+| 7.5–8.5% | 10% | 98% |  |
+| 8.5–9.5% | 22% | 88% |  |
+| 9.5–10.5% | 27% | 65% | Median |
+| 10.5–11.5% | 20% | 38% |  |
+| 11.5–12.5% | 11% | 17% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 1.2% | 1.3% |  |
+| 14.5–15.5% | 0.1% | 0.1% | Last Result |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -68,9 +68,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 36% | 100% |  |
-| 2 | 63% | 64% | Median |
-| 3 | 0.6% | 0.6% | Last Result |
+| 1 | 34% | 100% |  |
+| 2 | 65% | 66% | Median |
+| 3 | 0.5% | 0.5% | Last Result |
 | 4 | 0% | 0% |  |
 
 
