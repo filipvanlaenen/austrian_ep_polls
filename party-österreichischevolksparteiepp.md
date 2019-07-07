@@ -10,7 +10,7 @@ Last result: **27.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.8% | 35.7–39.9% | 35.1–40.5% | 34.5–41.0% | 33.5–42.1% |
+| N/A | [Poll Average](average.html) | 37.6% | 35.5–39.8% | 34.8–40.4% | 34.3–41.0% | 33.3–42.0% |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs | 37.0% | 35.1–39.0% | 34.6–39.6% | 34.1–40.1% | 33.2–41.0% |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 38.0% | 35.8–40.2% | 35.2–40.9% | 34.7–41.4% | 33.7–42.5% |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 38.0% | 36.0–40.0% | 35.5–40.5% | 35.0–41.0% | 34.1–42.0% |
@@ -35,16 +35,16 @@ The following table shows the probability mass function per percentage block of 
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0.1% | 100% |  |
-| 32.5–33.5% | 0.5% | 99.9% |  |
-| 33.5–34.5% | 2% | 99.5% |  |
-| 34.5–35.5% | 6% | 97% |  |
-| 35.5–36.5% | 14% | 91% |  |
-| 36.5–37.5% | 22% | 78% |  |
-| 37.5–38.5% | 24% | 56% | Median |
-| 38.5–39.5% | 18% | 33% |  |
-| 39.5–40.5% | 10% | 14% |  |
-| 40.5–41.5% | 4% | 5% |  |
-| 41.5–42.5% | 1.0% | 1.2% |  |
+| 32.5–33.5% | 0.6% | 99.9% |  |
+| 33.5–34.5% | 3% | 99.2% |  |
+| 34.5–35.5% | 7% | 97% |  |
+| 35.5–36.5% | 15% | 89% |  |
+| 36.5–37.5% | 22% | 74% |  |
+| 37.5–38.5% | 22% | 52% | Median |
+| 38.5–39.5% | 16% | 29% |  |
+| 39.5–40.5% | 8% | 13% |  |
+| 40.5–41.5% | 3% | 4% |  |
+| 41.5–42.5% | 0.9% | 1.1% |  |
 | 42.5–43.5% | 0.2% | 0.2% |  |
 | 43.5–44.5% | 0% | 0% |  |
 
@@ -57,8 +57,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs | 8 | 8 | 7–8 | 7–8 | 7–8 |
+| N/A | [Poll Average](average.html) | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
@@ -80,9 +80,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 2% | 100% |  |
-| 7 | 53% | 98% | Median |
-| 8 | 45% | 45% |  |
-| 9 | 0.5% | 0.5% |  |
+| 7 | 54% | 98% | Median |
+| 8 | 43% | 44% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% | Majority |
 
 
