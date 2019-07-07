@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **19.7%** (General Election of 26 May 2019)
+Last result: **17.2%** (General Election of 26 May 2019)
 
 ### Confidence Intervals
 
@@ -32,10 +32,10 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.6% | 100% |  |
 | 15.5–16.5% | 4% | 99.3% |  |
-| 16.5–17.5% | 12% | 95% |  |
+| 16.5–17.5% | 12% | 95% | Last Result |
 | 17.5–18.5% | 20% | 83% |  |
 | 18.5–19.5% | 21% | 63% | Median |
-| 19.5–20.5% | 18% | 41% | Last Result |
+| 19.5–20.5% | 18% | 41% |  |
 | 20.5–21.5% | 13% | 24% |  |
 | 21.5–22.5% | 7% | 11% |  |
 | 22.5–23.5% | 3% | 4% |  |
@@ -46,7 +46,7 @@ The following table shows the probability mass function per percentage block of 
 
 ## Seats
 
-Last result: **4** seats (General Election of 26 May 2019)
+Last result: **3** seats (General Election of 26 May 2019)
 
 ### Confidence Intervals
 
@@ -73,8 +73,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 48% | 100% |  |
-| 4 | 52% | 52% | Last Result, Median |
+| 3 | 48% | 100% | Last Result |
+| 4 | 52% | 52% | Median |
 | 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 

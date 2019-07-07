@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **0.0%** (General Election of 26 May 2019)
+Last result: **1.0%** (General Election of 26 May 2019)
 
 ### Confidence Intervals
 
@@ -29,8 +29,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 71% | 97% | Median |
+| 0.0–0.5% | 3% | 100% |  |
+| 0.5–1.5% | 71% | 97% | Last Result, Median |
 | 1.5–2.5% | 24% | 27% |  |
 | 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
