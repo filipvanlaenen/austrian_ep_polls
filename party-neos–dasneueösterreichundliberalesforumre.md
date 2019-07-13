@@ -54,7 +54,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1 | 1–2 | 1–2 |
+| [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -75,8 +75,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 84% | 100% | Last Result, Median |
-| 2 | 16% | 16% |  |
+| 1 | 79% | 100% | Last Result, Median |
+| 2 | 21% | 21% |  |
 | 3 | 0% | 0% |  |
 
 

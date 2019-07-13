@@ -55,9 +55,9 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 4 | 4 | 4 | 4 | 3–5 |
-| [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -79,9 +79,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% |  |
-| 3 | 40% | 99.8% | Last Result |
-| 4 | 60% | 60% | Median |
-| 5 | 0.4% | 0.4% |  |
+| 3 | 47% | 99.8% | Last Result |
+| 4 | 52% | 53% | Median |
+| 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
 
