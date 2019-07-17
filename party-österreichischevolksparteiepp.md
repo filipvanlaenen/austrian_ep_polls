@@ -10,9 +10,10 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.6% | 35.3–39.9% | 34.5–40.6% | 33.9–41.1% | 32.6–42.3% |
+| N/A | [Poll Average](average.html) | 37.6% | 35.1–39.8% | 34.4–40.5% | 33.8–41.1% | 32.5–42.2% |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 37.0% | 34.8–39.2% | 34.2–39.9% | 33.7–40.4% | 32.7–41.5% |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36.9% | 34.2–39.8% | 33.5–40.6% | 32.8–41.2% | 31.5–42.6% |
+| [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 36.1% | N/A | N/A | N/A | N/A |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37.0% | 35.1–39.0% | 34.6–39.6% | 34.1–40.1% | 33.2–41.0% |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 38.0% | 35.8–40.2% | 35.2–40.9% | 34.7–41.4% | 33.7–42.5% |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | 36.0–40.0% | 35.5–40.5% | 35.0–41.0% | 34.1–42.0% |
@@ -34,17 +35,17 @@ The following table shows the probability mass function per percentage block of 
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0.1% | 100% |  |
 | 31.5–32.5% | 0.4% | 99.9% |  |
-| 32.5–33.5% | 1.2% | 99.5% |  |
-| 33.5–34.5% | 3% | 98% |  |
-| 34.5–35.5% | 8% | 95% | Last Result |
-| 35.5–36.5% | 15% | 87% |  |
-| 36.5–37.5% | 21% | 73% |  |
-| 37.5–38.5% | 21% | 52% | Median |
-| 38.5–39.5% | 17% | 31% |  |
-| 39.5–40.5% | 9% | 14% |  |
-| 40.5–41.5% | 4% | 5% |  |
-| 41.5–42.5% | 1.1% | 1.4% |  |
-| 42.5–43.5% | 0.3% | 0.3% |  |
+| 32.5–33.5% | 1.4% | 99.4% |  |
+| 33.5–34.5% | 4% | 98% |  |
+| 34.5–35.5% | 8% | 94% | Last Result |
+| 35.5–36.5% | 15% | 86% |  |
+| 36.5–37.5% | 21% | 71% |  |
+| 37.5–38.5% | 21% | 50% | Median |
+| 38.5–39.5% | 16% | 29% |  |
+| 39.5–40.5% | 8% | 13% |  |
+| 40.5–41.5% | 3% | 5% |  |
+| 41.5–42.5% | 1.0% | 1.3% |  |
+| 42.5–43.5% | 0.2% | 0.3% |  |
 | 43.5–44.5% | 0% | 0.1% |  |
 | 44.5–45.5% | 0% | 0% |  |
 
@@ -60,6 +61,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
@@ -83,7 +85,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 2% | 100% |  |
 | 7 | 56% | 98% | Last Result, Median |
 | 8 | 41% | 41% |  |
-| 9 | 0.4% | 0.4% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% | Majority |
 
 
