@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 18 Jul 2019 12:19:08 +0200</pubDate>
+    <pubDate>Thu, 18 Jul 2019 17:47:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 8–12 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-12-UniqueResearch.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-07-13T13:50:00.015562+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Market for Der Standard, 8–9 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-09-Market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-09-Market-seats.png"
+        length="219796"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 17:47:12 +0200</pubDate>
+      <dc:date>2019-07-18T17:47:12.402462+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 8–9 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-09-Market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-09-Market-coalitions-seats.png"
+        length="144438"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 17:47:12 +0200</pubDate>
+      <dc:date>2019-07-18T17:47:12.402462+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Market for Der Standard, 8–9 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-09-Market.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 32.8–39.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 18.3–23.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 17.3–22.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.1–12.3%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 9.0–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-09-Market.png"
         length="226199"
         type="image/png"/>
-      <pubDate>Thu, 18 Jul 2019 12:19:08 +0200</pubDate>
-      <dc:date>2019-07-18T12:19:08.108365+02:00</dc:date>
+      <pubDate>Thu, 18 Jul 2019 17:47:12 +0200</pubDate>
+      <dc:date>2019-07-18T17:47:12.402462+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 27 June–4 July 2019 – Seat Projections for the Parties</title>
@@ -409,6 +429,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-07-18T12:19:08.108365+02:00</dc:date>
+    <dc:date>2019-07-18T17:47:12.402462+02:00</dc:date>
   </channel>
 </rss>
