@@ -188,8 +188,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 5% | 100% |  |
-| 7 | 60% | 95% | Last Result, Median |
-| 8 | 34% | 35% |  |
+| 7 | 61% | 95% | Last Result, Median |
+| 8 | 34% | 34% |  |
 | 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -202,8 +202,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 16% | 100% |  |
-| 4 | 78% | 84% | Median |
-| 5 | 5% | 5% | Last Result |
+| 4 | 79% | 84% | Median |
+| 5 | 5% | 6% | Last Result |
 | 6 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -216,7 +216,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% |  |
 | 3 | 44% | 99.8% | Last Result |
-| 4 | 56% | 56% | Median |
+| 4 | 55% | 56% | Median |
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
@@ -278,8 +278,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 5% | 100% |  |
-| 7 | 60% | 95% | Last Result, Median |
-| 8 | 34% | 35% |  |
+| 7 | 61% | 95% | Last Result, Median |
+| 8 | 34% | 34% |  |
 | 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -290,8 +290,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 16% | 100% |  |
-| 4 | 78% | 84% | Median |
-| 5 | 5% | 5% | Last Result |
+| 4 | 79% | 84% | Median |
+| 5 | 5% | 6% | Last Result |
 | 6 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -302,7 +302,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% |  |
 | 3 | 44% | 99.8% | Last Result |
-| 4 | 56% | 56% | Median |
+| 4 | 55% | 56% | Median |
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
@@ -339,6 +339,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 2.38%
