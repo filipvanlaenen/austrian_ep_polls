@@ -183,8 +183,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 4% | 100% |  |
-| 7 | 63% | 96% | Last Result, Median |
-| 8 | 32% | 33% |  |
+| 7 | 62% | 96% | Last Result, Median |
+| 8 | 33% | 33% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -198,7 +198,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 15% | 100% |  |
 | 4 | 81% | 85% | Median |
-| 5 | 3% | 3% | Last Result |
+| 5 | 4% | 4% | Last Result |
 | 6 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -209,8 +209,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 38% | 100% | Last Result |
-| 4 | 61% | 62% | Median |
+| 3 | 39% | 100% | Last Result |
+| 4 | 60% | 61% | Median |
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
@@ -224,7 +224,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 6% | 100% |  |
 | 2 | 93% | 94% | Last Result, Median |
-| 3 | 2% | 2% |  |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -272,8 +272,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 4% | 100% |  |
-| 7 | 63% | 96% | Last Result, Median |
-| 8 | 32% | 33% |  |
+| 7 | 62% | 96% | Last Result, Median |
+| 8 | 33% | 33% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -285,7 +285,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 15% | 100% |  |
 | 4 | 81% | 85% | Median |
-| 5 | 3% | 3% | Last Result |
+| 5 | 4% | 4% | Last Result |
 | 6 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -294,8 +294,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 38% | 100% | Last Result |
-| 4 | 61% | 62% | Median |
+| 3 | 39% | 100% | Last Result |
+| 4 | 60% | 61% | Median |
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
@@ -307,7 +307,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 6% | 100% |  |
 | 2 | 93% | 94% | Last Result, Median |
-| 3 | 2% | 2% |  |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -332,6 +332,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.25%
