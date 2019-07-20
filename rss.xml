@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Jul 2019 11:54:02 +0200</pubDate>
+    <pubDate>Sat, 20 Jul 2019 16:10:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 5–17 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-17-ResearchAffairs.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-17-ResearchAffairs.png"
         length="218099"
         type="image/png"/>
-      <pubDate>Sat, 20 Jul 2019 11:54:02 +0200</pubDate>
-      <dc:date>2019-07-20T11:54:02.747033+02:00</dc:date>
+      <pubDate>Sat, 20 Jul 2019 16:10:22 +0200</pubDate>
+      <dc:date>2019-07-20T16:10:22.918374+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 8–12 July 2019 – Seat Projections for the Parties</title>
@@ -439,6 +439,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-07-20T11:54:02.747033+02:00</dc:date>
+    <dc:date>2019-07-20T16:10:22.918374+02:00</dc:date>
   </channel>
 </rss>
