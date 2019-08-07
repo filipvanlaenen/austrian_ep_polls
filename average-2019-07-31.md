@@ -187,7 +187,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 6% | 100% |  |
-| 7 | 62% | 94% | Last Result, Median |
+| 7 | 63% | 94% | Last Result, Median |
 | 8 | 31% | 31% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% | Majority |
@@ -215,7 +215,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 36% | 100% | Last Result |
 | 4 | 63% | 64% | Median |
-| 5 | 1.1% | 1.1% |  |
+| 5 | 1.2% | 1.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -228,7 +228,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 8% | 100% |  |
 | 2 | 91% | 92% | Last Result, Median |
-| 3 | 1.3% | 1.3% |  |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -239,8 +239,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 73% | 100% | Last Result, Median |
-| 2 | 27% | 27% |  |
+| 1 | 72% | 100% | Last Result, Median |
+| 2 | 27% | 28% |  |
 | 3 | 0% | 0% |  |
 
 ### JETZT–Liste Pilz (Greens/EFA)
@@ -276,7 +276,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 6% | 100% |  |
-| 7 | 62% | 94% | Last Result, Median |
+| 7 | 63% | 94% | Last Result, Median |
 | 8 | 31% | 31% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% | Majority |
@@ -300,7 +300,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 36% | 100% | Last Result |
 | 4 | 63% | 64% | Median |
-| 5 | 1.1% | 1.1% |  |
+| 5 | 1.2% | 1.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA)
@@ -311,7 +311,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 8% | 100% |  |
 | 2 | 91% | 92% | Last Result, Median |
-| 3 | 1.3% | 1.3% |  |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -320,8 +320,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 73% | 100% | Last Result, Median |
-| 2 | 27% | 27% |  |
+| 1 | 72% | 100% | Last Result, Median |
+| 2 | 27% | 28% |  |
 | 3 | 0% | 0% |  |
 
 ### Meine Stimme Gilt! (*)
@@ -336,6 +336,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
-+ **Error estimate:** 1.25%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 2.04%
