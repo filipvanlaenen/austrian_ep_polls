@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 10 Aug 2019 11:30:56 +0200</pubDate>
+    <pubDate>Mon, 19 Aug 2019 07:45:30 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–7 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-07-ResearchAffairs.html</link>
@@ -16,8 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-07-ResearchAffairs.png"
         length="243277"
         type="image/png"/>
-      <pubDate>Sat, 10 Aug 2019 11:30:56 +0200</pubDate>
-      <dc:date>2019-08-10T11:30:56.690853+02:00</dc:date>
+      <pubDate>Mon, 19 Aug 2019 07:34:22 +0200</pubDate>
+      <dc:date>2019-08-19T07:34:22.042027+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 2–5 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-05-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 31.8–38.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 19.3–25.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 17.4–22.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.1–12.3%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 8.1–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-05-Market.png"
+        length="228857"
+        type="image/png"/>
+      <pubDate>Mon, 19 Aug 2019 07:45:30 +0200</pubDate>
+      <dc:date>2019-08-19T07:45:30.27078+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 25–31 July 2019 – Seat Projections for the Parties</title>
@@ -529,6 +539,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-08-10T11:30:56.690853+02:00</dc:date>
+    <dc:date>2019-08-19T07:45:30.27078+02:00</dc:date>
   </channel>
 </rss>
