@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 |
-| [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 6–8 | 18–25% <br> 3–5 | 16–23% <br> 3–4 | 9–14% <br> 1–3 | 7–12% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A |
+| [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 32–38% <br> 6–8 | 20–26% <br> 4–5 | 17–23% <br> 3–4 | 9–13% <br> 1–2 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 6–8 | 19–26% <br> 3–5 | 17–24% <br> 3–5 | 8–13% <br> 1–2 | 6–11% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 32–38% <br> 6–8 | 19–25% <br> 3–5 | 17–23% <br> 3–4 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 6–8 | 19–26% <br> 3–5 | 17–24% <br> 3–4 | 9–14% <br> 1–2 | 6–11% <br> 1–2 | 0–2% <br> 0 | N/A <br> N/A |
