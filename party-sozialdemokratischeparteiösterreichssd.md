@@ -11,8 +11,8 @@ Last result: **23.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.8% | 18.8–23.0% | 18.3–23.7% | 17.8–24.4% | 16.9–25.8% |
-| [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20.9% | N/A | N/A | N/A | N/A |
-| [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 23.0% | N/A | N/A | N/A | N/A |
+| [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20.9% | 18.8–23.4% | 18.2–24.1% | 17.6–24.7% | 16.6–25.9% |
+| [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.3–26.1% | 19.4–27.0% |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | 19.8–24.5% | 19.1–25.2% | 18.6–25.8% | 17.6–27.0% |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21.9% | 19.7–24.4% | 19.1–25.1% | 18.5–25.7% | 17.5–27.0% |
@@ -64,8 +64,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
-| [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
+| [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
