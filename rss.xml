@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 29 Aug 2019 19:08:57 +0200</pubDate>
+    <pubDate>Fri, 30 Aug 2019 06:54:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 19–22 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-22-UniqueResearch.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-22-UniqueResearch.png"
         length="224061"
         type="image/png"/>
-      <pubDate>Thu, 29 Aug 2019 19:01:09 +0200</pubDate>
-      <dc:date>2019-08-29T19:01:09.855182+02:00</dc:date>
+      <pubDate>Fri, 30 Aug 2019 06:54:35 +0200</pubDate>
+      <dc:date>2019-08-30T06:54:35.849506+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 16–21 August 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-21-ResearchAffairs.png"
         length="242894"
         type="image/png"/>
-      <pubDate>Thu, 29 Aug 2019 19:08:57 +0200</pubDate>
-      <dc:date>2019-08-29T19:08:57.846699+02:00</dc:date>
+      <pubDate>Thu, 29 Aug 2019 22:54:55 +0200</pubDate>
+      <dc:date>2019-08-29T22:54:55.855374+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 9–14 August 2019 – Seat Projections for the Parties</title>
@@ -659,6 +659,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-08-29T19:08:57.846699+02:00</dc:date>
+    <dc:date>2019-08-30T06:54:35.849506+02:00</dc:date>
   </channel>
 </rss>
