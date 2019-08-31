@@ -59,7 +59,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 21% | 100% |  |
 | 4 | 78% | 79% | Median |
-| 5 | 0.7% | 0.7% | Last Result |
+| 5 | 1.0% | 1.0% | Last Result |
 | 6 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -71,8 +71,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 23% | 100% | Last Result |
-| 4 | 77% | 77% | Median |
-| 5 | 0.7% | 0.7% |  |
+| 4 | 76% | 77% | Median |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -83,9 +83,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.2% | 100% |  |
-| 2 | 94% | 98.8% | Last Result, Median |
-| 3 | 5% | 5% |  |
+| 1 | 1.1% | 100% |  |
+| 2 | 95% | 98.9% | Last Result, Median |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -96,8 +96,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 67% | 100% | Last Result, Median |
-| 2 | 33% | 33% |  |
+| 1 | 68% | 100% | Last Result, Median |
+| 2 | 32% | 32% |  |
 | 3 | 0% | 0% |  |
 
 ### JETZT–Liste Pilz (Greens/EFA)
@@ -143,8 +143,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 23% | 100% | Last Result |
-| 4 | 77% | 77% | Median |
-| 5 | 0.7% | 0.7% |  |
+| 4 | 76% | 77% | Median |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -155,7 +155,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 21% | 100% |  |
 | 4 | 78% | 79% | Median |
-| 5 | 0.7% | 0.7% | Last Result |
+| 5 | 1.0% | 1.0% | Last Result |
 | 6 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA)
@@ -164,9 +164,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.2% | 100% |  |
-| 2 | 94% | 98.8% | Last Result, Median |
-| 3 | 5% | 5% |  |
+| 1 | 1.1% | 100% |  |
+| 2 | 95% | 98.9% | Last Result, Median |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -175,8 +175,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 67% | 100% | Last Result, Median |
-| 2 | 33% | 33% |  |
+| 1 | 68% | 100% | Last Result, Median |
+| 2 | 32% | 32% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -191,6 +191,6 @@
 ### Calculations
 
 + **Sample size:** 800
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.99%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.55%
 
