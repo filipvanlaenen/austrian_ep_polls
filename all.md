@@ -6,6 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 6–8 | 19–26% <br> 3–5 | 17–24% <br> 3–5 | 8–14% <br> 1–2 | 6–11% <br> 1–2 | 0–2% <br> 0 | N/A <br> N/A |
+| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 33–37% <br> 6–7 | 20–22% <br> 4 | 19–21% <br> 4 | 11–13% <br> 2 | 8–10% <br> 1–2 | 1% <br> 0 | N/A <br> N/A |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 6–8 | 18–26% <br> 3–5 | 17–24% <br> 3–5 | 8–14% <br> 1–2 | 6–11% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 33–39% <br> 6–8 | 17–23% <br> 3–4 | 17–23% <br> 3–4 | 10–14% <br> 2–3 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
