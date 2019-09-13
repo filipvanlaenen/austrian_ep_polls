@@ -12,7 +12,7 @@ Last result: **14.1%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.3% | 9.8–12.9% | 9.3–13.3% | 9.0–13.7% | 8.3–14.5% |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.9% | 9.3–12.9% | 8.9–13.5% | 8.5–13.9% | 7.8–15.0% |
-| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 11.0% | N/A | N/A | N/A | N/A |
+| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 12.0% | 11.3–12.8% | 11.1–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.9% | 9.3–12.9% | 8.9–13.5% | 8.5–13.9% | 7.8–15.0% |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 12.0% | 10.6–13.6% | 10.2–14.1% | 9.9–14.4% | 9.3–15.2% |
@@ -68,7 +68,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 1–2 | 1–2 |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 2 | 2 | 2 | 2 | 2 |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 2 | 2 | 2 | 2–3 | 1–3 |

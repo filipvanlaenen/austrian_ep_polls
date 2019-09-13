@@ -12,7 +12,7 @@ Last result: **23.9%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.8% | 18.8–23.0% | 18.3–23.7% | 17.8–24.4% | 16.9–25.8% |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | 19.8–24.5% | 19.2–25.2% | 18.6–25.8% | 17.6–27.1% |
-| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 22.0% | N/A | N/A | N/A | N/A |
+| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 21.0% | 20.1–22.0% | 19.8–22.3% | 19.6–22.5% | 19.1–23.0% |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21.8% | 19.6–24.3% | 19.0–25.0% | 18.4–25.7% | 17.4–26.9% |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 20.0% | 18.3–21.9% | 17.8–22.5% | 17.4–22.9% | 16.6–23.9% |
@@ -71,7 +71,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 4 | 4 | 4 | 4 | 4 |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
