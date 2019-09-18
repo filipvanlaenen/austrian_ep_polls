@@ -13,8 +13,8 @@ Last result: **8.4%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 8.8% | 7.3–10.6% | 6.9–11.1% | 6.6–11.5% | 5.9–12.4% |
 | [1–14 September 2019](2019-09-14-OGM.html) | OGM <br> KURIER | 8.0% | 7.3–8.8% | 7.1–9.0% | 6.9–9.2% | 6.6–9.6% |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 7.3–8.7% | 7.1–9.0% | 7.0–9.2% | 6.7–9.5% |
-| [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
-| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 9.0% | N/A | N/A | N/A | N/A |
+| [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | 7.6–10.8% | 7.1–11.4% | 6.8–11.8% | 6.2–12.7% |
+| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 9.0% | 8.4–9.7% | 8.2–9.9% | 8.0–10.1% | 7.7–10.4% |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.9% | 6.6–9.7% | 6.2–10.2% | 5.9–10.6% | 5.3–11.5% |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 9.0% | 8.4–9.7% | 8.2–9.9% | 8.0–10.1% | 7.7–10.4% |
@@ -74,8 +74,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–14 September 2019](2019-09-14-OGM.html) | OGM <br> KURIER | 1 | 1 | 1 | 1 | 1–2 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 1 | 1 | 1 | 1 | 1–2 |
-| [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 |  |  |  |  |  |
+| [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 1 | 1 | 1–2 | 1–2 | 1–2 |
