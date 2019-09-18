@@ -8,17 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 18 Sep 2019 12:13:48 +0200</pubDate>
-    <item>
-      <title>Opinion Poll by OGM for KURIER, 1–14 September 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-14-OGM.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 33.0–37.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.3–23.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 18.4–21.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 6.9–9.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 9.7–12.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-14-OGM.png"
-        length="204630"
-        type="image/png"/>
-      <pubDate>Mon, 16 Sep 2019 06:49:28 +0200</pubDate>
-      <dc:date>2019-09-16T06:49:28.196184+02:00</dc:date>
-    </item>
+    <pubDate>Wed, 18 Sep 2019 15:03:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 2–13 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-13-UniqueResearch.html</link>
@@ -36,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-11-ResearchAffairs.png"
         length="242123"
         type="image/png"/>
-      <pubDate>Tue, 17 Sep 2019 22:59:53 +0200</pubDate>
-      <dc:date>2019-09-17T22:59:53.728531+02:00</dc:date>
+      <pubDate>Wed, 18 Sep 2019 15:03:44 +0200</pubDate>
+      <dc:date>2019-09-18T15:03:44.18357+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Karmasin for PULS 24, 5–10 September 2019 – Voting Intentions</title>
@@ -66,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-04-Market.png"
         length="230240"
         type="image/png"/>
-      <pubDate>Fri, 13 Sep 2019 19:03:16 +0200</pubDate>
-      <dc:date>2019-09-13T19:03:16.582635+02:00</dc:date>
+      <pubDate>Wed, 18 Sep 2019 14:55:23 +0200</pubDate>
+      <dc:date>2019-09-18T14:55:23.984981+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Karmasin for PULS 24, 29 August–3 September 2019 – Voting Intentions</title>
@@ -228,6 +218,16 @@
         type="image/png"/>
       <pubDate>Sat, 24 Aug 2019 17:39:24 +0200</pubDate>
       <dc:date>2019-08-24T17:39:24.605366+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kowarcz Marktforschung, 26 July–9 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-09-KowarczMarktforschung.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 28.8–33.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 18.1–22.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 20.0–24.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.7–10.5%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.4–2.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 11.4–14.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-09-KowarczMarktforschung.png"
+        length="217437"
+        type="image/png"/>
+      <pubDate>Wed, 18 Sep 2019 14:20:37 +0200</pubDate>
+      <dc:date>2019-09-18T14:20:37.078288+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–7 August 2019 – Seat Projections for the Parties</title>
@@ -799,6 +799,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-09-18T12:13:48.0081+02:00</dc:date>
+    <dc:date>2019-09-18T15:03:44.18357+02:00</dc:date>
   </channel>
 </rss>
