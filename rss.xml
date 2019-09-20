@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 19 Sep 2019 07:09:37 +0200</pubDate>
+    <pubDate>Fri, 20 Sep 2019 14:50:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 2–13 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-13-UniqueResearch.html</link>
@@ -46,8 +46,18 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-10-Karmasin.png"
         length="200385"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 12:13:48 +0200</pubDate>
-      <dc:date>2019-09-18T12:13:48.0081+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 14:50:44 +0200</pubDate>
+      <dc:date>2019-09-20T14:50:44.770684+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 5–8 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-08-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.8–37.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 19.3–25.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 18.4–24.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.1–12.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 8.1–12.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-08-Market.png"
+        length="232024"
+        type="image/png"/>
+      <pubDate>Fri, 20 Sep 2019 14:30:41 +0200</pubDate>
+      <dc:date>2019-09-20T14:30:41.730321+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 30 August–4 September 2019 – Voting Intentions</title>
@@ -76,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-03-Karmasin.png"
         length="199858"
         type="image/png"/>
-      <pubDate>Fri, 06 Sep 2019 21:33:50 +0200</pubDate>
-      <dc:date>2019-09-06T21:33:50.391753+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 14:47:14 +0200</pubDate>
+      <dc:date>2019-09-20T14:47:14.141593+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 22–28 August 2019 – Seat Projections for the Parties</title>
@@ -809,6 +819,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-09-19T07:09:37.476131+02:00</dc:date>
+    <dc:date>2019-09-20T14:50:44.770684+02:00</dc:date>
   </channel>
 </rss>
