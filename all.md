@@ -8,11 +8,11 @@ The table below lists all polls registered and analyzed so far.
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 31–35% <br> 6–7 | 20–24% <br> 4–5 | 18–22% <br> 3–4 | 12–14% <br> 2–3 | 7–9% <br> 1 | 2–3% <br> 0 | N/A <br> N/A |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 33–37% <br> 7 | 20–24% <br> 4–5 | 18–22% <br> 3–4 | 10–12% <br> 2 | 7–9% <br> 1 | 1–3% <br> 0 | N/A <br> N/A |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 6–8 | 19–26% <br> 3–5 | 16–23% <br> 3–4 | 9–14% <br> 1–2 | 7–12% <br> 1–2 | 0–2% <br> 0 | N/A <br> N/A |
-| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 33–37% <br> 7 | 21–24% <br> 4 | 18–20% <br> 3–4 | 11–13% <br> 2 | 8–10% <br> 1–2 | 2–3% <br> 0 | N/A <br> N/A |
-| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 33–37% <br> 6–7 | 21–24% <br> 4–5 | 18–20% <br> 3–4 | 11–13% <br> 2 | 8–10% <br> 1–2 | 2–3% <br> 0 | N/A <br> N/A |
+| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 31–37% <br> 6–7 | 19–25% <br> 4–5 | 18–24% <br> 3–5 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 6–8 | 19–26% <br> 3–5 | 17–24% <br> 3–5 | 8–14% <br> 1–2 | 6–11% <br> 1–2 | 0–2% <br> 0 | N/A <br> N/A |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 31–37% <br> 6–7 | 19–25% <br> 4–5 | 18–24% <br> 3–5 | 9–13% <br> 1–2 | 7–11% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
-| [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 33–37% <br> 6–7 | 20–22% <br> 4 | 19–21% <br> 4 | 11–13% <br> 2 | 8–10% <br> 1–2 | 1% <br> 0 | N/A <br> N/A |
+| [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 33–37% <br> 6–7 | 20–22% <br> 4 | 19–21% <br> 3–4 | 11–13% <br> 2 | 8–10% <br> 1–2 | 1% <br> 0 | N/A <br> N/A |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 6–8 | 18–26% <br> 3–5 | 17–24% <br> 3–5 | 8–14% <br> 1–2 | 6–11% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 33–39% <br> 6–8 | 17–23% <br> 3–4 | 17–23% <br> 3–4 | 10–14% <br> 2–3 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 6–8 | 18–25% <br> 3–5 | 16–23% <br> 3–4 | 9–14% <br> 1–3 | 6–11% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A |
