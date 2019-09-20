@@ -11,6 +11,7 @@ Last result: **14.1%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.3% | 9.8–12.9% | 9.3–13.3% | 9.0–13.7% | 8.3–14.5% |
+| [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 11.0% | 9.7–12.6% | 9.4–13.0% | 9.1–13.4% | 8.5–14.2% |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 13.0% | 12.1–13.9% | 11.9–14.2% | 11.7–14.4% | 11.3–14.8% |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 11.0% | 10.2–11.9% | 9.9–12.1% | 9.7–12.4% | 9.3–12.8% |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | 9.4–12.9% | 8.9–13.5% | 8.5–14.0% | 7.8–15.0% |
@@ -73,6 +74,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 2 | 2 | 2 | 2 | 2 |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
