@@ -8,17 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Sep 2019 20:06:39 +0200</pubDate>
-    <item>
-      <title>Opinion Poll by Market for Der Standard, 16–18 September 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-18-Market.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 31.8–38.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.2–26.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 17.4–22.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 6.3–10.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 9.1–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-18-Market.png"
-        length="227747"
-        type="image/png"/>
-      <pubDate>Fri, 20 Sep 2019 20:06:39 +0200</pubDate>
-      <dc:date>2019-09-20T20:06:39.945385+02:00</dc:date>
-    </item>
+    <pubDate>Fri, 20 Sep 2019 14:50:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 2–13 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-13-UniqueResearch.html</link>
@@ -829,6 +819,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-09-20T20:06:39.945385+02:00</dc:date>
+    <dc:date>2019-09-20T14:50:44.770684+02:00</dc:date>
   </channel>
 </rss>
