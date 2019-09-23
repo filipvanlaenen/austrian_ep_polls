@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Sep 2019 15:16:23 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 17:37:26 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 13–18 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-18-ResearchAffairs.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-18-ResearchAffairs.png"
         length="226126"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 09:57:54 +0200</pubDate>
-      <dc:date>2019-09-23T09:57:54.844846+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2019 16:28:02 +0200</pubDate>
+      <dc:date>2019-09-23T16:28:02.105309+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 16–18 September 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-17-Karmasin.png"
         length="199086"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 10:55:38 +0200</pubDate>
-      <dc:date>2019-09-23T10:55:38.526467+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2019 17:37:26 +0200</pubDate>
+      <dc:date>2019-09-23T17:37:26.97797+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 2–13 September 2019 – Voting Intentions</title>
@@ -859,6 +859,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-09-23T15:16:23.253898+02:00</dc:date>
+    <dc:date>2019-09-23T17:37:26.97797+02:00</dc:date>
   </channel>
 </rss>
