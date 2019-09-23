@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 |
-| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 6–7 | 20–26% <br> 4–5 | 18–23% <br> 3–4 | 10–14% <br> 2–3 | 6–10% <br> 1 | 1–3% <br> 0 | N/A <br> N/A |
+| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 6–7 | 20–26% <br> 4–5 | 18–23% <br> 3–4 | 10–14% <br> 2–3 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 32–38% <br> 6–8 | 20–26% <br> 4–5 | 17–23% <br> 3–4 | 9–13% <br> 1–2 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 29–35% <br> 6–7 | 16–22% <br> 3–4 | 23–29% <br> 4–6 | 9–14% <br> 1–2 | 6–10% <br> 1–2 | 2–5% <br> 0–1 | N/A <br> N/A |
 | [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 32–36% <br> 6–7 | 21–24% <br> 4 | 19–21% <br> 3–4 | 12–14% <br> 2–3 | 8–10% <br> 1–2 | 1% <br> 0 | N/A <br> N/A |
