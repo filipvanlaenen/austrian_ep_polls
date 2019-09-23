@@ -82,7 +82,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 4 | 4 | 4 | 3–4 | 3–4 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 4 | 4 | 4 | 3–4 | 3–4 |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 4 | 4 | 4 | 3–4 | 3–4 |
