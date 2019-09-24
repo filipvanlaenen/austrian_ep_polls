@@ -98,7 +98,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 4 | 4 | 4 | 3–4 | 3–5 |
+| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -128,7 +128,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 7% | 100% |  |
-| 4 | 81% | 93% | Median |
+| 4 | 80% | 93% | Median |
 | 5 | 13% | 13% | Last Result |
 | 6 | 0% | 0% |  |
 
