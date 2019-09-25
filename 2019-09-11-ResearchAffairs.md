@@ -45,9 +45,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 17% | 99.9% |  |
-| 7 | 70% | 83% | Last Result, Median |
-| 8 | 12% | 12% |  |
+| 6 | 19% | 99.9% |  |
+| 7 | 68% | 81% | Last Result, Median |
+| 8 | 13% | 13% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -60,8 +60,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 5% | 100% |  |
-| 4 | 73% | 95% | Median |
-| 5 | 22% | 22% | Last Result |
+| 4 | 74% | 95% | Median |
+| 5 | 21% | 21% | Last Result |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -75,8 +75,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% |  |
 | 3 | 46% | 99.8% | Last Result |
-| 4 | 53% | 53% | Median |
-| 5 | 0.8% | 0.8% |  |
+| 4 | 53% | 54% | Median |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -87,8 +87,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 13% | 100% |  |
-| 2 | 85% | 87% | Last Result, Median |
+| 1 | 12% | 100% |  |
+| 2 | 86% | 88% | Last Result, Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -100,8 +100,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 61% | 100% | Last Result, Median |
-| 2 | 39% | 39% |  |
+| 1 | 60% | 100% | Last Result, Median |
+| 2 | 40% | 40% |  |
 | 3 | 0% | 0% |  |
 
 ### JETZT–Liste Pilz (Greens/EFA)
@@ -136,9 +136,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 17% | 99.9% |  |
-| 7 | 70% | 83% | Last Result, Median |
-| 8 | 12% | 12% |  |
+| 6 | 19% | 99.9% |  |
+| 7 | 68% | 81% | Last Result, Median |
+| 8 | 13% | 13% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -149,8 +149,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 5% | 100% |  |
-| 4 | 73% | 95% | Median |
-| 5 | 22% | 22% | Last Result |
+| 4 | 74% | 95% | Median |
+| 5 | 21% | 21% | Last Result |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -162,8 +162,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% |  |
 | 3 | 46% | 99.8% | Last Result |
-| 4 | 53% | 53% | Median |
-| 5 | 0.8% | 0.8% |  |
+| 4 | 53% | 54% | Median |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA)
@@ -172,8 +172,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 13% | 100% |  |
-| 2 | 85% | 87% | Last Result, Median |
+| 1 | 12% | 100% |  |
+| 2 | 86% | 88% | Last Result, Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -183,8 +183,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 61% | 100% | Last Result, Median |
-| 2 | 39% | 39% |  |
+| 1 | 60% | 100% | Last Result, Median |
+| 2 | 40% | 40% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -199,6 +199,6 @@
 ### Calculations
 
 + **Sample size:** 511
-+ **Simulations done:** 262,144
-+ **Error estimate:** 1.75%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.99%
 
