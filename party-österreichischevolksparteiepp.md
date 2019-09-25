@@ -10,9 +10,9 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.8% | 30.9–37.6% | 30.2–38.4% | 29.7–39.0% | 28.8–40.3% |
-| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | N/A | N/A | N/A | N/A |
-| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 34.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 33.9% | 31.9–35.8% | 31.1–36.4% | 30.3–37.0% | 28.9–38.2% |
+| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
+| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 34.0% | 32.9–35.1% | 32.6–35.4% | 32.3–35.7% | 31.8–36.2% |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.3% | 30.8–39.4% |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 32.0% | 29.8–34.3% | 29.2–34.9% | 28.6–35.5% | 27.6–36.6% |
@@ -57,23 +57,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.3% | 100% |  |
-| 28.5–29.5% | 2% | 99.7% |  |
-| 29.5–30.5% | 5% | 98% |  |
-| 30.5–31.5% | 8% | 93% |  |
-| 31.5–32.5% | 8% | 85% |  |
-| 32.5–33.5% | 9% | 77% |  |
-| 33.5–34.5% | 14% | 68% |  |
-| 34.5–35.5% | 17% | 55% | Last Result, Median |
-| 35.5–36.5% | 16% | 38% |  |
-| 36.5–37.5% | 12% | 22% |  |
-| 37.5–38.5% | 6% | 10% |  |
-| 38.5–39.5% | 3% | 4% |  |
-| 39.5–40.5% | 1.0% | 1.3% |  |
-| 40.5–41.5% | 0.3% | 0.4% |  |
-| 41.5–42.5% | 0.1% | 0.1% |  |
-| 42.5–43.5% | 0% | 0% |  |
+| 25.5–26.5% | 0% | 100% |  |
+| 26.5–27.5% | 0.1% | 100% |  |
+| 27.5–28.5% | 0.2% | 99.9% |  |
+| 28.5–29.5% | 0.8% | 99.7% |  |
+| 29.5–30.5% | 2% | 98.9% |  |
+| 30.5–31.5% | 4% | 97% |  |
+| 31.5–32.5% | 11% | 92% |  |
+| 32.5–33.5% | 21% | 82% |  |
+| 33.5–34.5% | 28% | 61% | Median |
+| 34.5–35.5% | 19% | 33% | Last Result |
+| 35.5–36.5% | 9% | 13% |  |
+| 36.5–37.5% | 3% | 4% |  |
+| 37.5–38.5% | 0.9% | 1.2% |  |
+| 38.5–39.5% | 0.2% | 0.3% |  |
+| 39.5–40.5% | 0% | 0.1% |  |
+| 40.5–41.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -84,16 +83,16 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 7 | 7 | 7 | 6–7 | 6–7 |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 7 | 7 | 7 | 7 | 6–7 |
-| [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 7 | 7 | 7 | 6–7 | 6–8 |
 | [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
@@ -133,10 +132,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% |  |
-| 6 | 27% | 99.9% |  |
-| 7 | 64% | 73% | Last Result, Median |
-| 8 | 9% | 9% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 22% | 99.7% |  |
+| 7 | 76% | 77% | Last Result, Median |
+| 8 | 0.9% | 0.9% |  |
 | 9 | 0% | 0% |  |
 
 

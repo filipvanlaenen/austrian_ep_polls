@@ -29,7 +29,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 7 | 7 | 6–7 |6–8 |6–8 |6–8 |
+| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 7 | 7 | 6–8 |6–8 |6–8 |6–8 |
 | <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 4 | 4–5 |4–5 |3–5 |3–5 |
 | <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 3 | 4 | 3–4 |3–4 |3–4 |3–5 |
 | <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 2 | 2 | 1–2 |1–2 |1–2 |1–3 |
@@ -45,9 +45,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 15% | 99.9% |  |
-| 7 | 75% | 85% | Last Result, Median |
-| 8 | 10% | 10% |  |
+| 6 | 17% | 99.9% |  |
+| 7 | 70% | 83% | Last Result, Median |
+| 8 | 12% | 12% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -59,8 +59,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 4% | 100% |  |
-| 4 | 73% | 96% | Median |
+| 3 | 5% | 100% |  |
+| 4 | 73% | 95% | Median |
 | 5 | 22% | 22% | Last Result |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
@@ -73,10 +73,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.3% | 100% |  |
-| 3 | 45% | 99.7% | Last Result |
-| 4 | 54% | 55% | Median |
-| 5 | 1.0% | 1.0% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 46% | 99.8% | Last Result |
+| 4 | 53% | 53% | Median |
+| 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -100,8 +100,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 62% | 100% | Last Result, Median |
-| 2 | 38% | 38% |  |
+| 1 | 61% | 100% | Last Result, Median |
+| 2 | 39% | 39% |  |
 | 3 | 0% | 0% |  |
 
 ### JETZT–Liste Pilz (Greens/EFA)
@@ -123,7 +123,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Österreichische Volkspartei (EPP) | 7 | 7 | 0% | 6–7 | 6–8 | 6–8 | 6–8 |
+| Österreichische Volkspartei (EPP) | 7 | 7 | 0% | 6–8 | 6–8 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs (S&D) | 5 | 4 | 0% | 4–5 | 4–5 | 3–5 | 3–5 |
 | Freiheitliche Partei Österreichs (ID) | 3 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–5 |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA) | 2 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -136,9 +136,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 15% | 99.9% |  |
-| 7 | 75% | 85% | Last Result, Median |
-| 8 | 10% | 10% |  |
+| 6 | 17% | 99.9% |  |
+| 7 | 70% | 83% | Last Result, Median |
+| 8 | 12% | 12% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -148,8 +148,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 4% | 100% |  |
-| 4 | 73% | 96% | Median |
+| 3 | 5% | 100% |  |
+| 4 | 73% | 95% | Median |
 | 5 | 22% | 22% | Last Result |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
@@ -160,10 +160,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.3% | 100% |  |
-| 3 | 45% | 99.7% | Last Result |
-| 4 | 54% | 55% | Median |
-| 5 | 1.0% | 1.0% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 46% | 99.8% | Last Result |
+| 4 | 53% | 53% | Median |
+| 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA)
@@ -183,8 +183,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 62% | 100% | Last Result, Median |
-| 2 | 38% | 38% |  |
+| 1 | 61% | 100% | Last Result, Median |
+| 2 | 39% | 39% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -199,6 +199,6 @@
 ### Calculations
 
 + **Sample size:** 511
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.50%
++ **Simulations done:** 262,144
++ **Error estimate:** 1.75%
 

@@ -10,9 +10,9 @@ Last result: **14.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.5% | 9.5–13.5% | 9.0–13.9% | 8.6–14.3% | 7.9–15.0% |
-| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | N/A | N/A | N/A | N/A |
-| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 13.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 12.0% | 10.2–13.5% | 9.8–13.8% | 9.4–14.1% | 8.7–14.6% |
+| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
+| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 13.0% | 12.3–13.8% | 12.0–14.1% | 11.8–14.3% | 11.5–14.7% |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 11.0% | 9.7–12.6% | 9.4–13.0% | 9.1–13.4% | 8.5–14.2% |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 11.0% | 9.6–12.6% | 9.2–13.1% | 8.9–13.5% | 8.3–14.3% |
@@ -57,18 +57,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 2% | 99.8% |  |
-| 8.5–9.5% | 9% | 98% |  |
-| 9.5–10.5% | 18% | 89% |  |
-| 10.5–11.5% | 23% | 71% | Median |
-| 11.5–12.5% | 22% | 48% |  |
-| 12.5–13.5% | 18% | 26% |  |
-| 13.5–14.5% | 7% | 9% | Last Result |
-| 14.5–15.5% | 1.3% | 1.4% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.3% | 100% |  |
+| 8.5–9.5% | 3% | 99.7% |  |
+| 9.5–10.5% | 14% | 97% |  |
+| 10.5–11.5% | 23% | 83% |  |
+| 11.5–12.5% | 22% | 60% | Median |
+| 12.5–13.5% | 28% | 38% |  |
+| 13.5–14.5% | 9% | 9% | Last Result |
+| 14.5–15.5% | 0.5% | 0.5% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -79,9 +77,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 1–3 |
+| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 2 | 1–2 | 1–2 |
+| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 2 | 2 | 2 | 2–3 | 2–3 |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 2 | 2–3 | 2–3 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -128,9 +126,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 10% | 100% |  |
-| 2 | 84% | 90% | Last Result, Median |
-| 3 | 5% | 5% |  |
+| 1 | 2% | 100% |  |
+| 2 | 95% | 98% | Last Result, Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 
