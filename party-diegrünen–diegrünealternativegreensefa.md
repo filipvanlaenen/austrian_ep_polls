@@ -78,7 +78,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–3 | 1–3 |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 2 | 2 | 2 | 2–3 | 2–3 |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 2 | 1–2 | 1–2 |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -86,7 +86,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 2 | 2 | 2 | 2–3 | 2–3 |
-| [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 2 | 2 | 2 | 2 | 2 |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 2 | 2 | 2 | 2 | 2 |
@@ -128,9 +128,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 94% | 98% | Last Result, Median |
-| 3 | 4% | 4% |  |
+| 1 | 3% | 100% |  |
+| 2 | 94% | 97% | Last Result, Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 

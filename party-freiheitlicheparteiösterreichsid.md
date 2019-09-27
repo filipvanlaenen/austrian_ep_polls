@@ -89,7 +89,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4 | 3–4 | 3–5 | 3–5 |
-| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 4 | 4 | 4 | 3–4 | 3–4 |
+| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 4 | 4 | 4 | 4 | 3–4 |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
@@ -138,7 +138,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 7% | 100% | Last Result |
 | 4 | 79% | 93% | Median |
-| 5 | 13% | 14% |  |
+| 5 | 12% | 14% |  |
 | 6 | 1.4% | 1.4% |  |
 | 7 | 0% | 0% |  |
 
