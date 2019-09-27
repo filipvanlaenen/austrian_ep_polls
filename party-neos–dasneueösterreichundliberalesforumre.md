@@ -10,8 +10,8 @@ Last result: **8.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 7.2–9.3% | 6.9–9.6% | 6.6–9.9% | 6.0–10.5% |
-| [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 8.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 8.2% | 7.1–9.3% | 6.8–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -61,11 +61,11 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.1% | 100% |  |
 | 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 18% | 98% |  |
-| 7.5–8.5% | 45% | 80% | Last Result, Median |
-| 8.5–9.5% | 28% | 34% |  |
-| 9.5–10.5% | 6% | 6% |  |
-| 10.5–11.5% | 0.4% | 0.5% |  |
+| 6.5–7.5% | 19% | 97% |  |
+| 7.5–8.5% | 45% | 78% | Last Result, Median |
+| 8.5–9.5% | 27% | 33% |  |
+| 9.5–10.5% | 5% | 6% |  |
+| 10.5–11.5% | 0.4% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -78,7 +78,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV |  |  |  |  |  |
+| [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 1 | 1 | 1 | 1 | 1 |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1–2 | 1–2 | 1–2 |
