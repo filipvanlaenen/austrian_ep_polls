@@ -11,8 +11,8 @@ Last result: **34.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 33.8% | 31.8–35.7% | 31.0–36.4% | 30.3–37.0% | 28.9–38.2% |
-| [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | N/A | N/A | N/A | N/A |
-| [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 37.1% | N/A | N/A | N/A | N/A |
+| [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | 36.0–40.0% | 35.5–40.5% | 35.0–41.0% | 34.1–42.0% |
+| [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 37.1% | 34.9–39.3% | 34.3–39.9% | 33.8–40.5% | 32.8–41.5% |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 34.0% | 32.9–35.1% | 32.6–35.4% | 32.3–35.7% | 31.8–36.2% |
@@ -24,7 +24,7 @@ Last result: **34.6%** (General Election of 26 May 2019)
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 35.0% | 33.7–36.3% | 33.3–36.7% | 33.0–37.0% | 32.4–37.7% |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | 32.4–37.8% | 31.7–38.6% | 31.0–39.3% | 29.8–40.6% |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 35.0% | 33.9–36.1% | 33.6–36.5% | 33.3–36.7% | 32.8–37.3% |
-| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 34.0% | N/A | N/A | N/A | N/A |
+| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.9% | 33.2–38.7% | 32.5–39.5% | 31.8–40.2% | 30.6–41.6% |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 35.0% | 33.9–36.1% | 33.6–36.5% | 33.3–36.7% | 32.8–37.3% |
@@ -87,8 +87,8 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 7 | 7 | 7 | 6–7 | 6–7 |
@@ -100,7 +100,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 7 | 7 | 7 | 7 | 6–7 |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 7 | 7 | 7 | 6–7 | 6–8 |
-| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 7 | 7–8 | 7–8 | 6–8 | 5–8 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 7 | 7 | 7 | 6–7 | 6–7 |
