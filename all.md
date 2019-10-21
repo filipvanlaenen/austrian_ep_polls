@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 |
-| [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35–41% <br> 7–8 | 18–23% <br> 3–4 | 13–17% <br> 2–3 | 13–17% <br> 2–3 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 34–40% <br> 6–8 | 17–23% <br> 3–5 | 15–20% <br> 3–4 | 13–18% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 31–37% <br> 6–7 | 20–25% <br> 4–5 | 18–23% <br> 3–4 | 10–14% <br> 2–3 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 6–7 | 20–26% <br> 4–5 | 19–24% <br> 3–5 | 9–13% <br> 1–2 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 32–36% <br> 6–7 | 21–24% <br> 4–5 | 19–21% <br> 4 | 12–14% <br> 2–3 | 7–9% <br> 1 | 2–3% <br> 0 | N/A <br> N/A |
@@ -18,7 +18,7 @@ The table below lists all polls registered and analyzed so far.
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 33–37% <br> 7 | 20–24% <br> 4–5 | 18–22% <br> 3–4 | 10–12% <br> 2 | 7–9% <br> 1 | 1–3% <br> 0 | N/A <br> N/A |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 6–8 | 19–26% <br> 3–5 | 16–23% <br> 3–4 | 9–14% <br> 1–2 | 7–12% <br> 1–2 | 0–2% <br> 0 | N/A <br> N/A |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 33–37% <br> 6–7 | 21–24% <br> 4–5 | 18–20% <br> 3–4 | 11–13% <br> 2 | 8–10% <br> 1–2 | 2–3% <br> 0 | N/A <br> N/A |
-| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 31–37% <br> 6–8 | 19–25% <br> 4–5 | 18–24% <br> 3–4 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 6–8 | 19–26% <br> 3–5 | 17–24% <br> 3–5 | 8–14% <br> 1–2 | 6–11% <br> 1–2 | 0–2% <br> 0 | N/A <br> N/A |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 31–37% <br> 6–7 | 19–25% <br> 4–5 | 18–24% <br> 3–5 | 9–13% <br> 1–2 | 7–11% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 33–37% <br> 6–7 | 20–22% <br> 4 | 19–21% <br> 3–4 | 11–13% <br> 2 | 8–10% <br> 1–2 | 1% <br> 0 | N/A <br> N/A |
