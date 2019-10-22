@@ -10,7 +10,7 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.8% | 31.8–35.7% | 31.0–36.4% | 30.3–37.0% | 28.9–38.2% |
+| N/A | [Poll Average](average.html) | 37.5% | 35.4–39.7% | 34.7–40.3% | 34.2–40.8% | 33.1–41.8% |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | 36.0–40.0% | 35.5–40.5% | 35.0–41.0% | 34.1–42.0% |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 37.1% | 34.9–39.3% | 34.3–39.9% | 33.8–40.5% | 32.8–41.5% |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
@@ -60,22 +60,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0.1% | 100% |  |
-| 27.5–28.5% | 0.2% | 99.9% |  |
-| 28.5–29.5% | 0.8% | 99.7% |  |
-| 29.5–30.5% | 2% | 98.9% |  |
-| 30.5–31.5% | 5% | 97% |  |
-| 31.5–32.5% | 12% | 92% |  |
-| 32.5–33.5% | 23% | 80% |  |
-| 33.5–34.5% | 28% | 56% | Median |
-| 34.5–35.5% | 17% | 28% | Last Result |
-| 35.5–36.5% | 7% | 11% |  |
-| 36.5–37.5% | 3% | 4% |  |
-| 37.5–38.5% | 0.9% | 1.3% |  |
-| 38.5–39.5% | 0.3% | 0.3% |  |
-| 39.5–40.5% | 0.1% | 0.1% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 30.5–31.5% | 0% | 100% |  |
+| 31.5–32.5% | 0.2% | 100% |  |
+| 32.5–33.5% | 0.8% | 99.8% |  |
+| 33.5–34.5% | 3% | 99.0% |  |
+| 34.5–35.5% | 8% | 96% | Last Result |
+| 35.5–36.5% | 16% | 88% |  |
+| 36.5–37.5% | 22% | 72% |  |
+| 37.5–38.5% | 22% | 50% | Median |
+| 38.5–39.5% | 16% | 27% |  |
+| 39.5–40.5% | 8% | 11% |  |
+| 40.5–41.5% | 3% | 4% |  |
+| 41.5–42.5% | 0.6% | 0.8% |  |
+| 42.5–43.5% | 0.1% | 0.1% |  |
+| 43.5–44.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -86,7 +84,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| N/A | [Poll Average](average.html) | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
@@ -138,10 +136,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.3% | 100% |  |
-| 6 | 24% | 99.7% |  |
-| 7 | 75% | 76% | Last Result, Median |
-| 8 | 1.2% | 1.2% |  |
-| 9 | 0% | 0% |  |
+| 6 | 2% | 100% |  |
+| 7 | 60% | 98% | Last Result, Median |
+| 8 | 38% | 38% |  |
+| 9 | 0.5% | 0.5% |  |
+| 10 | 0% | 0% | Majority |
 
 
