@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 23 Oct 2019 18:31:16 +0200</pubDate>
+    <pubDate>Thu, 24 Oct 2019 19:49:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Market for Der Standard, 14–19 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-10-19-Market.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-10-19-Market.png"
         length="205082"
         type="image/png"/>
-      <pubDate>Wed, 23 Oct 2019 18:31:16 +0200</pubDate>
-      <dc:date>2019-10-23T18:31:16.914631+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 19:49:13 +0200</pubDate>
+      <dc:date>2019-10-24T19:49:13.325979+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 10–16 October 2019 – Voting Intentions</title>
@@ -28,6 +28,16 @@
         type="image/png"/>
       <pubDate>Mon, 21 Oct 2019 06:54:50 +0200</pubDate>
       <dc:date>2019-10-21T06:54:50.569077+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 7–11 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-10-11-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 33.8–40.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 17.3–22.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 14.5–19.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.3–11.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 12.7–17.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-10-11-UniqueResearch.png"
+        length="206514"
+        type="image/png"/>
+      <pubDate>Thu, 24 Oct 2019 19:00:52 +0200</pubDate>
+      <dc:date>2019-10-24T19:00:52.023018+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGM for Servus TV, 16–23 September 2019 – Seat Projections for the Parties</title>
@@ -1109,6 +1119,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-10-23T18:31:16.914631+02:00</dc:date>
+    <dc:date>2019-10-24T19:49:13.325979+02:00</dc:date>
   </channel>
 </rss>
