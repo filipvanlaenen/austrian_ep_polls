@@ -5,9 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 |
-| [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 35–41% <br> 7–8 | 17–23% <br> 3–4 | 14–19% <br> 2–4 | 13–18% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 35–41% <br> 7–8 | 17–23% <br> 3–4 | 14–19% <br> 2–3 | 13–18% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35–41% <br> 7–8 | 18–23% <br> 3–4 | 13–17% <br> 2–3 | 13–17% <br> 2–3 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
-| [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 34–40% <br> 6–8 | 17–23% <br> 3–4 | 15–20% <br> 3–4 | 13–18% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 31–37% <br> 6–7 | 20–25% <br> 4–5 | 18–23% <br> 3–4 | 10–14% <br> 2–3 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 6–7 | 20–26% <br> 4–5 | 19–24% <br> 3–5 | 9–13% <br> 1–2 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 32–36% <br> 6–7 | 21–24% <br> 4–5 | 19–21% <br> 4 | 12–14% <br> 2–3 | 7–9% <br> 1 | 2–3% <br> 0 | N/A <br> N/A |
