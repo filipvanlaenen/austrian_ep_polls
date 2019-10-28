@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 28 Oct 2019 15:37:56 +0100</pubDate>
+    <pubDate>Mon, 28 Oct 2019 18:26:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 22–25 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-10-25-ResearchAffairs.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-10-25-ResearchAffairs.png"
         length="201110"
         type="image/png"/>
-      <pubDate>Mon, 28 Oct 2019 15:37:56 +0100</pubDate>
-      <dc:date>2019-10-28T15:37:56.961296+01:00</dc:date>
+      <pubDate>Mon, 28 Oct 2019 18:26:49 +0100</pubDate>
+      <dc:date>2019-10-28T18:26:49.698457+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 14–19 October 2019 – Voting Intentions</title>
@@ -1129,6 +1129,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-10-28T15:37:56.961296+01:00</dc:date>
+    <dc:date>2019-10-28T18:26:49.698457+01:00</dc:date>
   </channel>
 </rss>
