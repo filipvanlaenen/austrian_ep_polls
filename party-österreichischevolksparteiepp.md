@@ -10,7 +10,8 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.7% | 35.5–39.9% | 34.9–40.5% | 34.3–41.1% | 33.3–42.1% |
+| N/A | [Poll Average](average.html) | 37.7% | 35.5–39.9% | 34.9–40.5% | 34.4–41.1% | 33.3–42.1% |
+| [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
 | [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 38.0% | 35.9–40.3% | 35.3–40.9% | 34.7–41.4% | 33.7–42.5% |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | 36.0–40.0% | 35.5–40.5% | 35.0–41.0% | 34.1–42.0% |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 37.1% | 34.9–39.3% | 34.3–39.9% | 33.8–40.5% | 32.8–41.5% |
@@ -64,15 +65,15 @@ The following table shows the probability mass function per percentage block of 
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0.1% | 100% |  |
 | 32.5–33.5% | 0.6% | 99.9% |  |
-| 33.5–34.5% | 3% | 99.2% |  |
+| 33.5–34.5% | 2% | 99.2% |  |
 | 34.5–35.5% | 7% | 97% | Last Result |
-| 35.5–36.5% | 15% | 90% |  |
-| 36.5–37.5% | 22% | 75% |  |
-| 37.5–38.5% | 22% | 54% | Median |
-| 38.5–39.5% | 17% | 31% |  |
+| 35.5–36.5% | 14% | 90% |  |
+| 36.5–37.5% | 21% | 75% |  |
+| 37.5–38.5% | 23% | 54% | Median |
+| 38.5–39.5% | 17% | 32% |  |
 | 39.5–40.5% | 9% | 14% |  |
 | 40.5–41.5% | 4% | 5% |  |
-| 41.5–42.5% | 1.0% | 1.2% |  |
+| 41.5–42.5% | 1.0% | 1.3% |  |
 | 42.5–43.5% | 0.2% | 0.2% |  |
 | 43.5–44.5% | 0% | 0% |  |
 
@@ -86,6 +87,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
@@ -139,8 +141,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 2% | 100% |  |
-| 7 | 59% | 98% | Last Result, Median |
-| 8 | 39% | 39% |  |
+| 7 | 71% | 98% | Last Result, Median |
+| 8 | 27% | 28% |  |
 | 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% | Majority |
 
