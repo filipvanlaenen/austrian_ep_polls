@@ -42,9 +42,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 3% | 100% |  |
-| 7 | 70% | 97% | Last Result, Median |
-| 8 | 27% | 27% |  |
+| 6 | 4% | 100% |  |
+| 7 | 71% | 96% | Last Result, Median |
+| 8 | 25% | 25% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -56,8 +56,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 26% | 100% |  |
-| 4 | 73% | 74% | Median |
+| 3 | 28% | 100% |  |
+| 4 | 71% | 72% | Median |
 | 5 | 0.6% | 0.6% | Last Result |
 | 6 | 0% | 0% |  |
 
@@ -70,8 +70,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 90% | 98% | Last Result, Median |
-| 4 | 8% | 8% |  |
+| 3 | 91% | 98% | Last Result, Median |
+| 4 | 7% | 7% |  |
 | 5 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -82,8 +82,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 33% | 100% | Last Result |
-| 3 | 67% | 67% | Median |
+| 2 | 30% | 100% | Last Result |
+| 3 | 70% | 70% | Median |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -95,8 +95,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 70% | 100% | Last Result, Median |
-| 2 | 30% | 30% |  |
+| 1 | 69% | 100% | Last Result, Median |
+| 2 | 31% | 31% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -119,9 +119,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 3% | 100% |  |
-| 7 | 70% | 97% | Last Result, Median |
-| 8 | 27% | 27% |  |
+| 6 | 4% | 100% |  |
+| 7 | 71% | 96% | Last Result, Median |
+| 8 | 25% | 25% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -132,8 +132,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 90% | 98% | Last Result, Median |
-| 4 | 8% | 8% |  |
+| 3 | 91% | 98% | Last Result, Median |
+| 4 | 7% | 7% |  |
 | 5 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -142,8 +142,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 26% | 100% |  |
-| 4 | 73% | 74% | Median |
+| 3 | 28% | 100% |  |
+| 4 | 71% | 72% | Median |
 | 5 | 0.6% | 0.6% | Last Result |
 | 6 | 0% | 0% |  |
 
@@ -153,8 +153,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 70% | 100% | Last Result, Median |
-| 2 | 30% | 30% |  |
+| 1 | 69% | 100% | Last Result, Median |
+| 2 | 31% | 31% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -169,6 +169,6 @@
 ### Calculations
 
 + **Sample size:** 807
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.76%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.85%
 
