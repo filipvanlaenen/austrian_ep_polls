@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 25 Nov 2019 06:43:49 +0100</pubDate>
+    <pubDate>Tue, 26 Nov 2019 20:07:54 +0100</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–21 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-21-ResearchAffairs.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Mon, 25 Nov 2019 06:43:49 +0100</pubDate>
       <dc:date>2019-11-25T06:43:49.654669+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 11–15 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-15-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 34.7–41.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 16.4–21.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 14.6–19.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.3–11.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 13.7–18.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-15-UniqueResearch.png"
+        length="206693"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2019 20:07:54 +0100</pubDate>
+      <dc:date>2019-11-26T20:07:54.153596+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 22–25 October 2019 – Seat Projections for the Parties</title>
@@ -1189,6 +1199,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-11-25T06:43:49.654669+01:00</dc:date>
+    <dc:date>2019-11-26T20:07:54.153596+01:00</dc:date>
   </channel>
 </rss>
