@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 27 Nov 2019 14:25:47 +0100</pubDate>
+    <pubDate>Thu, 28 Nov 2019 19:16:08 +0100</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–21 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-21-ResearchAffairs.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-15-UniqueResearch.png"
         length="206693"
         type="image/png"/>
-      <pubDate>Tue, 26 Nov 2019 20:07:54 +0100</pubDate>
-      <dc:date>2019-11-26T20:07:54.153596+01:00</dc:date>
+      <pubDate>Thu, 28 Nov 2019 19:09:15 +0100</pubDate>
+      <dc:date>2019-11-28T19:09:15.229586+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 8–14 November 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-13-Karmasin.png"
         length="181259"
         type="image/png"/>
-      <pubDate>Tue, 26 Nov 2019 21:05:36 +0100</pubDate>
-      <dc:date>2019-11-26T21:05:36.396899+01:00</dc:date>
+      <pubDate>Thu, 28 Nov 2019 19:11:20 +0100</pubDate>
+      <dc:date>2019-11-28T19:11:20.989086+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 2–7 November 2019 – Voting Intentions</title>
@@ -98,6 +98,16 @@
         type="image/png"/>
       <pubDate>Sat, 02 Nov 2019 12:41:55 +0100</pubDate>
       <dc:date>2019-11-02T12:41:55.527635+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 14–19 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-10-19-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 34.7–41.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 17.3–22.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 13.6–18.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.2–11.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 12.7–17.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-10-19-Market.png"
+        length="205082"
+        type="image/png"/>
+      <pubDate>Thu, 28 Nov 2019 19:16:08 +0100</pubDate>
+      <dc:date>2019-11-28T19:16:08.752286+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 10–16 October 2019 – Seat Projections for the Parties</title>
@@ -1239,6 +1249,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-11-27T14:25:47.902851+01:00</dc:date>
+    <dc:date>2019-11-28T19:16:08.752286+01:00</dc:date>
   </channel>
 </rss>
