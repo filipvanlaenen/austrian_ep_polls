@@ -10,7 +10,7 @@ Last result: **17.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.2% | 13.4–17.8% | 12.9–18.5% | 12.5–19.0% | 11.8–20.1% |
+| N/A | [Poll Average](average.html) | 15.4% | 13.6–17.7% | 13.1–18.4% | 12.6–18.9% | 11.9–19.9% |
 | [15–21 November 2019](2019-11-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 17.0% | 15.4–18.8% | 15.0–19.3% | 14.6–19.8% | 13.9–20.6% |
 | [8–14 November 2019](2019-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.6–16.7% | 13.1–17.2% | 12.8–17.6% | 12.1–18.5% |
@@ -18,7 +18,7 @@ Last result: **17.2%** (General Election of 26 May 2019)
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.6–16.5% | 13.2–16.9% | 12.9–17.3% | 12.3–18.1% |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.4–16.7% | 13.0–17.2% | 12.7–17.6% | 11.9–18.5% |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
-| [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 16.0% | N/A | N/A | N/A | N/A |
+| [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 16.0% | 14.4–17.7% | 14.0–18.2% | 13.6–18.7% | 12.9–19.5% |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.3% | 12.3–18.1% |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.5–19.7% | 13.8–20.6% |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 20.0% | 18.4–21.7% | 18.0–22.1% | 17.6–22.6% | 16.9–23.4% |
@@ -69,17 +69,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.3% | 100% |  |
-| 11.5–12.5% | 2% | 99.7% |  |
-| 12.5–13.5% | 9% | 97% |  |
-| 13.5–14.5% | 20% | 88% |  |
-| 14.5–15.5% | 29% | 68% | Median |
-| 15.5–16.5% | 17% | 39% |  |
-| 16.5–17.5% | 11% | 23% | Last Result |
+| 10.5–11.5% | 0.2% | 100% |  |
+| 11.5–12.5% | 2% | 99.8% |  |
+| 12.5–13.5% | 7% | 98% |  |
+| 13.5–14.5% | 18% | 91% |  |
+| 14.5–15.5% | 28% | 73% | Median |
+| 15.5–16.5% | 20% | 46% |  |
+| 16.5–17.5% | 13% | 25% | Last Result |
 | 17.5–18.5% | 8% | 12% |  |
-| 18.5–19.5% | 3% | 5% |  |
-| 19.5–20.5% | 0.9% | 1.1% |  |
-| 20.5–21.5% | 0.2% | 0.2% |  |
+| 18.5–19.5% | 3% | 4% |  |
+| 19.5–20.5% | 0.8% | 1.0% |  |
+| 20.5–21.5% | 0.1% | 0.2% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -91,15 +91,15 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [15–21 November 2019](2019-11-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3 | 3 | 3 |
+| [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [8–14 November 2019](2019-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3 | 3 | 3 | 2–3 |
-| [8–13 November 2019](2019-11-13-Karmasin.html) | Karmasin | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [8–13 November 2019](2019-11-13-Karmasin.html) | Karmasin | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -151,8 +151,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 21% | 100% |  |
-| 3 | 79% | 79% | Last Result, Median |
-| 4 | 0% | 0% |  |
+| 2 | 22% | 100% |  |
+| 3 | 76% | 78% | Last Result, Median |
+| 4 | 2% | 2% |  |
+| 5 | 0% | 0% |  |
 
 
