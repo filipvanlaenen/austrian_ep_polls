@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Nov 2019 19:16:08 +0100</pubDate>
+    <pubDate>Fri, 29 Nov 2019 20:12:11 +0100</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–21 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-21-ResearchAffairs.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-14-ResearchAffairs.png"
         length="208080"
         type="image/png"/>
-      <pubDate>Tue, 26 Nov 2019 20:50:10 +0100</pubDate>
-      <dc:date>2019-11-26T20:50:10.770878+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 20:12:11 +0100</pubDate>
+      <dc:date>2019-11-29T20:12:11.87199+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Karmasin, 8–13 November 2019 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-10-31-ResearchAffairs.png"
         length="208380"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 14:25:47 +0100</pubDate>
-      <dc:date>2019-11-27T14:25:47.902851+01:00</dc:date>
+      <pubDate>Thu, 28 Nov 2019 21:16:11 +0100</pubDate>
+      <dc:date>2019-11-28T21:16:11.639677+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 22–25 October 2019 – Seat Projections for the Parties</title>
@@ -1249,6 +1249,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-11-28T19:16:08.752286+01:00</dc:date>
+    <dc:date>2019-11-29T20:12:11.87199+01:00</dc:date>
   </channel>
 </rss>
