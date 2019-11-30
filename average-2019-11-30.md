@@ -168,9 +168,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.9% | 100% |  |
-| 7 | 58% | 99.1% | Last Result, Median |
-| 8 | 41% | 41% |  |
+| 6 | 0.8% | 100% |  |
+| 7 | 58% | 99.2% | Last Result, Median |
+| 8 | 40% | 41% |  |
 | 9 | 0.4% | 0.4% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -208,9 +208,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 17% | 100% | Last Result |
-| 3 | 82% | 83% | Median |
-| 4 | 0.8% | 0.8% |  |
+| 2 | 16% | 100% | Last Result |
+| 3 | 83% | 84% | Median |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -247,9 +247,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.9% | 100% |  |
-| 7 | 58% | 99.1% | Last Result, Median |
-| 8 | 41% | 41% |  |
+| 6 | 0.8% | 100% |  |
+| 7 | 58% | 99.2% | Last Result, Median |
+| 8 | 40% | 41% |  |
 | 9 | 0.4% | 0.4% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -270,9 +270,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 17% | 100% | Last Result |
-| 3 | 82% | 83% | Median |
-| 4 | 0.8% | 0.8% |  |
+| 2 | 16% | 100% | Last Result |
+| 3 | 83% | 84% | Median |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -308,6 +308,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 524,288
-+ **Error estimate:** 1.11%
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 0.76%
