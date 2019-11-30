@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 Nov 2019 20:12:11 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 14:55:38 +0100</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–21 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-21-ResearchAffairs.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-21-ResearchAffairs.png"
         length="203243"
         type="image/png"/>
-      <pubDate>Mon, 25 Nov 2019 06:43:49 +0100</pubDate>
-      <dc:date>2019-11-25T06:43:49.654669+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 14:32:37 +0100</pubDate>
+      <dc:date>2019-11-30T14:32:37.967009+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 11–15 November 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-15-UniqueResearch.png"
         length="206693"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:09:15 +0100</pubDate>
-      <dc:date>2019-11-28T19:09:15.229586+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 14:41:05 +0100</pubDate>
+      <dc:date>2019-11-30T14:41:05.893765+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 8–14 November 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-14-ResearchAffairs.png"
         length="208080"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 20:12:11 +0100</pubDate>
-      <dc:date>2019-11-29T20:12:11.87199+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 20:13:21 +0100</pubDate>
+      <dc:date>2019-11-29T20:13:21.034254+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Karmasin, 8–13 November 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-13-Karmasin.png"
         length="181259"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:11:20 +0100</pubDate>
-      <dc:date>2019-11-28T19:11:20.989086+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 14:47:29 +0100</pubDate>
+      <dc:date>2019-11-30T14:47:29.139143+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 2–7 November 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-11-07-ResearchAffairs.png"
         length="202578"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 12:00:10 +0100</pubDate>
-      <dc:date>2019-11-27T12:00:10.76973+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 10:59:21 +0100</pubDate>
+      <dc:date>2019-11-30T10:59:21.154893+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 26–31 October 2019 – Voting Intentions</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-10-19-Market.png"
         length="205082"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:16:08 +0100</pubDate>
-      <dc:date>2019-11-28T19:16:08.752286+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 14:55:38 +0100</pubDate>
+      <dc:date>2019-11-30T14:55:38.164002+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 10–16 October 2019 – Seat Projections for the Parties</title>
@@ -1249,6 +1249,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2019-11-29T20:12:11.87199+01:00</dc:date>
+    <dc:date>2019-11-30T14:55:38.164002+01:00</dc:date>
   </channel>
 </rss>
