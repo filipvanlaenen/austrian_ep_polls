@@ -43,8 +43,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 2% | 100% |  |
-| 7 | 63% | 98% | Last Result, Median |
-| 8 | 35% | 35% |  |
+| 7 | 62% | 98% | Last Result, Median |
+| 8 | 36% | 37% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -56,8 +56,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 58% | 100% | Median |
-| 4 | 42% | 42% |  |
+| 3 | 59% | 100% | Median |
+| 4 | 41% | 41% |  |
 | 5 | 0% | 0% | Last Result |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -83,7 +83,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 11% | 100% | Last Result |
 | 3 | 88% | 89% | Median |
-| 4 | 1.4% | 1.4% |  |
+| 4 | 1.3% | 1.3% |  |
 | 5 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -94,8 +94,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 70% | 100% | Last Result, Median |
-| 2 | 30% | 30% |  |
+| 1 | 71% | 100% | Last Result, Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -119,8 +119,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 2% | 100% |  |
-| 7 | 63% | 98% | Last Result, Median |
-| 8 | 35% | 35% |  |
+| 7 | 62% | 98% | Last Result, Median |
+| 8 | 36% | 37% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -130,8 +130,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 58% | 100% | Median |
-| 4 | 42% | 42% |  |
+| 3 | 59% | 100% | Median |
+| 4 | 41% | 41% |  |
 | 5 | 0% | 0% | Last Result |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -151,8 +151,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 70% | 100% | Last Result, Median |
-| 2 | 30% | 30% |  |
+| 1 | 71% | 100% | Last Result, Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -167,6 +167,6 @@
 ### Calculations
 
 + **Sample size:** 817
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.76%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.50%
 
