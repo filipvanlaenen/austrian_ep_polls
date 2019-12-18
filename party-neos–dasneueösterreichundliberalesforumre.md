@@ -11,7 +11,10 @@ Last result: **8.4%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.3% | 8.1–10.7% | 7.8–11.2% | 7.5–11.6% | 6.9–12.4% |
+| [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.8–11.5% | 8.4–11.9% | 8.1–12.3% | 7.6–13.1% |
+| [6–12 December 2019](2019-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | 7.9–10.4% | 7.6–10.8% | 7.3–11.1% | 6.8–11.8% |
 | [29 November–5 December 2019](2019-12-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.0% | 8.8–11.4% | 8.4–11.9% | 8.1–12.2% | 7.6–13.0% |
+| [29 November–4 December 2019](2019-12-04-Market.html) | Market <br> Der Standard | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [22–28 November 2019](2019-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.0% | 8.8–11.5% | 8.5–11.9% | 8.2–12.2% | 7.7–12.9% |
 | [15–21 November 2019](2019-11-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | 7.9–10.4% | 7.5–10.7% | 7.3–11.1% | 6.8–11.8% |
 | [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 9.1% | 7.9–10.5% | 7.5–10.9% | 7.3–11.2% | 6.8–11.9% |
@@ -91,7 +94,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [6–12 December 2019](2019-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 November–5 December 2019](2019-12-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [29 November–4 December 2019](2019-12-04-Market.html) | Market <br> Der Standard | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–28 November 2019](2019-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–21 November 2019](2019-11-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
