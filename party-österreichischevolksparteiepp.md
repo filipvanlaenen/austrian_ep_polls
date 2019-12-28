@@ -11,8 +11,8 @@ Last result: **34.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 38.0% | 36.1–39.9% | 35.5–40.6% | 34.9–41.1% | 33.9–42.2% |
-| [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | N/A | N/A | N/A | N/A |
-| [16–19 December 2019](2019-12-19-Market.html) | Market <br> Der Standard | 39.0% | N/A | N/A | N/A | N/A |
+| [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 36.9–41.1% | 36.3–41.7% | 35.8–42.3% | 34.8–43.3% |
+| [16–19 December 2019](2019-12-19-Market.html) | Market <br> Der Standard | 39.0% | 36.8–41.2% | 36.2–41.8% | 35.7–42.4% | 34.6–43.5% |
 | [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | 39.0% | 36.9–41.3% | 36.2–41.9% | 35.7–42.4% | 34.7–43.5% |
 | [6–12 December 2019](2019-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 36.9–41.1% | 36.3–41.7% | 35.8–42.2% | 34.8–43.3% |
 | [29 November–5 December 2019](2019-12-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 36.9–41.2% | 36.2–41.8% | 35.7–42.4% | 34.7–43.4% |
@@ -99,8 +99,8 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [16–19 December 2019](2019-12-19-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
+| [16–19 December 2019](2019-12-19-Market.html) | Market <br> Der Standard | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [6–12 December 2019](2019-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [29 November–5 December 2019](2019-12-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
