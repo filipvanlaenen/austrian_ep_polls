@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 |
-| [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–19 December 2019](2019-12-19-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 7–9 | 15–20% <br> 3–4 | 13–18% <br> 2–3 | 14–19% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [16–19 December 2019](2019-12-19-Market.html) | Market <br> Der Standard | 36–42% <br> 7–8 | 16–22% <br> 3–4 | 12–17% <br> 2–3 | 14–19% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | 36–42% <br> 7–8 | 15–21% <br> 3–4 | 13–18% <br> 2–3 | 15–20% <br> 2–4 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [6–12 December 2019](2019-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 7–9 | 15–20% <br> 3–4 | 12–17% <br> 2–3 | 14–19% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [29 November–5 December 2019](2019-12-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 7–9 | 15–20% <br> 3–4 | 12–16% <br> 2–3 | 14–19% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
