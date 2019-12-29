@@ -171,7 +171,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.9% | 100% |  |
 | 7 | 59% | 99.1% | Last Result, Median |
 | 8 | 40% | 40% |  |
-| 9 | 0.4% | 0.4% |  |
+| 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -251,7 +251,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.9% | 100% |  |
 | 7 | 59% | 99.1% | Last Result, Median |
 | 8 | 40% | 40% |  |
-| 9 | 0.4% | 0.4% |  |
+| 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -310,6 +310,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 3,670,016
-+ **Error estimate:** 0.50%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 0.59%
