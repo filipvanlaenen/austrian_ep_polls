@@ -10,7 +10,9 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.6% | 36.9–40.9% | 36.4–41.6% | 35.9–42.2% | 34.9–43.2% |
+| N/A | [Poll Average](average.html) | 38.4% | 36.6–40.6% | 36.0–41.3% | 35.4–41.9% | 34.3–43.0% |
+| [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 38.0% | 35.8–40.2% | 35.2–40.8% | 34.7–41.4% | 33.7–42.4% |
+| [3–9 January 2020](2020-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 36.9–41.2% | 36.3–41.8% | 35.8–42.3% | 34.8–43.3% |
 | [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 36.9–41.1% | 36.3–41.7% | 35.8–42.3% | 34.8–43.3% |
 | [16–19 December 2019](2019-12-19-Market.html) | Market <br> Der Standard | 39.0% | 36.8–41.2% | 36.2–41.8% | 35.7–42.4% | 34.6–43.5% |
 | [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | 39.0% | 36.9–41.3% | 36.2–41.9% | 35.7–42.4% | 34.7–43.5% |
@@ -21,7 +23,7 @@ Last result: **34.6%** (General Election of 26 May 2019)
 | [15–21 November 2019](2019-11-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | 36.0–40.2% | 35.4–40.8% | 34.9–41.3% | 33.9–42.3% |
 | [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 37.9% | 35.8–40.2% | 35.2–40.8% | 34.7–41.3% | 33.7–42.4% |
 | [8–14 November 2019](2019-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | 35.9–40.2% | 35.3–40.8% | 34.8–41.4% | 33.8–42.4% |
-| [8–13 November 2019](2019-11-13-Karmasin.html) | Karmasin | 38.0% | 36.9–39.2% | 36.5–39.5% | 36.3–39.8% | 35.7–40.3% |
+| [8–13 November 2019](2019-11-13-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 38.0% | 36.9–39.2% | 36.5–39.5% | 36.3–39.8% | 35.7–40.3% |
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37.0% | 35.1–39.0% | 34.6–39.6% | 34.1–40.1% | 33.2–41.0% |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37.9% | 35.8–40.2% | 35.1–40.8% | 34.6–41.4% | 33.6–42.5% |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
@@ -34,15 +36,15 @@ Last result: **34.6%** (General Election of 26 May 2019)
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.3% | 30.8–39.4% |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 32.0% | 29.8–34.3% | 29.2–34.9% | 28.6–35.5% | 27.6–36.6% |
-| [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 34.0% | 32.9–35.1% | 32.6–35.5% | 32.3–35.7% | 31.8–36.3% |
+| [11–17 September 2019](2019-09-17-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 34.0% | 32.9–35.1% | 32.6–35.5% | 32.3–35.7% | 31.8–36.3% |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 33.0% | 31.8–34.3% | 31.5–34.6% | 31.2–34.9% | 30.6–35.5% |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 35.0% | 33.7–36.3% | 33.3–36.7% | 33.0–37.0% | 32.4–37.7% |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | 32.4–37.8% | 31.7–38.6% | 31.0–39.3% | 29.8–40.6% |
-| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 35.0% | 33.9–36.1% | 33.6–36.5% | 33.3–36.7% | 32.8–37.3% |
+| [5–10 September 2019](2019-09-10-KarmasinResearchIdentity.html) | Karmasin Research & Identity <br> PULS 24 | 35.0% | 33.9–36.1% | 33.6–36.5% | 33.3–36.7% | 32.8–37.3% |
 | [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.9% | 33.2–38.7% | 32.5–39.5% | 31.8–40.2% | 30.6–41.6% |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
-| [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 35.0% | 33.9–36.1% | 33.6–36.5% | 33.3–36.7% | 32.8–37.3% |
+| [29 August–3 September 2019](2019-09-03-KarmasinResearchIdentity.html) | Karmasin Research & Identity <br> PULS 24 | 35.0% | 33.9–36.1% | 33.6–36.5% | 33.3–36.7% | 32.8–37.3% |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.7% | 33.0–38.5% | 32.3–39.3% | 31.6–40.0% | 30.4–41.4% |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 36.0% | 33.9–38.2% | 33.3–38.9% | 32.7–39.4% | 31.7–40.5% |
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | 32.4–37.8% | 31.7–38.6% | 31.0–39.3% | 29.8–40.7% |
@@ -75,20 +77,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.2% | 100% |  |
-| 34.5–35.5% | 1.2% | 99.7% | Last Result |
-| 35.5–36.5% | 5% | 98.5% |  |
-| 36.5–37.5% | 16% | 93% |  |
-| 37.5–38.5% | 25% | 78% |  |
-| 38.5–39.5% | 23% | 52% | Median |
-| 39.5–40.5% | 15% | 29% |  |
-| 40.5–41.5% | 9% | 14% |  |
-| 41.5–42.5% | 4% | 5% |  |
-| 42.5–43.5% | 1.1% | 1.4% |  |
-| 43.5–44.5% | 0.3% | 0.3% |  |
+| 31.5–32.5% | 0% | 100% |  |
+| 32.5–33.5% | 0.1% | 100% |  |
+| 33.5–34.5% | 0.6% | 99.9% |  |
+| 34.5–35.5% | 2% | 99.3% | Last Result |
+| 35.5–36.5% | 7% | 97% |  |
+| 36.5–37.5% | 18% | 90% |  |
+| 37.5–38.5% | 26% | 73% | Median |
+| 38.5–39.5% | 22% | 46% |  |
+| 39.5–40.5% | 13% | 24% |  |
+| 40.5–41.5% | 7% | 11% |  |
+| 41.5–42.5% | 3% | 4% |  |
+| 42.5–43.5% | 0.8% | 1.0% |  |
+| 43.5–44.5% | 0.2% | 0.2% |  |
 | 44.5–45.5% | 0% | 0% |  |
-| 45.5–46.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -100,6 +102,8 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [3–9 January 2020](2020-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [16–19 December 2019](2019-12-19-Market.html) | Market <br> Der Standard | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
@@ -110,7 +114,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [15–21 November 2019](2019-11-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [8–14 November 2019](2019-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
-| [8–13 November 2019](2019-11-13-Karmasin.html) | Karmasin | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [8–13 November 2019](2019-11-13-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
@@ -123,15 +127,15 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [11–17 September 2019](2019-09-17-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 7 | 7 | 7 | 7 | 6–8 |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 7 | 7 | 7 | 6–7 | 6–8 |
+| [5–10 September 2019](2019-09-10-KarmasinResearchIdentity.html) | Karmasin Research & Identity <br> PULS 24 | 7 | 7 | 7 | 7 | 6–7 |
 | [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 7 | 7 | 7 | 6–7 | 6–7 |
+| [29 August–3 September 2019](2019-09-03-KarmasinResearchIdentity.html) | Karmasin Research & Identity <br> PULS 24 | 7 | 7 | 7 | 6–7 | 6–7 |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
@@ -166,10 +170,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.2% | 100% |  |
-| 7 | 46% | 99.8% | Last Result |
-| 8 | 52% | 54% | Median |
-| 9 | 2% | 2% |  |
+| 6 | 0.3% | 100% |  |
+| 7 | 49% | 99.7% | Last Result |
+| 8 | 49% | 50% | Median |
+| 9 | 1.4% | 1.4% |  |
 | 10 | 0% | 0% | Majority |
 
 
