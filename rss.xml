@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 13 Jan 2020 17:27:05 +0100</pubDate>
+    <pubDate>Wed, 15 Jan 2020 19:01:56 +0100</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 6–10 January 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-01-10-UniqueResearch.html#seats</link>
@@ -720,14 +720,34 @@
       <dc:date>2019-09-27T13:53:19.682118+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Karmasin Research &amp; Identity, 11–17 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-17-KarmasinResearchIdentity.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-17-KarmasinResearchIdentity-seats.png"
+        length="174943"
+        type="image/png"/>
+      <pubDate>Mon, 13 Jan 2020 23:12:15 +0100</pubDate>
+      <dc:date>2020-01-13T23:12:15.077164+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Karmasin Research &amp; Identity, 11–17 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-17-KarmasinResearchIdentity.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-17-KarmasinResearchIdentity-coalitions-seats.png"
+        length="114063"
+        type="image/png"/>
+      <pubDate>Mon, 13 Jan 2020 23:12:15 +0100</pubDate>
+      <dc:date>2020-01-13T23:12:15.077164+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Karmasin Research &amp; Identity, 11–17 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-17-KarmasinResearchIdentity.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 32.3–35.7%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.5–23.5%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 18.6–21.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.0–10.1%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0.7–1.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 11.8–14.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-17-KarmasinResearchIdentity.png"
         length="201628"
         type="image/png"/>
-      <pubDate>Mon, 13 Jan 2020 06:48:28 +0100</pubDate>
-      <dc:date>2020-01-13T06:48:28.247555+01:00</dc:date>
+      <pubDate>Mon, 13 Jan 2020 23:12:15 +0100</pubDate>
+      <dc:date>2020-01-13T23:12:15.077164+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 2–13 September 2019 – Seat Projections for the Parties</title>
@@ -820,14 +840,34 @@
       <dc:date>2019-09-25T16:29:10.161812+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Karmasin Research &amp; Identity for PULS 24, 5–10 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-10-KarmasinResearchIdentity.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-10-KarmasinResearchIdentity-seats.png"
+        length="154551"
+        type="image/png"/>
+      <pubDate>Wed, 15 Jan 2020 19:01:56 +0100</pubDate>
+      <dc:date>2020-01-15T19:01:56.680024+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Karmasin Research &amp; Identity for PULS 24, 5–10 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-10-KarmasinResearchIdentity.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-10-KarmasinResearchIdentity-coalitions-seats.png"
+        length="92457"
+        type="image/png"/>
+      <pubDate>Wed, 15 Jan 2020 19:01:56 +0100</pubDate>
+      <dc:date>2020-01-15T19:01:56.680024+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Karmasin Research &amp; Identity for PULS 24, 5–10 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-10-KarmasinResearchIdentity.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 33.3–36.7%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.5–23.5%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 17.6–20.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.0–10.1%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 10.9–13.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-10-KarmasinResearchIdentity.png"
         length="202991"
         type="image/png"/>
-      <pubDate>Mon, 13 Jan 2020 17:27:05 +0100</pubDate>
-      <dc:date>2020-01-13T17:27:05.379831+01:00</dc:date>
+      <pubDate>Wed, 15 Jan 2020 19:01:56 +0100</pubDate>
+      <dc:date>2020-01-15T19:01:56.680024+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 5–8 September 2019 – Seat Projections for the Parties</title>
@@ -1679,6 +1719,6 @@
       <pubDate>Sun, 09 Jun 2019 11:30:10 +0200</pubDate>
       <dc:date>2019-06-09T11:30:10.030369+02:00</dc:date>
     </item>
-    <dc:date>2020-01-13T17:27:05.379831+01:00</dc:date>
+    <dc:date>2020-01-15T19:01:56.680024+01:00</dc:date>
   </channel>
 </rss>
