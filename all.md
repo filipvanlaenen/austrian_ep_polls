@@ -23,7 +23,7 @@ The table below lists all polls registered and analyzed so far.
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34–40% <br> 7–8 | 18–23% <br> 3–4 | 13–17% <br> 2–3 | 14–18% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35–41% <br> 7–8 | 16–22% <br> 3–4 | 13–18% <br> 2–3 | 14–19% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35–41% <br> 7–8 | 17–22% <br> 3–4 | 13–17% <br> 2–3 | 13–17% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
-| [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 35–41% <br> 7–8 | 17–23% <br> 3–4 | 14–19% <br> 2–3 | 13–18% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [15–17 October 2019](2019-10-17-Market.html) | Market <br> Der Standard | 35–41% <br> 7–8 | 17–23% <br> 3–4 | 14–19% <br> 2–3 | 13–18% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35–41% <br> 7–8 | 18–23% <br> 3–4 | 13–17% <br> 2–3 | 13–17% <br> 2–3 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 34–40% <br> 6–8 | 17–23% <br> 3–4 | 15–20% <br> 3–4 | 13–18% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 31–37% <br> 6–7 | 20–25% <br> 4–5 | 18–23% <br> 3–4 | 10–14% <br> 2–3 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
