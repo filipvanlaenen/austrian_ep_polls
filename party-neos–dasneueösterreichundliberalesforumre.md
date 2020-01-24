@@ -29,7 +29,7 @@ Last result: **8.4%** (General Election of 26 May 2019)
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | 7.8–10.5% | 7.5–10.9% | 7.2–11.2% | 6.7–11.9% |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
-| [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
+| [15–17 October 2019](2019-10-17-Market.html) | Market <br> Der Standard | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.5% |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 9.0% | 7.9–10.5% | 7.5–10.9% | 7.3–11.2% | 6.7–11.9% |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
@@ -118,7 +118,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–17 October 2019](2019-10-17-Market.html) | Market <br> Der Standard | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 1 | 1 | 1–2 | 1–2 | 1–2 |

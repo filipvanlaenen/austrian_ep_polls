@@ -29,7 +29,7 @@ Last result: **14.1%** (General Election of 26 May 2019)
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
-| [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 15.0% | 13.4–16.7% | 13.0–17.2% | 12.7–17.6% | 12.0–18.5% |
+| [15–17 October 2019](2019-10-17-Market.html) | Market <br> Der Standard | 15.0% | 13.4–16.7% | 13.0–17.2% | 12.7–17.6% | 12.0–18.5% |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.3% | 12.3–18.1% |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 15.0% | 13.5–16.7% | 13.1–17.2% | 12.7–17.6% | 12.0–18.5% |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.2% | 9.6–14.9% |
@@ -119,7 +119,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [15–17 October 2019](2019-10-17-Market.html) | Market <br> Der Standard | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 2 | 2 | 2 | 2–3 | 2–3 |
