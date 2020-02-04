@@ -10,7 +10,8 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.8% | 36.6–40.9% | 36.0–41.5% | 35.4–42.0% | 34.3–43.1% |
+| N/A | [Poll Average](average.html) | 38.7% | 36.5–40.9% | 35.8–41.5% | 35.3–42.0% | 34.2–43.1% |
+| [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | N/A | N/A | N/A | N/A |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.1% |
 | [10 January 2019–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.0% |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 38.0% | 35.8–40.2% | 35.2–40.8% | 34.7–41.4% | 33.7–42.4% |
@@ -81,16 +82,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 31.5–32.5% | 0% | 100% |  |
 | 32.5–33.5% | 0.1% | 100% |  |
-| 33.5–34.5% | 0.6% | 99.9% |  |
-| 34.5–35.5% | 2% | 99.3% | Last Result |
-| 35.5–36.5% | 7% | 97% |  |
-| 36.5–37.5% | 14% | 90% |  |
-| 37.5–38.5% | 21% | 76% |  |
-| 38.5–39.5% | 23% | 55% | Median |
-| 39.5–40.5% | 18% | 32% |  |
-| 40.5–41.5% | 10% | 14% |  |
-| 41.5–42.5% | 4% | 5% |  |
-| 42.5–43.5% | 1.0% | 1.2% |  |
+| 33.5–34.5% | 0.7% | 99.8% |  |
+| 34.5–35.5% | 3% | 99.1% | Last Result |
+| 35.5–36.5% | 7% | 96% |  |
+| 36.5–37.5% | 15% | 89% |  |
+| 37.5–38.5% | 21% | 74% |  |
+| 38.5–39.5% | 23% | 53% | Median |
+| 39.5–40.5% | 17% | 30% |  |
+| 40.5–41.5% | 9% | 14% |  |
+| 41.5–42.5% | 3% | 5% |  |
+| 42.5–43.5% | 0.9% | 1.2% |  |
 | 43.5–44.5% | 0.2% | 0.2% |  |
 | 44.5–45.5% | 0% | 0% |  |
 
@@ -104,6 +105,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [10 January 2019–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
