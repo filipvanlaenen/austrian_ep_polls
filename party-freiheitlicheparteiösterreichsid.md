@@ -151,22 +151,22 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
-| [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4 | 4 | 3–4 | 3–4 |
-| [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 4 | 4 | 4 | 4 | 3–5 |
-| [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4 | 4 | 3–4 | 3–4 |
-| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 4 | 4 | 4 | 4 | 3–4 |
+| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 4 | 4 | 4 | 4 | 4 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3 | 3 | 3 | 3–4 |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 4 | 4 | 4 | 4 | 4–5 |
+| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 
 ### Probability Mass Function
 
