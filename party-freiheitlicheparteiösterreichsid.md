@@ -11,6 +11,7 @@ Last result: **17.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.6% | 12.4–16.8% | 11.7–17.4% | 11.2–17.9% | 10.2–18.9% |
+| [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.5–17.8% | 14.0–18.3% | 13.7–18.7% | 13.0–19.6% |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13.0% | 11.2–15.1% | 10.7–15.7% | 10.3–16.2% | 9.5–17.3% |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.4–15.9% |
 | [10 January 2019–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
@@ -88,10 +89,10 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 15% | 88% |  |
 | 13.5–14.5% | 22% | 74% |  |
 | 14.5–15.5% | 23% | 52% | Median |
-| 15.5–16.5% | 17% | 29% |  |
-| 16.5–17.5% | 8% | 12% | Last Result |
+| 15.5–16.5% | 17% | 30% |  |
+| 16.5–17.5% | 9% | 13% | Last Result |
 | 17.5–18.5% | 3% | 4% |  |
-| 18.5–19.5% | 0.7% | 0.9% |  |
+| 18.5–19.5% | 0.8% | 0.9% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
@@ -105,6 +106,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10 January 2019–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 3 | 3 | 2–3 | 2–3 | 2–4 |
@@ -156,13 +158,13 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4 | 4 | 3–4 | 3–4 |
+| [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 4 | 4 | 4 | 4 | 4 |
-| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3 | 3 | 3 | 3–4 |
+| [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
