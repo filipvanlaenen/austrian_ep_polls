@@ -15,7 +15,7 @@ Last result: **34.6%** (General Election of 26 May 2019)
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 38.1% | 35.9–40.3% | 35.3–40.9% | 34.8–41.5% | 33.7–42.6% |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 36.3–41.9% | 35.5–42.7% | 34.8–43.3% | 33.5–44.7% |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.1% |
-| [10 January 2019–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.0% |
+| [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.0% |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 38.0% | 35.8–40.2% | 35.2–40.8% | 34.7–41.4% | 33.7–42.4% |
 | [3–9 January 2020](2020-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 36.9–41.2% | 36.3–41.8% | 35.8–42.3% | 34.8–43.3% |
 | [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 36.9–41.1% | 36.3–41.7% | 35.8–42.3% | 34.8–43.3% |
@@ -111,7 +111,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [10 January 2019–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
+| [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [3–9 January 2020](2020-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
