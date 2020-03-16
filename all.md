@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 |
+| [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 7–9 | 15–20% <br> 3–4 | 9–13% <br> 2 | 15–20% <br> 3–4 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 35–41% <br> 7–9 | 13–18% <br> 2–3 | 14–19% <br> 2–4 | 15–20% <br> 3–4 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35–43% <br> 7–9 | 14–21% <br> 3–4 | 10–16% <br> 2–3 | 14–21% <br> 3–4 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
