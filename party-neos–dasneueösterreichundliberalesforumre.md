@@ -10,7 +10,7 @@ Last result: **8.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.5–11.3% | 8.1–11.7% | 7.8–12.1% | 7.2–12.8% |
+| N/A | [Poll Average](average.html) | 9.3% | 8.1–10.7% | 7.8–11.2% | 7.5–11.6% | 7.0–12.4% |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.5–11.1% | 7.1–11.8% |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.4–12.1% | 7.8–12.8% |
@@ -84,16 +84,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.2% | 100% |  |
-| 7.5–8.5% | 10% | 98.7% | Last Result |
-| 8.5–9.5% | 29% | 88% |  |
-| 9.5–10.5% | 34% | 60% | Median |
-| 10.5–11.5% | 20% | 26% |  |
-| 11.5–12.5% | 6% | 6% |  |
-| 12.5–13.5% | 0.9% | 0.9% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 3% | 99.9% |  |
+| 7.5–8.5% | 19% | 97% | Last Result |
+| 8.5–9.5% | 38% | 78% | Median |
+| 9.5–10.5% | 28% | 41% |  |
+| 10.5–11.5% | 10% | 13% |  |
+| 11.5–12.5% | 2% | 3% |  |
+| 12.5–13.5% | 0.3% | 0.3% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -180,9 +179,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 25% | 100% | Last Result |
-| 2 | 75% | 75% | Median |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 1 | 40% | 100% | Last Result |
+| 2 | 60% | 60% | Median |
+| 3 | 0% | 0% |  |
 
 
