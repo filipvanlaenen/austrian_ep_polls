@@ -10,7 +10,9 @@ Last result: **8.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.3% | 8.1–10.7% | 7.8–11.2% | 7.5–11.6% | 7.0–12.4% |
+| N/A | [Poll Average](average.html) | 8.6% | 6.4–10.5% | 6.0–11.0% | 5.7–11.4% | 5.0–12.3% |
+| [1 March–4 April 2020](2020-04-04-OGM.html) | OGM | 6.9% | 5.7–8.6% | 5.3–9.1% | 5.0–9.5% | 4.5–10.3% |
+| [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.5–11.1% | 7.1–11.8% |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.4–12.1% | 7.8–12.8% |
@@ -84,14 +86,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 3% | 99.9% |  |
-| 7.5–8.5% | 19% | 97% | Last Result |
-| 8.5–9.5% | 38% | 78% | Median |
-| 9.5–10.5% | 28% | 41% |  |
-| 10.5–11.5% | 10% | 13% |  |
-| 11.5–12.5% | 2% | 3% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 2% | 99.9% |  |
+| 5.5–6.5% | 10% | 98% |  |
+| 6.5–7.5% | 17% | 88% |  |
+| 7.5–8.5% | 20% | 71% | Last Result |
+| 8.5–9.5% | 24% | 51% | Median |
+| 9.5–10.5% | 18% | 27% |  |
+| 10.5–11.5% | 7% | 9% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.2% | 0.3% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -103,7 +108,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1 March–4 April 2020](2020-04-04-OGM.html) | OGM | 1 | 1 | 1 | 1–2 | 0–2 |
+| [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 1 | 1 | 1 | 1 | 1–2 |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -179,8 +186,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 40% | 100% | Last Result |
-| 2 | 60% | 60% | Median |
+| 0 | 0.1% | 100% |  |
+| 1 | 60% | 99.9% | Last Result, Median |
+| 2 | 40% | 40% |  |
 | 3 | 0% | 0% |  |
 
 

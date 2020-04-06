@@ -10,7 +10,9 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.3% | 37.0–41.5% | 36.3–42.1% | 35.7–42.6% | 34.5–43.6% |
+| N/A | [Poll Average](average.html) | 40.5% | 37.3–45.4% | 36.5–46.6% | 35.9–47.6% | 34.7–49.4% |
+| [1 March–4 April 2020](2020-04-04-OGM.html) | OGM | 45.1% | 42.3–47.9% | 41.5–48.7% | 40.8–49.4% | 39.5–50.8% |
+| [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 43.0% | 41.0–45.0% | 40.4–45.6% | 40.0–46.1% | 39.0–47.1% |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.8% | 37.9–41.8% | 37.3–42.4% | 36.8–42.9% | 35.9–43.9% |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.4% | 37.4–41.4% | 36.9–42.0% | 36.4–42.4% | 35.5–43.4% |
@@ -86,19 +88,25 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 31.5–32.5% | 0% | 100% |  |
 | 32.5–33.5% | 0.1% | 100% |  |
-| 33.5–34.5% | 0.4% | 99.9% |  |
-| 34.5–35.5% | 2% | 99.5% | Last Result |
-| 35.5–36.5% | 5% | 98% |  |
-| 36.5–37.5% | 10% | 93% |  |
-| 37.5–38.5% | 17% | 83% |  |
-| 38.5–39.5% | 22% | 66% | Median |
-| 39.5–40.5% | 21% | 44% |  |
-| 40.5–41.5% | 14% | 23% |  |
-| 41.5–42.5% | 7% | 9% |  |
-| 42.5–43.5% | 2% | 3% |  |
-| 43.5–44.5% | 0.5% | 0.6% |  |
-| 44.5–45.5% | 0.1% | 0.1% |  |
-| 45.5–46.5% | 0% | 0% |  |
+| 33.5–34.5% | 0.3% | 99.9% |  |
+| 34.5–35.5% | 1.2% | 99.6% | Last Result |
+| 35.5–36.5% | 3% | 98% |  |
+| 36.5–37.5% | 7% | 95% |  |
+| 37.5–38.5% | 11% | 88% |  |
+| 38.5–39.5% | 14% | 76% |  |
+| 39.5–40.5% | 13% | 62% |  |
+| 40.5–41.5% | 10% | 50% | Median |
+| 41.5–42.5% | 9% | 40% |  |
+| 42.5–43.5% | 8% | 31% |  |
+| 43.5–44.5% | 8% | 23% |  |
+| 44.5–45.5% | 6% | 15% |  |
+| 45.5–46.5% | 4% | 9% |  |
+| 46.5–47.5% | 3% | 5% |  |
+| 47.5–48.5% | 1.5% | 3% |  |
+| 48.5–49.5% | 0.7% | 1.2% |  |
+| 49.5–50.5% | 0.3% | 0.4% |  |
+| 50.5–51.5% | 0.1% | 0.1% |  |
+| 51.5–52.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -109,7 +117,9 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| N/A | [Poll Average](average.html) | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
+| [1 March–4 April 2020](2020-04-04-OGM.html) | OGM | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
+| [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
@@ -185,10 +195,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 7% | 100% | Last Result |
-| 8 | 70% | 93% | Median |
-| 9 | 22% | 23% |  |
-| 10 | 0.2% | 0.2% | Majority |
-| 11 | 0% | 0% |  |
+| 7 | 5% | 100% | Last Result |
+| 8 | 48% | 95% | Median |
+| 9 | 38% | 47% |  |
+| 10 | 9% | 9% | Majority |
+| 11 | 0.2% | 0.2% |  |
+| 12 | 0% | 0% |  |
 
 
