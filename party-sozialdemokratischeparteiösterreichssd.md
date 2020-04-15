@@ -10,7 +10,8 @@ Last result: **23.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.9% | 14.6–19.3% | 14.0–20.0% | 13.6–20.6% | 12.7–21.6% |
+| N/A | [Poll Average](average.html) | 16.5% | 14.4–18.4% | 13.9–18.9% | 13.4–19.3% | 12.6–20.2% |
+| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 19.0% | N/A | N/A | N/A | N/A |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -87,18 +88,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 2% | 99.6% |  |
-| 13.5–14.5% | 7% | 98% |  |
-| 14.5–15.5% | 13% | 91% |  |
-| 15.5–16.5% | 19% | 77% |  |
-| 16.5–17.5% | 21% | 58% | Median |
-| 17.5–18.5% | 17% | 37% |  |
-| 18.5–19.5% | 11% | 19% |  |
-| 19.5–20.5% | 6% | 8% |  |
-| 20.5–21.5% | 2% | 3% |  |
-| 21.5–22.5% | 0.4% | 0.5% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0.4% | 100% |  |
+| 12.5–13.5% | 3% | 99.5% |  |
+| 13.5–14.5% | 9% | 97% |  |
+| 14.5–15.5% | 17% | 88% |  |
+| 15.5–16.5% | 24% | 72% | Median |
+| 16.5–17.5% | 24% | 48% |  |
+| 17.5–18.5% | 16% | 24% |  |
+| 18.5–19.5% | 6% | 8% |  |
+| 19.5–20.5% | 1.5% | 2% |  |
+| 20.5–21.5% | 0.2% | 0.2% |  |
+| 21.5–22.5% | 0% | 0% |  |
+| 22.5–23.5% | 0% | 0% |  |
 | 23.5–24.5% | 0% | 0% | Last Result |
 
 
@@ -111,6 +112,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 4 | 4 | 3–4 | 3–4 | 3–5 |
@@ -188,9 +190,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 3% | 100% |  |
-| 3 | 72% | 97% | Median |
-| 4 | 25% | 25% |  |
+| 2 | 4% | 100% |  |
+| 3 | 81% | 96% | Median |
+| 4 | 15% | 15% |  |
 | 5 | 0% | 0% | Last Result |
 
 
