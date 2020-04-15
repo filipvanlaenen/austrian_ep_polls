@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 36–47% <br> 7–10 | 14–21% <br> 2–4 | 10–18% <br> 2–3 | 15–21% <br> 3–4 | 6–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 36–47% <br> 7–10 | 13–19% <br> 2–4 | 10–18% <br> 2–3 | 15–20% <br> 3–4 | 6–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 42–48% <br> 9–10 | 14–19% <br> 2–4 | 10–14% <br> 2–3 | 15–21% <br> 3–4 | 5–9% <br> 1 | N/A <br> N/A | N/A <br> N/A |
-| [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 40–46% <br> 8–10 | 17–22% <br> 3–4 | 9–13% <br> 1–2 | 17–22% <br> 3–4 | 6–9% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–43% <br> 8–9 | 15–20% <br> 3–4 | 10–14% <br> 2–3 | 15–20% <br> 3–4 | 8–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 35–41% <br> 7–9 | 13–18% <br> 2–3 | 14–19% <br> 2–4 | 15–20% <br> 3–4 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 36–42% <br> 7–9 | 15–19% <br> 3–4 | 13–17% <br> 2–3 | 15–19% <br> 3–4 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
