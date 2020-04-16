@@ -10,8 +10,8 @@ Last result: **14.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.4% | 15.8–19.2% | 15.3–19.7% | 14.9–20.2% | 14.2–21.1% |
-| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 19.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 17.7% | 15.9–19.6% | 15.4–20.1% | 15.0–20.5% | 14.3–21.2% |
+| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 19.0% | 17.8–20.2% | 17.5–20.6% | 17.3–20.9% | 16.7–21.5% |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 18.0% | 16.4–19.8% | 15.9–20.4% | 15.5–20.8% | 14.7–21.7% |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
@@ -89,14 +89,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 1.1% | 99.9% | Last Result |
-| 14.5–15.5% | 6% | 98.8% |  |
-| 15.5–16.5% | 19% | 93% |  |
-| 16.5–17.5% | 29% | 74% | Median |
-| 17.5–18.5% | 26% | 45% |  |
-| 18.5–19.5% | 14% | 20% |  |
-| 19.5–20.5% | 5% | 6% |  |
-| 20.5–21.5% | 1.1% | 1.3% |  |
+| 13.5–14.5% | 0.9% | 99.9% | Last Result |
+| 14.5–15.5% | 5% | 99.1% |  |
+| 15.5–16.5% | 15% | 94% |  |
+| 16.5–17.5% | 24% | 79% |  |
+| 17.5–18.5% | 26% | 55% | Median |
+| 18.5–19.5% | 19% | 30% |  |
+| 19.5–20.5% | 8% | 10% |  |
+| 20.5–21.5% | 2% | 2% |  |
 | 21.5–22.5% | 0.2% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -110,7 +110,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -188,9 +188,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% | Last Result |
-| 3 | 70% | 99.8% | Median |
-| 4 | 30% | 30% |  |
+| 2 | 0.1% | 100% | Last Result |
+| 3 | 66% | 99.9% | Median |
+| 4 | 34% | 34% |  |
 | 5 | 0% | 0% |  |
 
 
