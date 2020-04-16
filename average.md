@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 36–47% <br> 7–10 | 13–19% <br> 2–4 | 10–18% <br> 2–3 | 15–20% <br> 3–4 | 6–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
-| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 36–47% <br> 7–10 | 14–20% <br> 2–4 | 10–18% <br> 2–3 | 15–20% <br> 3–4 | 5–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 42–46% <br> 8–10 | 17–21% <br> 3–4 | 10–13% <br> 2 | 17–21% <br> 3–4 | 5–7% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 42–48% <br> 9–10 | 14–19% <br> 2–4 | 10–14% <br> 2–3 | 15–21% <br> 3–4 | 5–9% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–43% <br> 8–9 | 15–20% <br> 3–4 | 10–14% <br> 2–3 | 15–20% <br> 3–4 | 8–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 35–41% <br> 7–9 | 13–18% <br> 2–3 | 14–19% <br> 2–4 | 15–20% <br> 3–4 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
@@ -40,11 +40,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 34.6% | 39.8% | 37.0–45.5% |36.3–46.5% | 35.7–47.3% | 34.5–48.6% |
-| <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 23.9% | 16.5% | 14.4–18.4% |13.9–18.9% | 13.4–19.3% | 12.6–20.2% |
-| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 17.2% | 13.8% | 11.3–16.7% |10.8–17.3% | 10.4–17.9% | 9.7–18.9% |
-| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 14.1% | 17.4% | 15.8–19.2% |15.3–19.7% | 14.9–20.2% | 14.2–21.1% |
-| <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 8.4% | 9.0% | 6.8–10.6% |6.3–11.1% | 6.0–11.5% | 5.4–12.4% |
+| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 34.6% | 40.7% | 37.3–45.5% |36.5–46.3% | 35.9–47.1% | 34.7–48.5% |
+| <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 23.9% | 16.9% | 14.6–19.3% |14.0–19.8% | 13.6–20.2% | 12.7–20.9% |
+| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 17.2% | 12.9% | 10.7–16.5% |10.3–17.2% | 10.0–17.7% | 9.5–18.8% |
+| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 14.1% | 17.7% | 15.9–19.6% |15.4–20.1% | 15.0–20.5% | 14.3–21.2% |
+| <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 8.4% | 8.5% | 5.9–10.5% |5.6–11.0% | 5.4–11.4% | 4.9–12.3% |
 | <a href="#jetzt–liste-pilz-(greens/efa)">JETZT–Liste Pilz (Greens/EFA)</a> | 1.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#meine-stimme-gilt!-(*)">Meine Stimme Gilt! (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
@@ -56,22 +56,22 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 31.5–32.5% | 0% | 100% |  |
 | 32.5–33.5% | 0.1% | 100% |  |
-| 33.5–34.5% | 0.4% | 99.9% |  |
-| 34.5–35.5% | 2% | 99.5% | Last Result |
-| 35.5–36.5% | 4% | 98% |  |
-| 36.5–37.5% | 9% | 94% |  |
-| 37.5–38.5% | 14% | 85% |  |
-| 38.5–39.5% | 17% | 70% |  |
-| 39.5–40.5% | 14% | 53% | Median |
-| 40.5–41.5% | 9% | 39% |  |
-| 41.5–42.5% | 5% | 30% |  |
-| 42.5–43.5% | 4% | 24% |  |
-| 43.5–44.5% | 5% | 20% |  |
-| 44.5–45.5% | 6% | 15% |  |
+| 33.5–34.5% | 0.3% | 99.9% |  |
+| 34.5–35.5% | 1.2% | 99.6% | Last Result |
+| 35.5–36.5% | 3% | 98% |  |
+| 36.5–37.5% | 7% | 95% |  |
+| 37.5–38.5% | 11% | 88% |  |
+| 38.5–39.5% | 14% | 76% |  |
+| 39.5–40.5% | 12% | 63% |  |
+| 40.5–41.5% | 8% | 51% | Median |
+| 41.5–42.5% | 6% | 43% |  |
+| 42.5–43.5% | 8% | 37% |  |
+| 43.5–44.5% | 11% | 29% |  |
+| 44.5–45.5% | 9% | 18% |  |
 | 45.5–46.5% | 5% | 9% |  |
-| 46.5–47.5% | 3% | 5% |  |
-| 47.5–48.5% | 1.3% | 2% |  |
-| 48.5–49.5% | 0.4% | 0.6% |  |
+| 46.5–47.5% | 3% | 4% |  |
+| 47.5–48.5% | 1.1% | 2% |  |
+| 48.5–49.5% | 0.3% | 0.5% |  |
 | 49.5–50.5% | 0.1% | 0.1% |  |
 | 50.5–51.5% | 0% | 0% |  |
 
@@ -82,17 +82,17 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.4% | 100% |  |
-| 12.5–13.5% | 3% | 99.5% |  |
-| 13.5–14.5% | 9% | 97% |  |
-| 14.5–15.5% | 17% | 88% |  |
-| 15.5–16.5% | 24% | 72% | Median |
-| 16.5–17.5% | 24% | 48% |  |
-| 17.5–18.5% | 16% | 24% |  |
-| 18.5–19.5% | 6% | 8% |  |
-| 19.5–20.5% | 1.5% | 2% |  |
-| 20.5–21.5% | 0.2% | 0.2% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 11.5–12.5% | 0.3% | 100% |  |
+| 12.5–13.5% | 2% | 99.6% |  |
+| 13.5–14.5% | 7% | 98% |  |
+| 14.5–15.5% | 13% | 91% |  |
+| 15.5–16.5% | 19% | 77% |  |
+| 16.5–17.5% | 20% | 58% | Median |
+| 17.5–18.5% | 18% | 38% |  |
+| 18.5–19.5% | 13% | 20% |  |
+| 19.5–20.5% | 6% | 7% |  |
+| 20.5–21.5% | 1.2% | 1.2% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 | 23.5–24.5% | 0% | 0% | Last Result |
 
@@ -103,17 +103,17 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.3% | 100% |  |
-| 9.5–10.5% | 3% | 99.7% |  |
-| 10.5–11.5% | 11% | 97% |  |
-| 11.5–12.5% | 18% | 86% |  |
-| 12.5–13.5% | 15% | 69% |  |
-| 13.5–14.5% | 13% | 53% | Median |
-| 14.5–15.5% | 15% | 40% |  |
-| 15.5–16.5% | 14% | 25% |  |
-| 16.5–17.5% | 8% | 12% | Last Result |
-| 17.5–18.5% | 3% | 4% |  |
-| 18.5–19.5% | 0.8% | 0.9% |  |
+| 8.5–9.5% | 0.6% | 100% |  |
+| 9.5–10.5% | 7% | 99.4% |  |
+| 10.5–11.5% | 19% | 92% |  |
+| 11.5–12.5% | 18% | 74% |  |
+| 12.5–13.5% | 13% | 55% | Median |
+| 13.5–14.5% | 11% | 43% |  |
+| 14.5–15.5% | 12% | 32% |  |
+| 15.5–16.5% | 11% | 20% |  |
+| 16.5–17.5% | 6% | 9% | Last Result |
+| 17.5–18.5% | 2% | 3% |  |
+| 18.5–19.5% | 0.6% | 0.7% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
@@ -125,14 +125,14 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 1.1% | 99.9% | Last Result |
-| 14.5–15.5% | 6% | 98.8% |  |
-| 15.5–16.5% | 19% | 93% |  |
-| 16.5–17.5% | 29% | 74% | Median |
-| 17.5–18.5% | 26% | 45% |  |
-| 18.5–19.5% | 14% | 20% |  |
-| 19.5–20.5% | 5% | 6% |  |
-| 20.5–21.5% | 1.1% | 1.3% |  |
+| 13.5–14.5% | 0.9% | 99.9% | Last Result |
+| 14.5–15.5% | 5% | 99.1% |  |
+| 15.5–16.5% | 15% | 94% |  |
+| 16.5–17.5% | 24% | 79% |  |
+| 17.5–18.5% | 26% | 55% | Median |
+| 18.5–19.5% | 19% | 30% |  |
+| 19.5–20.5% | 8% | 10% |  |
+| 20.5–21.5% | 2% | 2% |  |
 | 21.5–22.5% | 0.2% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -142,16 +142,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.9% | 100% |  |
-| 5.5–6.5% | 6% | 99.1% |  |
-| 6.5–7.5% | 12% | 93% |  |
-| 7.5–8.5% | 19% | 81% | Last Result |
-| 8.5–9.5% | 29% | 62% | Median |
-| 9.5–10.5% | 22% | 33% |  |
-| 10.5–11.5% | 9% | 11% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 4% | 99.9% |  |
+| 5.5–6.5% | 18% | 96% |  |
+| 6.5–7.5% | 13% | 78% |  |
+| 7.5–8.5% | 15% | 65% | Last Result |
+| 8.5–9.5% | 23% | 50% | Median |
+| 9.5–10.5% | 18% | 27% |  |
+| 10.5–11.5% | 7% | 9% |  |
 | 11.5–12.5% | 2% | 2% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
+| 12.5–13.5% | 0.2% | 0.3% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -165,9 +165,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 7 | 8 | 8–10 |7–10 | 7–10 | 7–10 |
+| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 7 | 8 | 8–9 |7–10 | 7–10 | 7–10 |
 | <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 3 | 3–4 |3–4 | 2–4 | 2–4 |
-| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 3 | 3 | 2–3 |2–3 | 2–3 | 2–4 |
+| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 3 | 2 | 2–3 |2–3 | 2–3 | 2–4 |
 | <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 2 | 3 | 3–4 |3–4 | 3–4 | 3–4 |
 | <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 1 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#jetzt–liste-pilz-(greens/efa)">JETZT–Liste Pilz (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -181,12 +181,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 7% | 100% | Last Result |
-| 8 | 53% | 93% | Median |
-| 9 | 30% | 41% |  |
-| 10 | 10% | 10% | Majority |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 7 | 5% | 100% | Last Result |
+| 8 | 45% | 95% | Median |
+| 9 | 41% | 49% |  |
+| 10 | 9% | 9% | Majority |
+| 11 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
 
@@ -196,9 +195,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 4% | 100% |  |
-| 3 | 81% | 96% | Median |
-| 4 | 15% | 15% |  |
+| 2 | 3% | 100% |  |
+| 3 | 72% | 97% | Median |
+| 4 | 25% | 25% |  |
 | 5 | 0% | 0% | Last Result |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -209,9 +208,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 47% | 99.9% |  |
-| 3 | 51% | 53% | Last Result, Median |
+| 1 | 0.4% | 100% |  |
+| 2 | 57% | 99.6% | Median |
+| 3 | 41% | 42% | Last Result |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
@@ -223,9 +222,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% | Last Result |
-| 3 | 70% | 99.8% | Median |
-| 4 | 30% | 30% |  |
+| 2 | 0.1% | 100% | Last Result |
+| 3 | 66% | 99.9% | Median |
+| 4 | 34% | 34% |  |
 | 5 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -236,8 +235,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 50% | 100% | Last Result, Median |
-| 2 | 49% | 50% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 60% | 99.9% | Last Result, Median |
+| 2 | 40% | 40% |  |
 | 3 | 0% | 0% |  |
 
 ### JETZT–Liste Pilz (Greens/EFA)
@@ -261,10 +261,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Österreichische Volkspartei (EPP) | 7 | 8 | 10% | 8–10 | 7–10 | 7–10 | 7–10 |
+| Österreichische Volkspartei (EPP) | 7 | 8 | 9% | 8–9 | 7–10 | 7–10 | 7–10 |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA) | 2 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sozialdemokratische Partei Österreichs (S&D) | 5 | 3 | 0% | 3–4 | 3–4 | 2–4 | 2–4 |
-| Freiheitliche Partei Österreichs (ID) | 3 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–4 |
+| Freiheitliche Partei Österreichs (ID) | 3 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–4 |
 | NEOS–Das Neue Österreich und Liberales Forum (RE) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Meine Stimme Gilt! (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -274,12 +274,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 7% | 100% | Last Result |
-| 8 | 53% | 93% | Median |
-| 9 | 30% | 41% |  |
-| 10 | 10% | 10% | Majority |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 7 | 5% | 100% | Last Result |
+| 8 | 45% | 95% | Median |
+| 9 | 41% | 49% |  |
+| 10 | 9% | 9% | Majority |
+| 11 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA)
 
@@ -287,9 +286,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% | Last Result |
-| 3 | 70% | 99.8% | Median |
-| 4 | 30% | 30% |  |
+| 2 | 0.1% | 100% | Last Result |
+| 3 | 66% | 99.9% | Median |
+| 4 | 34% | 34% |  |
 | 5 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -298,9 +297,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 4% | 100% |  |
-| 3 | 81% | 96% | Median |
-| 4 | 15% | 15% |  |
+| 2 | 3% | 100% |  |
+| 3 | 72% | 97% | Median |
+| 4 | 25% | 25% |  |
 | 5 | 0% | 0% | Last Result |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -309,9 +308,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 47% | 99.9% |  |
-| 3 | 51% | 53% | Last Result, Median |
+| 1 | 0.4% | 100% |  |
+| 2 | 57% | 99.6% | Median |
+| 3 | 41% | 42% | Last Result |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
@@ -321,8 +320,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 50% | 100% | Last Result, Median |
-| 2 | 49% | 50% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 60% | 99.9% | Last Result, Median |
+| 2 | 40% | 40% |  |
 | 3 | 0% | 0% |  |
 
 ### Meine Stimme Gilt! (*)
@@ -337,6 +337,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.08%
