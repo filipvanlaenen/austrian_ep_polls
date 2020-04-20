@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 15 Apr 2020 19:34:46 +0200</pubDate>
+    <pubDate>Sun, 19 Apr 2020 20:24:11 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 13–16 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-16-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 2–4 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 2–3 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-16-UniqueResearch-seats.png"
+        length="176798"
+        type="image/png"/>
+      <pubDate>Sun, 19 Apr 2020 20:24:11 +0200</pubDate>
+      <dc:date>2020-04-19T20:24:11.51498+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 13–16 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-16-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-16-UniqueResearch-coalitions-seats.png"
+        length="123641"
+        type="image/png"/>
+      <pubDate>Sun, 19 Apr 2020 20:24:11 +0200</pubDate>
+      <dc:date>2020-04-19T20:24:11.51498+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 13–16 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-16-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 44.6–51.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 13.6–18.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 10.9–15.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 4.5–7.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 13.6–18.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-16-UniqueResearch.png"
+        length="190438"
+        type="image/png"/>
+      <pubDate>Sun, 19 Apr 2020 20:24:11 +0200</pubDate>
+      <dc:date>2020-04-19T20:24:11.51498+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 3–7 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-07-Market.html#seats</link>
@@ -1259,6 +1289,6 @@
       <pubDate>Tue, 18 Feb 2020 19:05:40 +0100</pubDate>
       <dc:date>2020-02-18T19:05:40.704093+01:00</dc:date>
     </item>
-    <dc:date>2020-04-15T19:34:46.828748+02:00</dc:date>
+    <dc:date>2020-04-19T20:24:11.51498+02:00</dc:date>
   </channel>
 </rss>
