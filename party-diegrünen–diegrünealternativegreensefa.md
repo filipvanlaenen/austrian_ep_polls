@@ -150,13 +150,13 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [11–17 September 2019](2019-09-17-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 2 | 2 | 2 | 2 | 2 |
-| [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [5–10 September 2019](2019-09-10-KarmasinResearchIdentity.html) | Karmasin Research & Identity <br> PULS 24 | 2 | 2 | 2 | 2 | 2–3 |
 | [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 1–2 | 1–3 |
 | [29 August–3 September 2019](2019-09-03-KarmasinResearchIdentity.html) | Karmasin Research & Identity <br> PULS 24 | 2 | 2 | 2 | 2 | 2–3 |
-| [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 2–3 | 1–3 | 1–3 |
