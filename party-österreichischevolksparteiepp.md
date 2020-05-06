@@ -153,7 +153,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [11–17 September 2019](2019-09-17-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 7 | 7 | 7–8 | 7–8 | 6–8 |
