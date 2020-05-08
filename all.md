@@ -61,7 +61,7 @@ The table below lists all polls registered and analyzed so far.
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 7–8 | 19–26% <br> 4–5 | 17–24% <br> 3–5 | 9–14% <br> 1–3 | 6–11% <br> 1–2 | 0–2% <br> 0 | N/A <br> N/A |
 | [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 7–8 | 19–26% <br> 4–5 | 17–24% <br> 3–5 | 9–15% <br> 2–3 | 5–10% <br> 1–2 | 0–2% <br> 0 | N/A <br> N/A |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34–40% <br> 7–8 | 19–25% <br> 4–5 | 17–22% <br> 3–4 | 10–14% <br> 2–3 | 6–9% <br> 1 | 1–2% <br> 0 | N/A <br> N/A |
-| [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 34–40% <br> 7–8 | 17–23% <br> 3–5 | 18–24% <br> 4–5 | 9–13% <br> 1–2 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
+| [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 34–40% <br> 7–8 | 17–23% <br> 3–5 | 18–24% <br> 3–5 | 9–13% <br> 1–2 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33–41% <br> 7–9 | 19–26% <br> 4–5 | 15–22% <br> 3–4 | 9–15% <br> 2–3 | 6–11% <br> 1–2 | 0–2% <br> 0 | N/A <br> N/A |
 | [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 33–39% <br> 7–8 | 18–24% <br> 3–5 | 17–23% <br> 3–4 | 9–13% <br> 1–2 | 8–12% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34–40% <br> 7–9 | 19–25% <br> 4–5 | 16–20% <br> 3–4 | 9–13% <br> 2 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
