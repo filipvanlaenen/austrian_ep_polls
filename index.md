@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 38–50% <br> 8–10 | 14–20% <br> 3–4 | 10–15% <br> 2–3 | 14–20% <br> 3–4 | 5–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
-| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 45–51% <br> 9–11 | 14–19% <br> 2–4 | 11–16% <br> 2–3 | 14–19% <br> 2–4 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 42–46% <br> 8–10 | 17–21% <br> 3–4 | 10–13% <br> 2 | 17–21% <br> 3–4 | 5–7% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 38–49% <br> 8–10 | 14–23% <br> 3–4 | 10–16% <br> 2–3 | 14–20% <br> 2–4 | 5–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 43–49% <br> 9–10 | 15–20% <br> 3–4 | 12–17% <br> 2–3 | 13–18% <br> 2–3 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
+| [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 41–47% <br> 8–10 | 19–24% <br> 3–5 | 9–13% <br> 1–2 | 15–19% <br> 3–4 | 5–8% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 42–48% <br> 9–10 | 14–19% <br> 2–4 | 10–14% <br> 2–3 | 15–21% <br> 3–4 | 5–9% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–43% <br> 8–9 | 15–20% <br> 3–4 | 10–14% <br> 2–3 | 15–20% <br> 3–4 | 8–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 |
