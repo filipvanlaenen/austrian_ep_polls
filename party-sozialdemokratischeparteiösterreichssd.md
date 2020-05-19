@@ -13,20 +13,20 @@ Last result: **23.9%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 17.5% | 15.3–21.4% | 14.7–22.1% | 14.3–22.7% | 13.5–23.8% |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 17.0% | 15.3–18.8% | 14.9–19.3% | 14.5–19.7% | 13.8–20.6% |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
-| [20–22 April 2020](2020-04-22-Market.html) | Market | 20.0% | N/A | N/A | N/A | N/A |
-| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 16.0% | N/A | N/A | N/A | N/A |
+| [20–22 April 2020](2020-04-22-Market.html) | Market | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
+| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 19.0% | 17.8–20.2% | 17.5–20.6% | 17.3–20.9% | 16.7–21.5% |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
-| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 16.0% | N/A | N/A | N/A | N/A |
+| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 16.0% | 14.5–17.8% | 14.0–18.3% | 13.7–18.7% | 12.9–19.6% |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.4% | 15.9–19.0% | 15.5–19.4% | 15.1–19.8% | 14.5–20.6% |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.1% | 15.7–18.8% | 15.3–19.2% | 14.9–19.6% | 14.3–20.4% |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 15.0% | 13.5–16.8% | 13.1–17.3% | 12.7–17.7% | 12.0–18.5% |
-| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 18.0% | N/A | N/A | N/A | N/A |
-| [4–6 February 2020](2020-02-06-Market.html) | Market | 18.9% | N/A | N/A | N/A | N/A |
+| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 18.0% | 16.2–20.0% | 15.7–20.6% | 15.3–21.1% | 14.4–22.1% |
+| [4–6 February 2020](2020-02-06-Market.html) | Market | 18.9% | 17.3–20.8% | 16.8–21.3% | 16.4–21.8% | 15.6–22.7% |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.0% | 15.0–19.3% | 14.4–20.0% | 14.0–20.5% | 13.0–21.7% |
-| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 16.0% | N/A | N/A | N/A | N/A |
+| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 16.0% | 14.5–17.6% | 14.0–18.1% | 13.7–18.5% | 13.0–19.4% |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
@@ -123,20 +123,20 @@ Last result: **5** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 4 | 4 | 4 | 3–5 | 3–5 |
-| [20–22 April 2020](2020-04-22-Market.html) | Market |  |  |  |  |  |
-| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [20–22 April 2020](2020-04-22-Market.html) | Market | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research |  |  |  |  |  |
+| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
-| [4–6 February 2020](2020-02-06-Market.html) | Market |  |  |  |  |  |
+| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [4–6 February 2020](2020-02-06-Market.html) | Market | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
+| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3 | 3 | 2–4 | 2–4 |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3–4 | 2–4 | 2–4 |

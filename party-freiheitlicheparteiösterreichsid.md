@@ -13,20 +13,20 @@ Last result: **17.2%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 12.3% | 10.5–14.5% | 10.1–15.1% | 9.7–15.7% | 9.1–16.7% |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 14.0% | 12.5–15.7% | 12.1–16.1% | 11.7–16.6% | 11.1–17.4% |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
-| [20–22 April 2020](2020-04-22-Market.html) | Market | 10.0% | N/A | N/A | N/A | N/A |
-| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 13.0% | N/A | N/A | N/A | N/A |
+| [20–22 April 2020](2020-04-22-Market.html) | Market | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 13.0% | 11.6–14.7% | 11.2–15.1% | 10.9–15.5% | 10.2–16.4% |
 | [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 11.0% | 10.1–12.0% | 9.8–12.3% | 9.6–12.5% | 9.2–13.0% |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 12.0% | 10.6–13.6% | 10.2–14.1% | 9.9–14.4% | 9.3–15.2% |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
-| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 17.0% | N/A | N/A | N/A | N/A |
+| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 17.0% | 15.4–18.8% | 15.0–19.3% | 14.6–19.8% | 13.8–20.7% |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12.3% | 11.0–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.1% | 9.9–12.4% | 9.6–12.8% | 9.3–13.2% | 8.7–13.9% |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.5–17.8% | 14.0–18.3% | 13.7–18.7% | 13.0–19.6% |
-| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 13.0% | N/A | N/A | N/A | N/A |
-| [4–6 February 2020](2020-02-06-Market.html) | Market | 15.0% | N/A | N/A | N/A | N/A |
+| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 13.0% | 11.5–14.8% | 11.0–15.3% | 10.7–15.8% | 10.0–16.7% |
+| [4–6 February 2020](2020-02-06-Market.html) | Market | 15.0% | 13.5–16.7% | 13.1–17.2% | 12.7–17.6% | 12.0–18.5% |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13.0% | 11.2–15.1% | 10.7–15.7% | 10.3–16.2% | 9.5–17.3% |
-| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 13.0% | N/A | N/A | N/A | N/A |
+| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 13.0% | 11.6–14.6% | 11.2–15.0% | 10.9–15.4% | 10.3–16.2% |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.4–15.9% |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
@@ -121,20 +121,20 @@ Last result: **3** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 1–2 | 1–2 |
-| [20–22 April 2020](2020-04-22-Market.html) | Market |  |  |  |  |  |
-| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [20–22 April 2020](2020-04-22-Market.html) | Market | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 2 | 1–2 |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 1–2 | 1–3 |
-| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research |  |  |  |  |  |
+| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–3 |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3–4 | 2–4 | 2–4 |
-| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
-| [4–6 February 2020](2020-02-06-Market.html) | Market |  |  |  |  |  |
+| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [4–6 February 2020](2020-02-06-Market.html) | Market | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
+| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3–4 | 2–4 | 2–4 |
