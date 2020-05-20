@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 19 May 2020 08:12:21 +0200</pubDate>
+    <pubDate>Tue, 19 May 2020 20:45:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 11–14 May 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-05-14-UniqueResearch.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2020-05-17T22:52:00.644926+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Market, 20–22 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-22-Market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 8–10 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-22-Market-seats.png"
+        length="197183"
+        type="image/png"/>
+      <pubDate>Tue, 19 May 2020 20:45:17 +0200</pubDate>
+      <dc:date>2020-05-19T20:45:17.277825+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market, 20–22 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-22-Market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-22-Market-coalitions-seats.png"
+        length="140514"
+        type="image/png"/>
+      <pubDate>Tue, 19 May 2020 20:45:17 +0200</pubDate>
+      <dc:date>2020-05-19T20:45:17.277825+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Market, 20–22 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-22-Market.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 40.9–47.1%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 17.6–22.6%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 8.3–12.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 15.7–20.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2020-04-22-Market.png"
         length="229624"
         type="image/png"/>
-      <pubDate>Tue, 19 May 2020 07:02:59 +0200</pubDate>
-      <dc:date>2020-05-19T07:02:59.849845+02:00</dc:date>
+      <pubDate>Tue, 19 May 2020 20:45:17 +0200</pubDate>
+      <dc:date>2020-05-19T20:45:17.277825+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 13–16 April 2020 – Voting Intentions</title>
@@ -1459,6 +1479,6 @@
       <pubDate>Tue, 18 Feb 2020 19:05:40 +0100</pubDate>
       <dc:date>2020-02-18T19:05:40.704093+01:00</dc:date>
     </item>
-    <dc:date>2020-05-19T08:12:21.022562+02:00</dc:date>
+    <dc:date>2020-05-19T20:45:17.277825+02:00</dc:date>
   </channel>
 </rss>
