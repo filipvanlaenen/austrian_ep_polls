@@ -137,7 +137,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
-| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [4–6 February 2020](2020-02-06-Market.html) | Market | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
@@ -179,7 +179,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [29 August–3 September 2019](2019-09-03-KarmasinResearchIdentity.html) | Karmasin Research & Identity <br> PULS 24 | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 7 | 6–7 | 6–7 | 6–7 | 6–7 |

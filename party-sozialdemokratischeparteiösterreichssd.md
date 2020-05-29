@@ -128,7 +128,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
