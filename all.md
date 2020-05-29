@@ -12,7 +12,7 @@ The table below lists all polls registered and analyzed so far.
 | [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 42–46% <br> 8–10 | 17–21% <br> 3–4 | 10–13% <br> 2 | 17–21% <br> 3–4 | 5–7% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 42–48% <br> 9–10 | 14–19% <br> 2–4 | 10–14% <br> 2–3 | 15–21% <br> 3–4 | 5–9% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 40–46% <br> 8–10 | 17–22% <br> 3–4 | 9–13% <br> 1–2 | 17–22% <br> 3–4 | 6–9% <br> 1 | N/A <br> N/A | N/A <br> N/A |
-| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 36–42% <br> 7–9 | 14–19% <br> 2–4 | 15–20% <br> 3–4 | 14–19% <br> 3–4 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 36–42% <br> 7–9 | 14–19% <br> 3–4 | 15–20% <br> 3–4 | 14–19% <br> 3–4 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 37–43% <br> 7–9 | 18–23% <br> 3–4 | 11–15% <br> 2–3 | 15–19% <br> 3–4 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–43% <br> 8–9 | 15–20% <br> 3–4 | 10–14% <br> 2–3 | 15–20% <br> 3–4 | 8–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 7–9 | 15–20% <br> 3–4 | 9–13% <br> 2 | 15–20% <br> 3–4 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
@@ -72,7 +72,7 @@ The table below lists all polls registered and analyzed so far.
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33–41% <br> 7–9 | 19–26% <br> 4–5 | 15–22% <br> 3–4 | 9–15% <br> 2–3 | 6–11% <br> 1–2 | 0–2% <br> 0 | N/A <br> N/A |
 | [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 33–39% <br> 7–8 | 18–24% <br> 3–5 | 17–23% <br> 3–4 | 9–13% <br> 1–2 | 8–12% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34–40% <br> 7–9 | 19–25% <br> 4–5 | 16–20% <br> 3–4 | 9–13% <br> 2 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
-| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 35–41% <br> 7–9 | 17–23% <br> 3–5 | 17–23% <br> 3–4 | 9–13% <br> 1–2 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
+| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 35–41% <br> 7–9 | 17–23% <br> 3–5 | 17–23% <br> 3–5 | 9–13% <br> 1–2 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35–41% <br> 7–9 | 21–26% <br> 4–5 | 15–20% <br> 3–4 | 8–12% <br> 1–2 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 35–41% <br> 7–9 | 19–24% <br> 4–5 | 16–20% <br> 3–4 | 10–14% <br> 2–3 | 7–10% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 35–41% <br> 7–9 | 19–25% <br> 4–5 | 16–22% <br> 3–4 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
