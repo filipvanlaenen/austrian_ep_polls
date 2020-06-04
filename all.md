@@ -47,7 +47,7 @@ The table below lists all polls registered and analyzed so far.
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 32–36% <br> 7–8 | 21–24% <br> 4–5 | 19–21% <br> 4 | 12–14% <br> 2–3 | 7–9% <br> 1–2 | 2–3% <br> 0 | N/A <br> N/A |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 6–8 | 20–26% <br> 4–5 | 18–23% <br> 3–5 | 10–14% <br> 2–3 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 32–38% <br> 7–8 | 20–26% <br> 4–5 | 17–23% <br> 3–5 | 9–13% <br> 2 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
-| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 29–35% <br> 6–7 | 16–22% <br> 3–4 | 23–29% <br> 5–6 | 9–14% <br> 1–2 | 6–10% <br> 1–2 | 2–5% <br> 0–1 | N/A <br> N/A |
+| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 29–35% <br> 6–7 | 16–22% <br> 3–4 | 23–29% <br> 5–6 | 9–14% <br> 1–3 | 6–10% <br> 1–2 | 2–5% <br> 0–1 | N/A <br> N/A |
 | [11–17 September 2019](2019-09-17-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 32–36% <br> 7–8 | 21–24% <br> 4–5 | 19–21% <br> 4 | 12–14% <br> 2–3 | 8–10% <br> 1–2 | 1% <br> 0 | N/A <br> N/A |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 31–35% <br> 6–8 | 20–24% <br> 4–5 | 18–22% <br> 4 | 12–14% <br> 2–3 | 7–9% <br> 1–2 | 2–3% <br> 0 | N/A <br> N/A |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 33–37% <br> 7–8 | 20–24% <br> 4–5 | 18–22% <br> 4 | 10–12% <br> 2 | 7–9% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
