@@ -161,7 +161,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 2 | 1–3 |
-| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 2 | 2 | 2 | 1–2 | 1–3 |
+| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 2 | 2 | 2 | 1–3 | 1–3 |
 | [11–17 September 2019](2019-09-17-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 2 | 2 | 2 | 2 | 2 |
