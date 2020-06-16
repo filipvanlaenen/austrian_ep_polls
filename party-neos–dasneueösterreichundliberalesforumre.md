@@ -11,6 +11,8 @@ Last result: **8.4%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.8% | 5.4–9.5% | 5.1–10.0% | 4.8–10.4% | 4.4–11.2% |
+| [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 6.9–9.3% | 6.6–9.7% | 6.3–10.1% | 5.8–10.8% |
+| [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 6.0% | 5.0–7.2% | 4.8–7.5% | 4.5–7.8% | 4.1–8.5% |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [20–22 April 2020](2020-04-22-Market.html) | Market | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -117,6 +119,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 1 | 1 | 1 | 1 | 0–1 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 1 | 1 | 1 | 0–1 | 0–1 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 1 | 1 | 1 | 1 | 0–1 |
 | [20–22 April 2020](2020-04-22-Market.html) | Market | 1 | 1 | 1 | 1 | 1–2 |

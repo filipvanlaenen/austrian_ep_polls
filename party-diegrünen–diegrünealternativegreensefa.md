@@ -11,6 +11,8 @@ Last result: **14.1%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.0% | 14.6–19.0% | 14.0–19.6% | 13.5–20.1% | 12.6–21.0% |
+| [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.7% | 14.0–18.2% | 13.6–18.7% | 12.9–19.5% |
+| [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 15.0% | 13.4–16.7% | 13.0–17.2% | 12.7–17.6% | 12.0–18.5% |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [20–22 April 2020](2020-04-22-Market.html) | Market | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
@@ -119,6 +121,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [20–22 April 2020](2020-04-22-Market.html) | Market | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -191,7 +195,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -206,7 +210,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% | Last Result |
-| 3 | 74% | 96% | Median |
+| 3 | 73% | 96% | Median |
 | 4 | 22% | 22% |  |
 | 5 | 0% | 0% |  |
 
