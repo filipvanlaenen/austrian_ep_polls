@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-06-16T18:41:10.645133+02:00</updated>
+  <updated>2020-06-16T19:27:18.743733+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 40.6–47.5%, 8–10 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 14.5–19.7%, 3–4 seats</li><li>Freiheitliche Partei Österreichs (ID): 11.7–16.6%, 2–3 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 6.3–10.1%, 1–2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 13.6–18.7%, 2–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2020-06-12-UniqueResearch.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Unique Research for profil, 9–12 June 2020</title>
     <updated>2020-06-16T18:41:10.645133+02:00</updated>
     <dc:date>2020-06-16T18:41:10.645133+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 40.0–46.1%, 8–9 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 18.6–23.6%, 4–5 seats</li><li>Freiheitliche Partei Österreichs (ID): 10.1–14.2%, 2–3 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 4.7–7.7%, 1 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 14.8–19.5%, 3–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2020-05-19-Market.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2020-05-19-Market.html"/>
+    <title>Opinion Poll by Market for Der Standard, 18–19 May 2020</title>
+    <updated>2020-06-16T19:27:18.743733+02:00</updated>
+    <dc:date>2020-06-16T19:27:18.743733+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 42.6–49.5%, 9–10 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 14.5–19.7%, 3–4 seats</li><li>Freiheitliche Partei Österreichs (ID): 11.7–16.6%, 2–3 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 4.5–7.8%, 0–1 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 12.7–17.6%, 2–3 seats</li></ul></div></content>
@@ -423,5 +431,5 @@
     <updated>2020-06-09T22:52:29.488213+02:00</updated>
     <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
   </entry>
-  <dc:date>2020-06-16T18:41:10.645133+02:00</dc:date>
+  <dc:date>2020-06-16T19:27:18.743733+02:00</dc:date>
 </feed>
