@@ -10,7 +10,7 @@ Last result: **17.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.5% | 11.0–14.5% | 10.6–15.1% | 10.2–15.7% | 9.6–16.7% |
+| N/A | [Poll Average](average.html) | 12.6% | 11.0–14.7% | 10.5–15.4% | 10.2–15.9% | 9.6–16.8% |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 14.0% | 12.5–15.7% | 12.1–16.1% | 11.7–16.6% | 11.1–17.4% |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 14.0% | 12.5–15.7% | 12.1–16.1% | 11.7–16.6% | 11.1–17.4% |
@@ -98,15 +98,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.4% | 100% |  |
-| 9.5–10.5% | 4% | 99.6% |  |
+| 8.5–9.5% | 0.5% | 100% |  |
+| 9.5–10.5% | 5% | 99.5% |  |
 | 10.5–11.5% | 17% | 95% |  |
-| 11.5–12.5% | 29% | 78% |  |
-| 12.5–13.5% | 25% | 49% | Median |
-| 13.5–14.5% | 14% | 24% |  |
-| 14.5–15.5% | 7% | 10% |  |
-| 15.5–16.5% | 2% | 3% |  |
-| 16.5–17.5% | 0.5% | 0.6% | Last Result |
+| 11.5–12.5% | 26% | 78% |  |
+| 12.5–13.5% | 24% | 52% | Median |
+| 13.5–14.5% | 16% | 28% |  |
+| 14.5–15.5% | 8% | 12% |  |
+| 15.5–16.5% | 3% | 4% |  |
+| 16.5–17.5% | 0.7% | 0.8% | Last Result |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
@@ -208,9 +208,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 79% | 99.9% | Median |
-| 3 | 21% | 21% | Last Result |
+| 1 | 0.2% | 100% |  |
+| 2 | 76% | 99.8% | Median |
+| 3 | 24% | 24% | Last Result |
 | 4 | 0% | 0% |  |
 
 
