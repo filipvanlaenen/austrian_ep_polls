@@ -194,7 +194,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 

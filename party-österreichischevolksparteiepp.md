@@ -177,7 +177,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [5–10 September 2019](2019-09-10-KarmasinResearchIdentity.html) | Karmasin Research & Identity <br> PULS 24 | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [29 August–3 September 2019](2019-09-03-KarmasinResearchIdentity.html) | Karmasin Research & Identity <br> PULS 24 | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
@@ -187,7 +187,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
