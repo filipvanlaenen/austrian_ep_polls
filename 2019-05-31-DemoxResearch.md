@@ -42,8 +42,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 25% | 100% | Last Result |
-| 8 | 72% | 75% | Median |
+| 6 | 0.1% | 100% |  |
+| 7 | 26% | 99.9% | Last Result |
+| 8 | 71% | 74% | Median |
 | 9 | 3% | 3% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -56,8 +57,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 53% | 99.9% | Median |
-| 5 | 47% | 47% | Last Result |
+| 4 | 56% | 99.9% | Median |
+| 5 | 44% | 44% | Last Result |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -69,8 +70,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 42% | 100% | Last Result |
-| 4 | 57% | 58% | Median |
+| 3 | 39% | 100% | Last Result |
+| 4 | 61% | 61% | Median |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -82,9 +83,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 7% | 100% | Last Result |
-| 2 | 93% | 93% | Median |
-| 3 | 0.5% | 0.5% |  |
+| 1 | 6% | 100% | Last Result |
+| 2 | 94% | 94% | Median |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -119,8 +120,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 25% | 100% | Last Result |
-| 8 | 72% | 75% | Median |
+| 6 | 0.1% | 100% |  |
+| 7 | 26% | 99.9% | Last Result |
+| 8 | 71% | 74% | Median |
 | 9 | 3% | 3% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -131,8 +133,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 53% | 99.9% | Median |
-| 5 | 47% | 47% | Last Result |
+| 4 | 56% | 99.9% | Median |
+| 5 | 44% | 44% | Last Result |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -142,8 +144,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 42% | 100% | Last Result |
-| 4 | 57% | 58% | Median |
+| 3 | 39% | 100% | Last Result |
+| 4 | 61% | 61% | Median |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -153,9 +155,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 7% | 100% | Last Result |
-| 2 | 93% | 93% | Median |
-| 3 | 0.5% | 0.5% |  |
+| 1 | 6% | 100% | Last Result |
+| 2 | 94% | 94% | Median |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -170,6 +172,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.04%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.08%
 
