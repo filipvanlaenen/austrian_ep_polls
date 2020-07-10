@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 09 Jul 2020 19:07:31 +0200</pubDate>
+    <pubDate>Fri, 10 Jul 2020 18:48:40 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 9–12 June 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-06-12-UniqueResearch.html#seats</link>
@@ -1160,14 +1160,34 @@
       <dc:date>2020-07-09T19:07:31.227993+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Peter Hajek for ATV, PULS 4 and Servus TV, 12–20 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-20-PeterHajek.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 4 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-20-PeterHajek-seats.png"
+        length="192805"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jul 2020 16:34:59 +0200</pubDate>
+      <dc:date>2020-07-10T16:34:59.34048+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, PULS 4 and Servus TV, 12–20 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-20-PeterHajek.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-20-PeterHajek-coalitions-seats.png"
+        length="121345"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jul 2020 16:34:59 +0200</pubDate>
+      <dc:date>2020-07-10T16:34:59.34048+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peter Hajek for ATV, PULS 4 and Servus TV, 12–20 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-20-PeterHajek.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 32.3–35.7%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.6–23.5%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 18.6–21.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.1–9.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.5–2.6%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 11.8–14.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-20-PeterHajek.png"
-        length="198202"
+        length="244390"
         type="image/png"/>
-      <pubDate>Thu, 06 Feb 2020 21:27:41 +0100</pubDate>
-      <dc:date>2020-02-06T21:27:41.820776+01:00</dc:date>
+      <pubDate>Fri, 10 Jul 2020 16:34:59 +0200</pubDate>
+      <dc:date>2020-07-10T16:34:59.34048+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 13–18 September 2019 – Seat Projections for the Parties</title>
@@ -1280,14 +1300,34 @@
       <dc:date>2020-02-10T19:26:49.719842+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by OGM for KURIER, 6–13 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-13-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 4 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-13-OGM-seats.png"
+        length="193877"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jul 2020 16:43:42 +0200</pubDate>
+      <dc:date>2020-07-10T16:43:42.073621+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 6–13 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-13-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-13-OGM-coalitions-seats.png"
+        length="119083"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jul 2020 16:43:42 +0200</pubDate>
+      <dc:date>2020-07-10T16:43:42.073621+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by OGM for KURIER, 6–13 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-13-OGM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 33.0–37.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.3–23.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 18.4–21.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 6.9–9.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 9.7–12.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-09-13-OGM.png"
-        length="205368"
+        length="246272"
         type="image/png"/>
-      <pubDate>Mon, 10 Feb 2020 19:33:54 +0100</pubDate>
-      <dc:date>2020-02-10T19:33:54.543576+01:00</dc:date>
+      <pubDate>Fri, 10 Jul 2020 16:43:42 +0200</pubDate>
+      <dc:date>2020-07-10T16:43:42.073621+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 6–11 September 2019 – Seat Projections for the Parties</title>
@@ -1460,14 +1500,34 @@
       <dc:date>2020-05-01T19:03:58.851903+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Unique Research for profil, 19–22 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-22-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 3–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-22-UniqueResearch-seats.png"
+        length="227787"
+        type="image/png"/>
+      <pubDate>Thu, 09 Jul 2020 23:16:01 +0200</pubDate>
+      <dc:date>2020-07-09T23:16:01.497336+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 19–22 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-22-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-22-UniqueResearch-coalitions-seats.png"
+        length="160588"
+        type="image/png"/>
+      <pubDate>Thu, 09 Jul 2020 23:16:01 +0200</pubDate>
+      <dc:date>2020-07-09T23:16:01.497336+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Unique Research for profil, 19–22 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-22-UniqueResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 32.7–39.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 17.4–22.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 17.4–22.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.2–11.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 9.9–14.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-22-UniqueResearch.png"
-        length="224108"
+        length="261511"
         type="image/png"/>
-      <pubDate>Thu, 13 Feb 2020 17:59:37 +0100</pubDate>
-      <dc:date>2020-02-13T17:59:37.433736+01:00</dc:date>
+      <pubDate>Thu, 09 Jul 2020 23:16:01 +0200</pubDate>
+      <dc:date>2020-07-09T23:16:01.497336+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 16–21 August 2019 – Seat Projections for the Parties</title>
@@ -1670,14 +1730,34 @@
       <dc:date>2020-03-24T17:03:12.390448+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 5–17 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-17-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-17-ResearchAffairs-seats.png"
+        length="210873"
+        type="image/png"/>
+      <pubDate>Thu, 09 Jul 2020 23:07:37 +0200</pubDate>
+      <dc:date>2020-07-09T23:07:37.318218+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 5–17 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-17-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-17-ResearchAffairs-coalitions-seats.png"
+        length="142051"
+        type="image/png"/>
+      <pubDate>Thu, 09 Jul 2020 23:07:37 +0200</pubDate>
+      <dc:date>2020-07-09T23:07:37.318218+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 5–17 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-17-ResearchAffairs.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 34.1–40.1%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 19.5–24.6%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 16.6–21.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 5.6–8.7%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 10.1–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-07-17-ResearchAffairs.png"
-        length="218155"
+        length="255892"
         type="image/png"/>
-      <pubDate>Tue, 18 Feb 2020 19:41:48 +0100</pubDate>
-      <dc:date>2020-02-18T19:41:48.816814+01:00</dc:date>
+      <pubDate>Thu, 09 Jul 2020 23:07:37 +0200</pubDate>
+      <dc:date>2020-07-09T23:07:37.318218+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 8–12 July 2019 – Seat Projections for the Parties</title>
@@ -1860,14 +1940,34 @@
       <dc:date>2020-06-07T23:00:23.587565+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Unique Research, 31 May–5 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-06-05-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 3–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-06-05-UniqueResearch-seats.png"
+        length="234369"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jul 2020 18:48:40 +0200</pubDate>
+      <dc:date>2020-07-10T18:48:40.406628+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research, 31 May–5 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-06-05-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-06-05-UniqueResearch-coalitions-seats.png"
+        length="166162"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jul 2020 18:48:40 +0200</pubDate>
+      <dc:date>2020-07-10T18:48:40.406628+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Unique Research, 31 May–5 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-06-05-UniqueResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 33.7–40.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 17.4–22.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 18.3–24.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.1–12.3%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 8.1–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-06-05-UniqueResearch.png"
-        length="222722"
+        length="256770"
         type="image/png"/>
-      <pubDate>Tue, 18 Feb 2020 23:03:30 +0100</pubDate>
-      <dc:date>2020-02-18T23:03:30.038439+01:00</dc:date>
+      <pubDate>Fri, 10 Jul 2020 18:48:40 +0200</pubDate>
+      <dc:date>2020-07-10T18:48:40.406628+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 29 May–4 June 2019 – Seat Projections for the Parties</title>
@@ -2019,6 +2119,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
     </item>
-    <dc:date>2020-07-09T19:07:31.227993+02:00</dc:date>
+    <dc:date>2020-07-10T18:48:40.406628+02:00</dc:date>
   </channel>
 </rss>
