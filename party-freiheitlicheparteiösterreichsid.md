@@ -180,7 +180,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–5 | 3–5 | 3–5 |

@@ -170,7 +170,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [11–17 September 2019](2019-09-17-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 7 | 7 | 7–8 | 7–8 | 6–8 |
+| [11–17 September 2019](2019-09-17-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 7 | 7 | 7 | 7–8 | 6–8 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 7 | 7 | 7 | 6–8 | 6–8 |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
@@ -185,7 +185,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
+| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
