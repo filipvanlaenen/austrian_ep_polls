@@ -46,7 +46,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
 | 6 | 48% | 99.9% |  |
-| 7 | 52% | 52% | Last Result, Median |
+| 7 | 51% | 52% | Last Result, Median |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
@@ -72,7 +72,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
-| 4 | 95% | 98% | Median |
+| 4 | 94% | 98% | Median |
 | 5 | 4% | 4% | Last Result |
 | 6 | 0% | 0% |  |
 
@@ -96,8 +96,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 40% | 100% | Last Result |
-| 2 | 60% | 60% | Median |
+| 1 | 39% | 100% | Last Result |
+| 2 | 61% | 61% | Median |
 | 3 | 0% | 0% |  |
 
 ### JETZT–Liste Pilz (Greens/EFA)
@@ -133,7 +133,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
 | 6 | 48% | 99.9% |  |
-| 7 | 52% | 52% | Last Result, Median |
+| 7 | 51% | 52% | Last Result, Median |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
@@ -155,7 +155,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
-| 4 | 95% | 98% | Median |
+| 4 | 94% | 98% | Median |
 | 5 | 4% | 4% | Last Result |
 | 6 | 0% | 0% |  |
 
@@ -175,8 +175,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 40% | 100% | Last Result |
-| 2 | 60% | 60% | Median |
+| 1 | 39% | 100% | Last Result |
+| 2 | 61% | 61% | Median |
 | 3 | 0% | 0% |  |
 
 
@@ -191,6 +191,6 @@
 ### Calculations
 
 + **Sample size:** 1600
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.55%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.75%
 
