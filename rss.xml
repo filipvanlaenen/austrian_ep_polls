@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 14 Jul 2020 19:09:29 +0200</pubDate>
+    <pubDate>Tue, 14 Jul 2020 19:15:19 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 9–12 June 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-06-12-UniqueResearch.html#seats</link>
@@ -1740,14 +1740,34 @@
       <dc:date>2020-06-08T18:09:25.069945+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kowarcz Marktforschung, 26 July–9 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-09-KowarczMarktforschung.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-09-KowarczMarktforschung-seats.png"
+        length="217912"
+        type="image/png"/>
+      <pubDate>Tue, 14 Jul 2020 19:15:19 +0200</pubDate>
+      <dc:date>2020-07-14T19:15:19.821231+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kowarcz Marktforschung, 26 July–9 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-09-KowarczMarktforschung.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-09-KowarczMarktforschung-coalitions-seats.png"
+        length="149578"
+        type="image/png"/>
+      <pubDate>Tue, 14 Jul 2020 19:15:19 +0200</pubDate>
+      <dc:date>2020-07-14T19:15:19.821231+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kowarcz Marktforschung, 26 July–9 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-09-KowarczMarktforschung.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 28.8–33.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 18.1–22.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 20.0–24.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.7–10.5%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz (Greens/EFA): 1.4–2.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 11.4–14.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2019-08-09-KowarczMarktforschung.png"
         length="257580"
         type="image/png"/>
-      <pubDate>Tue, 14 Jul 2020 19:09:29 +0200</pubDate>
-      <dc:date>2020-07-14T19:09:29.146547+02:00</dc:date>
+      <pubDate>Tue, 14 Jul 2020 19:15:19 +0200</pubDate>
+      <dc:date>2020-07-14T19:15:19.821231+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–7 August 2019 – Seat Projections for the Parties</title>
@@ -2299,6 +2319,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
     </item>
-    <dc:date>2020-07-14T19:09:29.146547+02:00</dc:date>
+    <dc:date>2020-07-14T19:15:19.821231+02:00</dc:date>
   </channel>
 </rss>
