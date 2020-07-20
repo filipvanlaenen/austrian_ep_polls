@@ -57,7 +57,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.3% | 100% | Last Result |
 | 3 | 78% | 99.7% | Median |
-| 4 | 21% | 21% |  |
+| 4 | 22% | 22% |  |
 | 5 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -70,7 +70,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
 | 3 | 91% | 97% | Median |
-| 4 | 7% | 7% |  |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% | Last Result |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -81,8 +81,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 67% | 100% | Median |
-| 3 | 33% | 33% | Last Result |
+| 2 | 68% | 100% | Median |
+| 3 | 32% | 32% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -95,7 +95,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% | Last Result |
 | 2 | 96% | 97% | Median |
-| 3 | 1.5% | 1.5% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -131,7 +131,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
 | 3 | 91% | 97% | Median |
-| 4 | 7% | 7% |  |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% | Last Result |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -140,8 +140,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 67% | 100% | Median |
-| 3 | 33% | 33% | Last Result |
+| 2 | 68% | 100% | Median |
+| 3 | 32% | 32% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -152,7 +152,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% | Last Result |
 | 2 | 96% | 97% | Median |
-| 3 | 1.5% | 1.5% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -167,6 +167,6 @@
 ### Calculations
 
 + **Sample size:** 877
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.37%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.78%
 
