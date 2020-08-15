@@ -10,8 +10,12 @@ Last result: **14.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.0% | 15.1–19.0% | 14.6–19.6% | 14.2–20.1% | 13.3–21.1% |
+| N/A | [Poll Average](average.html) | 15.8% | 14.1–17.6% | 13.7–18.1% | 13.3–18.5% | 12.6–19.4% |
+| [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.8% | 14.0–18.2% | 13.6–18.7% | 12.9–19.6% |
+| [23–25 June 2020](2020-06-25-OGM.html) | OGM | 16.0% | 14.5–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.7% | 14.0–18.2% | 13.6–18.7% | 12.9–19.5% |
+| [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 15.9% | 14.4–17.7% | 13.9–18.2% | 13.6–18.6% | 12.9–19.5% |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 15.0% | 13.4–16.7% | 13.0–17.2% | 12.7–17.6% | 12.0–18.5% |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
@@ -98,18 +102,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 0.7% | 99.9% |  |
-| 13.5–14.5% | 4% | 99.2% | Last Result |
-| 14.5–15.5% | 11% | 95% |  |
-| 15.5–16.5% | 21% | 84% |  |
-| 16.5–17.5% | 25% | 62% | Median |
-| 17.5–18.5% | 20% | 37% |  |
-| 18.5–19.5% | 11% | 17% |  |
-| 19.5–20.5% | 4% | 5% |  |
-| 20.5–21.5% | 1.1% | 1.4% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 11.5–12.5% | 0.4% | 100% |  |
+| 12.5–13.5% | 3% | 99.6% |  |
+| 13.5–14.5% | 13% | 96% | Last Result |
+| 14.5–15.5% | 26% | 83% |  |
+| 15.5–16.5% | 29% | 57% | Median |
+| 16.5–17.5% | 18% | 28% |  |
+| 17.5–18.5% | 8% | 10% |  |
+| 18.5–19.5% | 2% | 2% |  |
+| 19.5–20.5% | 0.3% | 0.4% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -120,8 +122,12 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–4 | 2–4 |
+| [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3 | 2–4 | 2–4 |
+| [23–25 June 2020](2020-06-25-OGM.html) | OGM | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 3 | 3 | 3 | 2–4 | 2–4 |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -209,9 +215,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.4% | 100% | Last Result |
-| 3 | 78% | 98.6% | Median |
-| 4 | 21% | 21% |  |
+| 2 | 5% | 100% | Last Result |
+| 3 | 91% | 95% | Median |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 
