@@ -10,11 +10,17 @@ Last result: **14.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 14.1–17.6% | 13.7–18.1% | 13.3–18.5% | 12.6–19.4% |
+| N/A | [Poll Average](average.html) | 15.7% | 13.9–17.5% | 13.4–18.0% | 13.0–18.5% | 12.1–19.4% |
+| [17–20 August 2020](2020-08-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.2–17.3% | 12.6–17.9% | 12.2–18.4% | 11.3–19.5% |
+| [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
+| [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.1–17.2% | 12.6–17.8% | 12.1–18.4% | 11.3–19.5% |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.8% | 14.0–18.2% | 13.6–18.7% | 12.9–19.6% |
+| [6–9 July 2020](2020-07-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 14.9% | 13.0–17.1% | 12.5–17.7% | 12.1–18.3% | 11.2–19.4% |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 16.0% | 14.5–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.7% | 14.0–18.2% | 13.6–18.7% | 12.9–19.5% |
+| [5–10 June 2020](2020-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [25–28 May 2020](2020-05-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 15.9% | 14.4–17.7% | 13.9–18.2% | 13.6–18.6% | 12.9–19.5% |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 15.0% | 13.4–16.7% | 13.0–17.2% | 12.7–17.6% | 12.0–18.5% |
@@ -101,17 +107,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.4% | 100% |  |
-| 12.5–13.5% | 3% | 99.6% |  |
-| 13.5–14.5% | 13% | 96% | Last Result |
-| 14.5–15.5% | 26% | 83% |  |
-| 15.5–16.5% | 29% | 57% | Median |
-| 16.5–17.5% | 18% | 28% |  |
-| 17.5–18.5% | 8% | 10% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.2% | 100% |  |
+| 11.5–12.5% | 1.0% | 99.8% |  |
+| 12.5–13.5% | 5% | 98.8% |  |
+| 13.5–14.5% | 15% | 94% | Last Result |
+| 14.5–15.5% | 25% | 79% |  |
+| 15.5–16.5% | 27% | 54% | Median |
+| 16.5–17.5% | 17% | 27% |  |
+| 17.5–18.5% | 7% | 10% |  |
 | 18.5–19.5% | 2% | 2% |  |
 | 19.5–20.5% | 0.3% | 0.4% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 0.1% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -122,11 +130,17 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| [17–20 August 2020](2020-08-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3 | 2–4 | 2–4 |
+| [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3 | 2–4 | 2–4 |
+| [6–9 July 2020](2020-07-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [5–10 June 2020](2020-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [25–28 May 2020](2020-05-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 3 | 3 | 3 | 2–4 | 2–4 |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -215,8 +229,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 5% | 100% | Last Result |
-| 3 | 91% | 95% | Median |
+| 2 | 7% | 100% | Last Result |
+| 3 | 89% | 93% | Median |
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
