@@ -133,7 +133,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [17–20 August 2020](2020-08-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3 | 2–4 | 2–4 |
-| [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3 | 2–4 | 2–4 |
 | [6–9 July 2020](2020-07-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 3 | 3 | 3–4 | 2–4 | 2–4 |
