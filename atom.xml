@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-08-15T17:33:00.358637+02:00</updated>
+  <updated>2020-08-25T22:53:10.921711+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 37.7–46.3%, 8–10 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 15.8–22.7%, 3–5 seats</li><li>Freiheitliche Partei Österreichs (ID): 10.4–16.3%, 2–3 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 5.9–10.6%, 1–2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 12.2–18.4%, 2–4 seats</li><li>Team HC Strache–Allianz für Österreich (*): 1.8–4.8%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2020-08-20-ResearchAffairs.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2020-08-20-ResearchAffairs.html"/>
+    <title>Opinion Poll by Research Affairs for ÖSTERREICH, 17–20 August 2020</title>
+    <updated>2020-08-25T22:53:10.921711+02:00</updated>
+    <dc:date>2020-08-25T22:53:10.921711+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 37.6–44.4%, 8–9 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 15.5–20.8%, 3–4 seats</li><li>Freiheitliche Partei Österreichs (ID): 12.7–17.6%, 2–3 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 7.3–11.2%, 1–2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 13.6–18.7%, 2–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2020-08-13-UniqueResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2020-08-13-UniqueResearch.html"/>
+    <title>Opinion Poll by Unique Research for profil, 10–13 August 2020</title>
+    <updated>2020-08-23T13:19:20.660534+02:00</updated>
+    <dc:date>2020-08-23T13:19:20.660534+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 37.6–44.4%, 8–9 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 16.4–21.8%, 3–4 seats</li><li>Freiheitliche Partei Österreichs (ID): 12.7–17.6%, 2–3 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 6.3–10.1%, 1–2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 13.6–18.7%, 2–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2020-07-16-UniqueResearch.html</id>
@@ -671,5 +687,5 @@
     <updated>2020-06-09T22:52:29.488213+02:00</updated>
     <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
   </entry>
-  <dc:date>2020-08-15T17:33:00.358637+02:00</dc:date>
+  <dc:date>2020-08-25T22:53:10.921711+02:00</dc:date>
 </feed>
