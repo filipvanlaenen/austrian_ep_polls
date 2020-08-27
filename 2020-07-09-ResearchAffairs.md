@@ -59,7 +59,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 14% | 100% |  |
-| 4 | 62% | 86% | Median |
+| 4 | 63% | 86% | Median |
 | 5 | 24% | 24% | Last Result |
 | 6 | 0% | 0% |  |
 
@@ -97,8 +97,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 76% | 100% | Last Result, Median |
-| 2 | 24% | 24% |  |
+| 1 | 77% | 100% | Last Result, Median |
+| 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
 ### Team HC Strache–Allianz für Österreich (*)
@@ -146,7 +146,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 14% | 100% |  |
-| 4 | 62% | 86% | Median |
+| 4 | 63% | 86% | Median |
 | 5 | 24% | 24% | Last Result |
 | 6 | 0% | 0% |  |
 
@@ -167,8 +167,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 76% | 100% | Last Result, Median |
-| 2 | 24% | 24% |  |
+| 1 | 77% | 100% | Last Result, Median |
+| 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -183,6 +183,6 @@
 ### Calculations
 
 + **Sample size:** 503
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.79%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.56%
 
