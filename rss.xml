@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 26 Aug 2020 20:53:33 +0200</pubDate>
+    <pubDate>Fri, 11 Sep 2020 18:24:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 25–27 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-08-27-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 36.8–45.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 15.8–22.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 10.3–16.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 5.9–10.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 11.2–17.3%&lt;/li&gt;&lt;li&gt;Team HC Strache–Allianz für Österreich (*): 2.6–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2020-08-27-ResearchAffairs.png"
+        length="276624"
+        type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 18:24:33 +0200</pubDate>
+      <dc:date>2020-09-11T18:24:33.254327+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 17–20 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-08-20-ResearchAffairs.html#seats</link>
@@ -2679,6 +2689,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
     </item>
-    <dc:date>2020-08-26T20:53:33.329615+02:00</dc:date>
+    <dc:date>2020-09-11T18:24:33.254327+02:00</dc:date>
   </channel>
 </rss>
