@@ -5,12 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 38–46% <br> 8–10 | 16–22% <br> 3–4 | 10–17% <br> 2–3 | 13–18% <br> 2–4 | 6–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 |
-| [17–20 August 2020](2020-08-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38–46% <br> 8–10 | 16–23% <br> 3–5 | 10–16% <br> 2–3 | 12–18% <br> 2–4 | 6–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 38–45% <br> 8–10 | 16–22% <br> 3–4 | 11–17% <br> 2–3 | 12–18% <br> 2–4 | 6–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 |
+| [25–27 August 2020](2020-08-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–45% <br> 8–10 | 16–23% <br> 3–5 | 10–16% <br> 2–3 | 11–17% <br> 2–3 | 6–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 |
 | [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 38–44% <br> 8–9 | 15–21% <br> 3–4 | 13–18% <br> 2–3 | 14–19% <br> 2–4 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 39–45% <br> 8–10 | 16–22% <br> 3–4 | 11–16% <br> 2–3 | 14–19% <br> 2–4 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 39–45% <br> 8–10 | 17–22% <br> 3–4 | 11–15% <br> 2–3 | 13–17% <br> 2–3 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 41–47% <br> 8–10 | 17–23% <br> 3–4 | 10–14% <br> 2–3 | 14–19% <br> 2–4 | 5–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
