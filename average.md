@@ -198,7 +198,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 1.2% | 100% | Last Result |
 | 8 | 37% | 98.8% |  |
-| 9 | 57% | 62% | Median |
+| 9 | 58% | 61% | Median |
 | 10 | 4% | 4% | Majority |
 | 11 | 0% | 0% |  |
 
@@ -211,8 +211,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 35% | 100% |  |
-| 4 | 63% | 65% | Median |
-| 5 | 2% | 2% | Last Result |
+| 4 | 64% | 65% | Median |
+| 5 | 1.4% | 1.4% | Last Result |
 | 6 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -223,9 +223,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 55% | 99.9% | Median |
-| 3 | 45% | 45% | Last Result |
+| 2 | 53% | 100% | Median |
+| 3 | 47% | 47% | Last Result |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
@@ -237,8 +236,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 12% | 100% | Last Result |
-| 3 | 85% | 88% | Median |
+| 2 | 13% | 100% | Last Result |
+| 3 | 84% | 87% | Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
@@ -303,7 +302,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 1.2% | 100% | Last Result |
 | 8 | 37% | 98.8% |  |
-| 9 | 57% | 62% | Median |
+| 9 | 58% | 61% | Median |
 | 10 | 4% | 4% | Majority |
 | 11 | 0% | 0% |  |
 
@@ -314,8 +313,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 35% | 100% |  |
-| 4 | 63% | 65% | Median |
-| 5 | 2% | 2% | Last Result |
+| 4 | 64% | 65% | Median |
+| 5 | 1.4% | 1.4% | Last Result |
 | 6 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA)
@@ -324,8 +323,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 12% | 100% | Last Result |
-| 3 | 85% | 88% | Median |
+| 2 | 13% | 100% | Last Result |
+| 3 | 84% | 87% | Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
@@ -335,9 +334,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 55% | 99.9% | Median |
-| 3 | 45% | 45% | Last Result |
+| 2 | 53% | 100% | Median |
+| 3 | 47% | 47% | Last Result |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
@@ -373,6 +371,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,276,800
-+ **Error estimate:** 0.78%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 1.42%
