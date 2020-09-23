@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 12 Sep 2020 14:25:06 +0200</pubDate>
+    <pubDate>Wed, 23 Sep 2020 18:11:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research, 14–18 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-09-18-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 35.7–42.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 17.4–22.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 13.7–18.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 6.3–10.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 13.7–18.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2020-09-18-UniqueResearch.png"
+        length="238872"
+        type="image/png"/>
+      <pubDate>Wed, 23 Sep 2020 18:06:26 +0200</pubDate>
+      <dc:date>2020-09-23T18:06:26.46994+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs, 14–16 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-09-16-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 39.4–45.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 16.9–21.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 10.2–14.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.5–11.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 10.2–14.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2020-09-16-ResearchAffairs.png"
+        length="233952"
+        type="image/png"/>
+      <pubDate>Wed, 23 Sep 2020 18:11:44 +0200</pubDate>
+      <dc:date>2020-09-23T18:11:44.436646+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 25–27 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-08-27-ResearchAffairs.html#seats</link>
@@ -2709,6 +2729,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
     </item>
-    <dc:date>2020-09-12T14:25:06.203715+02:00</dc:date>
+    <dc:date>2020-09-23T18:11:44.436646+02:00</dc:date>
   </channel>
 </rss>
