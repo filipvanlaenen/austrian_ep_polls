@@ -10,7 +10,8 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41.3% | 38.1–43.9% | 37.3–44.6% | 36.6–45.2% | 35.4–46.3% |
+| N/A | [Poll Average](average.html) | 39.9% | 37.3–42.9% | 36.6–43.8% | 36.1–44.6% | 34.9–46.1% |
+| [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 40.9% | 38.1–43.8% | 37.4–44.6% | 36.7–45.3% | 35.4–46.6% |
 | [14–18 September 2020](2020-09-18-UniqueResearch.html) | Unique Research | 39.1% | 36.9–41.3% | 36.3–41.9% | 35.7–42.5% | 34.7–43.6% |
 | [14–16 September 2020](2020-09-16-ResearchAffairs.html) | Research Affairs | 42.4% | 40.4–44.4% | 39.9–45.0% | 39.4–45.5% | 38.4–46.5% |
 | [25–27 August 2020](2020-08-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41.0% | 38.2–43.9% | 37.4–44.7% | 36.8–45.4% | 35.5–46.7% |
@@ -111,21 +112,22 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.1% | 100% |  |
-| 34.5–35.5% | 0.5% | 99.9% | Last Result |
-| 35.5–36.5% | 2% | 99.4% |  |
-| 36.5–37.5% | 4% | 98% |  |
-| 37.5–38.5% | 7% | 94% |  |
-| 38.5–39.5% | 10% | 86% |  |
-| 39.5–40.5% | 13% | 76% |  |
-| 40.5–41.5% | 16% | 63% | Median |
-| 41.5–42.5% | 18% | 46% |  |
-| 42.5–43.5% | 14% | 29% |  |
-| 43.5–44.5% | 9% | 14% |  |
-| 44.5–45.5% | 4% | 5% |  |
-| 45.5–46.5% | 1.2% | 1.5% |  |
-| 46.5–47.5% | 0.3% | 0.3% |  |
-| 47.5–48.5% | 0% | 0% |  |
+| 33.5–34.5% | 0.2% | 100% |  |
+| 34.5–35.5% | 1.0% | 99.7% | Last Result |
+| 35.5–36.5% | 3% | 98.8% |  |
+| 36.5–37.5% | 8% | 95% |  |
+| 37.5–38.5% | 13% | 88% |  |
+| 38.5–39.5% | 18% | 74% |  |
+| 39.5–40.5% | 18% | 56% | Median |
+| 40.5–41.5% | 15% | 38% |  |
+| 41.5–42.5% | 11% | 23% |  |
+| 42.5–43.5% | 6% | 13% |  |
+| 43.5–44.5% | 4% | 6% |  |
+| 44.5–45.5% | 2% | 3% |  |
+| 45.5–46.5% | 0.6% | 0.9% |  |
+| 46.5–47.5% | 0.2% | 0.3% |  |
+| 47.5–48.5% | 0.1% | 0.1% |  |
+| 48.5–49.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -136,7 +138,8 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 7–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
+| [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [14–18 September 2020](2020-09-18-UniqueResearch.html) | Unique Research | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [14–16 September 2020](2020-09-16-ResearchAffairs.html) | Research Affairs | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [25–27 August 2020](2020-08-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
@@ -238,10 +241,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 3% | 100% | Last Result |
-| 8 | 46% | 97% |  |
-| 9 | 48% | 51% | Median |
-| 10 | 3% | 3% | Majority |
+| 7 | 6% | 100% | Last Result |
+| 8 | 59% | 94% | Median |
+| 9 | 31% | 35% |  |
+| 10 | 4% | 4% | Majority |
 | 11 | 0% | 0% |  |
 
 
