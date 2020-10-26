@@ -5,6 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 37–45% <br> 8–10 | 18–25% <br> 3–5 | 8–13% <br> 1–2 | 9–15% <br> 2–3 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 |
+| [20–22 October 2020](2020-10-22-OGM.html) | OGM | 38–42% <br> 8–9 | 21–25% <br> 4–5 | 10–13% <br> 2 | 14–18% <br> 3 | 7–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–16 October 2020](2020-10-16-UniqueResearch.html) | Unique Research | 37–43% <br> 7–9 | 19–25% <br> 4–5 | 11–16% <br> 2–3 | 11–16% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–8 October 2020](2020-10-08-ResearchAffairs.html) | Research Affairs | 37–45% <br> 8–10 | 16–23% <br> 3–5 | 9–14% <br> 1–3 | 9–15% <br> 2–3 | 7–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–8% <br> 0–1 |
+| [28–30 September 2020](2020-09-30-ResearchAffairs.html) | Research Affairs | 37–45% <br> 8–10 | 17–24% <br> 3–5 | 9–14% <br> 1–3 | 9–15% <br> 2–3 | 7–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–1 |
 | [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 37–45% <br> 8–10 | 17–24% <br> 3–5 | 9–15% <br> 2–3 | 9–15% <br> 2–3 | 7–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 |
 | [14–18 September 2020](2020-09-18-UniqueResearch.html) | Unique Research | 36–42% <br> 7–9 | 17–23% <br> 3–4 | 14–19% <br> 2–4 | 14–19% <br> 2–4 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–16 September 2020](2020-09-16-ResearchAffairs.html) | Research Affairs | 39–45% <br> 8–10 | 17–22% <br> 3–4 | 10–14% <br> 2–3 | 10–14% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
