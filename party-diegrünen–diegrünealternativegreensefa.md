@@ -10,7 +10,12 @@ Last result: **14.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.3% | 11.0–17.2% | 10.4–17.8% | 9.9–18.3% | 9.1–19.3% |
+| N/A | [Poll Average](average.html) | 13.6% | 11.2–16.5% | 10.6–17.0% | 10.1–17.4% | 9.2–18.1% |
+| [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 12.0% | 10.3–14.1% | 9.8–14.6% | 9.4–15.2% | 8.7–16.2% |
+| [20–22 October 2020](2020-10-22-OGM.html) | OGM | 16.0% | 14.9–17.2% | 14.6–17.6% | 14.3–17.9% | 13.8–18.5% |
+| [12–16 October 2020](2020-10-16-UniqueResearch.html) | Unique Research | 13.0% | 11.6–14.7% | 11.2–15.1% | 10.9–15.5% | 10.2–16.4% |
+| [6–8 October 2020](2020-10-08-ResearchAffairs.html) | Research Affairs | 12.0% | 10.3–14.1% | 9.9–14.6% | 9.5–15.2% | 8.7–16.2% |
+| [28–30 September 2020](2020-09-30-ResearchAffairs.html) | Research Affairs | 12.0% | 10.3–14.1% | 9.8–14.6% | 9.4–15.2% | 8.7–16.2% |
 | [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 12.1% | 10.4–14.1% | 9.9–14.7% | 9.5–15.2% | 8.7–16.2% |
 | [14–18 September 2020](2020-09-18-UniqueResearch.html) | Unique Research | 16.0% | 14.5–17.8% | 14.0–18.3% | 13.7–18.7% | 13.0–19.6% |
 | [14–16 September 2020](2020-09-16-ResearchAffairs.html) | Research Affairs | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
@@ -113,19 +118,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 1.2% | 99.8% |  |
-| 9.5–10.5% | 5% | 98.6% |  |
-| 10.5–11.5% | 11% | 94% |  |
-| 11.5–12.5% | 13% | 83% |  |
-| 12.5–13.5% | 12% | 70% |  |
-| 13.5–14.5% | 10% | 58% | Last Result, Median |
-| 14.5–15.5% | 13% | 47% |  |
-| 15.5–16.5% | 16% | 34% |  |
-| 16.5–17.5% | 11% | 18% |  |
-| 17.5–18.5% | 5% | 7% |  |
-| 18.5–19.5% | 1.4% | 2% |  |
-| 19.5–20.5% | 0.3% | 0.3% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.9% | 99.9% |  |
+| 9.5–10.5% | 4% | 99.0% |  |
+| 10.5–11.5% | 10% | 95% |  |
+| 11.5–12.5% | 17% | 85% |  |
+| 12.5–13.5% | 18% | 69% |  |
+| 13.5–14.5% | 13% | 51% | Last Result, Median |
+| 14.5–15.5% | 12% | 38% |  |
+| 15.5–16.5% | 15% | 25% |  |
+| 16.5–17.5% | 8% | 10% |  |
+| 17.5–18.5% | 2% | 2% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -137,6 +141,11 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [20–22 October 2020](2020-10-22-OGM.html) | OGM | 3 | 3 | 3 | 3 | 3–4 |
+| [12–16 October 2020](2020-10-16-UniqueResearch.html) | Unique Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [6–8 October 2020](2020-10-08-ResearchAffairs.html) | Research Affairs | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [28–30 September 2020](2020-09-30-ResearchAffairs.html) | Research Affairs | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [14–18 September 2020](2020-09-18-UniqueResearch.html) | Unique Research | 3 | 3 | 3 | 2–4 | 2–4 |
 | [14–16 September 2020](2020-09-16-ResearchAffairs.html) | Research Affairs | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -240,9 +249,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.4% | 100% |  |
-| 2 | 41% | 99.6% | Last Result |
-| 3 | 56% | 58% | Median |
-| 4 | 2% | 2% |  |
+| 2 | 49% | 99.6% | Last Result |
+| 3 | 50% | 51% | Median |
+| 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 

@@ -10,7 +10,12 @@ Last result: **23.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.1% | 18.1–22.1% | 17.5–22.8% | 17.0–23.3% | 16.0–24.5% |
+| N/A | [Poll Average](average.html) | 22.2% | 19.8–24.1% | 19.1–24.6% | 18.5–25.0% | 17.3–25.9% |
+| [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 21.0% | 18.8–23.5% | 18.2–24.2% | 17.6–24.8% | 16.6–26.0% |
+| [20–22 October 2020](2020-10-22-OGM.html) | OGM | 23.0% | 21.7–24.4% | 21.4–24.8% | 21.0–25.1% | 20.4–25.8% |
+| [12–16 October 2020](2020-10-16-UniqueResearch.html) | Unique Research | 22.0% | 20.2–23.9% | 19.7–24.5% | 19.2–25.0% | 18.4–25.9% |
+| [6–8 October 2020](2020-10-08-ResearchAffairs.html) | Research Affairs | 18.9% | 16.8–21.3% | 16.3–22.0% | 15.8–22.6% | 14.8–23.8% |
+| [28–30 September 2020](2020-09-30-ResearchAffairs.html) | Research Affairs | 20.0% | 17.8–22.5% | 17.2–23.1% | 16.7–23.7% | 15.7–25.0% |
 | [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 20.0% | 17.8–22.4% | 17.2–23.1% | 16.7–23.7% | 15.7–24.9% |
 | [14–18 September 2020](2020-09-18-UniqueResearch.html) | Unique Research | 20.0% | 18.3–21.9% | 17.8–22.5% | 17.4–22.9% | 16.6–23.9% |
 | [14–16 September 2020](2020-09-16-ResearchAffairs.html) | Research Affairs | 19.2% | 17.7–20.9% | 17.2–21.4% | 16.9–21.8% | 16.2–22.6% |
@@ -111,20 +116,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 1.0% | 99.8% |  |
-| 16.5–17.5% | 4% | 98.8% |  |
-| 17.5–18.5% | 11% | 95% |  |
-| 18.5–19.5% | 21% | 83% |  |
-| 19.5–20.5% | 25% | 63% | Median |
-| 20.5–21.5% | 20% | 38% |  |
-| 21.5–22.5% | 11% | 18% |  |
-| 22.5–23.5% | 5% | 6% |  |
-| 23.5–24.5% | 1.4% | 2% | Last Result |
-| 24.5–25.5% | 0.4% | 0.5% |  |
-| 25.5–26.5% | 0.1% | 0.1% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.6% | 99.9% |  |
+| 17.5–18.5% | 2% | 99.3% |  |
+| 18.5–19.5% | 5% | 97% |  |
+| 19.5–20.5% | 10% | 92% |  |
+| 20.5–21.5% | 17% | 82% |  |
+| 21.5–22.5% | 23% | 65% | Median |
+| 22.5–23.5% | 23% | 41% |  |
+| 23.5–24.5% | 13% | 18% | Last Result |
+| 24.5–25.5% | 4% | 5% |  |
+| 25.5–26.5% | 0.8% | 0.9% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -135,7 +140,12 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [20–22 October 2020](2020-10-22-OGM.html) | OGM | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [12–16 October 2020](2020-10-16-UniqueResearch.html) | Unique Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [6–8 October 2020](2020-10-08-ResearchAffairs.html) | Research Affairs | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [28–30 September 2020](2020-09-30-ResearchAffairs.html) | Research Affairs | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [14–18 September 2020](2020-09-18-UniqueResearch.html) | Unique Research | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [14–16 September 2020](2020-09-16-ResearchAffairs.html) | Research Affairs | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -238,9 +248,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 11% | 100% |  |
-| 4 | 81% | 89% | Median |
-| 5 | 7% | 7% | Last Result |
-| 6 | 0% | 0% |  |
+| 3 | 2% | 100% |  |
+| 4 | 55% | 98% | Median |
+| 5 | 43% | 43% | Last Result |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
