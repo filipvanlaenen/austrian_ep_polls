@@ -10,7 +10,9 @@ Last result: **17.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.3% | 9.4–13.7% | 8.8–14.4% | 8.3–14.9% | 7.4–15.8% |
+| N/A | [Poll Average](average.html) | 11.4% | 9.4–16.8% | 8.8–17.5% | 8.3–18.0% | 7.4–19.0% |
+| [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 16.0% | 14.5–17.8% | 14.0–18.3% | 13.7–18.7% | 13.0–19.6% |
+| [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 10.0% | 8.5–11.9% | 8.0–12.5% | 7.7–13.0% | 7.0–13.9% |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 10.0% | 8.5–11.9% | 8.0–12.5% | 7.7–13.0% | 7.0–13.9% |
 | [20–22 October 2020](2020-10-22-OGM.html) | OGM | 11.0% | 10.0–12.0% | 9.8–12.3% | 9.6–12.6% | 9.1–13.1% |
 | [12–16 October 2020](2020-10-16-UniqueResearch.html) | Unique Research | 13.0% | 11.6–14.7% | 11.2–15.1% | 10.9–15.5% | 10.2–16.4% |
@@ -121,14 +123,17 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 3% | 99.4% |  |
 | 8.5–9.5% | 8% | 96% |  |
 | 9.5–10.5% | 18% | 88% |  |
-| 10.5–11.5% | 26% | 70% | Median |
-| 11.5–12.5% | 19% | 44% |  |
-| 12.5–13.5% | 13% | 25% |  |
-| 13.5–14.5% | 8% | 12% |  |
-| 14.5–15.5% | 3% | 4% |  |
-| 15.5–16.5% | 0.7% | 0.8% |  |
-| 16.5–17.5% | 0.1% | 0.1% | Last Result |
-| 17.5–18.5% | 0% | 0% |  |
+| 10.5–11.5% | 24% | 70% | Median |
+| 11.5–12.5% | 11% | 47% |  |
+| 12.5–13.5% | 3% | 36% |  |
+| 13.5–14.5% | 3% | 33% |  |
+| 14.5–15.5% | 7% | 30% |  |
+| 15.5–16.5% | 10% | 22% |  |
+| 16.5–17.5% | 8% | 12% | Last Result |
+| 17.5–18.5% | 3% | 5% |  |
+| 18.5–19.5% | 1.0% | 1.1% |  |
+| 19.5–20.5% | 0.2% | 0.2% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -139,7 +144,9 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [20–22 October 2020](2020-10-22-OGM.html) | OGM | 2 | 2 | 2 | 2 | 2 |
 | [12–16 October 2020](2020-10-16-UniqueResearch.html) | Unique Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -247,9 +254,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 7% | 100% |  |
-| 2 | 81% | 93% | Median |
-| 3 | 12% | 12% | Last Result |
-| 4 | 0% | 0% |  |
+| 1 | 6% | 100% |  |
+| 2 | 61% | 94% | Median |
+| 3 | 31% | 33% | Last Result |
+| 4 | 2% | 2% |  |
+| 5 | 0% | 0% |  |
 
 

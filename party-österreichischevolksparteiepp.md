@@ -10,7 +10,9 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40.2% | 38.2–42.7% | 37.5–43.5% | 37.0–44.3% | 35.8–45.9% |
+| N/A | [Poll Average](average.html) | 39.5% | 36.8–41.8% | 36.1–42.5% | 35.4–43.3% | 34.2–44.8% |
+| [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 38.1% | 35.9–40.3% | 35.3–40.9% | 34.8–41.5% | 33.7–42.6% |
+| [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 40.0% | 37.2–42.9% | 36.5–43.7% | 35.8–44.4% | 34.5–45.7% |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 41.0% | 38.2–43.9% | 37.4–44.7% | 36.8–45.4% | 35.5–46.7% |
 | [20–22 October 2020](2020-10-22-OGM.html) | OGM | 40.0% | 38.5–41.6% | 38.0–42.0% | 37.7–42.4% | 36.9–43.2% |
 | [12–16 October 2020](2020-10-16-UniqueResearch.html) | Unique Research | 40.0% | 37.8–42.2% | 37.1–42.8% | 36.6–43.4% | 35.6–44.5% |
@@ -116,23 +118,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.1% | 100% |  |
-| 34.5–35.5% | 0.3% | 99.9% | Last Result |
-| 35.5–36.5% | 1.1% | 99.7% |  |
-| 36.5–37.5% | 4% | 98.5% |  |
-| 37.5–38.5% | 10% | 95% |  |
-| 38.5–39.5% | 19% | 85% |  |
-| 39.5–40.5% | 24% | 67% | Median |
-| 40.5–41.5% | 20% | 43% |  |
-| 41.5–42.5% | 12% | 23% |  |
-| 42.5–43.5% | 6% | 11% |  |
-| 43.5–44.5% | 3% | 5% |  |
-| 44.5–45.5% | 1.3% | 2% |  |
-| 45.5–46.5% | 0.5% | 0.7% |  |
-| 46.5–47.5% | 0.2% | 0.2% |  |
-| 47.5–48.5% | 0% | 0.1% |  |
-| 48.5–49.5% | 0% | 0% |  |
+| 31.5–32.5% | 0% | 100% |  |
+| 32.5–33.5% | 0.1% | 100% |  |
+| 33.5–34.5% | 0.6% | 99.8% |  |
+| 34.5–35.5% | 2% | 99.2% | Last Result |
+| 35.5–36.5% | 5% | 97% |  |
+| 36.5–37.5% | 10% | 92% |  |
+| 37.5–38.5% | 15% | 82% |  |
+| 38.5–39.5% | 20% | 68% | Median |
+| 39.5–40.5% | 21% | 48% |  |
+| 40.5–41.5% | 15% | 27% |  |
+| 41.5–42.5% | 7% | 12% |  |
+| 42.5–43.5% | 3% | 5% |  |
+| 43.5–44.5% | 1.3% | 2% |  |
+| 44.5–45.5% | 0.5% | 0.7% |  |
+| 45.5–46.5% | 0.2% | 0.2% |  |
+| 46.5–47.5% | 0% | 0.1% |  |
+| 47.5–48.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -143,7 +145,9 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
+| N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [20–22 October 2020](2020-10-22-OGM.html) | OGM | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [12–16 October 2020](2020-10-16-UniqueResearch.html) | Unique Research | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
@@ -251,10 +255,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 2% | 100% | Last Result |
-| 8 | 57% | 98% | Median |
-| 9 | 39% | 42% |  |
-| 10 | 2% | 2% | Majority |
+| 7 | 6% | 100% | Last Result |
+| 8 | 67% | 94% | Median |
+| 9 | 26% | 27% |  |
+| 10 | 1.1% | 1.1% | Majority |
 | 11 | 0% | 0% |  |
 
 
