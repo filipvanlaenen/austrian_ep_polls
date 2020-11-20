@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 35–41% <br> 7–9 | 18–24% <br> 4–5 | 14–19% <br> 3–4 | 10–14% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 36–44% <br> 7–10 | 19–26% <br> 4–5 | 8–13% <br> 1–2 | 9–14% <br> 1–3 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 37–45% <br> 8–10 | 18–25% <br> 3–5 | 8–13% <br> 1–2 | 9–15% <br> 2–3 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 |
 | [20–22 October 2020](2020-10-22-OGM.html) | OGM | 38–42% <br> 8–9 | 21–25% <br> 4–5 | 10–13% <br> 2 | 14–18% <br> 3 | 7–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–16 October 2020](2020-10-16-UniqueResearch.html) | Unique Research | 37–43% <br> 7–9 | 19–25% <br> 4–5 | 11–16% <br> 2–3 | 11–16% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
