@@ -10,7 +10,14 @@ Last result: **23.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.2% | 19.8–24.2% | 19.2–24.7% | 18.7–25.2% | 17.7–26.3% |
+| N/A | [Poll Average](average.html) | 22.2% | 19.6–24.5% | 18.9–25.1% | 18.3–25.7% | 17.3–26.8% |
+| [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 23.0% | 21.2–25.1% | 20.7–25.6% | 20.2–26.1% | 19.4–27.1% |
+| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
+| [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 20.0% | 18.3–21.9% | 17.8–22.5% | 17.4–22.9% | 16.6–23.9% |
+| [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | 19.8–24.5% | 19.2–25.2% | 18.7–25.9% | 17.6–27.1% |
+| [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 22.0% | 19.7–24.5% | 19.1–25.2% | 18.5–25.8% | 17.5–27.0% |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 21.4% | 19.2–23.9% | 18.6–24.6% | 18.0–25.2% | 17.0–26.4% |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 21.0% | 19.3–23.0% | 18.8–23.5% | 18.3–24.0% | 17.5–24.9% |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 22.0% | 19.8–24.5% | 19.1–25.2% | 18.6–25.8% | 17.6–27.1% |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 21.0% | 18.8–23.5% | 18.2–24.2% | 17.6–24.8% | 16.6–26.0% |
@@ -118,18 +125,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.3% | 100% |  |
-| 17.5–18.5% | 2% | 99.7% |  |
-| 18.5–19.5% | 5% | 98% |  |
-| 19.5–20.5% | 11% | 93% |  |
-| 20.5–21.5% | 18% | 81% |  |
-| 21.5–22.5% | 23% | 64% | Median |
-| 22.5–23.5% | 22% | 41% |  |
-| 23.5–24.5% | 13% | 19% | Last Result |
-| 24.5–25.5% | 4% | 6% |  |
-| 25.5–26.5% | 1.2% | 2% |  |
-| 26.5–27.5% | 0.3% | 0.4% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.6% | 99.9% |  |
+| 17.5–18.5% | 3% | 99.3% |  |
+| 18.5–19.5% | 6% | 97% |  |
+| 19.5–20.5% | 11% | 90% |  |
+| 20.5–21.5% | 17% | 79% |  |
+| 21.5–22.5% | 20% | 62% | Median |
+| 22.5–23.5% | 19% | 42% |  |
+| 23.5–24.5% | 13% | 23% | Last Result |
+| 24.5–25.5% | 6% | 9% |  |
+| 25.5–26.5% | 2% | 3% |  |
+| 26.5–27.5% | 0.6% | 0.7% |  |
 | 27.5–28.5% | 0.1% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
@@ -142,7 +150,14 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
@@ -252,9 +267,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.0% | 100% |  |
-| 4 | 58% | 99.0% | Median |
-| 5 | 41% | 41% | Last Result |
+| 3 | 3% | 100% |  |
+| 4 | 60% | 97% | Median |
+| 5 | 37% | 37% | Last Result |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
