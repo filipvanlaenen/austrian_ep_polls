@@ -253,7 +253,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 44% | 100% | Last Result |
 | 2 | 55% | 56% | Median |
-| 3 | 1.1% | 1.1% |  |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 ### JETZT–Liste Pilz (Greens/EFA)
@@ -350,7 +350,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 44% | 100% | Last Result |
 | 2 | 55% | 56% | Median |
-| 3 | 1.1% | 1.1% |  |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 ### Meine Stimme Gilt! (*) – Team HC Strache–Allianz für Österreich (*)
@@ -365,6 +365,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 262,144
-+ **Total number of simulations done in the polls included in this average:** 4,456,448
-+ **Error estimate:** 1.34%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 1.08%
