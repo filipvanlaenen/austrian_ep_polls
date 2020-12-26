@@ -46,8 +46,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 4% | 100% | Last Result |
 | 8 | 56% | 96% | Median |
-| 9 | 38% | 39% |  |
-| 10 | 1.4% | 1.4% | Majority |
+| 9 | 38% | 40% |  |
+| 10 | 2% | 2% | Majority |
 | 11 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -58,10 +58,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.2% | 100% |  |
-| 4 | 57% | 98.8% | Median |
+| 3 | 1.1% | 100% |  |
+| 4 | 57% | 98.9% | Median |
 | 5 | 41% | 42% | Last Result |
-| 6 | 0.8% | 0.8% |  |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -74,7 +74,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
 | 2 | 61% | 99.9% | Median |
-| 3 | 39% | 39% | Last Result |
+| 3 | 38% | 38% | Last Result |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -86,8 +86,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% | Last Result |
-| 2 | 89% | 95% | Median |
+| 1 | 6% | 100% | Last Result |
+| 2 | 88% | 94% | Median |
 | 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
@@ -99,8 +99,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 18% | 100% |  |
-| 2 | 80% | 82% | Last Result, Median |
+| 1 | 19% | 100% |  |
+| 2 | 80% | 81% | Last Result, Median |
 | 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -125,7 +125,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Österreichische Volkspartei (EPP) | 7 | 8 | 1.4% | 8–9 | 8–9 | 7–9 | 7–10 |
+| Österreichische Volkspartei (EPP) | 7 | 8 | 2% | 8–9 | 8–9 | 7–9 | 7–10 |
 | Sozialdemokratische Partei Österreichs (S&D) | 5 | 4 | 0% | 4–5 | 4–5 | 4–5 | 3–6 |
 | Freiheitliche Partei Österreichs (ID) | 3 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum (RE) | 1 | 2 | 0% | 2 | 1–3 | 1–3 | 1–3 |
@@ -138,8 +138,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 4% | 100% | Last Result |
 | 8 | 56% | 96% | Median |
-| 9 | 38% | 39% |  |
-| 10 | 1.4% | 1.4% | Majority |
+| 9 | 38% | 40% |  |
+| 10 | 2% | 2% | Majority |
 | 11 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -148,10 +148,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.2% | 100% |  |
-| 4 | 57% | 98.8% | Median |
+| 3 | 1.1% | 100% |  |
+| 4 | 57% | 98.9% | Median |
 | 5 | 41% | 42% | Last Result |
-| 6 | 0.8% | 0.8% |  |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -162,7 +162,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
 | 2 | 61% | 99.9% | Median |
-| 3 | 39% | 39% | Last Result |
+| 3 | 38% | 38% | Last Result |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -172,8 +172,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% | Last Result |
-| 2 | 89% | 95% | Median |
+| 1 | 6% | 100% | Last Result |
+| 2 | 88% | 94% | Median |
 | 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
@@ -189,6 +189,6 @@
 ### Calculations
 
 + **Sample size:** 508
-+ **Simulations done:** 262,144
-+ **Error estimate:** 1.34%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.90%
 
