@@ -32,7 +32,7 @@
 | <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 7 | 8 | 8–9 |7–9 |7–9 |7–10 |
 | <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 4 | 4–5 |4–5 |3–5 |3–5 |
 | <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 3 | 2 | 2 |1–2 |1–3 |1–3 |
-| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 2 | 2 | 2 |1–2 |1–3 |1–3 |
+| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 2 | 2 | 1–2 |1–2 |1–3 |1–3 |
 | <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–3 |
 | <a href="#team-hc-strache–allianz-für-österreich-(*)">Team HC Strache–Allianz für Österreich (*)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
 
@@ -45,8 +45,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 5% | 100% | Last Result |
-| 8 | 60% | 95% | Median |
-| 9 | 33% | 35% |  |
+| 8 | 57% | 95% | Median |
+| 9 | 36% | 38% |  |
 | 10 | 2% | 2% | Majority |
 | 11 | 0% | 0% |  |
 
@@ -59,9 +59,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
-| 4 | 71% | 97% | Median |
-| 5 | 26% | 26% | Last Result |
-| 6 | 0.3% | 0.3% |  |
+| 4 | 68% | 97% | Median |
+| 5 | 29% | 29% | Last Result |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -72,8 +72,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% |  |
-| 2 | 89% | 92% | Median |
+| 1 | 10% | 100% |  |
+| 2 | 87% | 90% | Median |
 | 3 | 3% | 3% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -85,8 +85,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 7% | 100% |  |
-| 2 | 90% | 93% | Last Result, Median |
+| 1 | 10% | 100% |  |
+| 2 | 86% | 90% | Last Result, Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
@@ -98,8 +98,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 22% | 100% | Last Result |
-| 2 | 77% | 78% | Median |
+| 1 | 23% | 100% | Last Result |
+| 2 | 76% | 77% | Median |
 | 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
@@ -136,8 +136,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 5% | 100% | Last Result |
-| 8 | 60% | 95% | Median |
-| 9 | 33% | 35% |  |
+| 8 | 57% | 95% | Median |
+| 9 | 36% | 38% |  |
 | 10 | 2% | 2% | Majority |
 | 11 | 0% | 0% |  |
 
@@ -148,9 +148,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
-| 4 | 71% | 97% | Median |
-| 5 | 26% | 26% | Last Result |
-| 6 | 0.3% | 0.3% |  |
+| 4 | 68% | 97% | Median |
+| 5 | 29% | 29% | Last Result |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -159,8 +159,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% |  |
-| 2 | 89% | 92% | Median |
+| 1 | 10% | 100% |  |
+| 2 | 87% | 90% | Median |
 | 3 | 3% | 3% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -170,8 +170,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 22% | 100% | Last Result |
-| 2 | 77% | 78% | Median |
+| 1 | 23% | 100% | Last Result |
+| 2 | 76% | 77% | Median |
 | 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
@@ -187,6 +187,6 @@
 ### Calculations
 
 + **Sample size:** 500
-+ **Simulations done:** 131,072
-+ **Error estimate:** 3.48%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.16%
 

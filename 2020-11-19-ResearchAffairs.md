@@ -32,7 +32,7 @@
 | <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 7 | 9 | 8–9 |8–9 |8–10 |7–10 |
 | <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 4 | 4–5 |4–5 |4–5 |3–6 |
 | <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 3 | 2 | 2–3 |2–3 |2–3 |1–3 |
-| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 2 | 2 | 2 |2–3 |1–3 |1–3 |
+| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 2 | 2 | 2 |1–3 |1–3 |1–3 |
 | <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–3 |
 | <a href="#team-hc-strache–allianz-für-österreich-(*)">Team HC Strache–Allianz für Österreich (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -44,9 +44,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 1.2% | 100% | Last Result |
-| 8 | 39% | 98.8% |  |
-| 9 | 57% | 60% | Median |
+| 7 | 1.3% | 100% | Last Result |
+| 8 | 40% | 98.7% |  |
+| 9 | 55% | 59% | Median |
 | 10 | 4% | 4% | Majority |
 | 11 | 0% | 0% |  |
 
@@ -58,8 +58,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.1% | 100% |  |
-| 4 | 58% | 98.9% | Median |
+| 3 | 1.2% | 100% |  |
+| 4 | 58% | 98.8% | Median |
 | 5 | 40% | 41% | Last Result |
 | 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
@@ -73,8 +73,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.1% | 100% |  |
-| 2 | 83% | 98.9% | Median |
-| 3 | 16% | 16% | Last Result |
+| 2 | 82% | 98.9% | Median |
+| 3 | 17% | 17% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -85,8 +85,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% |  |
-| 2 | 90% | 95% | Last Result, Median |
+| 1 | 6% | 100% |  |
+| 2 | 89% | 94% | Last Result, Median |
 | 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
@@ -98,9 +98,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 20% | 100% | Last Result |
-| 2 | 79% | 80% | Median |
-| 3 | 1.1% | 1.1% |  |
+| 1 | 19% | 100% | Last Result |
+| 2 | 79% | 81% | Median |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 ### Team HC Strache–Allianz für Österreich (*)
@@ -135,9 +135,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 1.2% | 100% | Last Result |
-| 8 | 39% | 98.8% |  |
-| 9 | 57% | 60% | Median |
+| 7 | 1.3% | 100% | Last Result |
+| 8 | 40% | 98.7% |  |
+| 9 | 55% | 59% | Median |
 | 10 | 4% | 4% | Majority |
 | 11 | 0% | 0% |  |
 
@@ -147,8 +147,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.1% | 100% |  |
-| 4 | 58% | 98.9% | Median |
+| 3 | 1.2% | 100% |  |
+| 4 | 58% | 98.8% | Median |
 | 5 | 40% | 41% | Last Result |
 | 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
@@ -160,8 +160,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.1% | 100% |  |
-| 2 | 83% | 98.9% | Median |
-| 3 | 16% | 16% | Last Result |
+| 2 | 82% | 98.9% | Median |
+| 3 | 17% | 17% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -170,9 +170,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 20% | 100% | Last Result |
-| 2 | 79% | 80% | Median |
-| 3 | 1.1% | 1.1% |  |
+| 1 | 19% | 100% | Last Result |
+| 2 | 79% | 81% | Median |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -187,6 +187,6 @@
 ### Calculations
 
 + **Sample size:** 501
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.27%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.55%
 

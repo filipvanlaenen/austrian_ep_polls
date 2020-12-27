@@ -155,8 +155,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 2 | 2 | 2–3 | 1–3 | 1–3 |
-| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
