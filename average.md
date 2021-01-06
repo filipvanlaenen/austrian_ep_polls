@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 36–43% <br> 7–9 | 18–26% <br> 3–5 | 11–18% <br> 2–3 | 9–16% <br> 1–3 | 7–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 37–44% <br> 7–9 | 20–26% <br> 4–5 | 11–16% <br> 2–3 | 11–16% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 36–42% <br> 7–9 | 19–25% <br> 4–5 | 14–19% <br> 2–4 | 11–16% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 36–42% <br> 7–9 | 19–25% <br> 4–5 | 14–19% <br> 2–4 | 11–16% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 37–43% <br> 7–9 | 17–23% <br> 3–5 | 13–18% <br> 2–3 | 11–16% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–44% <br> 7–9 | 19–26% <br> 4–5 | 10–16% <br> 2–3 | 8–13% <br> 1–2 | 9–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 36–42% <br> 7–9 | 20–26% <br> 4–5 | 12–17% <br> 2–3 | 12–17% <br> 2–3 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
