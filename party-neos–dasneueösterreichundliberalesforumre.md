@@ -12,7 +12,7 @@ Last result: **8.4%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.4% | 7.7–11.5% | 7.2–12.2% | 6.9–12.8% | 6.3–14.1% |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 8.9% | 7.8–10.4% | 7.4–10.8% | 7.1–11.1% | 6.6–11.9% |
-| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
+| [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.7–11.4% | 8.4–11.8% | 8.1–12.2% | 7.5–12.9% |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | 9.4–13.0% | 9.0–13.6% | 8.6–14.1% | 7.9–15.1% |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
@@ -149,7 +149,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 1 | 1–2 | 1–2 | 1–2 | 1–2 |

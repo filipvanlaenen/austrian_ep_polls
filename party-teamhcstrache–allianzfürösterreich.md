@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 0.0% | N/A | N/A | N/A | N/A |
-| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 0.0% | N/A | N/A | N/A | N/A |
+| [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 0.0% | N/A | N/A | N/A | N/A |
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 0.0% | N/A | N/A | N/A | N/A |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 0.0% | N/A | N/A | N/A | N/A |
@@ -144,7 +144,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
-| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV |  |  |  |  |  |
+| [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV |  |  |  |  |  |
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard |  |  |  |  |  |

@@ -12,7 +12,7 @@ Last result: **14.1%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.9% | 10.1–14.8% | 9.3–15.4% | 8.7–15.8% | 7.7–16.7% |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 13.0% | 11.6–14.6% | 11.1–15.1% | 10.8–15.5% | 10.2–16.3% |
-| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
+| [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.9–15.5% | 10.2–16.3% |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.0% | 8.5–11.9% | 8.1–12.5% | 7.7–13.0% | 7.0–13.9% |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 14.0% | 12.5–15.7% | 12.1–16.2% | 11.8–16.6% | 11.1–17.4% |
@@ -151,7 +151,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
