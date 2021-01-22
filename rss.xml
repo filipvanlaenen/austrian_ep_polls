@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 06 Jan 2021 18:48:42 +0100</pubDate>
+    <pubDate>Fri, 22 Jan 2021 17:20:15 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 11–14 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-01-14-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 33.7–40.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 19.3–25.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 13.6–18.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.1–12.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 11.8–16.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-01-14-UniqueResearch.png"
+        length="239619"
+        type="image/png"/>
+      <pubDate>Fri, 22 Jan 2021 08:14:58 +0100</pubDate>
+      <dc:date>2021-01-22T08:14:58.565999+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 4–7 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-01-07-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 36.0–42.1%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.5–25.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 13.9–18.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 7.4–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-01-07-ResearchAffairs.png"
+        length="236133"
+        type="image/png"/>
+      <pubDate>Fri, 22 Jan 2021 17:16:07 +0100</pubDate>
+      <dc:date>2021-01-22T17:16:07.420601+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 17–21 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-12-21-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 35.8–42.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.2–26.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 10.8–15.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.2–11.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 11.8–16.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2020-12-21-Market.png"
+        length="239481"
+        type="image/png"/>
+      <pubDate>Fri, 22 Jan 2021 17:20:15 +0100</pubDate>
+      <dc:date>2021-01-22T17:20:15.406235+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by OGM for KURIER, 15–17 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2020-12-17-OGM.html#seats</link>
@@ -3219,6 +3249,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
     </item>
-    <dc:date>2021-01-06T18:48:42.990174+01:00</dc:date>
+    <dc:date>2021-01-22T17:20:15.406235+01:00</dc:date>
   </channel>
 </rss>
