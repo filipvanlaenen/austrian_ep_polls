@@ -9,12 +9,12 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 36–43% <br> 7–9 | 18–26% <br> 3–5 | 11–18% <br> 2–3 | 9–16% <br> 1–3 | 7–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
+| N/A | Poll Average | 35–43% <br> 7–9 | 20–26% <br> 4–5 | 11–18% <br> 2–4 | 8–16% <br> 1–3 | 7–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–14 January 2021](2021-01-14-UniqueResearch.html) | Unique Research <br> profil | 34–40% <br> 7–8 | 19–25% <br> 4–5 | 14–19% <br> 2–4 | 12–17% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–7 January 2021](2021-01-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 7–9 | 20–26% <br> 4–5 | 14–18% <br> 2–4 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [17–21 December 2020](2020-12-21-Market.html) | Market <br> Der Standard | 36–42% <br> 7–9 | 20–26% <br> 4–5 | 11–15% <br> 2–3 | 12–17% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 37–44% <br> 7–9 | 20–26% <br> 4–5 | 11–16% <br> 2–3 | 11–16% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 36–42% <br> 7–9 | 19–25% <br> 4–5 | 14–19% <br> 2–4 | 11–16% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 37–43% <br> 7–9 | 17–23% <br> 3–5 | 13–18% <br> 2–3 | 11–16% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–44% <br> 7–9 | 19–26% <br> 4–5 | 10–16% <br> 2–3 | 8–13% <br> 1–2 | 9–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
-| [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 36–42% <br> 7–9 | 20–26% <br> 4–5 | 12–17% <br> 2–3 | 12–17% <br> 2–3 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -41,14 +41,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 34.6% | 39.6% | 37.2–42.1% |36.6–42.8% | 36.0–43.4% | 34.9–44.7% |
-| <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 23.9% | 22.2% | 19.6–24.5% |18.9–25.1% | 18.3–25.7% | 17.3–26.8% |
-| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 17.2% | 14.2% | 12.1–16.6% |11.5–17.2% | 11.1–17.7% | 10.2–18.8% |
-| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 14.1% | 12.9% | 10.1–14.8% |9.3–15.4% | 8.7–15.8% | 7.7–16.7% |
-| <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 8.4% | 9.4% | 7.7–11.5% |7.2–12.2% | 6.9–12.8% | 6.3–14.1% |
+| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 34.6% | 38.9% | 36.3–41.3% |35.6–42.0% | 34.9–42.6% | 33.7–43.8% |
+| <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 23.9% | 22.7% | 20.7–24.6% |20.2–25.2% | 19.7–25.7% | 18.8–26.7% |
+| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 17.2% | 15.0% | 12.2–17.3% |11.7–17.8% | 11.3–18.3% | 10.5–19.2% |
+| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 14.1% | 13.1% | 9.1–15.1% |8.5–15.6% | 8.1–16.1% | 7.4–17.0% |
+| <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 8.4% | 9.2% | 7.9–10.7% |7.6–11.2% | 7.3–11.6% | 6.8–12.4% |
 | <a href="#jetzt–liste-pilz-(greens/efa)">JETZT–Liste Pilz (Greens/EFA)</a> | 1.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#meine-stimme-gilt!-(*)">Meine Stimme Gilt! (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#team-hc-strache–allianz-für-österreich-(*)">Team HC Strache–Allianz für Österreich (*)</a> | 0.0% | 2.1% | 1.4–3.0% |1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
+| <a href="#team-hc-strache–allianz-für-österreich-(*)">Team HC Strache–Allianz für Österreich (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
 ### Österreichische Volkspartei (EPP)
 
@@ -56,21 +56,22 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.2% | 100% |  |
-| 34.5–35.5% | 1.1% | 99.7% | Last Result |
-| 35.5–36.5% | 3% | 98.6% |  |
-| 36.5–37.5% | 8% | 95% |  |
-| 37.5–38.5% | 15% | 87% |  |
-| 38.5–39.5% | 20% | 72% |  |
-| 39.5–40.5% | 20% | 51% | Median |
-| 40.5–41.5% | 16% | 31% |  |
-| 41.5–42.5% | 9% | 15% |  |
-| 42.5–43.5% | 4% | 6% |  |
-| 43.5–44.5% | 2% | 2% |  |
-| 44.5–45.5% | 0.5% | 0.6% |  |
-| 45.5–46.5% | 0.1% | 0.1% |  |
-| 46.5–47.5% | 0% | 0% |  |
+| 30.5–31.5% | 0% | 100% |  |
+| 31.5–32.5% | 0.1% | 100% |  |
+| 32.5–33.5% | 0.3% | 99.9% |  |
+| 33.5–34.5% | 1.2% | 99.6% |  |
+| 34.5–35.5% | 3% | 98% | Last Result |
+| 35.5–36.5% | 7% | 95% |  |
+| 36.5–37.5% | 13% | 88% |  |
+| 37.5–38.5% | 18% | 75% |  |
+| 38.5–39.5% | 21% | 57% | Median |
+| 39.5–40.5% | 17% | 36% |  |
+| 40.5–41.5% | 11% | 19% |  |
+| 41.5–42.5% | 5% | 8% |  |
+| 42.5–43.5% | 2% | 3% |  |
+| 43.5–44.5% | 0.6% | 0.7% |  |
+| 44.5–45.5% | 0.1% | 0.1% |  |
+| 45.5–46.5% | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
 
@@ -78,19 +79,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.6% | 99.9% |  |
-| 17.5–18.5% | 3% | 99.3% |  |
-| 18.5–19.5% | 6% | 97% |  |
-| 19.5–20.5% | 11% | 90% |  |
-| 20.5–21.5% | 17% | 79% |  |
-| 21.5–22.5% | 20% | 62% | Median |
-| 22.5–23.5% | 19% | 42% |  |
-| 23.5–24.5% | 13% | 23% | Last Result |
-| 24.5–25.5% | 6% | 9% |  |
-| 25.5–26.5% | 2% | 3% |  |
-| 26.5–27.5% | 0.6% | 0.7% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.3% | 100% |  |
+| 18.5–19.5% | 2% | 99.7% |  |
+| 19.5–20.5% | 6% | 98% |  |
+| 20.5–21.5% | 15% | 92% |  |
+| 21.5–22.5% | 24% | 77% |  |
+| 22.5–23.5% | 25% | 53% | Median |
+| 23.5–24.5% | 17% | 28% | Last Result |
+| 24.5–25.5% | 8% | 11% |  |
+| 25.5–26.5% | 3% | 3% |  |
+| 26.5–27.5% | 0.5% | 0.6% |  |
 | 27.5–28.5% | 0.1% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
@@ -100,19 +99,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 0.9% | 99.9% |  |
-| 10.5–11.5% | 4% | 99.0% |  |
-| 11.5–12.5% | 11% | 95% |  |
-| 12.5–13.5% | 19% | 84% |  |
-| 13.5–14.5% | 22% | 65% | Median |
-| 14.5–15.5% | 19% | 43% |  |
-| 15.5–16.5% | 14% | 24% |  |
-| 16.5–17.5% | 7% | 10% | Last Result |
-| 17.5–18.5% | 3% | 3% |  |
-| 18.5–19.5% | 0.6% | 0.7% |  |
-| 19.5–20.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.5% | 100% |  |
+| 10.5–11.5% | 3% | 99.5% |  |
+| 11.5–12.5% | 10% | 96% |  |
+| 12.5–13.5% | 14% | 86% |  |
+| 13.5–14.5% | 15% | 72% |  |
+| 14.5–15.5% | 17% | 58% | Median |
+| 15.5–16.5% | 20% | 40% |  |
+| 16.5–17.5% | 14% | 21% | Last Result |
+| 17.5–18.5% | 6% | 7% |  |
+| 18.5–19.5% | 1.4% | 2% |  |
+| 19.5–20.5% | 0.2% | 0.3% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -122,18 +120,18 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 2% | 99.7% |  |
-| 8.5–9.5% | 4% | 98% |  |
-| 9.5–10.5% | 7% | 93% |  |
-| 10.5–11.5% | 10% | 87% |  |
-| 11.5–12.5% | 18% | 77% |  |
-| 12.5–13.5% | 25% | 59% | Median |
-| 13.5–14.5% | 20% | 34% | Last Result |
-| 14.5–15.5% | 10% | 14% |  |
-| 15.5–16.5% | 3% | 4% |  |
-| 16.5–17.5% | 0.6% | 0.7% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0.8% | 100% |  |
+| 7.5–8.5% | 5% | 99.2% |  |
+| 8.5–9.5% | 8% | 94% |  |
+| 9.5–10.5% | 5% | 86% |  |
+| 10.5–11.5% | 5% | 81% |  |
+| 11.5–12.5% | 13% | 76% |  |
+| 12.5–13.5% | 23% | 63% | Median |
+| 13.5–14.5% | 22% | 40% | Last Result |
+| 14.5–15.5% | 12% | 18% |  |
+| 15.5–16.5% | 4% | 6% |  |
+| 16.5–17.5% | 1.0% | 1.1% |  |
+| 17.5–18.5% | 0.1% | 0.2% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -143,31 +141,15 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.0% | 100% |  |
-| 6.5–7.5% | 7% | 98.9% |  |
-| 7.5–8.5% | 20% | 92% | Last Result |
-| 8.5–9.5% | 27% | 72% | Median |
-| 9.5–10.5% | 22% | 45% |  |
-| 10.5–11.5% | 13% | 23% |  |
-| 11.5–12.5% | 6% | 10% |  |
-| 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 0.8% | 1.0% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
-| 15.5–16.5% | 0% | 0% |  |
-
-### Team HC Strache–Allianz für Österreich (*)
-
-*For a full overview of the results for this party, see the [Team HC Strache–Allianz für Österreich (*)](party-teamhcstrache–allianzfürösterreich.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 17% | 100% |  |
-| 1.5–2.5% | 57% | 83% | Median |
-| 2.5–3.5% | 22% | 25% |  |
-| 3.5–4.5% | 3% | 3% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.2% | 100% |  |
+| 6.5–7.5% | 4% | 99.8% |  |
+| 7.5–8.5% | 21% | 96% | Last Result |
+| 8.5–9.5% | 36% | 75% | Median |
+| 9.5–10.5% | 26% | 38% |  |
+| 10.5–11.5% | 10% | 13% |  |
+| 11.5–12.5% | 2% | 3% |  |
+| 12.5–13.5% | 0.3% | 0.3% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -180,14 +162,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 7 | 8 | 8–9 |7–9 | 7–9 | 7–9 |
-| <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 4 | 4–5 |4–5 | 3–5 | 3–5 |
-| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 3 | 3 | 2–3 |2–3 | 2–3 | 2–4 |
-| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 2 | 2 | 2–3 |2–3 | 1–3 | 1–3 |
-| <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 1 | 2 | 1–2 |1–2 | 1–2 | 1–3 |
+| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 7 | 8 | 7–9 |7–9 | 7–9 | 7–9 |
+| <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 5 | 4 | 4–5 |4–5 | 4–5 | 4–5 |
+| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 3 | 3 | 2–3 |2–3 | 2–4 | 2–4 |
+| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 2 | 2 | 1–3 |1–3 | 1–3 | 1–3 |
+| <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 1 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#jetzt–liste-pilz-(greens/efa)">JETZT–Liste Pilz (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#meine-stimme-gilt!-(*)">Meine Stimme Gilt! (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#team-hc-strache–allianz-für-österreich-(*)">Team HC Strache–Allianz für Österreich (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#team-hc-strache–allianz-für-österreich-(*)">Team HC Strache–Allianz für Österreich (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
 ### Österreichische Volkspartei (EPP)
 
@@ -197,10 +179,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 7% | 100% | Last Result |
-| 8 | 68% | 93% | Median |
-| 9 | 25% | 25% |  |
-| 10 | 0.5% | 0.5% | Majority |
+| 6 | 0.2% | 100% |  |
+| 7 | 17% | 99.8% | Last Result |
+| 8 | 68% | 83% | Median |
+| 9 | 15% | 15% |  |
+| 10 | 0.2% | 0.2% | Majority |
 | 11 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -211,9 +194,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 3% | 100% |  |
-| 4 | 60% | 97% | Median |
-| 5 | 37% | 37% | Last Result |
+| 3 | 0.4% | 100% |  |
+| 4 | 56% | 99.6% | Median |
+| 5 | 43% | 44% | Last Result |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
@@ -225,9 +208,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 37% | 100% |  |
-| 3 | 62% | 63% | Last Result, Median |
-| 4 | 1.3% | 1.3% |  |
+| 2 | 30% | 100% |  |
+| 3 | 67% | 70% | Last Result, Median |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -238,9 +221,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% |  |
-| 2 | 68% | 96% | Last Result, Median |
-| 3 | 29% | 29% |  |
+| 1 | 11% | 100% |  |
+| 2 | 55% | 89% | Last Result, Median |
+| 3 | 35% | 35% |  |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -251,10 +234,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 44% | 100% | Last Result |
-| 2 | 55% | 56% | Median |
-| 3 | 1.2% | 1.2% |  |
-| 4 | 0% | 0% |  |
+| 1 | 43% | 100% | Last Result |
+| 2 | 57% | 57% | Median |
+| 3 | 0% | 0% |  |
 
 ### JETZT–Liste Pilz (Greens/EFA)
 
@@ -274,12 +256,6 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-teamhcstrache–allianzfürösterreich.png "Seats Probability Mass Function")
 
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
-| 2 | 0% | 0% |  |
-
 
 ## Coalitions
 
@@ -289,11 +265,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Österreichische Volkspartei (EPP) | 7 | 8 | 0.5% | 8–9 | 7–9 | 7–9 | 7–9 |
-| Sozialdemokratische Partei Österreichs (S&D) | 5 | 4 | 0% | 4–5 | 4–5 | 3–5 | 3–5 |
-| Freiheitliche Partei Österreichs (ID) | 3 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–4 |
-| Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA) | 2 | 2 | 0% | 2–3 | 2–3 | 1–3 | 1–3 |
-| NEOS–Das Neue Österreich und Liberales Forum (RE) | 1 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
+| Österreichische Volkspartei (EPP) | 7 | 8 | 0.2% | 7–9 | 7–9 | 7–9 | 7–9 |
+| Sozialdemokratische Partei Österreichs (S&D) | 5 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
+| Freiheitliche Partei Österreichs (ID) | 3 | 3 | 0% | 2–3 | 2–3 | 2–4 | 2–4 |
+| Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA) | 2 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum (RE) | 1 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Meine Stimme Gilt! (*) – Team HC Strache–Allianz für Österreich (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Österreichische Volkspartei (EPP)
@@ -302,10 +278,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 7% | 100% | Last Result |
-| 8 | 68% | 93% | Median |
-| 9 | 25% | 25% |  |
-| 10 | 0.5% | 0.5% | Majority |
+| 6 | 0.2% | 100% |  |
+| 7 | 17% | 99.8% | Last Result |
+| 8 | 68% | 83% | Median |
+| 9 | 15% | 15% |  |
+| 10 | 0.2% | 0.2% | Majority |
 | 11 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -314,9 +291,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 3% | 100% |  |
-| 4 | 60% | 97% | Median |
-| 5 | 37% | 37% | Last Result |
+| 3 | 0.4% | 100% |  |
+| 4 | 56% | 99.6% | Median |
+| 5 | 43% | 44% | Last Result |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
@@ -326,9 +303,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 37% | 100% |  |
-| 3 | 62% | 63% | Last Result, Median |
-| 4 | 1.3% | 1.3% |  |
+| 2 | 30% | 100% |  |
+| 3 | 67% | 70% | Last Result, Median |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA)
@@ -337,9 +314,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% |  |
-| 2 | 68% | 96% | Last Result, Median |
-| 3 | 29% | 29% |  |
+| 1 | 11% | 100% |  |
+| 2 | 55% | 89% | Last Result, Median |
+| 3 | 35% | 35% |  |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -348,10 +325,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 44% | 100% | Last Result |
-| 2 | 55% | 56% | Median |
-| 3 | 1.2% | 1.2% |  |
-| 4 | 0% | 0% |  |
+| 1 | 43% | 100% | Last Result |
+| 2 | 57% | 57% | Median |
+| 3 | 0% | 0% |  |
 
 ### Meine Stimme Gilt! (*) – Team HC Strache–Allianz für Österreich (*)
 
@@ -365,6 +341,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
-+ **Error estimate:** 1.08%
++ **Lowest number of simulations done in a poll included in this average:** 131,072
++ **Total number of simulations done in the polls included in this average:** 2,490,368
++ **Error estimate:** 1.25%
