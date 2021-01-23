@@ -152,8 +152,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [11–14 January 2021](2021-01-14-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 2–3 | 2–4 | 2–4 |
-| [4–7 January 2021](2021-01-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [11–14 January 2021](2021-01-14-UniqueResearch.html) | Unique Research <br> profil | 3 | 3 | 3 | 2–4 | 2–4 |
+| [4–7 January 2021](2021-01-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3 | 3 | 3–4 | 2–4 |
 | [17–21 December 2020](2020-12-21-Market.html) | Market <br> Der Standard | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 3 | 3 | 3–4 | 2–4 | 2–4 |
