@@ -10,8 +10,8 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.3% | 34.4–41.3% | 33.5–42.1% | 32.8–42.7% | 31.6–43.9% |
-| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 36.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 37.7% | 34.2–41.1% | 33.4–41.8% | 32.8–42.5% | 31.6–43.8% |
+| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 36.0% | 33.9–38.2% | 33.3–38.9% | 32.7–39.4% | 31.7–40.5% |
 | [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | 35.3–40.8% | 34.5–41.6% | 33.9–42.3% | 32.6–43.7% |
 | [1–4 February 2021](2021-02-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 36.3–41.9% | 35.5–42.7% | 34.8–43.3% | 33.5–44.7% |
 | [25 January–1 February 2021](2021-02-01-IFDD.html) | IFDD <br> Kronen Zeitung | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.4% | 30.8–39.4% |
@@ -23,8 +23,9 @@ Last result: **34.6%** (General Election of 26 May 2019)
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 40.0% | 37.9–42.3% | 37.3–42.9% | 36.7–43.5% | 35.7–44.5% |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 40.0% | 37.2–42.8% | 36.4–43.6% | 35.8–44.3% | 34.5–45.6% |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 39.0% | 36.8–41.2% | 36.2–41.9% | 35.7–42.4% | 34.6–43.5% |
-| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 40.9% | 38.1–43.8% | 37.4–44.6% | 36.7–45.3% | 35.4–46.7% |
-| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 39.8% | 37.0–42.7% | 36.3–43.5% | 35.6–44.2% | 34.3–45.5% |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 40.9% | 38.1–43.8% | 37.4–44.6% | 36.7–45.3% | 35.4–46.7% |
+| [9–12 November 2020](2020-11-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41.0% | 39.0–43.0% | 38.5–43.6% | 38.0–44.1% | 37.1–45.1% |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.8% | 37.0–42.7% | 36.3–43.5% | 35.6–44.2% | 34.3–45.5% |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 38.1% | 35.9–40.3% | 35.3–40.9% | 34.8–41.5% | 33.7–42.6% |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 40.0% | 37.2–42.9% | 36.5–43.7% | 35.8–44.4% | 34.5–45.7% |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 41.0% | 38.2–43.9% | 37.4–44.7% | 36.8–45.4% | 35.5–46.7% |
@@ -136,19 +137,19 @@ The following table shows the probability mass function per percentage block of 
 | 29.5–30.5% | 0.1% | 100% |  |
 | 30.5–31.5% | 0.4% | 99.9% |  |
 | 31.5–32.5% | 1.4% | 99.5% |  |
-| 32.5–33.5% | 3% | 98% |  |
-| 33.5–34.5% | 6% | 95% |  |
-| 34.5–35.5% | 8% | 89% | Last Result |
-| 35.5–36.5% | 10% | 81% |  |
-| 36.5–37.5% | 11% | 71% |  |
-| 37.5–38.5% | 13% | 60% | Median |
-| 38.5–39.5% | 15% | 46% |  |
-| 39.5–40.5% | 13% | 31% |  |
-| 40.5–41.5% | 10% | 18% |  |
-| 41.5–42.5% | 5% | 8% |  |
-| 42.5–43.5% | 2% | 3% |  |
-| 43.5–44.5% | 0.7% | 0.9% |  |
-| 44.5–45.5% | 0.2% | 0.2% |  |
+| 32.5–33.5% | 4% | 98% |  |
+| 33.5–34.5% | 7% | 94% |  |
+| 34.5–35.5% | 10% | 87% | Last Result |
+| 35.5–36.5% | 12% | 77% |  |
+| 36.5–37.5% | 13% | 65% |  |
+| 37.5–38.5% | 13% | 52% | Median |
+| 38.5–39.5% | 13% | 39% |  |
+| 39.5–40.5% | 11% | 25% |  |
+| 40.5–41.5% | 8% | 14% |  |
+| 41.5–42.5% | 4% | 7% |  |
+| 42.5–43.5% | 2% | 2% |  |
+| 43.5–44.5% | 0.5% | 0.7% |  |
+| 44.5–45.5% | 0.1% | 0.2% |  |
 | 45.5–46.5% | 0% | 0% |  |
 
 
@@ -161,7 +162,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [1–4 February 2021](2021-02-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [25 January–1 February 2021](2021-02-01-IFDD.html) | IFDD <br> Kronen Zeitung | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
@@ -173,8 +174,9 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
+| [9–12 November 2020](2020-11-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
@@ -285,9 +287,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 2% | 100% |  |
-| 7 | 29% | 98% | Last Result |
-| 8 | 53% | 69% | Median |
-| 9 | 15% | 16% |  |
+| 7 | 35% | 98% | Last Result |
+| 8 | 51% | 63% | Median |
+| 9 | 12% | 13% |  |
 | 10 | 0.2% | 0.2% | Majority |
 | 11 | 0% | 0% |  |
 
