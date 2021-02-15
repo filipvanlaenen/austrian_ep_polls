@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 33–39% <br> 7–8 | 20–26% <br> 4–5 | 15–20% <br> 3–4 | 8–12% <br> 1–2 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34–42% <br> 7–9 | 20–28% <br> 4–6 | 13–19% <br> 2–4 | 7–12% <br> 1–2 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–4 February 2021](2021-02-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35–43% <br> 7–9 | 20–28% <br> 4–6 | 12–18% <br> 2–4 | 7–12% <br> 1–2 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25 January–1 February 2021](2021-02-01-IFDD.html) | IFDD <br> Kronen Zeitung | 32–38% <br> 6–8 | 21–27% <br> 4–5 | 15–21% <br> 3–4 | 8–12% <br> 1–2 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -17,8 +17,9 @@ The table below lists all polls registered and analyzed so far.
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 37–43% <br> 7–9 | 17–23% <br> 3–5 | 13–18% <br> 2–3 | 11–16% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–44% <br> 7–9 | 19–26% <br> 4–5 | 10–16% <br> 2–3 | 8–13% <br> 1–2 | 9–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 36–42% <br> 7–9 | 20–26% <br> 4–5 | 12–17% <br> 2–3 | 12–17% <br> 2–3 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 37–45% <br> 8–10 | 19–26% <br> 4–5 | 9–15% <br> 2–3 | 9–14% <br> 1–3 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
-| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 36–44% <br> 7–9 | 18–25% <br> 3–5 | 8–14% <br> 1–3 | 8–14% <br> 1–3 | 7–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–45% <br> 8–10 | 19–26% <br> 4–5 | 9–15% <br> 2–3 | 9–14% <br> 1–3 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
+| [9–12 November 2020](2020-11-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38–44% <br> 8–9 | 20–25% <br> 4–5 | 10–14% <br> 2–3 | 9–13% <br> 2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–44% <br> 7–9 | 18–25% <br> 3–5 | 8–14% <br> 1–3 | 8–14% <br> 1–3 | 7–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 35–41% <br> 7–9 | 18–24% <br> 4–5 | 14–19% <br> 3–4 | 10–14% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 36–44% <br> 7–10 | 19–26% <br> 4–5 | 8–13% <br> 1–2 | 9–14% <br> 1–3 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 37–45% <br> 8–10 | 18–25% <br> 3–5 | 8–13% <br> 1–2 | 9–15% <br> 2–3 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 |
