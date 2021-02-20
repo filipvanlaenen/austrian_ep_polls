@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 15 Feb 2021 08:48:33 +0100</pubDate>
+    <pubDate>Sat, 20 Feb 2021 18:32:56 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–18 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-02-18-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 32.9–41.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.5–27.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 13.9–20.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.7–13.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 6.0–10.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-02-18-ResearchAffairs.png"
+        length="251769"
+        type="image/png"/>
+      <pubDate>Sat, 20 Feb 2021 18:32:56 +0100</pubDate>
+      <dc:date>2021-02-20T18:32:56.932278+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 8–11 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-02-11-UniqueResearch.html#seats</link>
@@ -3459,6 +3469,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
     </item>
-    <dc:date>2021-02-15T08:48:33.680586+01:00</dc:date>
+    <dc:date>2021-02-20T18:32:56.932278+01:00</dc:date>
   </channel>
 </rss>
