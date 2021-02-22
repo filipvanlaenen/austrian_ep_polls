@@ -42,9 +42,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 1.2% | 100% |  |
-| 7 | 39% | 98.8% | Last Result |
-| 8 | 54% | 60% | Median |
+| 6 | 1.3% | 100% |  |
+| 7 | 38% | 98.7% | Last Result |
+| 8 | 55% | 60% | Median |
 | 9 | 5% | 5% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -71,8 +71,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 72% | 98% | Last Result, Median |
-| 4 | 26% | 26% |  |
+| 3 | 73% | 98% | Last Result, Median |
+| 4 | 25% | 25% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -84,9 +84,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 23% | 100% | Last Result |
-| 2 | 76% | 77% | Median |
-| 3 | 1.2% | 1.2% |  |
+| 1 | 21% | 100% | Last Result |
+| 2 | 78% | 79% | Median |
+| 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -97,8 +97,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 76% | 100% | Median |
-| 2 | 24% | 24% | Last Result |
+| 1 | 77% | 100% | Median |
+| 2 | 23% | 23% | Last Result |
 | 3 | 0% | 0% |  |
 
 
@@ -121,9 +121,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 1.2% | 100% |  |
-| 7 | 39% | 98.8% | Last Result |
-| 8 | 54% | 60% | Median |
+| 6 | 1.3% | 100% |  |
+| 7 | 38% | 98.7% | Last Result |
+| 8 | 55% | 60% | Median |
 | 9 | 5% | 5% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -146,8 +146,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 72% | 98% | Last Result, Median |
-| 4 | 26% | 26% |  |
+| 3 | 73% | 98% | Last Result, Median |
+| 4 | 25% | 25% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -157,9 +157,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 23% | 100% | Last Result |
-| 2 | 76% | 77% | Median |
-| 3 | 1.2% | 1.2% |  |
+| 1 | 21% | 100% | Last Result |
+| 2 | 78% | 79% | Median |
+| 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -174,6 +174,6 @@
 ### Calculations
 
 + **Sample size:** 508
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.72%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.88%
 

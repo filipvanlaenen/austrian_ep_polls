@@ -190,7 +190,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 2% | 100% |  |
 | 7 | 38% | 98% | Last Result |
-| 8 | 49% | 60% | Median |
+| 8 | 49% | 61% | Median |
 | 9 | 11% | 11% |  |
 | 10 | 0.1% | 0.1% | Majority |
 | 11 | 0% | 0% |  |
@@ -219,7 +219,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 28% | 100% |  |
 | 3 | 55% | 72% | Last Result, Median |
-| 4 | 17% | 17% |  |
+| 4 | 16% | 16% |  |
 | 5 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -231,7 +231,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 22% | 100% |  |
-| 2 | 60% | 78% | Last Result, Median |
+| 2 | 59% | 78% | Last Result, Median |
 | 3 | 18% | 18% |  |
 | 4 | 0% | 0% |  |
 
@@ -244,7 +244,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 27% | 100% | Last Result |
-| 2 | 72% | 73% | Median |
+| 2 | 73% | 73% | Median |
 | 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
@@ -290,7 +290,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 2% | 100% |  |
 | 7 | 38% | 98% | Last Result |
-| 8 | 49% | 60% | Median |
+| 8 | 49% | 61% | Median |
 | 9 | 11% | 11% |  |
 | 10 | 0.1% | 0.1% | Majority |
 | 11 | 0% | 0% |  |
@@ -315,7 +315,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 28% | 100% |  |
 | 3 | 55% | 72% | Last Result, Median |
-| 4 | 17% | 17% |  |
+| 4 | 16% | 16% |  |
 | 5 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA)
@@ -325,7 +325,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 22% | 100% |  |
-| 2 | 60% | 78% | Last Result, Median |
+| 2 | 59% | 78% | Last Result, Median |
 | 3 | 18% | 18% |  |
 | 4 | 0% | 0% |  |
 
@@ -336,7 +336,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 27% | 100% | Last Result |
-| 2 | 72% | 73% | Median |
+| 2 | 73% | 73% | Median |
 | 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
@@ -352,6 +352,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
-+ **Error estimate:** 1.72%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 1.08%
