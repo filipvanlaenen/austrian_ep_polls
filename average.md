@@ -203,7 +203,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 29% | 100% |  |
-| 5 | 69% | 71% | Last Result, Median |
+| 5 | 68% | 71% | Last Result, Median |
 | 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
@@ -242,7 +242,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 20% | 100% | Last Result |
-| 2 | 79% | 80% | Median |
+| 2 | 80% | 80% | Median |
 | 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
@@ -300,7 +300,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 29% | 100% |  |
-| 5 | 69% | 71% | Last Result, Median |
+| 5 | 68% | 71% | Last Result, Median |
 | 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
@@ -333,7 +333,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 20% | 100% | Last Result |
-| 2 | 79% | 80% | Median |
+| 2 | 80% | 80% | Median |
 | 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
@@ -349,6 +349,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
-+ **Error estimate:** 1.59%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 1.08%
