@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 23 Feb 2021 21:48:54 +0100</pubDate>
+    <pubDate>Sun, 07 Mar 2021 15:02:13 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 1–4 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-04-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 31.8–38.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 21.2–27.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 14.6–19.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 9.9–14.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 8.1–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-04-UniqueResearch.png"
+        length="243160"
+        type="image/png"/>
+      <pubDate>Sun, 07 Mar 2021 11:41:51 +0100</pubDate>
+      <dc:date>2021-03-07T11:41:51.239958+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 2–4 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-04-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 33.0–41.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 19.5–26.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 14.0–20.6%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.7–12.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 6.8–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-04-ResearchAffairs.png"
+        length="250309"
+        type="image/png"/>
+      <pubDate>Sun, 07 Mar 2021 15:02:13 +0100</pubDate>
+      <dc:date>2021-03-07T15:02:13.82824+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–18 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-02-18-ResearchAffairs.html#seats</link>
@@ -3519,6 +3539,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
     </item>
-    <dc:date>2021-02-23T21:48:54.181531+01:00</dc:date>
+    <dc:date>2021-03-07T15:02:13.82824+01:00</dc:date>
   </channel>
 </rss>
