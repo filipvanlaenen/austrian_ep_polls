@@ -189,7 +189,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 3% | 100% |  |
 | 7 | 49% | 97% | Last Result, Median |
-| 8 | 40% | 48% |  |
+| 8 | 40% | 49% |  |
 | 9 | 8% | 8% |  |
 | 10 | 0.1% | 0.1% | Majority |
 | 11 | 0% | 0% |  |
@@ -217,8 +217,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 22% | 100% |  |
-| 3 | 61% | 78% | Last Result, Median |
-| 4 | 17% | 17% |  |
+| 3 | 62% | 78% | Last Result, Median |
+| 4 | 16% | 16% |  |
 | 5 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -289,7 +289,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 3% | 100% |  |
 | 7 | 49% | 97% | Last Result, Median |
-| 8 | 40% | 48% |  |
+| 8 | 40% | 49% |  |
 | 9 | 8% | 8% |  |
 | 10 | 0.1% | 0.1% | Majority |
 | 11 | 0% | 0% |  |
@@ -313,8 +313,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 22% | 100% |  |
-| 3 | 61% | 78% | Last Result, Median |
-| 4 | 17% | 17% |  |
+| 3 | 62% | 78% | Last Result, Median |
+| 4 | 16% | 16% |  |
 | 5 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA)
@@ -351,6 +351,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,538,944
-+ **Error estimate:** 1.37%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 1.08%
