@@ -8,7 +8,47 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 08 Mar 2021 20:39:13 +0100</pubDate>
+    <pubDate>Mon, 29 Mar 2021 16:51:14 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 23–25 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-25-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 32.7–39.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.2–26.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 15.5–20.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 9.0–13.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 9.0–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-25-UniqueResearch.png"
+        length="245384"
+        type="image/png"/>
+      <pubDate>Mon, 29 Mar 2021 16:17:21 +0200</pubDate>
+      <dc:date>2021-03-29T16:17:21.958386+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 23–25 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-25-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 31.8–40.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 18.5–25.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 13.9–20.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.5–14.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 6.8–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-25-ResearchAffairs.png"
+        length="252642"
+        type="image/png"/>
+      <pubDate>Mon, 29 Mar 2021 16:22:35 +0200</pubDate>
+      <dc:date>2021-03-29T16:22:35.182712+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–17 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-17-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 32.8–41.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.5–27.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 13.1–19.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.6–12.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 6.7–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-17-ResearchAffairs.png"
+        length="252722"
+        type="image/png"/>
+      <pubDate>Mon, 29 Mar 2021 16:46:59 +0200</pubDate>
+      <dc:date>2021-03-29T16:46:59.926129+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for APA and ATV, 8–11 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-11-PeterHajek.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 31.8–38.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 22.1–28.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 14.6–19.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 9.0–13.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 8.1–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-11-PeterHajek.png"
+        length="244827"
+        type="image/png"/>
+      <pubDate>Mon, 29 Mar 2021 16:51:14 +0200</pubDate>
+      <dc:date>2021-03-29T16:51:14.349909+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 1–4 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-03-04-UniqueResearch.html#seats</link>
@@ -3579,6 +3619,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
     </item>
-    <dc:date>2021-03-08T20:39:13.524943+01:00</dc:date>
+    <dc:date>2021-03-29T16:51:14.349909+02:00</dc:date>
   </channel>
 </rss>
