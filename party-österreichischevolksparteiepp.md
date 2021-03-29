@@ -10,7 +10,11 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.6% | 33.7–40.4% | 33.0–41.4% | 32.4–42.2% | 31.3–43.6% |
+| N/A | [Poll Average](average.html) | 35.8% | 33.4–38.3% | 32.7–39.0% | 32.1–39.6% | 31.0–40.8% |
+| [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 36.0% | 33.9–38.2% | 33.3–38.9% | 32.7–39.4% | 31.7–40.5% |
+| [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.9% | 33.2–38.7% | 32.5–39.5% | 31.8–40.2% | 30.6–41.6% |
+| [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36.9% | 34.2–39.7% | 33.5–40.5% | 32.8–41.2% | 31.5–42.6% |
+| [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.4% | 30.8–39.4% |
 | [1–4 March 2021](2021-03-04-UniqueResearch.html) | Unique Research <br> profil | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.4% | 30.8–39.4% |
 | [2–4 March 2021](2021-03-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37.1% | 34.4–39.9% | 33.6–40.6% | 33.0–41.4% | 31.7–42.7% |
 | [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37.0% | 34.3–39.8% | 33.6–40.6% | 32.9–41.3% | 31.7–42.7% |
@@ -138,23 +142,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0.1% | 100% |  |
-| 30.5–31.5% | 0.7% | 99.9% |  |
-| 31.5–32.5% | 2% | 99.2% |  |
-| 32.5–33.5% | 6% | 97% |  |
-| 33.5–34.5% | 10% | 91% |  |
-| 34.5–35.5% | 14% | 81% | Last Result |
-| 35.5–36.5% | 16% | 67% |  |
-| 36.5–37.5% | 15% | 51% | Median |
-| 37.5–38.5% | 12% | 37% |  |
-| 38.5–39.5% | 9% | 25% |  |
-| 39.5–40.5% | 7% | 16% |  |
-| 40.5–41.5% | 5% | 9% |  |
-| 41.5–42.5% | 3% | 4% |  |
-| 42.5–43.5% | 1.2% | 2% |  |
-| 43.5–44.5% | 0.4% | 0.5% |  |
-| 44.5–45.5% | 0.1% | 0.1% |  |
-| 45.5–46.5% | 0% | 0% |  |
+| 29.5–30.5% | 0.2% | 100% |  |
+| 30.5–31.5% | 0.9% | 99.8% |  |
+| 31.5–32.5% | 3% | 98.9% |  |
+| 32.5–33.5% | 7% | 96% |  |
+| 33.5–34.5% | 14% | 88% |  |
+| 34.5–35.5% | 19% | 75% | Last Result |
+| 35.5–36.5% | 20% | 56% | Median |
+| 36.5–37.5% | 17% | 35% |  |
+| 37.5–38.5% | 11% | 18% |  |
+| 38.5–39.5% | 5% | 8% |  |
+| 39.5–40.5% | 2% | 3% |  |
+| 40.5–41.5% | 0.5% | 0.7% |  |
+| 41.5–42.5% | 0.1% | 0.2% |  |
+| 42.5–43.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -165,7 +166,11 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
+| N/A | [Poll Average](average.html) | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
+| [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [1–4 March 2021](2021-03-04-UniqueResearch.html) | Unique Research <br> profil | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [2–4 March 2021](2021-03-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
@@ -294,11 +299,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 3% | 100% |  |
-| 7 | 49% | 97% | Last Result, Median |
-| 8 | 40% | 49% |  |
-| 9 | 8% | 8% |  |
-| 10 | 0.1% | 0.1% | Majority |
-| 11 | 0% | 0% |  |
+| 6 | 4% | 100% |  |
+| 7 | 66% | 96% | Last Result, Median |
+| 8 | 29% | 30% |  |
+| 9 | 0.5% | 0.5% |  |
+| 10 | 0% | 0% | Majority |
 
 
