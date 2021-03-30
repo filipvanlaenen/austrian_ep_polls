@@ -42,9 +42,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 4% | 100% |  |
-| 7 | 61% | 96% | Last Result, Median |
-| 8 | 33% | 34% |  |
+| 6 | 5% | 100% |  |
+| 7 | 60% | 95% | Last Result, Median |
+| 8 | 34% | 36% |  |
 | 9 | 1.3% | 1.3% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -57,9 +57,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
-| 4 | 65% | 97% | Median |
-| 5 | 31% | 32% | Last Result |
-| 6 | 0.4% | 0.4% |  |
+| 4 | 67% | 97% | Median |
+| 5 | 30% | 31% | Last Result |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -71,8 +71,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 75% | 98% | Last Result, Median |
-| 4 | 22% | 23% |  |
+| 3 | 76% | 98% | Last Result, Median |
+| 4 | 22% | 22% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -97,8 +97,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 55% | 100% | Median |
-| 2 | 45% | 45% | Last Result |
+| 1 | 54% | 100% | Median |
+| 2 | 46% | 46% | Last Result |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -122,9 +122,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 4% | 100% |  |
-| 7 | 61% | 96% | Last Result, Median |
-| 8 | 33% | 34% |  |
+| 6 | 5% | 100% |  |
+| 7 | 60% | 95% | Last Result, Median |
+| 8 | 34% | 36% |  |
 | 9 | 1.3% | 1.3% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -135,9 +135,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
-| 4 | 65% | 97% | Median |
-| 5 | 31% | 32% | Last Result |
-| 6 | 0.4% | 0.4% |  |
+| 4 | 67% | 97% | Median |
+| 5 | 30% | 31% | Last Result |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -147,8 +147,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 75% | 98% | Last Result, Median |
-| 4 | 22% | 23% |  |
+| 3 | 76% | 98% | Last Result, Median |
+| 4 | 22% | 22% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -175,6 +175,6 @@
 ### Calculations
 
 + **Sample size:** 501
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.50%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.17%
 
