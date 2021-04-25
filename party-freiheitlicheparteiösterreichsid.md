@@ -10,9 +10,12 @@ Last result: **17.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.1% | 14.0–19.2% | 13.3–19.7% | 12.8–20.2% | 12.0–21.1% |
+| N/A | [Poll Average](average.html) | 16.8% | 14.4–19.4% | 13.8–20.2% | 13.4–20.8% | 12.5–21.9% |
+| [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.0% | 14.1–18.2% | 13.5–18.9% | 13.0–19.4% | 12.2–20.5% |
+| [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 19.0% | 17.3–20.9% | 16.8–21.4% | 16.4–21.9% | 15.7–22.8% |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [30 March–1 April 2021](2021-04-01-OGM.html) | OGM <br> KURIER | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.5–19.7% | 13.8–20.6% |
+| [26–30 March 2021](2021-03-30-Market.html) | Market <br> Der Standard | 15.0% | 13.5–16.7% | 13.0–17.2% | 12.7–17.6% | 12.0–18.5% |
 | [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 18.0% | 16.4–19.8% | 15.9–20.4% | 15.5–20.8% | 14.7–21.7% |
 | [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.0% | 15.0–19.3% | 14.4–19.9% | 13.9–20.5% | 13.0–21.7% |
 | [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.1% | 14.1–18.3% | 13.6–19.0% | 13.1–19.5% | 12.2–20.7% |
@@ -143,20 +146,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.2% | 100% |  |
-| 11.5–12.5% | 1.4% | 99.8% |  |
-| 12.5–13.5% | 5% | 98% |  |
-| 13.5–14.5% | 8% | 93% |  |
-| 14.5–15.5% | 9% | 85% |  |
-| 15.5–16.5% | 15% | 76% |  |
-| 16.5–17.5% | 21% | 61% | Last Result, Median |
-| 17.5–18.5% | 21% | 40% |  |
-| 18.5–19.5% | 13% | 19% |  |
-| 19.5–20.5% | 5% | 6% |  |
-| 20.5–21.5% | 1.2% | 1.5% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 0.5% | 99.9% |  |
+| 12.5–13.5% | 3% | 99.4% |  |
+| 13.5–14.5% | 8% | 97% |  |
+| 14.5–15.5% | 14% | 89% |  |
+| 15.5–16.5% | 19% | 75% |  |
+| 16.5–17.5% | 19% | 55% | Last Result, Median |
+| 17.5–18.5% | 16% | 36% |  |
+| 18.5–19.5% | 11% | 20% |  |
+| 19.5–20.5% | 6% | 9% |  |
+| 20.5–21.5% | 2% | 3% |  |
+| 21.5–22.5% | 0.7% | 0.9% |  |
+| 22.5–23.5% | 0.1% | 0.2% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -168,8 +171,11 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30 March–1 April 2021](2021-04-01-OGM.html) | OGM <br> KURIER | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [26–30 March 2021](2021-03-30-Market.html) | Market <br> Der Standard | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -302,9 +308,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 8% | 100% |  |
-| 3 | 68% | 92% | Last Result, Median |
-| 4 | 24% | 24% |  |
-| 5 | 0% | 0% |  |
+| 2 | 5% | 100% |  |
+| 3 | 72% | 95% | Last Result, Median |
+| 4 | 23% | 23% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 
