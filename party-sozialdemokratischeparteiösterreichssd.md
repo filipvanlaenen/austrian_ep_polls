@@ -10,7 +10,8 @@ Last result: **23.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.3% | 20.8–26.8% | 19.8–27.5% | 19.0–28.1% | 17.6–29.3% |
+| N/A | [Poll Average](average.html) | 24.2% | 20.0–26.8% | 18.9–27.5% | 18.1–28.1% | 16.7–29.3% |
+| [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20.0% | 17.8–22.4% | 17.2–23.1% | 16.7–23.7% | 15.7–24.8% |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20.9% | 18.7–23.4% | 18.1–24.1% | 17.6–24.7% | 16.6–25.9% |
 | [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
@@ -146,18 +147,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.4% | 99.9% |  |
-| 17.5–18.5% | 1.2% | 99.5% |  |
-| 18.5–19.5% | 3% | 98% |  |
-| 19.5–20.5% | 4% | 96% |  |
-| 20.5–21.5% | 6% | 92% |  |
-| 21.5–22.5% | 9% | 85% |  |
-| 22.5–23.5% | 14% | 76% |  |
-| 23.5–24.5% | 18% | 62% | Last Result, Median |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0.1% | 100% |  |
+| 15.5–16.5% | 0.3% | 99.9% |  |
+| 16.5–17.5% | 1.1% | 99.6% |  |
+| 17.5–18.5% | 2% | 98.6% |  |
+| 18.5–19.5% | 4% | 96% |  |
+| 19.5–20.5% | 5% | 92% |  |
+| 20.5–21.5% | 5% | 87% |  |
+| 21.5–22.5% | 8% | 82% |  |
+| 22.5–23.5% | 13% | 74% |  |
+| 23.5–24.5% | 17% | 61% | Last Result, Median |
 | 24.5–25.5% | 18% | 44% |  |
-| 25.5–26.5% | 14% | 27% |  |
+| 25.5–26.5% | 14% | 26% |  |
 | 26.5–27.5% | 8% | 13% |  |
 | 27.5–28.5% | 3% | 5% |  |
 | 28.5–29.5% | 1.1% | 1.5% |  |
@@ -174,7 +176,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 3–6 | 3–6 |
+| [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -312,9 +315,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.3% | 100% |  |
-| 4 | 27% | 98.7% |  |
-| 5 | 67% | 72% | Last Result, Median |
+| 3 | 3% | 100% |  |
+| 4 | 27% | 97% |  |
+| 5 | 65% | 70% | Last Result, Median |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
