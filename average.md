@@ -189,9 +189,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 9% | 100% |  |
-| 7 | 68% | 91% | Last Result, Median |
-| 8 | 22% | 23% |  |
-| 9 | 0.4% | 0.4% |  |
+| 7 | 68% | 90% | Last Result, Median |
+| 8 | 22% | 22% |  |
+| 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -203,7 +203,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
-| 4 | 27% | 97% |  |
+| 4 | 28% | 97% |  |
 | 5 | 65% | 70% | Last Result, Median |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
@@ -217,8 +217,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 5% | 100% |  |
-| 3 | 73% | 95% | Last Result, Median |
-| 4 | 22% | 22% |  |
+| 3 | 72% | 95% | Last Result, Median |
+| 4 | 23% | 23% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -245,7 +245,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 13% | 100% | Last Result |
 | 2 | 85% | 87% | Median |
-| 3 | 2% | 2% |  |
+| 3 | 1.5% | 1.5% |  |
 | 4 | 0% | 0% |  |
 
 ### JETZT–Liste Pilz (Greens/EFA)
@@ -289,9 +289,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 9% | 100% |  |
-| 7 | 68% | 91% | Last Result, Median |
-| 8 | 22% | 23% |  |
-| 9 | 0.4% | 0.4% |  |
+| 7 | 68% | 90% | Last Result, Median |
+| 8 | 22% | 22% |  |
+| 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -301,7 +301,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
-| 4 | 27% | 97% |  |
+| 4 | 28% | 97% |  |
 | 5 | 65% | 70% | Last Result, Median |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
@@ -313,8 +313,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 5% | 100% |  |
-| 3 | 73% | 95% | Last Result, Median |
-| 4 | 22% | 22% |  |
+| 3 | 72% | 95% | Last Result, Median |
+| 4 | 23% | 23% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -337,7 +337,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 13% | 100% | Last Result |
 | 2 | 85% | 87% | Median |
-| 3 | 2% | 2% |  |
+| 3 | 1.5% | 1.5% |  |
 | 4 | 0% | 0% |  |
 
 ### Meine Stimme Gilt! (*) – Team HC Strache–Allianz für Österreich (*)
@@ -352,6 +352,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
-+ **Error estimate:** 1.62%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 0.72%
