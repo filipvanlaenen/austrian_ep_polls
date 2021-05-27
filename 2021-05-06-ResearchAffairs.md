@@ -44,8 +44,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 3% | 100% |  |
 | 7 | 53% | 97% | Last Result, Median |
-| 8 | 42% | 44% |  |
-| 9 | 2% | 2% |  |
+| 8 | 43% | 44% |  |
+| 9 | 1.3% | 1.3% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -56,9 +56,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 6% | 100% |  |
-| 4 | 72% | 94% | Median |
-| 5 | 23% | 23% | Last Result |
+| 3 | 5% | 100% |  |
+| 4 | 75% | 95% | Median |
+| 5 | 20% | 20% | Last Result |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -70,8 +70,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 2% | 100% |  |
-| 3 | 70% | 98% | Last Result, Median |
+| 2 | 1.4% | 100% |  |
+| 3 | 71% | 98.6% | Last Result, Median |
 | 4 | 28% | 28% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
@@ -86,7 +86,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% |  |
 | 2 | 85% | 98% | Last Result, Median |
-| 3 | 13% | 13% |  |
+| 3 | 14% | 14% |  |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -97,9 +97,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% | Last Result |
-| 2 | 89% | 92% | Median |
-| 3 | 3% | 3% |  |
+| 1 | 7% | 100% | Last Result |
+| 2 | 89% | 93% | Median |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -124,8 +124,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 3% | 100% |  |
 | 7 | 53% | 97% | Last Result, Median |
-| 8 | 42% | 44% |  |
-| 9 | 2% | 2% |  |
+| 8 | 43% | 44% |  |
+| 9 | 1.3% | 1.3% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -134,9 +134,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 6% | 100% |  |
-| 4 | 72% | 94% | Median |
-| 5 | 23% | 23% | Last Result |
+| 3 | 5% | 100% |  |
+| 4 | 75% | 95% | Median |
+| 5 | 20% | 20% | Last Result |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -146,8 +146,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 2% | 100% |  |
-| 3 | 70% | 98% | Last Result, Median |
+| 2 | 1.4% | 100% |  |
+| 3 | 71% | 98.6% | Last Result, Median |
 | 4 | 28% | 28% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
@@ -158,9 +158,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% | Last Result |
-| 2 | 89% | 92% | Median |
-| 3 | 3% | 3% |  |
+| 1 | 7% | 100% | Last Result |
+| 2 | 89% | 93% | Median |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -175,6 +175,6 @@
 ### Calculations
 
 + **Sample size:** 504
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.23%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.43%
 
