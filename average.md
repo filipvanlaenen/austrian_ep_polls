@@ -183,10 +183,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 11% | 100% |  |
-| 7 | 71% | 89% | Last Result, Median |
+| 6 | 10% | 100% |  |
+| 7 | 72% | 90% | Last Result, Median |
 | 8 | 18% | 18% |  |
-| 9 | 0.2% | 0.2% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -197,9 +197,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% |  |
-| 4 | 26% | 99.6% |  |
-| 5 | 68% | 73% | Last Result, Median |
+| 3 | 0.3% | 100% |  |
+| 4 | 27% | 99.7% |  |
+| 5 | 67% | 73% | Last Result, Median |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
@@ -212,8 +212,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% |  |
-| 3 | 70% | 96% | Last Result, Median |
-| 4 | 26% | 27% |  |
+| 3 | 69% | 96% | Last Result, Median |
+| 4 | 27% | 27% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -225,8 +225,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.0% | 100% |  |
-| 2 | 86% | 99.0% | Last Result, Median |
+| 1 | 1.1% | 100% |  |
+| 2 | 86% | 98.9% | Last Result, Median |
 | 3 | 13% | 13% |  |
 | 4 | 0% | 0% |  |
 
@@ -283,10 +283,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 11% | 100% |  |
-| 7 | 71% | 89% | Last Result, Median |
+| 6 | 10% | 100% |  |
+| 7 | 72% | 90% | Last Result, Median |
 | 8 | 18% | 18% |  |
-| 9 | 0.2% | 0.2% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -295,9 +295,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% |  |
-| 4 | 26% | 99.6% |  |
-| 5 | 68% | 73% | Last Result, Median |
+| 3 | 0.3% | 100% |  |
+| 4 | 27% | 99.7% |  |
+| 5 | 67% | 73% | Last Result, Median |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
@@ -308,8 +308,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% |  |
-| 3 | 70% | 96% | Last Result, Median |
-| 4 | 26% | 27% |  |
+| 3 | 69% | 96% | Last Result, Median |
+| 4 | 27% | 27% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -319,8 +319,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.0% | 100% |  |
-| 2 | 86% | 99.0% | Last Result, Median |
+| 1 | 1.1% | 100% |  |
+| 2 | 86% | 98.9% | Last Result, Median |
 | 3 | 13% | 13% |  |
 | 4 | 0% | 0% |  |
 
@@ -347,6 +347,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,490,368
-+ **Error estimate:** 1.63%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 1.04%
