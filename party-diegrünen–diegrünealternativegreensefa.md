@@ -10,7 +10,11 @@ Last result: **14.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.1% | 10.4–13.9% | 9.9–14.4% | 9.5–14.9% | 8.8–15.8% |
+| N/A | [Poll Average](average.html) | 11.7% | 9.7–13.7% | 9.2–14.2% | 8.8–14.7% | 8.1–15.6% |
+| [24–30 May 2021](2021-05-30-Market.html) | Market | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [25–27 May 2021](2021-05-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.6–14.1% | 7.8–15.1% |
+| [18–20 May 2021](2021-05-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.1% | 9.5–13.0% | 9.1–13.6% | 8.7–14.1% | 8.0–15.1% |
+| [14 May 2021](2021-05-14-DemoxResearch.html) | Demox Research | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12.0% | 10.3–14.1% | 9.8–14.6% | 9.4–15.2% | 8.7–16.2% |
 | [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 12.0% | 10.6–13.6% | 10.2–14.1% | 9.9–14.4% | 9.3–15.2% |
 | [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.9% | 10.2–13.9% | 9.8–14.5% | 9.4–15.0% | 8.6–16.1% |
@@ -151,16 +155,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 2% | 99.8% |  |
-| 9.5–10.5% | 10% | 97% |  |
-| 10.5–11.5% | 23% | 87% |  |
-| 11.5–12.5% | 28% | 65% | Median |
-| 12.5–13.5% | 22% | 37% |  |
-| 13.5–14.5% | 11% | 15% | Last Result |
-| 14.5–15.5% | 3% | 4% |  |
-| 15.5–16.5% | 0.7% | 0.8% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 1.4% | 99.9% |  |
+| 8.5–9.5% | 7% | 98.5% |  |
+| 9.5–10.5% | 15% | 91% |  |
+| 10.5–11.5% | 22% | 76% |  |
+| 11.5–12.5% | 24% | 54% | Median |
+| 12.5–13.5% | 18% | 30% |  |
+| 13.5–14.5% | 8% | 12% | Last Result |
+| 14.5–15.5% | 3% | 3% |  |
+| 15.5–16.5% | 0.5% | 0.6% |  |
 | 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -173,9 +178,13 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [24–30 May 2021](2021-05-30-Market.html) | Market | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [25–27 May 2021](2021-05-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [18–20 May 2021](2021-05-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [14 May 2021](2021-05-14-DemoxResearch.html) | Demox Research | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -316,9 +325,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.1% | 100% |  |
-| 2 | 86% | 98.9% | Last Result, Median |
-| 3 | 13% | 13% |  |
+| 1 | 6% | 100% |  |
+| 2 | 83% | 94% | Last Result, Median |
+| 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
 
 

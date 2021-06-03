@@ -10,7 +10,11 @@ Last result: **8.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.5–11.8% | 8.1–12.4% | 7.8–12.9% | 7.1–14.1% |
+| N/A | [Poll Average](average.html) | 10.7% | 8.8–12.6% | 8.3–13.3% | 7.9–13.9% | 7.2–15.2% |
+| [24–30 May 2021](2021-05-30-Market.html) | Market | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
+| [25–27 May 2021](2021-05-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12.0% | 10.3–14.1% | 9.8–14.6% | 9.4–15.2% | 8.7–16.2% |
+| [18–20 May 2021](2021-05-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12.0% | 10.4–14.1% | 9.9–14.6% | 9.5–15.1% | 8.8–16.1% |
+| [14 May 2021](2021-05-14-DemoxResearch.html) | Demox Research | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.6–14.1% | 7.8–15.1% |
 | [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.9% | 9.3–12.9% | 8.9–13.5% | 8.5–13.9% | 7.8–15.0% |
@@ -152,16 +156,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 1.4% | 99.9% |  |
-| 7.5–8.5% | 9% | 98.5% | Last Result |
-| 8.5–9.5% | 24% | 89% |  |
-| 9.5–10.5% | 31% | 65% | Median |
-| 10.5–11.5% | 21% | 34% |  |
-| 11.5–12.5% | 9% | 13% |  |
-| 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 0.8% | 1.1% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 6.5–7.5% | 1.2% | 99.9% |  |
+| 7.5–8.5% | 6% | 98.8% | Last Result |
+| 8.5–9.5% | 15% | 92% |  |
+| 9.5–10.5% | 24% | 77% |  |
+| 10.5–11.5% | 26% | 53% | Median |
+| 11.5–12.5% | 16% | 27% |  |
+| 12.5–13.5% | 7% | 11% |  |
+| 13.5–14.5% | 3% | 4% |  |
+| 14.5–15.5% | 0.8% | 1.1% |  |
+| 15.5–16.5% | 0.2% | 0.3% |  |
+| 16.5–17.5% | 0% | 0.1% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -172,7 +178,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [24–30 May 2021](2021-05-30-Market.html) | Market | 2 | 2 | 2 | 1–2 | 1–3 |
+| [25–27 May 2021](2021-05-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [18–20 May 2021](2021-05-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [14 May 2021](2021-05-14-DemoxResearch.html) | Demox Research | 2 | 2 | 2 | 2 | 1–3 |
 | [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–2 | 1–3 | 1–3 |
@@ -315,9 +325,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 23% | 100% | Last Result |
-| 2 | 76% | 77% | Median |
-| 3 | 1.0% | 1.0% |  |
+| 1 | 15% | 100% | Last Result |
+| 2 | 82% | 85% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 
