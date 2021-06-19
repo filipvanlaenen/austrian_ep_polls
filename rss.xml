@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 16 Jun 2021 20:29:05 +0200</pubDate>
+    <pubDate>Sat, 19 Jun 2021 13:47:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–17 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-06-17-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 19.5–24.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 12.9–17.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 10.1–14.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-06-17-ResearchAffairs.png"
+        length="240953"
+        type="image/png"/>
+      <pubDate>Sat, 19 Jun 2021 13:23:36 +0200</pubDate>
+      <dc:date>2021-06-19T13:23:36.542261+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IFDD for PULS 24, 10–15 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-06-15-IFDD.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 28.9–35.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 24.1–30.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 15.5–20.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 9.0–13.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 9.0–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-06-15-IFDD.png"
+        length="245544"
+        type="image/png"/>
+      <pubDate>Sat, 19 Jun 2021 13:47:56 +0200</pubDate>
+      <dc:date>2021-06-19T13:47:56.073169+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 7–10 June 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-06-10-UniqueResearch.html#seats</link>
@@ -4239,6 +4259,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
     </item>
-    <dc:date>2021-06-16T20:29:05.808463+02:00</dc:date>
+    <dc:date>2021-06-19T13:47:56.073169+02:00</dc:date>
   </channel>
 </rss>
