@@ -10,7 +10,10 @@ Last result: **17.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.2% | 14.7–19.4% | 14.1–19.9% | 13.6–20.4% | 12.9–21.4% |
+| N/A | [Poll Average](average.html) | 17.5% | 15.2–19.5% | 14.6–20.1% | 14.1–20.6% | 13.0–21.5% |
+| [22–24 June 2021](2021-06-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.0% | 14.1–18.3% | 13.5–18.9% | 13.0–19.5% | 12.2–20.6% |
+| [21–24 June 2021](2021-06-24-PeterHajek.html) | Peter Hajek | 18.0% | 16.4–19.8% | 15.9–20.4% | 15.5–20.8% | 14.7–21.7% |
+| [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 18.0% | 16.3–19.8% | 15.9–20.3% | 15.5–20.8% | 14.7–21.7% |
 | [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [10–15 June 2021](2021-06-15-IFDD.html) | IFDD <br> PULS 24 | 18.1% | 16.4–19.9% | 15.9–20.4% | 15.5–20.9% | 14.8–21.8% |
 | [7–10 June 2021](2021-06-10-UniqueResearch.html) | Unique Research <br> profil | 18.0% | 16.4–19.8% | 15.9–20.4% | 15.5–20.8% | 14.7–21.7% |
@@ -163,17 +166,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.2% | 100% |  |
-| 12.5–13.5% | 2% | 99.8% |  |
-| 13.5–14.5% | 7% | 98% |  |
-| 14.5–15.5% | 12% | 91% |  |
-| 15.5–16.5% | 17% | 79% |  |
-| 16.5–17.5% | 20% | 62% | Last Result, Median |
-| 17.5–18.5% | 20% | 42% |  |
-| 18.5–19.5% | 14% | 22% |  |
-| 19.5–20.5% | 6% | 8% |  |
-| 20.5–21.5% | 2% | 2% |  |
-| 21.5–22.5% | 0.3% | 0.4% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 12.5–13.5% | 1.0% | 99.8% |  |
+| 13.5–14.5% | 4% | 98.8% |  |
+| 14.5–15.5% | 9% | 95% |  |
+| 15.5–16.5% | 16% | 87% |  |
+| 16.5–17.5% | 22% | 71% | Last Result, Median |
+| 17.5–18.5% | 23% | 49% |  |
+| 18.5–19.5% | 16% | 26% |  |
+| 19.5–20.5% | 7% | 10% |  |
+| 20.5–21.5% | 2% | 3% |  |
+| 21.5–22.5% | 0.4% | 0.5% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -184,8 +188,11 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [22–24 June 2021](2021-06-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [21–24 June 2021](2021-06-24-PeterHajek.html) | Peter Hajek | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–15 June 2021](2021-06-15-IFDD.html) | IFDD <br> PULS 24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–10 June 2021](2021-06-10-UniqueResearch.html) | Unique Research <br> profil | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–10 June 2021](2021-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -337,9 +344,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 3% | 100% |  |
-| 3 | 70% | 97% | Last Result, Median |
-| 4 | 26% | 27% |  |
+| 2 | 2% | 100% |  |
+| 3 | 68% | 98% | Last Result, Median |
+| 4 | 30% | 30% |  |
 | 5 | 0% | 0% |  |
 
 
