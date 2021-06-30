@@ -43,10 +43,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 18% | 99.9% |  |
-| 7 | 67% | 82% | Last Result, Median |
-| 8 | 15% | 15% |  |
-| 9 | 0.2% | 0.2% |  |
+| 6 | 17% | 99.9% |  |
+| 7 | 68% | 83% | Last Result, Median |
+| 8 | 14% | 15% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -58,8 +58,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.5% | 100% |  |
-| 4 | 45% | 99.5% |  |
-| 5 | 53% | 55% | Last Result, Median |
+| 4 | 44% | 99.5% |  |
+| 5 | 54% | 55% | Last Result, Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -123,10 +123,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 18% | 99.9% |  |
-| 7 | 67% | 82% | Last Result, Median |
-| 8 | 15% | 15% |  |
-| 9 | 0.2% | 0.2% |  |
+| 6 | 17% | 99.9% |  |
+| 7 | 68% | 83% | Last Result, Median |
+| 8 | 14% | 15% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -136,8 +136,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.5% | 100% |  |
-| 4 | 45% | 99.5% |  |
-| 5 | 53% | 55% | Last Result, Median |
+| 4 | 44% | 99.5% |  |
+| 5 | 54% | 55% | Last Result, Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -175,6 +175,6 @@
 ### Calculations
 
 + **Sample size:** 500
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.49%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.04%
 
