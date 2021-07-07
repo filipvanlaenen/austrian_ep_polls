@@ -10,7 +10,11 @@ Last result: **8.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.2% | 9.7–12.9% | 9.4–13.4% | 9.0–13.8% | 8.3–14.7% |
+| N/A | [Poll Average](average.html) | 11.7% | 10.2–13.4% | 9.7–14.0% | 9.4–14.4% | 8.7–15.4% |
+| [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 12.0% | 10.7–13.6% | 10.3–14.1% | 10.0–14.5% | 9.3–15.3% |
+| [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 12.0% | 10.6–13.6% | 10.2–14.1% | 9.9–14.4% | 9.3–15.2% |
+| [28 June–1 July 2021](2021-07-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12.0% | 10.3–14.1% | 9.9–14.6% | 9.5–15.1% | 8.7–16.2% |
+| [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard | 11.0% | 9.7–12.5% | 9.3–12.9% | 9.0–13.3% | 8.4–14.1% |
 | [22–24 June 2021](2021-06-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.6–14.1% | 7.8–15.1% |
 | [21–24 June 2021](2021-06-24-PeterHajek.html) | Peter Hajek | 12.0% | 10.6–13.6% | 10.2–14.1% | 9.9–14.4% | 9.3–15.2% |
 | [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
@@ -165,16 +169,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.8% | 99.9% | Last Result |
-| 8.5–9.5% | 6% | 99.1% |  |
-| 9.5–10.5% | 21% | 93% |  |
-| 10.5–11.5% | 32% | 72% | Median |
-| 11.5–12.5% | 25% | 40% |  |
-| 12.5–13.5% | 11% | 15% |  |
-| 13.5–14.5% | 3% | 4% |  |
-| 14.5–15.5% | 0.6% | 0.6% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.3% | 100% | Last Result |
+| 8.5–9.5% | 3% | 99.7% |  |
+| 9.5–10.5% | 14% | 96% |  |
+| 10.5–11.5% | 27% | 83% |  |
+| 11.5–12.5% | 29% | 56% | Median |
+| 12.5–13.5% | 18% | 27% |  |
+| 13.5–14.5% | 7% | 9% |  |
+| 14.5–15.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.3% | 0.4% |  |
+| 16.5–17.5% | 0% | 0.1% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -185,7 +190,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [28 June–1 July 2021](2021-07-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 1–2 | 1–3 |
 | [22–24 June 2021](2021-06-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [21–24 June 2021](2021-06-24-PeterHajek.html) | Peter Hajek | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 2 | 2 | 2 | 1–2 | 1–3 |
@@ -341,9 +350,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% | Last Result |
-| 2 | 93% | 96% | Median |
-| 3 | 3% | 3% |  |
+| 1 | 2% | 100% | Last Result |
+| 2 | 91% | 98% | Median |
+| 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
 
