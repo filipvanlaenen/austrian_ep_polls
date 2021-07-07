@@ -8,7 +8,47 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 30 Jun 2021 13:53:58 +0200</pubDate>
+    <pubDate>Tue, 06 Jul 2021 21:52:27 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IFDD for PULS 24, 28 June–2 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-07-02-IFDD.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 21.1–27.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 15.5–20.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 10.0–14.5%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 10.0–14.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-07-02-IFDD.png"
+        length="244393"
+        type="image/png"/>
+      <pubDate>Tue, 06 Jul 2021 19:34:19 +0200</pubDate>
+      <dc:date>2021-07-06T19:34:19.706498+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 28 June–1 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-07-01-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 31.8–38.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 19.3–25.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 14.6–19.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 9.9–14.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 10.8–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-07-01-UniqueResearch.png"
+        length="245114"
+        type="image/png"/>
+      <pubDate>Tue, 06 Jul 2021 19:45:48 +0200</pubDate>
+      <dc:date>2021-07-06T19:45:48.893483+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 28 June–1 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-07-01-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.1–38.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 18.7–25.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 13.0–19.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 9.5–15.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 8.6–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-07-01-ResearchAffairs.png"
+        length="255518"
+        type="image/png"/>
+      <pubDate>Tue, 06 Jul 2021 20:44:23 +0200</pubDate>
+      <dc:date>2021-07-06T20:44:23.79986+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 29–30 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-06-30-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 27.9–34.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 23.1–29.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 14.5–19.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 9.0–13.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 10.9–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-06-30-Market.png"
+        length="249100"
+        type="image/png"/>
+      <pubDate>Tue, 06 Jul 2021 21:52:27 +0200</pubDate>
+      <dc:date>2021-07-06T21:52:27.215206+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 22–24 June 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-06-24-ResearchAffairs.html#seats</link>
@@ -4389,6 +4429,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
     </item>
-    <dc:date>2021-06-30T13:53:58.857645+02:00</dc:date>
+    <dc:date>2021-07-06T21:52:27.215206+02:00</dc:date>
   </channel>
 </rss>
