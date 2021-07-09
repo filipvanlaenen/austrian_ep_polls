@@ -194,7 +194,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [28 June–1 July 2021](2021-07-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–24 June 2021](2021-06-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 3–4 | 2–4 | 2–4 | 2–4 |

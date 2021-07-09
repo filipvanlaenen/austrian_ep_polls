@@ -43,9 +43,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 21% | 99.9% |  |
-| 7 | 67% | 79% | Last Result, Median |
-| 8 | 11% | 11% |  |
+| 6 | 20% | 99.9% |  |
+| 7 | 68% | 80% | Last Result, Median |
+| 8 | 12% | 12% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -58,8 +58,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
-| 4 | 64% | 98% | Median |
-| 5 | 33% | 33% | Last Result |
+| 4 | 66% | 98% | Median |
+| 5 | 32% | 32% | Last Result |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
@@ -85,8 +85,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% | Last Result |
-| 2 | 84% | 98% | Median |
-| 3 | 14% | 14% |  |
+| 2 | 85% | 98% | Median |
+| 3 | 13% | 13% |  |
 | 4 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA)
@@ -123,9 +123,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 21% | 99.9% |  |
-| 7 | 67% | 79% | Last Result, Median |
-| 8 | 11% | 11% |  |
+| 6 | 20% | 99.9% |  |
+| 7 | 68% | 80% | Last Result, Median |
+| 8 | 12% | 12% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Majority |
 
@@ -136,8 +136,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
-| 4 | 64% | 98% | Median |
-| 5 | 33% | 33% | Last Result |
+| 4 | 66% | 98% | Median |
+| 5 | 32% | 32% | Last Result |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
@@ -159,8 +159,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% | Last Result |
-| 2 | 84% | 98% | Median |
-| 3 | 14% | 14% |  |
+| 2 | 85% | 98% | Median |
+| 3 | 13% | 13% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -175,6 +175,6 @@
 ### Calculations
 
 + **Sample size:** 508
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.22%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.52%
 
