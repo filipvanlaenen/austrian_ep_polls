@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 29–37% <br> 6–8 | 19–28% <br> 4–6 | 15–20% <br> 3–4 | 9–15% <br> 2–3 | 9–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–15 July 2021](2021-07-15-ResearchAffairs.html) | Research Affairs <br> PULS | 32–38% <br> 7–8 | 18–23% <br> 3–5 | 16–21% <br> 3–4 | 9–13% <br> 2 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 29–38% <br> 6–8 | 18–28% <br> 3–6 | 15–21% <br> 3–4 | 9–15% <br> 2–3 | 9–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 6–8 | 17–24% <br> 3–5 | 15–22% <br> 3–4 | 9–15% <br> 2–3 | 8–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–8 July 2021](2021-07-08-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 6–8 | 19–25% <br> 4–5 | 15–20% <br> 3–4 | 10–14% <br> 2–3 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 30–36% <br> 6–7 | 21–27% <br> 4–5 | 15–21% <br> 3–4 | 10–14% <br> 2–3 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard | 28–34% <br> 6–7 | 23–29% <br> 5–6 | 15–20% <br> 3–4 | 11–16% <br> 2–3 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
