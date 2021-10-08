@@ -2,16 +2,15 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 29–38% <br> 6–8 | 19–27% <br> 4–5 | 16–22% <br> 3–4 | 8–15% <br> 1–3 | 9–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 6–8 | 19–26% <br> 4–5 | 16–23% <br> 3–4 | 8–13% <br> 1–2 | 9–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 28–34% <br> 6–7 | 22–28% <br> 4–6 | 16–21% <br> 3–4 | 11–16% <br> 2–3 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 32–38% <br> 6–8 | 18–24% <br> 3–5 | 16–22% <br> 3–4 | 10–14% <br> 2–3 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 32–38% <br> 6–8 | 19–25% <br> 4–5 | 16–22% <br> 3–4 | 9–13% <br> 1–2 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [21–24 June 2021](2021-06-24-PeterHajek.html) | Peter Hajek | 31–37% <br> 6–8 | 20–26% <br> 4–5 | 15–21% <br> 3–4 | 9–13% <br> 1–2 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC | MFG | KPÖ |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.8% <br> 0 |
+| N/A | [Poll Average](average.html) | 29–38% <br> 6–8 | 19–27% <br> 4–5 | 13–22% <br> 2–4 | 8–15% <br> 1–3 | 8–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–1 | 3–6% <br> 0–1 |
+| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30–38% <br> 6–8 | 19–26% <br> 4–5 | 12–18% <br> 2–4 | 8–13% <br> 1–2 | 7–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–1 | 3–6% <br> 0–1 |
+| [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 28–34% <br> 6–7 | 22–28% <br> 4–6 | 16–21% <br> 3–4 | 11–16% <br> 2–3 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 32–38% <br> 6–8 | 18–24% <br> 3–5 | 16–22% <br> 3–4 | 10–14% <br> 2–3 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 32–38% <br> 6–8 | 19–25% <br> 4–5 | 16–22% <br> 3–4 | 9–13% <br> 1–2 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.8% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -26,6 +25,8 @@ Only polls for which at least the sample size has been published are included in
 + **JETZT:** JETZT–Liste Pilz (Greens/EFA)
 + **GILT:** Meine Stimme Gilt! (*)
 + **HC:** Team HC Strache–Allianz für Österreich (*)
++ **MFG:** MFG–Österreich Menschen–Freiheit–Grundrechte (*)
++ **KPÖ:** Kommunistische Partei Österreichs (GUE/NGL)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
