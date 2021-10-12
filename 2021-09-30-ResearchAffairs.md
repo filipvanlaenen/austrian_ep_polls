@@ -47,9 +47,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 11% | 100% |  |
-| 7 | 71% | 89% | Last Result, Median |
-| 8 | 17% | 18% |  |
-| 9 | 0.8% | 0.8% |  |
+| 7 | 64% | 89% | Last Result, Median |
+| 8 | 23% | 24% |  |
+| 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -60,10 +60,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.4% | 100% |  |
-| 4 | 49% | 98.6% | Median |
-| 5 | 49% | 50% | Last Result |
-| 6 | 0.8% | 0.8% |  |
+| 3 | 1.2% | 100% |  |
+| 4 | 56% | 98.8% | Median |
+| 5 | 41% | 42% | Last Result |
+| 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -74,8 +74,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 15% | 100% |  |
-| 3 | 79% | 85% | Last Result, Median |
+| 2 | 14% | 100% |  |
+| 3 | 80% | 86% | Last Result, Median |
 | 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
@@ -87,8 +87,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 14% | 100% |  |
-| 2 | 85% | 86% | Last Result, Median |
+| 1 | 17% | 100% |  |
+| 2 | 81% | 83% | Last Result, Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -100,9 +100,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 47% | 100% | Last Result |
-| 2 | 53% | 53% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 1 | 40% | 100% | Last Result |
+| 2 | 59% | 60% | Median |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 ### MFG–Österreich Menschen–Freiheit–Grundrechte (*)
@@ -113,8 +113,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 78% | 78% | Median |
+| 0 | 25% | 100% | Last Result |
+| 1 | 75% | 75% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -126,8 +126,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Last Result, Median |
-| 1 | 32% | 32% |  |
+| 0 | 67% | 100% | Last Result, Median |
+| 1 | 33% | 33% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -152,9 +152,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 11% | 100% |  |
-| 7 | 71% | 89% | Last Result, Median |
-| 8 | 17% | 18% |  |
-| 9 | 0.8% | 0.8% |  |
+| 7 | 64% | 89% | Last Result, Median |
+| 8 | 23% | 24% |  |
+| 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% | Majority |
 
 ### Sozialdemokratische Partei Österreichs (S&D)
@@ -163,10 +163,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.4% | 100% |  |
-| 4 | 49% | 98.6% | Median |
-| 5 | 49% | 50% | Last Result |
-| 6 | 0.8% | 0.8% |  |
+| 3 | 1.2% | 100% |  |
+| 4 | 56% | 98.8% | Median |
+| 5 | 41% | 42% | Last Result |
+| 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs (ID)
@@ -175,8 +175,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 15% | 100% |  |
-| 3 | 79% | 85% | Last Result, Median |
+| 2 | 14% | 100% |  |
+| 3 | 80% | 86% | Last Result, Median |
 | 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
@@ -186,9 +186,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 47% | 100% | Last Result |
-| 2 | 53% | 53% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 1 | 40% | 100% | Last Result |
+| 2 | 59% | 60% | Median |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 ### Kommunistische Partei Österreichs (GUE/NGL)
@@ -197,8 +197,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Last Result, Median |
-| 1 | 32% | 32% |  |
+| 0 | 67% | 100% | Last Result, Median |
+| 1 | 33% | 33% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -213,6 +213,6 @@
 ### Calculations
 
 + **Sample size:** 506
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.34%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.03%
 
