@@ -6,20 +6,60 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:46 +0100</pubDate>
     <item>
+      <title>Opinion Poll by OGM for KURIER, 12–15 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-15-OGM.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by OGM for KURIER, 12–15 October 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-15-OGM.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-15-OGM.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-15-OGM.png" length="241081" type="image/png"/>
+      <pubDate>Mon, 18 Oct 2021 17:33:34 +0200</pubDate>
+      <dc:date>2021-10-18T17:33:34.969193+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 11–12 October 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>10 seats needed for a majority<br/>Opinion poll by Market for Der Standard, 11–12 October 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market-seating-plan.png" length="384861" type="image/png"/>
+      <pubDate>Sun, 17 Oct 2021 22:36:13 +0200</pubDate>
+      <dc:date>2021-10-17T22:36:13.354998+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 11–12 October 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>10 seats needed for a majority<br/>Opinion poll by Market for Der Standard, 11–12 October 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market-seats.png" length="204019" type="image/png"/>
+      <pubDate>Sun, 17 Oct 2021 22:36:13 +0200</pubDate>
+      <dc:date>2021-10-17T22:36:13.354998+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Market for Der Standard, 11–12 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Market for Der Standard, 11–12 October 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-12-Market.png" length="250625" type="image/png"/>
-      <pubDate>Thu, 14 Oct 2021 18:17:47 +0200</pubDate>
-      <dc:date>2021-10-14T18:17:47.746766+02:00</dc:date>
+      <pubDate>Sun, 17 Oct 2021 22:36:13 +0200</pubDate>
+      <dc:date>2021-10-17T22:36:13.354998+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IFDD, 7–11 October 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>10 seats needed for a majority<br/>Opinion poll by IFDD, 7–11 October 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD-seating-plan.png" length="375748" type="image/png"/>
+      <pubDate>Sun, 17 Oct 2021 22:59:05 +0200</pubDate>
+      <dc:date>2021-10-17T22:59:05.504355+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IFDD, 7–11 October 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>10 seats needed for a majority<br/>Opinion poll by IFDD, 7–11 October 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD-seats.png" length="175535" type="image/png"/>
+      <pubDate>Sun, 17 Oct 2021 22:59:05 +0200</pubDate>
+      <dc:date>2021-10-17T22:59:05.504355+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IFDD, 7–11 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IFDD, 7–11 October 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-11-IFDD.png" length="233882" type="image/png"/>
-      <pubDate>Thu, 14 Oct 2021 18:25:50 +0200</pubDate>
-      <dc:date>2021-10-14T18:25:50.952279+02:00</dc:date>
+      <pubDate>Sun, 17 Oct 2021 22:59:05 +0200</pubDate>
+      <dc:date>2021-10-17T22:59:05.504355+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 28–30 September 2021 – Seating Plan Projection</title>
@@ -164,54 +204,6 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-11-Market.png" length="249943" type="image/png"/>
       <pubDate>Sun, 10 Oct 2021 00:42:34 +0200</pubDate>
       <dc:date>2021-10-10T00:42:34.373769+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 3–5 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>10 seats needed for a majority<br/>Opinion poll by Research Affairs for ÖSTERREICH, 3–5 August 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs-seating-plan.png" length="395761" type="image/png"/>
-      <pubDate>Sat, 4 Sep 2021 14:14:19 +0200</pubDate>
-      <dc:date>2021-09-04T14:14:19.911989+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 3–5 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>10 seats needed for a majority<br/>Opinion poll by Research Affairs for ÖSTERREICH, 3–5 August 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs-seats.png" length="216978" type="image/png"/>
-      <pubDate>Sat, 4 Sep 2021 14:14:19 +0200</pubDate>
-      <dc:date>2021-09-04T14:14:19.911989+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 3–5 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Research Affairs for ÖSTERREICH, 3–5 August 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-ResearchAffairs.png" length="252099" type="image/png"/>
-      <pubDate>Sat, 4 Sep 2021 14:14:19 +0200</pubDate>
-      <dc:date>2021-09-04T14:14:19.911989+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for profil, 2–5 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>10 seats needed for a majority<br/>Opinion poll by Unique Research for profil, 2–5 August 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch-seating-plan.png" length="388189" type="image/png"/>
-      <pubDate>Wed, 13 Oct 2021 22:40:55 +0200</pubDate>
-      <dc:date>2021-10-13T22:40:55.674734+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for profil, 2–5 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>10 seats needed for a majority<br/>Opinion poll by Unique Research for profil, 2–5 August 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch-seats.png" length="223829" type="image/png"/>
-      <pubDate>Wed, 13 Oct 2021 22:40:55 +0200</pubDate>
-      <dc:date>2021-10-13T22:40:55.674734+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for profil, 2–5 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Unique Research for profil, 2–5 August 2021<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-08-05-UniqueResearch.png" length="245647" type="image/png"/>
-      <pubDate>Wed, 13 Oct 2021 22:40:55 +0200</pubDate>
-      <dc:date>2021-10-13T22:40:55.674734+02:00</dc:date>
     </item>
   </channel>
 </rss>
