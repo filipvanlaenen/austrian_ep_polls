@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 18 Oct 2021 17:33:34 +0200</pubDate>
+    <pubDate>Tue, 19 Oct 2021 08:05:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by OGM for KURIER, 12–15 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-15-OGM.html</link>
@@ -108,6 +108,16 @@
         type="image/png"/>
       <pubDate>Sat, 09 Oct 2021 20:15:40 +0200</pubDate>
       <dc:date>2021-10-09T20:15:40.787336+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 7–9 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-09-09-OGM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 30.8–37.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 21.2–27.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 15.5–20.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 9.0–13.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 9.9–14.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-09-09-OGM.png"
+        length="243393"
+        type="image/png"/>
+      <pubDate>Tue, 19 Oct 2021 08:05:24 +0200</pubDate>
+      <dc:date>2021-10-19T08:05:24.172645+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 30 August–1 September 2021 – Seat Projections for the Parties</title>
@@ -4999,6 +5009,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29.488213+02:00</dc:date>
     </item>
-    <dc:date>2021-10-18T17:33:34.969193+02:00</dc:date>
+    <dc:date>2021-10-19T08:05:24.172645+02:00</dc:date>
   </channel>
 </rss>
