@@ -15,7 +15,7 @@ Last result: **17.2%** (General Election of 26 May 2019)
 | [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 21.0% | 19.2–22.9% | 18.7–23.5% | 18.3–24.0% | 17.5–24.9% |
 | [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 21.0% | 19.7–22.4% | 19.3–22.8% | 19.0–23.1% | 18.4–23.8% |
 | [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.1–17.2% | 12.6–17.8% | 12.2–18.4% | 11.3–19.5% |
-| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 18.0% | N/A | N/A | N/A | N/A |
+| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 18.0% | 16.4–19.9% | 15.9–20.4% | 15.5–20.9% | 14.8–21.8% |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19.0% | 16.9–21.4% | 16.3–22.1% | 15.8–22.7% | 14.8–23.9% |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19.0% | 16.9–21.4% | 16.3–22.1% | 15.8–22.7% | 14.8–23.9% |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19.0% | 16.9–21.4% | 16.4–22.1% | 15.9–22.7% | 14.9–23.9% |
@@ -218,7 +218,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 4 | 4 | 4 | 4 | 3–5 |
 | [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
+| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–5 |

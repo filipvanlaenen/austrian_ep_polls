@@ -15,7 +15,7 @@ Last result: **8.4%** (General Election of 26 May 2019)
 | [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
 | [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.5–12.7% | 9.1–13.2% |
 | [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.1% | 7.6–10.9% | 7.2–11.5% | 6.9–11.9% | 6.2–12.9% |
-| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 10.9% | N/A | N/A | N/A | N/A |
+| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 10.9% | 9.6–12.5% | 9.3–12.9% | 9.0–13.3% | 8.4–14.1% |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.6–14.1% | 7.8–15.1% |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12.0% | 10.3–14.1% | 9.8–14.6% | 9.4–15.2% | 8.7–16.2% |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.9% | 9.3–12.9% | 8.9–13.5% | 8.5–13.9% | 7.8–15.0% |
@@ -215,7 +215,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 2 | 2 | 2 | 2 | 1–2 |
 | [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
+| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 2 | 2 | 2 | 1–2 | 1–3 |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2 | 2 | 1–2 | 1–3 | 1–3 |

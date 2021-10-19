@@ -15,7 +15,7 @@ Last result: **34.6%** (General Election of 26 May 2019)
 | [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 27.0% | 25.1–29.1% | 24.5–29.7% | 24.0–30.2% | 23.1–31.2% |
 | [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 26.0% | 24.6–27.5% | 24.2–27.9% | 23.9–28.3% | 23.2–29.0% |
 | [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 31.4–36.8% | 30.6–37.6% | 30.0–38.2% | 28.8–39.6% |
-| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 34.0% | N/A | N/A | N/A | N/A |
+| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.3% | 29.8–38.4% |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | 32.3–37.8% | 31.6–38.6% | 30.9–39.3% | 29.7–40.6% |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 31.4–36.8% | 30.6–37.6% | 30.0–38.3% | 28.7–39.6% |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33.9% | 31.3–36.7% | 30.6–37.5% | 29.9–38.2% | 28.7–39.5% |
@@ -222,7 +222,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 5 | 5 | 5 | 5–6 | 5–6 |
 | [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
+| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
