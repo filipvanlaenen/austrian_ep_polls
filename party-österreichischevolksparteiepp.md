@@ -222,7 +222,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 5 | 5 | 5 | 5–6 | 5–6 |
 | [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
