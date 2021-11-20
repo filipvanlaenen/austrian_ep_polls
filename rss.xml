@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 27 Jul 2021 12:21:32 +0200</pubDate>
+    <pubDate>Sat, 20 Nov 2021 17:52:06 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 12–15 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-15-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-15-OGM-seats.png"
+        length="186892"
+        type="image/png"/>
+      <pubDate>Sat, 20 Nov 2021 17:52:06 +0100</pubDate>
+      <dc:date>2021-11-20T17:52:06.333491+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 12–15 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-15-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-15-OGM-coalitions-seats.png"
+        length="138967"
+        type="image/png"/>
+      <pubDate>Sat, 20 Nov 2021 17:52:06 +0100</pubDate>
+      <dc:date>2021-11-20T17:52:06.333491+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 12–15 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-15-OGM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 23.5–28.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 21.6–26.6%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (ID): 18.8–23.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 10.2–14.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 10.2–14.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2021-10-15-OGM.png"
+        length="241065"
+        type="image/png"/>
+      <pubDate>Sat, 20 Nov 2021 17:52:06 +0100</pubDate>
+      <dc:date>2021-11-20T17:52:06.333491+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 20–22 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2021-07-22-ResearchAffairs.html#seats</link>
@@ -4659,6 +4689,6 @@
       <pubDate>Tue, 09 Jun 2020 22:52:29 +0200</pubDate>
       <dc:date>2020-06-09T22:52:29+02:00</dc:date>
     </item>
-    <dc:date>2021-07-27T12:21:32+02:00</dc:date>
+    <dc:date>2021-11-20T17:52:06.333491+01:00</dc:date>
   </channel>
 </rss>
