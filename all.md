@@ -5,7 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [23–25 November 2021](2021-11-25-OGM.html) | OGM <br> KURIER | 20–26% <br> 4–5 | 23–29% <br> 5–6 | 18–24% <br> 4–5 | 10–14% <br> 2–3 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–18 November 2021](2021-11-18-UniqueResearch.html) | Unique Research <br> profil | 21–27% <br> 4–6 | 22–28% <br> 4–6 | 17–23% <br> 3–5 | 11–16% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–11 November 2021](2021-11-11-UniqueResearch.html) | Unique Research <br> Heute | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–21 October 2021](2021-10-21-PeterHajek.html) | Peter Hajek <br> APA and ATV | 20–26% <br> 4–5 | 20–26% <br> 4–5 | 17–23% <br> 3–5 | 14–19% <br> 3–4 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–15 October 2021](2021-10-15-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | 24–29% <br> 5–6 | 22–27% <br> 4–5 | 19–23% <br> 4–5 | 10–14% <br> 2–3 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
