@@ -10,7 +10,9 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.6% | 21.9–27.5% | 21.3–28.3% | 20.8–28.9% | 19.9–30.2% |
+| N/A | [Poll Average](average.html) | 23.5% | 21.4–25.7% | 20.9–26.3% | 20.4–26.8% | 19.4–27.9% |
+| [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 24.2% | 22.4–26.3% | 21.9–26.8% | 21.4–27.3% | 20.5–28.3% |
+| [6–9 December 2021](2021-12-09-IFDD.html) | IFDD <br> PULS 24 | 23.0% | 20.8–25.4% | 20.2–26.1% | 19.7–26.7% | 18.7–27.9% |
 | [23–25 November 2021](2021-11-25-OGM.html) | OGM <br> KURIER | 23.1% | 21.3–25.0% | 20.8–25.6% | 20.3–26.0% | 19.5–27.0% |
 | [15–18 November 2021](2021-11-18-UniqueResearch.html) | Unique Research <br> profil | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [8–11 November 2021](2021-11-11-UniqueResearch.html) | Unique Research <br> Heute | 24.0% | N/A | N/A | N/A | N/A |
@@ -191,21 +193,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.3% | 100% |  |
-| 19.5–20.5% | 1.4% | 99.7% |  |
-| 20.5–21.5% | 5% | 98% |  |
-| 21.5–22.5% | 11% | 93% |  |
-| 22.5–23.5% | 15% | 82% |  |
-| 23.5–24.5% | 16% | 67% |  |
-| 24.5–25.5% | 16% | 51% | Median |
-| 25.5–26.5% | 15% | 35% |  |
-| 26.5–27.5% | 11% | 20% |  |
-| 27.5–28.5% | 6% | 10% |  |
-| 28.5–29.5% | 3% | 4% |  |
-| 29.5–30.5% | 0.9% | 1.2% |  |
-| 30.5–31.5% | 0.2% | 0.3% |  |
-| 31.5–32.5% | 0% | 0.1% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 0.6% | 99.9% |  |
+| 19.5–20.5% | 3% | 99.3% |  |
+| 20.5–21.5% | 8% | 97% |  |
+| 21.5–22.5% | 17% | 89% |  |
+| 22.5–23.5% | 23% | 72% |  |
+| 23.5–24.5% | 23% | 49% | Median |
+| 24.5–25.5% | 15% | 27% |  |
+| 25.5–26.5% | 8% | 11% |  |
+| 26.5–27.5% | 3% | 4% |  |
+| 27.5–28.5% | 0.7% | 0.8% |  |
+| 28.5–29.5% | 0.1% | 0.2% |  |
+| 29.5–30.5% | 0% | 0% |  |
+| 30.5–31.5% | 0% | 0% |  |
+| 31.5–32.5% | 0% | 0% |  |
 | 32.5–33.5% | 0% | 0% |  |
 | 33.5–34.5% | 0% | 0% |  |
 | 34.5–35.5% | 0% | 0% | Last Result |
@@ -219,7 +222,9 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [6–9 December 2021](2021-12-09-IFDD.html) | IFDD <br> PULS 24 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [23–25 November 2021](2021-11-25-OGM.html) | OGM <br> KURIER | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–18 November 2021](2021-11-18-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [8–11 November 2021](2021-11-11-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
@@ -402,10 +407,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 17% | 100% |  |
-| 5 | 71% | 83% | Median |
-| 6 | 12% | 12% |  |
-| 7 | 0.1% | 0.1% | Last Result |
-| 8 | 0% | 0% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 28% | 99.9% |  |
+| 5 | 69% | 71% | Median |
+| 6 | 2% | 2% |  |
+| 7 | 0% | 0% | Last Result |
 
 
