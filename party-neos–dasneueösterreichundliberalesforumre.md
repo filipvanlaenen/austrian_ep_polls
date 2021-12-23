@@ -10,8 +10,10 @@ Last result: **8.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.5% | 9.7–13.3% | 9.2–13.8% | 8.8–14.3% | 8.1–15.2% |
-| [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 11.1% | 9.8–12.7% | 9.4–13.1% | 9.1–13.5% | 8.5–14.3% |
+| N/A | [Poll Average](average.html) | 11.7% | 10.1–13.4% | 9.7–14.0% | 9.4–14.4% | 8.7–15.4% |
+| [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 10.0% | N/A | N/A | N/A | N/A |
+| [6–9 December 2021](2021-12-09-UniqueResearch.html) | Unique Research <br> profil | 9.0% | N/A | N/A | N/A | N/A |
+| [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [6–9 December 2021](2021-12-09-IFDD.html) | IFDD <br> PULS 24 | 12.0% | 10.3–13.9% | 9.9–14.4% | 9.5–14.9% | 8.8–15.9% |
 | [23–25 November 2021](2021-11-25-OGM.html) | OGM <br> KURIER | 11.9% | 10.6–13.5% | 10.2–13.9% | 9.9–14.3% | 9.3–15.1% |
 | [15–18 November 2021](2021-11-18-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
@@ -193,18 +195,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 1.4% | 99.9% | Last Result |
-| 8.5–9.5% | 7% | 98% |  |
-| 9.5–10.5% | 17% | 92% |  |
-| 10.5–11.5% | 26% | 75% |  |
-| 11.5–12.5% | 26% | 49% | Median |
-| 12.5–13.5% | 16% | 23% |  |
-| 13.5–14.5% | 6% | 7% |  |
-| 14.5–15.5% | 1.4% | 2% |  |
-| 15.5–16.5% | 0.2% | 0.3% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.3% | 100% | Last Result |
+| 8.5–9.5% | 3% | 99.7% |  |
+| 9.5–10.5% | 14% | 96% |  |
+| 10.5–11.5% | 28% | 82% |  |
+| 11.5–12.5% | 28% | 54% | Median |
+| 12.5–13.5% | 17% | 26% |  |
+| 13.5–14.5% | 7% | 9% |  |
+| 14.5–15.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.3% | 0.4% |  |
+| 16.5–17.5% | 0% | 0.1% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -215,7 +217,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV |  |  |  |  |  |
+| [6–9 December 2021](2021-12-09-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 2–3 | 1–3 |
 | [6–9 December 2021](2021-12-09-IFDD.html) | IFDD <br> PULS 24 | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [23–25 November 2021](2021-11-25-OGM.html) | OGM <br> KURIER | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -400,8 +404,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% | Last Result |
-| 2 | 89% | 96% | Median |
+| 1 | 1.3% | 100% | Last Result |
+| 2 | 92% | 98.7% | Median |
 | 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
