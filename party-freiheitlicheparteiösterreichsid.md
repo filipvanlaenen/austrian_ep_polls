@@ -10,9 +10,9 @@ Last result: **17.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.1% | 18.8–23.3% | 18.1–23.9% | 17.6–24.4% | 16.5–25.4% |
-| [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 17.0% | N/A | N/A | N/A | N/A |
-| [6–9 December 2021](2021-12-09-UniqueResearch.html) | Unique Research <br> profil | 17.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 19.5% | 16.1–22.7% | 15.6–23.4% | 15.1–24.0% | 14.2–25.1% |
+| [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.6–19.8% | 13.8–20.7% |
+| [6–9 December 2021](2021-12-09-UniqueResearch.html) | Unique Research <br> profil | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.6–19.8% | 13.8–20.7% |
 | [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [6–9 December 2021](2021-12-09-IFDD.html) | IFDD <br> PULS 24 | 19.9% | 17.9–22.2% | 17.3–22.9% | 16.8–23.5% | 15.9–24.6% |
 | [23–25 November 2021](2021-11-25-OGM.html) | OGM <br> KURIER | 21.0% | 19.3–22.9% | 18.8–23.5% | 18.4–23.9% | 17.6–24.9% |
@@ -195,21 +195,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.5% | 99.9% |  |
-| 16.5–17.5% | 2% | 99.4% | Last Result |
-| 17.5–18.5% | 5% | 98% |  |
-| 18.5–19.5% | 11% | 92% |  |
-| 19.5–20.5% | 18% | 81% |  |
-| 20.5–21.5% | 23% | 62% | Median |
-| 21.5–22.5% | 20% | 40% |  |
-| 22.5–23.5% | 12% | 20% |  |
-| 23.5–24.5% | 5% | 7% |  |
-| 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.4% | 0.4% |  |
-| 26.5–27.5% | 0.1% | 0.1% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.1% | 100% |  |
+| 13.5–14.5% | 0.9% | 99.9% |  |
+| 14.5–15.5% | 4% | 99.0% |  |
+| 15.5–16.5% | 9% | 95% |  |
+| 16.5–17.5% | 13% | 86% | Last Result |
+| 17.5–18.5% | 12% | 73% |  |
+| 18.5–19.5% | 11% | 61% |  |
+| 19.5–20.5% | 12% | 50% | Median |
+| 20.5–21.5% | 14% | 38% |  |
+| 21.5–22.5% | 12% | 24% |  |
+| 22.5–23.5% | 7% | 12% |  |
+| 23.5–24.5% | 3% | 4% |  |
+| 24.5–25.5% | 1.0% | 1.2% |  |
+| 25.5–26.5% | 0.2% | 0.3% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -220,9 +221,9 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV |  |  |  |  |  |
-| [6–9 December 2021](2021-12-09-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [6–9 December 2021](2021-12-09-UniqueResearch.html) | Unique Research <br> profil | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [6–9 December 2021](2021-12-09-IFDD.html) | IFDD <br> PULS 24 | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [23–25 November 2021](2021-11-25-OGM.html) | OGM <br> KURIER | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -407,9 +408,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 6% | 100% | Last Result |
-| 4 | 75% | 94% | Median |
-| 5 | 20% | 20% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 32% | 99.9% | Last Result |
+| 4 | 56% | 68% | Median |
+| 5 | 12% | 12% |  |
 | 6 | 0% | 0% |  |
 
 
