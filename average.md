@@ -10,9 +10,9 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 21–30% <br> 4–6 | 23–30% <br> 5–6 | 15–24% <br> 3–5 | 10–16% <br> 2–3 | 8–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 21–27% <br> 4–6 | 23–29% <br> 5–6 | 18–24% <br> 4–5 | 10–14% <br> 2–3 | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 24–30% <br> 5–6 | 22–28% <br> 4–6 | 15–20% <br> 3–4 | 12–17% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 December 2021](2021-12-09-UniqueResearch.html) | Unique Research <br> profil | 24–30% <br> 5–6 | 24–30% <br> 5–6 | 15–20% <br> 3–4 | 9–13% <br> 1–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 21–27% <br> 4–6 | 23–29% <br> 5–6 | 19–25% <br> 4–5 | 10–14% <br> 2–3 | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 December 2021](2021-12-09-IFDD.html) | IFDD <br> PULS 24 | 20–27% <br> 4–5 | 23–30% <br> 4–6 | 17–23% <br> 3–5 | 10–15% <br> 2–3 | 10–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–25 November 2021](2021-11-25-OGM.html) | OGM <br> KURIER | 20–26% <br> 4–5 | 23–29% <br> 5–6 | 18–24% <br> 4–5 | 10–14% <br> 2–3 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -43,7 +43,7 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 34.6% | 24.7% | 21.8–28.1% |21.2–28.9% | 20.6–29.5% | 19.5–30.6% |
 | <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 23.9% | 26.1% | 23.9–28.3% |23.3–29.0% | 22.8–29.5% | 21.8–30.7% |
-| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 17.2% | 19.5% | 16.1–22.7% |15.6–23.4% | 15.1–24.0% | 14.2–25.1% |
+| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 17.2% | 19.4% | 16.1–22.3% |15.6–22.9% | 15.1–23.5% | 14.2–24.5% |
 | <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 14.1% | 12.2% | 10.4–14.4% |9.9–15.1% | 9.6–15.6% | 8.9–16.6% |
 | <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 8.4% | 10.9% | 8.8–13.0% |8.3–13.6% | 7.9–14.1% | 7.2–15.1% |
 | <a href="#jetzt–liste-pilz-(greens/efa)">JETZT–Liste Pilz (Greens/EFA)</a> | 1.0% | N/A | N/A |N/A | N/A | N/A |
