@@ -11,6 +11,7 @@ Last result: **34.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.7% | 21.8–28.1% | 21.2–28.9% | 20.6–29.5% | 19.5–30.6% |
+| [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 27.0% | 25.1–29.1% | 24.5–29.7% | 24.0–30.2% | 23.1–31.2% |
 | [6–9 December 2021](2021-12-09-UniqueResearch.html) | Unique Research <br> profil | 27.0% | 25.1–29.1% | 24.5–29.7% | 24.0–30.2% | 23.1–31.2% |
 | [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
@@ -225,6 +226,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [6–9 December 2021](2021-12-09-UniqueResearch.html) | Unique Research <br> profil | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -412,8 +414,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 20% | 99.9% |  |
-| 5 | 55% | 80% | Median |
+| 4 | 19% | 99.9% |  |
+| 5 | 56% | 81% | Median |
 | 6 | 25% | 25% |  |
 | 7 | 0.5% | 0.5% | Last Result |
 | 8 | 0% | 0% |  |
