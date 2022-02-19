@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 21–29% <br> 4–6 | 22–29% <br> 4–6 | 16–24% <br> 3–5 | 9–16% <br> 2–3 | 9–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [10–13 January 2022](2022-01-13-UniqueResearch.html) | Unique Research <br> profil | 21–29% <br> 4–6 | 21–29% <br> 4–6 | 17–24% <br> 3–5 | 9–14% <br> 1–3 | 9–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 20–29% <br> 4–6 | 22–29% <br> 4–6 | 15–24% <br> 3–5 | 10–16% <br> 2–3 | 8–14% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 21–27% <br> 4–6 | 22–28% <br> 4–6 | 15–21% <br> 3–4 | 11–16% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 21–27% <br> 4–6 | 23–29% <br> 5–6 | 18–24% <br> 4–5 | 10–14% <br> 2–3 | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 24–30% <br> 5–6 | 22–28% <br> 4–6 | 15–20% <br> 3–4 | 12–17% <br> 2–3 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 December 2021](2021-12-09-IFDD.html) | IFDD <br> PULS 24 | 20–27% <br> 4–5 | 23–30% <br> 4–6 | 17–23% <br> 3–5 | 10–15% <br> 2–3 | 10–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -41,11 +41,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 34.6% | 24.3% | 21.8–27.5% |21.1–28.4% | 20.6–29.1% | 19.5–30.3% |
-| <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 23.9% | 25.7% | 23.5–27.9% |22.8–28.6% | 22.3–29.2% | 21.1–30.4% |
-| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 17.2% | 20.1% | 16.9–22.5% |16.1–23.1% | 15.5–23.6% | 14.5–24.7% |
-| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 14.1% | 12.2% | 10.3–14.4% |9.8–15.1% | 9.4–15.6% | 8.5–16.6% |
-| <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 8.4% | 11.3% | 9.5–13.2% |9.0–13.7% | 8.6–14.2% | 8.0–15.2% |
+| <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 34.6% | 24.1% | 21.7–27.2% |21.1–28.2% | 20.5–28.9% | 19.5–30.2% |
+| <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 23.9% | 25.7% | 23.6–27.9% |23.0–28.5% | 22.5–29.1% | 21.5–30.3% |
+| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 17.2% | 19.5% | 16.6–22.3% |15.9–22.9% | 15.4–23.5% | 14.5–24.5% |
+| <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 14.1% | 12.6% | 10.9–14.6% |10.4–15.2% | 10.0–15.7% | 9.3–16.7% |
+| <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 8.4% | 11.0% | 9.3–13.0% |8.8–13.6% | 8.5–14.1% | 7.8–15.1% |
 | <a href="#jetzt–liste-pilz-(greens/efa)">JETZT–Liste Pilz (Greens/EFA)</a> | 1.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#meine-stimme-gilt!-(*)">Meine Stimme Gilt! (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#team-hc-strache–allianz-für-österreich-(*)">Team HC Strache–Allianz für Österreich (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |

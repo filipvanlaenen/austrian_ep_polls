@@ -10,7 +10,8 @@ Last result: **14.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.2% | 10.3–14.4% | 9.8–15.1% | 9.4–15.6% | 8.5–16.6% |
+| N/A | [Poll Average](average.html) | 12.6% | 10.9–14.6% | 10.4–15.2% | 10.0–15.7% | 9.3–16.7% |
+| [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
 | [10–13 January 2022](2022-01-13-UniqueResearch.html) | Unique Research <br> profil | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.6–14.1% | 7.8–15.1% |
 | [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 12.0% | 10.6–13.6% | 10.2–14.1% | 9.9–14.4% | 9.3–15.2% |
 | [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 14.0% | 12.5–15.7% | 12.1–16.2% | 11.8–16.6% | 11.1–17.4% |
@@ -197,16 +198,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.5% | 100% |  |
-| 8.5–9.5% | 3% | 99.4% |  |
-| 9.5–10.5% | 10% | 97% |  |
-| 10.5–11.5% | 20% | 87% |  |
-| 11.5–12.5% | 25% | 67% | Median |
-| 12.5–13.5% | 20% | 42% |  |
-| 13.5–14.5% | 12% | 21% | Last Result |
-| 14.5–15.5% | 6% | 9% |  |
-| 15.5–16.5% | 2% | 3% |  |
+| 7.5–8.5% | 0.1% | 100% |  |
+| 8.5–9.5% | 0.9% | 99.9% |  |
+| 9.5–10.5% | 5% | 99.0% |  |
+| 10.5–11.5% | 16% | 94% |  |
+| 11.5–12.5% | 25% | 77% |  |
+| 12.5–13.5% | 25% | 52% | Median |
+| 13.5–14.5% | 16% | 27% | Last Result |
+| 14.5–15.5% | 8% | 11% |  |
+| 15.5–16.5% | 3% | 3% |  |
 | 16.5–17.5% | 0.5% | 0.6% |  |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
@@ -220,7 +220,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–13 January 2022](2022-01-13-UniqueResearch.html) | Unique Research <br> profil | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -409,9 +410,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 75% | 98% | Last Result, Median |
-| 3 | 23% | 23% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 69% | 99.6% | Last Result, Median |
+| 3 | 30% | 30% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
