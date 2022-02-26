@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-02-19T11:13:43.436255+01:00</updated>
+  <updated>2022-02-26T11:10:15.537594+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 21.2–27.1%, 4–6 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 24.1–30.2%, 5–6 seats</li><li>Freiheitliche Partei Österreichs (ID): 17.4–23.0%, 3–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 9.9–14.4%, 2–3 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 9.0–13.3%, 1–2 seats</li><li>MFG–Österreich Menschen–Freiheit–Grundrechte (*): 3.7–6.7%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2022-02-22-Market.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2022-02-22-Market.html"/>
+    <title>Opinion Poll by Market for Der Standard, 18–22 February 2022</title>
+    <updated>2022-02-26T11:10:15.537594+01:00</updated>
+    <dc:date>2022-02-26T11:10:15.537594+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 21.2–27.1%, 4–6 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 22.1–28.1%, 4–6 seats</li><li>Freiheitliche Partei Österreichs (ID): 15.5–20.8%, 3–4 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 8.1–12.3%, 1–2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 10.8–15.5%, 2–3 seats</li><li>MFG–Österreich Menschen–Freiheit–Grundrechte (*): 5.4–9.0%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2022-02-10-UniqueResearch.html</id>
@@ -1367,5 +1375,5 @@
     <updated>2020-06-09T22:52:29+02:00</updated>
     <dc:date>2020-06-09T22:52:29+02:00</dc:date>
   </entry>
-  <dc:date>2022-02-19T11:13:43.436255+01:00</dc:date>
+  <dc:date>2022-02-26T11:10:15.537594+01:00</dc:date>
 </feed>
