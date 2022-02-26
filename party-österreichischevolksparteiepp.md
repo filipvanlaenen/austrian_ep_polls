@@ -10,7 +10,8 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.1% | 21.7–27.2% | 21.1–28.2% | 20.5–28.9% | 19.5–30.2% |
+| N/A | [Poll Average](average.html) | 24.1% | 21.7–27.3% | 21.1–28.2% | 20.6–28.9% | 19.5–30.2% |
+| [18–22 February 2022](2022-02-22-Market.html) | Market <br> Der Standard | 24.0% | 22.2–26.0% | 21.7–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [10–13 January 2022](2022-01-13-UniqueResearch.html) | Unique Research <br> profil | 25.0% | 22.6–27.6% | 22.0–28.3% | 21.4–29.0% | 20.3–30.3% |
 | [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
@@ -202,10 +203,10 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0.1% | 100% |  |
 | 18.5–19.5% | 0.5% | 99.9% |  |
 | 19.5–20.5% | 2% | 99.4% |  |
-| 20.5–21.5% | 6% | 97% |  |
+| 20.5–21.5% | 6% | 98% |  |
 | 21.5–22.5% | 13% | 92% |  |
 | 22.5–23.5% | 18% | 79% |  |
-| 23.5–24.5% | 19% | 60% | Median |
+| 23.5–24.5% | 19% | 61% | Median |
 | 24.5–25.5% | 15% | 41% |  |
 | 25.5–26.5% | 11% | 26% |  |
 | 26.5–27.5% | 7% | 15% |  |
@@ -228,6 +229,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [18–22 February 2022](2022-02-22-Market.html) | Market <br> Der Standard | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [10–13 January 2022](2022-01-13-UniqueResearch.html) | Unique Research <br> profil | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -418,9 +420,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 22% | 99.9% |  |
-| 5 | 63% | 78% | Median |
-| 6 | 15% | 15% |  |
+| 4 | 24% | 99.9% |  |
+| 5 | 62% | 76% | Median |
+| 6 | 14% | 14% |  |
 | 7 | 0.3% | 0.3% | Last Result |
 | 8 | 0% | 0% |  |
 
