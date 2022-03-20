@@ -10,7 +10,9 @@ Last result: **14.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.4% | 10.4–14.6% | 10.0–15.2% | 9.6–15.7% | 8.8–16.7% |
+| N/A | [Poll Average](average.html) | 11.1% | 9.7–12.5% | 9.3–13.0% | 9.0–13.3% | 8.4–14.1% |
+| [3–10 March 2022](2022-03-10-UniqueResearch.html) | Unique Research <br> profil | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
+| [21–24 February 2022](2022-02-24-PeterHajek.html) | Peter Hajek <br> APA and ATV | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [18–22 February 2022](2022-02-22-Market.html) | Market <br> Der Standard | 11.0% | 9.6–12.5% | 9.3–12.9% | 9.0–13.3% | 8.4–14.1% |
 | [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
 | [10–13 January 2022](2022-01-13-UniqueResearch.html) | Unique Research <br> profil | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.6–14.1% | 7.8–15.1% |
@@ -75,6 +77,7 @@ Last result: **14.1%** (General Election of 26 May 2019)
 | [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [1–4 March 2021](2021-03-04-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [2–4 March 2021](2021-03-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | 7.6–10.9% | 7.2–11.4% | 6.8–11.8% | 6.2–12.8% |
+| [21 February–3 March 2021](2021-03-03-IFDD.html) | IFDD <br> Kronen Zeitung | 9.0% | N/A | N/A | N/A | N/A |
 | [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8.1% | 6.7–9.8% | 6.3–10.3% | 6.0–10.8% | 5.4–11.7% |
 | [15–17 February 2021](2021-02-17-Market.html) | Market <br> Der Standard | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
@@ -200,18 +203,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 2% | 99.8% |  |
-| 9.5–10.5% | 9% | 98% |  |
-| 10.5–11.5% | 19% | 89% |  |
-| 11.5–12.5% | 23% | 70% | Median |
-| 12.5–13.5% | 22% | 47% |  |
-| 13.5–14.5% | 15% | 25% | Last Result |
-| 14.5–15.5% | 7% | 10% |  |
-| 15.5–16.5% | 2% | 3% |  |
-| 16.5–17.5% | 0.5% | 0.6% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.7% | 100% |  |
+| 8.5–9.5% | 7% | 99.3% |  |
+| 9.5–10.5% | 24% | 92% |  |
+| 10.5–11.5% | 35% | 68% | Median |
+| 11.5–12.5% | 23% | 33% |  |
+| 12.5–13.5% | 8% | 10% |  |
+| 13.5–14.5% | 1.5% | 2% | Last Result |
+| 14.5–15.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -222,7 +222,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–3 |
+| [3–10 March 2022](2022-03-10-UniqueResearch.html) | Unique Research <br> profil | 2 | 2 | 2 | 1–2 | 1–3 |
+| [21–24 February 2022](2022-02-24-PeterHajek.html) | Peter Hajek <br> APA and ATV | 2 | 2 | 2 | 2–3 | 1–3 |
 | [18–22 February 2022](2022-02-22-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 1–2 | 1–3 |
 | [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–13 January 2022](2022-01-13-UniqueResearch.html) | Unique Research <br> profil | 2 | 2 | 1–2 | 1–3 | 1–3 |
@@ -287,6 +289,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–4 March 2021](2021-03-04-UniqueResearch.html) | Unique Research <br> profil | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–4 March 2021](2021-03-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21 February–3 March 2021](2021-03-03-IFDD.html) | IFDD <br> Kronen Zeitung |  |  |  |  |  |
 | [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–17 February 2021](2021-02-17-Market.html) | Market <br> Der Standard | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -413,10 +416,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.1% | 100% |  |
-| 2 | 71% | 98.9% | Last Result, Median |
-| 3 | 28% | 28% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 1 | 3% | 100% |  |
+| 2 | 95% | 97% | Last Result, Median |
+| 3 | 2% | 2% |  |
+| 4 | 0% | 0% |  |
 
 
