@@ -10,7 +10,9 @@ Last result: **8.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.5% | 8.7–12.3% | 8.2–12.9% | 7.9–13.5% | 7.2–14.4% |
+| N/A | [Poll Average](average.html) | 10.4% | 8.7–12.5% | 8.2–12.9% | 7.9–13.3% | 7.2–13.9% |
+| [9–12 May 2022](2022-05-12-UniqueResearch.html) | Unique Research <br> profil | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
+| [9–11 May 2022](2022-05-11-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 12.2% | 11.4–13.2% | 11.1–13.5% | 10.9–13.8% | 10.5–14.3% |
 | [29 April–5 May 2022](2022-05-05-OGM.html) | OGM <br> KURIER | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [25 April–5 May 2022](2022-05-05-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [25–28 April 2022](2022-04-28-PeterHajek.html) | Peter Hajek <br> APA and ATV | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
@@ -213,15 +215,14 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0.1% | 100% |  |
 | 6.5–7.5% | 1.2% | 99.9% |  |
 | 7.5–8.5% | 7% | 98.7% | Last Result |
-| 8.5–9.5% | 18% | 92% |  |
-| 9.5–10.5% | 26% | 74% | Median |
-| 10.5–11.5% | 26% | 48% |  |
-| 11.5–12.5% | 14% | 21% |  |
-| 12.5–13.5% | 5% | 8% |  |
-| 13.5–14.5% | 2% | 2% |  |
-| 14.5–15.5% | 0.4% | 0.4% |  |
+| 8.5–9.5% | 19% | 92% |  |
+| 9.5–10.5% | 25% | 73% | Median |
+| 10.5–11.5% | 21% | 48% |  |
+| 11.5–12.5% | 17% | 27% |  |
+| 12.5–13.5% | 8% | 10% |  |
+| 13.5–14.5% | 1.2% | 1.3% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
-| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -233,6 +234,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [9–12 May 2022](2022-05-12-UniqueResearch.html) | Unique Research <br> profil | 2 | 2 | 2 | 2 | 1–3 |
+| [9–11 May 2022](2022-05-11-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 2 | 2 | 2 | 2–3 | 2–3 |
 | [29 April–5 May 2022](2022-05-05-OGM.html) | OGM <br> KURIER | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25 April–5 May 2022](2022-05-05-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 2 |
 | [25–28 April 2022](2022-04-28-PeterHajek.html) | Peter Hajek <br> APA and ATV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -434,8 +437,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 14% | 100% | Last Result |
-| 2 | 84% | 86% | Median |
+| 1 | 15% | 100% | Last Result |
+| 2 | 84% | 85% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
