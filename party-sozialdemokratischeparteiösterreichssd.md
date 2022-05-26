@@ -10,7 +10,8 @@ Last result: **23.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.0% | 24.8–29.0% | 24.2–29.6% | 23.6–30.1% | 22.6–31.1% |
+| N/A | [Poll Average](average.html) | 27.3% | 24.8–29.6% | 24.2–30.1% | 23.6–30.6% | 22.6–31.4% |
+| [16–19 May 2022](2022-05-19-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 29.0% | 27.7–30.3% | 27.4–30.7% | 27.1–31.0% | 26.4–31.7% |
 | [9–12 May 2022](2022-05-12-UniqueResearch.html) | Unique Research <br> profil | 27.0% | 25.1–29.1% | 24.5–29.7% | 24.0–30.2% | 23.1–31.2% |
 | [9–11 May 2022](2022-05-11-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 27.6% | 26.3–28.9% | 25.9–29.2% | 25.6–29.6% | 25.0–30.2% |
 | [29 April–5 May 2022](2022-05-05-OGM.html) | OGM <br> KURIER | 26.0% | 24.1–28.1% | 23.5–28.7% | 23.1–29.2% | 22.2–30.2% |
@@ -216,14 +217,14 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0.4% | 99.9% |  |
 | 22.5–23.5% | 2% | 99.6% |  |
 | 23.5–24.5% | 6% | 98% | Last Result |
-| 24.5–25.5% | 12% | 92% |  |
-| 25.5–26.5% | 19% | 81% |  |
-| 26.5–27.5% | 25% | 61% | Median |
-| 27.5–28.5% | 21% | 37% |  |
-| 28.5–29.5% | 11% | 16% |  |
-| 29.5–30.5% | 4% | 5% |  |
-| 30.5–31.5% | 1.0% | 1.2% |  |
-| 31.5–32.5% | 0.2% | 0.2% |  |
+| 24.5–25.5% | 11% | 92% |  |
+| 25.5–26.5% | 17% | 81% |  |
+| 26.5–27.5% | 19% | 64% | Median |
+| 27.5–28.5% | 19% | 45% |  |
+| 28.5–29.5% | 16% | 26% |  |
+| 29.5–30.5% | 8% | 11% |  |
+| 30.5–31.5% | 2% | 3% |  |
+| 31.5–32.5% | 0.3% | 0.4% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -235,7 +236,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [16–19 May 2022](2022-05-19-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [9–12 May 2022](2022-05-12-UniqueResearch.html) | Unique Research <br> profil | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [9–11 May 2022](2022-05-11-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [29 April–5 May 2022](2022-05-05-OGM.html) | OGM <br> KURIER | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -440,9 +442,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.5% | 100% |  |
-| 5 | 50% | 99.5% | Last Result, Median |
-| 6 | 49% | 49% |  |
-| 7 | 0.4% | 0.4% |  |
+| 5 | 44% | 99.5% | Last Result |
+| 6 | 54% | 55% | Median |
+| 7 | 0.7% | 0.7% |  |
 | 8 | 0% | 0% |  |
 
 
