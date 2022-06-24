@@ -10,7 +10,12 @@ Last result: **23.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.4% | 24.8–32.0% | 24.2–32.7% | 23.6–33.2% | 22.6–34.1% |
+| N/A | [Poll Average](average.html) | 26.0% | 24.1–28.1% | 23.5–28.6% | 23.1–29.1% | 22.2–30.2% |
+| [20–23 June 2022](2022-06-23-UniqueResearch.html) | Unique Research <br> Heute | 31.0% | N/A | N/A | N/A | N/A |
+| [13–21 June 2022](2022-06-21-Market.html) | Market <br> ÖSTERREICH | 31.0% | N/A | N/A | N/A | N/A |
+| [7–14 June 2022](2022-06-14-Market.html) | Market <br> ÖSTERREICH | 31.0% | N/A | N/A | N/A | N/A |
+| [7–11 June 2022](2022-06-11-IFDD.html) | IFDD <br> Kronen Zeitung | 31.0% | N/A | N/A | N/A | N/A |
+| [7–9 June 2022](2022-06-09-UniqueResearch.html) | Unique Research <br> profil | 27.0% | N/A | N/A | N/A | N/A |
 | [7–8 June 2022](2022-06-08-Market.html) | Market <br> ÖSTERREICH | 32.0% | 30.7–33.4% | 30.3–33.7% | 30.0–34.1% | 29.4–34.7% |
 | [30 May–1 June 2022](2022-06-01-Market.html) | Market <br> ÖSTERREICH | 30.0% | N/A | N/A | N/A | N/A |
 | [23–25 May 2022](2022-05-25-Market.html) | Market <br> Der Standard | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
@@ -217,22 +222,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.4% | 99.9% |  |
-| 22.5–23.5% | 2% | 99.6% |  |
-| 23.5–24.5% | 6% | 98% | Last Result |
-| 24.5–25.5% | 11% | 92% |  |
-| 25.5–26.5% | 17% | 81% |  |
-| 26.5–27.5% | 18% | 64% | Median |
-| 27.5–28.5% | 14% | 47% |  |
-| 28.5–29.5% | 8% | 33% |  |
-| 29.5–30.5% | 5% | 24% |  |
-| 30.5–31.5% | 6% | 20% |  |
-| 31.5–32.5% | 8% | 14% |  |
-| 32.5–33.5% | 5% | 6% |  |
-| 33.5–34.5% | 1.3% | 1.4% |  |
-| 34.5–35.5% | 0.2% | 0.2% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.9% | 99.9% |  |
+| 22.5–23.5% | 4% | 99.0% |  |
+| 23.5–24.5% | 12% | 95% | Last Result |
+| 24.5–25.5% | 21% | 83% |  |
+| 25.5–26.5% | 25% | 63% | Median |
+| 26.5–27.5% | 20% | 37% |  |
+| 27.5–28.5% | 11% | 17% |  |
+| 28.5–29.5% | 4% | 6% |  |
+| 29.5–30.5% | 1.1% | 1.4% |  |
+| 30.5–31.5% | 0.2% | 0.2% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -243,7 +245,12 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [20–23 June 2022](2022-06-23-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
+| [13–21 June 2022](2022-06-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [7–14 June 2022](2022-06-14-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [7–11 June 2022](2022-06-11-IFDD.html) | IFDD <br> Kronen Zeitung |  |  |  |  |  |
+| [7–9 June 2022](2022-06-09-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [7–8 June 2022](2022-06-08-Market.html) | Market <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [30 May–1 June 2022](2022-06-01-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [23–25 May 2022](2022-05-25-Market.html) | Market <br> Der Standard | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -452,10 +459,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.5% | 100% |  |
-| 5 | 43% | 99.5% | Last Result |
-| 6 | 43% | 57% | Median |
-| 7 | 13% | 13% |  |
+| 4 | 1.1% | 100% |  |
+| 5 | 66% | 98.9% | Last Result, Median |
+| 6 | 32% | 33% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
 
