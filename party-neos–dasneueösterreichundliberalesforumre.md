@@ -10,10 +10,17 @@ Last result: **8.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 8.8–12.0% | 8.3–12.4% | 7.9–12.7% | 7.2–13.5% |
+| N/A | [Poll Average](average.html) | 11.1% | 9.6–12.5% | 9.2–12.9% | 8.8–13.2% | 8.1–13.8% |
+| [11–13 July 2022](2022-07-13-Market.html) | Market <br> ÖSTERREICH | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
+| [4–6 July 2022](2022-07-06-Market.html) | Market <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
+| [30 June–3 July 2022](2022-07-03-IFDD.html) | IFDD <br> PULS 24 | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
+| [27–30 June 2022](2022-06-30-PeterHajek.html) | Peter Hajek <br> APA and ATV | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
+| [27–28 June 2022](2022-06-28-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [20–23 June 2022](2022-06-23-UniqueResearch.html) | Unique Research <br> Heute | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
+| [20–23 June 2022](2022-06-23-OGM.html) | OGM <br> KURIER | 11.0% | 9.9–12.4% | 9.5–12.8% | 9.3–13.1% | 8.7–13.8% |
 | [13–21 June 2022](2022-06-21-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [7–14 June 2022](2022-06-14-Market.html) | Market <br> ÖSTERREICH | 12.0% | N/A | N/A | N/A | N/A |
+| [10–14 June 2022](2022-06-14-INSA.html) | INSA <br> eXXpress | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [7–11 June 2022](2022-06-11-IFDD.html) | IFDD <br> Kronen Zeitung | 11.0% | 10.0–12.3% | 9.7–12.6% | 9.4–12.9% | 8.9–13.5% |
 | [7–9 June 2022](2022-06-09-UniqueResearch.html) | Unique Research <br> profil | 10.0% | N/A | N/A | N/A | N/A |
 | [7–8 June 2022](2022-06-08-Market.html) | Market <br> ÖSTERREICH | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
@@ -222,16 +229,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 1.2% | 99.9% |  |
-| 7.5–8.5% | 6% | 98.8% | Last Result |
-| 8.5–9.5% | 15% | 92% |  |
-| 9.5–10.5% | 26% | 78% |  |
-| 10.5–11.5% | 32% | 52% | Median |
-| 11.5–12.5% | 15% | 19% |  |
-| 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 0.4% | 0.5% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 1.3% | 99.9% | Last Result |
+| 8.5–9.5% | 8% | 98.6% |  |
+| 9.5–10.5% | 22% | 91% |  |
+| 10.5–11.5% | 33% | 68% | Median |
+| 11.5–12.5% | 25% | 35% |  |
+| 12.5–13.5% | 9% | 10% |  |
+| 13.5–14.5% | 1.0% | 1.1% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -242,10 +250,17 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–3 | 1–3 |
+| [11–13 July 2022](2022-07-13-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [4–6 July 2022](2022-07-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [30 June–3 July 2022](2022-07-03-IFDD.html) | IFDD <br> PULS 24 | 2 | 2 | 2 | 2 | 1–3 |
+| [27–30 June 2022](2022-06-30-PeterHajek.html) | Peter Hajek <br> APA and ATV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27–28 June 2022](2022-06-28-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–23 June 2022](2022-06-23-UniqueResearch.html) | Unique Research <br> Heute | 2 | 2 | 2 | 1–2 | 1–3 |
+| [20–23 June 2022](2022-06-23-OGM.html) | OGM <br> KURIER | 2 | 2 | 2 | 2 | 1–3 |
 | [13–21 June 2022](2022-06-21-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 2–3 |
 | [7–14 June 2022](2022-06-14-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [10–14 June 2022](2022-06-14-INSA.html) | INSA <br> eXXpress | 2 | 2 | 2 | 2 | 1–3 |
 | [7–11 June 2022](2022-06-11-IFDD.html) | IFDD <br> Kronen Zeitung | 2 | 2 | 2 | 2 | 1–3 |
 | [7–9 June 2022](2022-06-09-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [7–8 June 2022](2022-06-08-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -456,9 +471,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 12% | 100% | Last Result |
-| 2 | 88% | 88% | Median |
-| 3 | 0.8% | 0.8% |  |
+| 1 | 4% | 100% | Last Result |
+| 2 | 94% | 96% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 
