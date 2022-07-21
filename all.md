@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [10–14 July 2022](2022-07-14-UniqueResearch.html) | Unique Research <br> profil | 19–25% <br> 4–5 | 26–32% <br> 5–7 | 18–24% <br> 4–5 | 8–12% <br> 1–2 | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–13 July 2022](2022-07-13-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4–5 | 27–31% <br> 6–7 | 20–24% <br> 4–5 | 9–11% <br> 2 | 11–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–6 July 2022](2022-07-06-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 June–3 July 2022](2022-07-03-IFDD.html) | IFDD <br> PULS 24 | 18–23% <br> 3–5 | 28–34% <br> 6–7 | 19–24% <br> 4–5 | 8–12% <br> 1–2 | 9–13% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
