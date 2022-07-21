@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-07-15T13:24:13.246327+02:00</updated>
+  <updated>2022-07-21T13:42:59.129328+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 19.3–25.0%, 4–5 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 26.0–32.3%, 5–7 seats</li><li>Freiheitliche Partei Österreichs (ID): 18.3–24.0%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 9.0–13.4%, 2–3 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 8.1–12.3%, 1–2 seats</li><li>MFG–Österreich Menschen–Freiheit–Grundrechte (*): 2.9–5.6%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2022-07-14-UniqueResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2022-07-14-UniqueResearch.html"/>
+    <title>Opinion Poll by Unique Research for profil, 10–14 July 2022</title>
+    <updated>2022-07-21T13:42:59.129328+02:00</updated>
+    <dc:date>2022-07-21T13:42:59.129328+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 19.3–22.8%, 4–5 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 27.1–31.0%, 6–7 seats</li><li>Freiheitliche Partei Österreichs (ID): 20.2–23.9%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 10.6–13.5%, 2–3 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 8.7–11.4%, 2 seats</li><li>MFG–Österreich Menschen–Freiheit–Grundrechte (*): 2.3–3.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2022-07-13-Market.html</id>
@@ -1559,5 +1567,5 @@
     <updated>2020-06-09T22:52:29+02:00</updated>
     <dc:date>2020-06-09T22:52:29+02:00</dc:date>
   </entry>
-  <dc:date>2022-07-15T13:24:13.246327+02:00</dc:date>
+  <dc:date>2022-07-21T13:42:59.129328+02:00</dc:date>
 </feed>
