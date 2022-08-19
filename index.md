@@ -5,13 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–25% <br> 4–5 | 26–33% <br> 5–7 | 18–24% <br> 3–5 | 8–12% <br> 1–2 | 9–13% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 18–25% <br> 3–5 | 26–33% <br> 5–7 | 19–24% <br> 4–5 | 8–13% <br> 1–2 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–11 August 2022](2022-08-11-Market.html) | Market <br> Der Standard | 19–25% <br> 4–5 | 27–33% <br> 6–7 | 18–24% <br> 4–5 | 9–13% <br> 2–3 | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–4 August 2022](2022-08-04-INSA.html) | INSA <br> eXXpress | 18–23% <br> 3–5 | 26–32% <br> 5–7 | 19–24% <br> 3–5 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–14 July 2022](2022-07-14-UniqueResearch.html) | Unique Research <br> profil | 19–25% <br> 4–5 | 26–32% <br> 5–7 | 18–24% <br> 4–5 | 8–12% <br> 1–2 | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–13 July 2022](2022-07-13-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4–5 | 27–31% <br> 6–7 | 20–24% <br> 4–5 | 9–11% <br> 2 | 11–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 June–3 July 2022](2022-07-03-IFDD.html) | IFDD <br> PULS 24 | 18–23% <br> 3–5 | 28–34% <br> 6–7 | 19–24% <br> 4–5 | 8–12% <br> 1–2 | 9–13% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27–30 June 2022](2022-06-30-PeterHajek.html) | Peter Hajek <br> APA and ATV | 19–25% <br> 4–5 | 26–32% <br> 5–7 | 19–25% <br> 4–5 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [20–23 June 2022](2022-06-23-OGM.html) | OGM <br> KURIER | 20–26% <br> 4–5 | 26–32% <br> 5–7 | 17–22% <br> 3–4 | 8–12% <br> 1–2 | 9–13% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [10–14 June 2022](2022-06-14-INSA.html) | INSA <br> eXXpress | 20–25% <br> 4–5 | 26–32% <br> 5–7 | 18–23% <br> 3–5 | 8–12% <br> 1–2 | 9–13% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
