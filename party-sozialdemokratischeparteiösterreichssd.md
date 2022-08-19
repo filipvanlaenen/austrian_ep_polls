@@ -17,7 +17,7 @@ Last result: **23.9%** (General Election of 26 May 2019)
 | [1–2 August 2022](2022-08-02-Market.html) | Market <br> ÖSTERREICH | 29.0% | N/A | N/A | N/A | N/A |
 | [25–27 July 2022](2022-07-27-Market.html) | Market <br> ÖSTERREICH | 29.0% | 27.7–30.3% | 27.4–30.7% | 27.1–31.0% | 26.4–31.7% |
 | [18–20 July 2022](2022-07-20-Market.html) | Market <br> ÖSTERREICH | 31.0% | N/A | N/A | N/A | N/A |
-| [16 July 2022](2022-07-16-INSA.html) | INSA <br> eXXpress | 30.0% | N/A | N/A | N/A | N/A |
+| [16 July 2022](2022-07-16-INSA.html) | INSA <br> eXXpress | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.9% |
 | [10–14 July 2022](2022-07-14-UniqueResearch.html) | Unique Research <br> profil | 29.0% | 27.0–31.1% | 26.4–31.7% | 26.0–32.3% | 25.0–33.3% |
 | [11–13 July 2022](2022-07-13-Market.html) | Market <br> ÖSTERREICH | 29.0% | 27.7–30.3% | 27.4–30.7% | 27.1–31.0% | 26.4–31.7% |
 | [4–6 July 2022](2022-07-06-Market.html) | Market <br> ÖSTERREICH | 30.0% | N/A | N/A | N/A | N/A |
@@ -268,7 +268,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [1–2 August 2022](2022-08-02-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [25–27 July 2022](2022-07-27-Market.html) | Market <br> ÖSTERREICH | 6 | 6 | 6 | 5–7 | 5–7 |
 | [18–20 July 2022](2022-07-20-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [16 July 2022](2022-07-16-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
+| [16 July 2022](2022-07-16-INSA.html) | INSA <br> eXXpress | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [10–14 July 2022](2022-07-14-UniqueResearch.html) | Unique Research <br> profil | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [11–13 July 2022](2022-07-13-Market.html) | Market <br> ÖSTERREICH | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [4–6 July 2022](2022-07-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
