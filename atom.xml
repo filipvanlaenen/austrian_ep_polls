@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-09-11T15:46:35.291577+02:00</updated>
+  <updated>2022-09-11T20:15:53.976268+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 18.3–21.8%, 4–5 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 27.1–31.0%, 6–7 seats</li><li>Freiheitliche Partei Österreichs (ID): 20.2–23.9%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 11.6–14.6%, 2–3 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 8.7–11.4%, 1–2 seats</li><li>MFG–Österreich Menschen–Freiheit–Grundrechte (*): 2.3–3.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2022-09-06-Market.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Market for ÖSTERREICH, 5–6 September 2022</title>
     <updated>2022-09-11T15:46:35.291577+02:00</updated>
     <dc:date>2022-09-11T15:46:35.291577+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 19.3–22.8%, 4–5 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 28.0–32.1%, 6–7 seats</li><li>Freiheitliche Partei Österreichs (ID): 20.2–23.9%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 9.7–12.5%, 2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 7.8–10.3%, 1–2 seats</li><li>MFG–Österreich Menschen–Freiheit–Grundrechte (*): 3.2–5.0%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2022-08-30-Market.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2022-08-30-Market.html"/>
+    <title>Opinion Poll by Market for ÖSTERREICH, 29–30 August 2022</title>
+    <updated>2022-09-11T20:15:53.976268+02:00</updated>
+    <dc:date>2022-09-11T20:15:53.976268+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 19.1–23.0%, 4–5 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 25.8–30.2%, 5–7 seats</li><li>Freiheitliche Partei Österreichs (ID): 20.0–24.1%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 9.6–12.7%, 2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 9.6–12.7%, 2 seats</li><li>MFG–Österreich Menschen–Freiheit–Grundrechte (*): 3.2–5.1%, 0–1 seats</li></ul></div></content>
@@ -1623,5 +1631,5 @@
     <updated>2020-06-09T22:52:29+02:00</updated>
     <dc:date>2020-06-09T22:52:29+02:00</dc:date>
   </entry>
-  <dc:date>2022-09-11T15:46:35.291577+02:00</dc:date>
+  <dc:date>2022-09-11T20:15:53.976268+02:00</dc:date>
 </feed>
