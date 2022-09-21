@@ -10,7 +10,10 @@ Last result: **14.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.2% | 9.0–11.5% | 8.7–11.9% | 8.4–12.2% | 7.8–12.9% |
+| N/A | [Poll Average](average.html) | 10.6% | 9.1–12.2% | 8.7–12.6% | 8.4–13.0% | 7.9–13.5% |
+| [7–15 September 2022](2022-09-15-UniqueResearch.html) | Unique Research <br> profil | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.6–12.6% | 9.1–13.2% |
+| [12–13 September 2022](2022-09-13-Market.html) | Market <br> ÖSTERREICH | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
+| [5–8 September 2022](2022-09-08-INSA.html) | INSA <br> eXXpress | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [5–6 September 2022](2022-09-06-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [29–30 August 2022](2022-08-30-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [22–23 August 2022](2022-08-23-Market.html) | Market <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
@@ -245,12 +248,12 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.2% | 100% |  |
 | 7.5–8.5% | 3% | 99.8% |  |
-| 8.5–9.5% | 20% | 96% |  |
-| 9.5–10.5% | 39% | 77% | Median |
-| 10.5–11.5% | 28% | 38% |  |
-| 11.5–12.5% | 9% | 10% |  |
-| 12.5–13.5% | 1.2% | 1.2% |  |
-| 13.5–14.5% | 0.1% | 0.1% | Last Result |
+| 8.5–9.5% | 15% | 97% |  |
+| 9.5–10.5% | 28% | 81% |  |
+| 10.5–11.5% | 29% | 53% | Median |
+| 11.5–12.5% | 18% | 24% |  |
+| 12.5–13.5% | 6% | 6% |  |
+| 13.5–14.5% | 0.5% | 0.5% | Last Result |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -262,7 +265,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [7–15 September 2022](2022-09-15-UniqueResearch.html) | Unique Research <br> profil | 2 | 2 | 2 | 2 | 2 |
+| [12–13 September 2022](2022-09-13-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [5–8 September 2022](2022-09-08-INSA.html) | INSA <br> eXXpress | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–6 September 2022](2022-09-06-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 1–2 | 1–2 |
 | [29–30 August 2022](2022-08-30-Market.html) | Market <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–23 August 2022](2022-08-23-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -498,7 +504,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 9% | 100% |  |
 | 2 | 90% | 91% | Last Result, Median |
-| 3 | 0.3% | 0.3% |  |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 
