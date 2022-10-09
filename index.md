@@ -6,11 +6,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 18–24% <br> 3–5 | 26–33% <br> 5–7 | 19–25% <br> 4–5 | 8–12% <br> 1–2 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [19–20 September 2022](2022-09-20-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 4 | 26–30% <br> 5–6 | 21–25% <br> 4–5 | 10–12% <br> 2 | 11–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23–28 September 2022](2022-09-28-OGM.html) | OGM <br> KURIER | 20–25% <br> 4–5 | 25–31% <br> 5–6 | 20–25% <br> 4–5 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [19–27 September 2022](2022-09-27-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4–5 | 25–29% <br> 5–6 | 22–26% <br> 4–5 | 9–11% <br> 1–2 | 11–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–15 September 2022](2022-09-15-UniqueResearch.html) | Unique Research <br> profil | 19–23% <br> 4–5 | 27–31% <br> 5–7 | 21–25% <br> 4–5 | 10–13% <br> 2 | 8–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–8 September 2022](2022-09-08-INSA.html) | INSA <br> eXXpress | 18–23% <br> 3–5 | 26–32% <br> 5–7 | 19–24% <br> 3–5 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 June–3 July 2022](2022-07-03-IFDD.html) | IFDD <br> PULS 24 | 18–23% <br> 3–5 | 28–34% <br> 6–7 | 19–24% <br> 4–5 | 8–12% <br> 1–2 | 9–13% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27–30 June 2022](2022-06-30-PeterHajek.html) | Peter Hajek <br> APA and ATV | 19–25% <br> 4–5 | 26–32% <br> 5–7 | 19–25% <br> 4–5 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
