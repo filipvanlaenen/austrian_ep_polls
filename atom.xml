@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-10-16T16:31:18.67139+02:00</updated>
+  <updated>2022-10-21T19:55:06.266439+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 20.5–25.7%, 4–5 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 25.3–30.9%, 5–6 seats</li><li>Freiheitliche Partei Österreichs (ID): 21.5–26.8%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 8.3–12.1%, 1–2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 8.3–12.1%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2022-10-14-IFDD.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2022-10-14-IFDD.html"/>
+    <title>Opinion Poll by IFDD for PULS 24, 10–14 October 2022</title>
+    <updated>2022-10-21T19:55:06.266439+02:00</updated>
+    <dc:date>2022-10-21T19:55:06.266439+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 20.2–26.0%, 4–5 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 25.0–31.2%, 5–6 seats</li><li>Freiheitliche Partei Österreichs (ID): 21.2–27.1%, 4–6 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 8.1–12.3%, 1–2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 9.0–13.4%, 1–2 seats</li><li>MFG–Österreich Menschen–Freiheit–Grundrechte (*): 1.2–3.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2022-10-13-UniqueResearch.html</id>
@@ -1711,5 +1719,5 @@
     <updated>2020-06-09T22:52:29+02:00</updated>
     <dc:date>2020-06-09T22:52:29+02:00</dc:date>
   </entry>
-  <dc:date>2022-10-16T16:31:18.67139+02:00</dc:date>
+  <dc:date>2022-10-21T19:55:06.266439+02:00</dc:date>
 </feed>
