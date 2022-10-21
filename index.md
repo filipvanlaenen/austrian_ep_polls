@@ -5,7 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–25% <br> 4–5 | 25–31% <br> 5–6 | 20–27% <br> 4–5 | 8–13% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 20–25% <br> 4–5 | 25–31% <br> 5–6 | 20–27% <br> 4–5 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–14 October 2022](2022-10-14-IFDD.html) | IFDD <br> PULS 24 | 21–26% <br> 4–5 | 25–31% <br> 5–6 | 21–27% <br> 4–5 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–13 October 2022](2022-10-13-UniqueResearch.html) | Unique Research <br> profil | 20–26% <br> 4–5 | 25–31% <br> 5–6 | 21–27% <br> 4–6 | 9–13% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–12 October 2022](2022-10-12-Market.html) | Market <br> ÖSTERREICH | 20–24% <br> 4–5 | 26–30% <br> 5–6 | 23–27% <br> 5–6 | 9–11% <br> 1–2 | 9–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–6 October 2022](2022-10-06-INSA.html) | INSA <br> eXXpress | 20–25% <br> 4–5 | 25–31% <br> 5–6 | 20–26% <br> 4–5 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
