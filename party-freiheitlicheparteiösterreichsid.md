@@ -11,6 +11,7 @@ Last result: **17.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.1% | 21.5–26.5% | 20.9–27.0% | 20.5–27.4% | 19.6–28.2% |
+| [2–4 November 2022](2022-11-04-INSA.html) | INSA <br> eXXpress | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [26–28 October 2022](2022-10-28-IFDD.html) | IFDD <br> PULS 24 | 25.0% | 23.5–26.7% | 23.1–27.1% | 22.7–27.5% | 22.0–28.3% |
 | [17–25 October 2022](2022-10-25-Market.html) | Market <br> ÖSTERREICH | 26.0% | 24.8–27.3% | 24.4–27.7% | 24.1–28.0% | 23.5–28.6% |
 | [17–19 October 2022](2022-10-19-Market.html) | Market <br> ÖSTERREICH | 25.0% | 23.8–26.3% | 23.4–26.6% | 23.2–26.9% | 22.6–27.6% |
@@ -281,6 +282,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [2–4 November 2022](2022-11-04-INSA.html) | INSA <br> eXXpress | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [26–28 October 2022](2022-10-28-IFDD.html) | IFDD <br> PULS 24 | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [17–25 October 2022](2022-10-25-Market.html) | Market <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [17–19 October 2022](2022-10-19-Market.html) | Market <br> ÖSTERREICH | 5 | 5 | 5–6 | 5–6 | 4–6 |
@@ -529,8 +531,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 25% | 100% |  |
-| 5 | 65% | 75% | Median |
+| 4 | 26% | 100% |  |
+| 5 | 65% | 74% | Median |
 | 6 | 9% | 9% |  |
 | 7 | 0% | 0% |  |
 
