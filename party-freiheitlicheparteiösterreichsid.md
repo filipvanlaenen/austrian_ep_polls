@@ -10,7 +10,11 @@ Last result: **17.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.4% | 21.6–26.7% | 21.0–27.2% | 20.5–27.6% | 19.6–28.5% |
+| N/A | [Poll Average](average.html) | 26.3% | 24.1–29.1% | 23.6–30.0% | 23.1–30.7% | 22.3–32.0% |
+| [12–15 December 2022](2022-12-15-PeterHajek.html) | Peter Hajek <br> APA and ATV | 26.5% | 24.6–28.6% | 24.0–29.2% | 23.5–29.7% | 22.6–30.7% |
+| [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
+| [2–7 December 2022](2022-12-07-UniqueResearch.html) | Unique Research <br> profil | 25.8% | 23.8–27.8% | 23.3–28.4% | 22.8–28.9% | 21.9–29.9% |
+| [3–5 December 2022](2022-12-05-Market.html) | Market <br> Der Standard | 28.7% | 26.7–30.8% | 26.2–31.4% | 25.7–32.0% | 24.8–33.0% |
 | [21–23 November 2022](2022-11-23-Market.html) | Market <br> ÖSTERREICH | 26.0% | 24.8–27.3% | 24.4–27.7% | 24.1–28.0% | 23.5–28.6% |
 | [14–16 November 2022](2022-11-16-Market.html) | Market <br> ÖSTERREICH | 25.0% | 23.8–26.3% | 23.4–26.6% | 23.2–26.9% | 22.6–27.6% |
 | [7–10 November 2022](2022-11-10-UniqueResearch.html) | Unique Research <br> profil | 25.0% | 23.1–27.0% | 22.6–27.6% | 22.1–28.1% | 21.2–29.1% |
@@ -264,19 +268,22 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 16.5–17.5% | 0% | 100% | Last Result |
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.4% | 100% |  |
-| 19.5–20.5% | 2% | 99.6% |  |
-| 20.5–21.5% | 7% | 97% |  |
-| 21.5–22.5% | 12% | 90% |  |
-| 22.5–23.5% | 14% | 78% |  |
-| 23.5–24.5% | 16% | 64% | Median |
-| 24.5–25.5% | 19% | 48% |  |
-| 25.5–26.5% | 17% | 29% |  |
-| 26.5–27.5% | 9% | 12% |  |
-| 27.5–28.5% | 2% | 3% |  |
-| 28.5–29.5% | 0.4% | 0.4% |  |
-| 29.5–30.5% | 0% | 0.1% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.8% | 99.9% |  |
+| 22.5–23.5% | 4% | 99.2% |  |
+| 23.5–24.5% | 11% | 95% |  |
+| 24.5–25.5% | 19% | 84% |  |
+| 25.5–26.5% | 21% | 65% | Median |
+| 26.5–27.5% | 17% | 44% |  |
+| 27.5–28.5% | 12% | 27% |  |
+| 28.5–29.5% | 8% | 15% |  |
+| 29.5–30.5% | 4% | 7% |  |
+| 30.5–31.5% | 2% | 3% |  |
+| 31.5–32.5% | 0.7% | 0.9% |  |
+| 32.5–33.5% | 0.2% | 0.2% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -287,7 +294,11 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [12–15 December 2022](2022-12-15-PeterHajek.html) | Peter Hajek <br> APA and ATV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [2–7 December 2022](2022-12-07-UniqueResearch.html) | Unique Research <br> profil | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [3–5 December 2022](2022-12-05-Market.html) | Market <br> Der Standard | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [21–23 November 2022](2022-11-23-Market.html) | Market <br> ÖSTERREICH | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [14–16 November 2022](2022-11-16-Market.html) | Market <br> ÖSTERREICH | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [7–10 November 2022](2022-11-10-UniqueResearch.html) | Unique Research <br> profil | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
@@ -542,9 +553,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 23% | 100% |  |
-| 5 | 71% | 77% | Median |
-| 6 | 6% | 6% |  |
-| 7 | 0% | 0% |  |
+| 4 | 2% | 100% |  |
+| 5 | 61% | 98% | Median |
+| 6 | 36% | 37% |  |
+| 7 | 0.7% | 0.7% |  |
+| 8 | 0% | 0% |  |
 
 
