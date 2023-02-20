@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–25% <br> 4–5 | 22–28% <br> 4–6 | 25–31% <br> 5–7 | 8–14% <br> 1–3 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–19 January 2023](2023-01-19-UniqueResearch.html) | Unique Research <br> profil | 19–25% <br> 4–5 | 21–27% <br> 4–6 | 25–31% <br> 5–7 | 10–14% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [19 January 2023](2023-01-19-OGM.html) | OGM | 20–25% <br> 4–5 | 22–28% <br> 4–6 | 24–30% <br> 5–6 | 8–12% <br> 1–2 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [2–5 January 2023](2023-01-05-INSA.html) | INSA <br> eXXpress | 20–25% <br> 4–5 | 22–28% <br> 4–6 | 25–31% <br> 5–7 | 7–11% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 19–26% <br> 4–5 | 21–27% <br> 4–5 | 25–32% <br> 5–6 | 8–12% <br> 1–2 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–16 February 2023](2023-02-16-UniqueResearch.html) | Unique Research <br> profil | 21–27% <br> 4–6 | 21–27% <br> 4–5 | 26–32% <br> 5–7 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–16 February 2023](2023-02-16-OGM.html) | OGM <br> KURIER | 20–25% <br> 4–5 | 21–27% <br> 4–5 | 24–30% <br> 5–6 | 8–12% <br> 1–2 | 9–13% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–9 February 2023](2023-02-09-INSA.html) | INSA <br> eXXpress | 19–24% <br> 3–5 | 21–27% <br> 4–5 | 25–31% <br> 5–6 | 8–12% <br> 1–2 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
