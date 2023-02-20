@@ -10,9 +10,12 @@ Last result: **23.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.7% | 22.8–26.6% | 22.2–27.2% | 21.8–27.6% | 20.8–28.5% |
+| N/A | [Poll Average](average.html) | 24.0% | 22.3–25.8% | 21.8–26.4% | 21.4–26.8% | 20.6–27.8% |
+| [13–16 February 2023](2023-02-16-UniqueResearch.html) | Unique Research <br> profil | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
+| [12–16 February 2023](2023-02-16-OGM.html) | OGM <br> KURIER | 24.0% | 22.3–25.7% | 21.9–26.2% | 21.5–26.7% | 20.7–27.5% |
+| [6–9 February 2023](2023-02-09-INSA.html) | INSA <br> eXXpress | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [16–19 January 2023](2023-01-19-UniqueResearch.html) | Unique Research <br> profil | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
-| [19 January 2023](2023-01-19-OGM.html) | OGM | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
+| [16–18 January 2023](2023-01-18-OGM.html) | OGM | 25.0% | 23.4–26.9% | 22.9–27.4% | 22.5–27.8% | 21.7–28.7% |
 | [2–5 January 2023](2023-01-05-INSA.html) | INSA <br> eXXpress | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
 | [12–15 December 2022](2022-12-15-PeterHajek.html) | Peter Hajek <br> APA and ATV | 24.5% | 22.6–26.5% | 22.1–27.1% | 21.6–27.6% | 20.8–28.6% |
 | [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
@@ -270,18 +273,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.3% | 100% |  |
-| 20.5–21.5% | 1.5% | 99.7% |  |
-| 21.5–22.5% | 6% | 98% |  |
-| 22.5–23.5% | 14% | 93% |  |
-| 23.5–24.5% | 24% | 79% | Last Result |
-| 24.5–25.5% | 26% | 55% | Median |
-| 25.5–26.5% | 18% | 29% |  |
-| 26.5–27.5% | 8% | 11% |  |
-| 27.5–28.5% | 2% | 3% |  |
-| 28.5–29.5% | 0.4% | 0.5% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 19.5–20.5% | 0.5% | 100% |  |
+| 20.5–21.5% | 3% | 99.5% |  |
+| 21.5–22.5% | 11% | 97% |  |
+| 22.5–23.5% | 22% | 86% |  |
+| 23.5–24.5% | 28% | 64% | Last Result, Median |
+| 24.5–25.5% | 21% | 35% |  |
+| 25.5–26.5% | 10% | 14% |  |
+| 26.5–27.5% | 3% | 4% |  |
+| 27.5–28.5% | 0.6% | 0.7% |  |
+| 28.5–29.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -292,9 +294,12 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [13–16 February 2023](2023-02-16-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [12–16 February 2023](2023-02-16-OGM.html) | OGM <br> KURIER | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [6–9 February 2023](2023-02-09-INSA.html) | INSA <br> eXXpress | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [16–19 January 2023](2023-01-19-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [19 January 2023](2023-01-19-OGM.html) | OGM | 5 | 5 | 4–5 | 4–6 | 4–6 |
+| [16–18 January 2023](2023-01-18-OGM.html) | OGM | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [2–5 January 2023](2023-01-05-INSA.html) | INSA <br> eXXpress | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [12–15 December 2022](2022-12-15-PeterHajek.html) | Peter Hajek <br> APA and ATV | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -553,9 +558,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 9% | 100% |  |
-| 5 | 84% | 91% | Last Result, Median |
-| 6 | 8% | 8% |  |
+| 4 | 25% | 100% |  |
+| 5 | 74% | 75% | Last Result, Median |
+| 6 | 1.1% | 1.1% |  |
 | 7 | 0% | 0% |  |
 
 

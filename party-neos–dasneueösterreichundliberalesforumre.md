@@ -10,9 +10,12 @@ Last result: **8.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.1% | 8.4–11.7% | 8.0–12.2% | 7.7–12.6% | 7.0–13.3% |
+| N/A | [Poll Average](average.html) | 10.8% | 9.3–12.2% | 8.9–12.6% | 8.6–12.9% | 7.9–13.6% |
+| [13–16 February 2023](2023-02-16-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
+| [12–16 February 2023](2023-02-16-OGM.html) | OGM <br> KURIER | 11.0% | 9.9–12.4% | 9.5–12.7% | 9.3–13.1% | 8.7–13.7% |
+| [6–9 February 2023](2023-02-09-INSA.html) | INSA <br> eXXpress | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [16–19 January 2023](2023-01-19-UniqueResearch.html) | Unique Research <br> profil | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
-| [19 January 2023](2023-01-19-OGM.html) | OGM | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
+| [16–18 January 2023](2023-01-18-OGM.html) | OGM | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.1% | 8.6–13.7% |
 | [2–5 January 2023](2023-01-05-INSA.html) | INSA <br> eXXpress | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [12–15 December 2022](2022-12-15-PeterHajek.html) | Peter Hajek <br> APA and ATV | 11.2% | 9.9–12.8% | 9.6–13.2% | 9.2–13.6% | 8.6–14.4% |
 | [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -269,16 +272,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 10% | 98% | Last Result |
-| 8.5–9.5% | 23% | 88% |  |
-| 9.5–10.5% | 29% | 65% | Median |
-| 10.5–11.5% | 23% | 36% |  |
-| 11.5–12.5% | 10% | 13% |  |
-| 12.5–13.5% | 2% | 3% |  |
-| 13.5–14.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.2% | 100% |  |
+| 7.5–8.5% | 2% | 99.8% | Last Result |
+| 8.5–9.5% | 12% | 98% |  |
+| 9.5–10.5% | 28% | 86% |  |
+| 10.5–11.5% | 34% | 58% | Median |
+| 11.5–12.5% | 18% | 24% |  |
+| 12.5–13.5% | 5% | 5% |  |
+| 13.5–14.5% | 0.6% | 0.6% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -291,8 +293,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13–16 February 2023](2023-02-16-UniqueResearch.html) | Unique Research <br> profil | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–16 February 2023](2023-02-16-OGM.html) | OGM <br> KURIER | 2 | 2 | 2 | 2 | 1–2 |
+| [6–9 February 2023](2023-02-09-INSA.html) | INSA <br> eXXpress | 2 | 2 | 2 | 1–2 | 1–2 |
 | [16–19 January 2023](2023-01-19-UniqueResearch.html) | Unique Research <br> profil | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [19 January 2023](2023-01-19-OGM.html) | OGM | 2 | 2 | 2 | 1–2 | 1–3 |
+| [16–18 January 2023](2023-01-18-OGM.html) | OGM | 2 | 2 | 2 | 1–2 | 1–3 |
 | [2–5 January 2023](2023-01-05-INSA.html) | INSA <br> eXXpress | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–15 December 2022](2022-12-15-PeterHajek.html) | Peter Hajek <br> APA and ATV | 2 | 2 | 2 | 2–3 | 1–3 |
 | [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -551,8 +556,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 19% | 100% | Last Result |
-| 2 | 81% | 81% | Median |
+| 1 | 12% | 100% | Last Result |
+| 2 | 88% | 88% | Median |
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
