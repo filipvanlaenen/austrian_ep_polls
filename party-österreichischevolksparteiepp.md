@@ -280,9 +280,9 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 19% | 84% |  |
 | 21.5–22.5% | 21% | 65% | Median |
 | 22.5–23.5% | 17% | 43% |  |
-| 23.5–24.5% | 13% | 26% |  |
+| 23.5–24.5% | 12% | 26% |  |
 | 24.5–25.5% | 8% | 13% |  |
-| 25.5–26.5% | 4% | 5% |  |
+| 25.5–26.5% | 4% | 6% |  |
 | 26.5–27.5% | 1.3% | 2% |  |
 | 27.5–28.5% | 0.3% | 0.4% |  |
 | 28.5–29.5% | 0.1% | 0.1% |  |
@@ -567,8 +567,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 1.4% | 100% |  |
-| 4 | 65% | 98.6% | Median |
-| 5 | 33% | 34% |  |
+| 4 | 64% | 98.6% | Median |
+| 5 | 34% | 35% |  |
 | 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% | Last Result |
 
