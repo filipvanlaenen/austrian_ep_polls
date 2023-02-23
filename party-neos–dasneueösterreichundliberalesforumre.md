@@ -10,7 +10,8 @@ Last result: **8.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.8% | 9.3–12.2% | 8.9–12.6% | 8.6–12.9% | 7.9–13.6% |
+| N/A | [Poll Average](average.html) | 10.8% | 9.4–12.3% | 9.0–12.7% | 8.6–13.1% | 8.0–13.8% |
+| [17–21 February 2023](2023-02-21-Market.html) | Market <br> Der Standard | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [13–16 February 2023](2023-02-16-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.8–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [12–16 February 2023](2023-02-16-OGM.html) | OGM <br> KURIER | 11.0% | 9.9–12.4% | 9.5–12.7% | 9.3–13.1% | 8.7–13.7% |
 | [6–9 February 2023](2023-02-09-INSA.html) | INSA <br> eXXpress | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
@@ -273,15 +274,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 2% | 99.8% | Last Result |
-| 8.5–9.5% | 12% | 98% |  |
-| 9.5–10.5% | 28% | 86% |  |
-| 10.5–11.5% | 34% | 58% | Median |
-| 11.5–12.5% | 18% | 24% |  |
-| 12.5–13.5% | 5% | 5% |  |
-| 13.5–14.5% | 0.6% | 0.6% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 2% | 99.9% | Last Result |
+| 8.5–9.5% | 10% | 98% |  |
+| 9.5–10.5% | 27% | 88% |  |
+| 10.5–11.5% | 34% | 60% | Median |
+| 11.5–12.5% | 20% | 26% |  |
+| 12.5–13.5% | 6% | 6% |  |
+| 13.5–14.5% | 0.8% | 0.9% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -292,7 +294,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [17–21 February 2023](2023-02-21-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 1–2 | 1–3 |
 | [13–16 February 2023](2023-02-16-UniqueResearch.html) | Unique Research <br> profil | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–16 February 2023](2023-02-16-OGM.html) | OGM <br> KURIER | 2 | 2 | 2 | 2 | 1–2 |
 | [6–9 February 2023](2023-02-09-INSA.html) | INSA <br> eXXpress | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -556,9 +559,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 12% | 100% | Last Result |
-| 2 | 87% | 88% | Median |
-| 3 | 0.3% | 0.3% |  |
+| 1 | 10% | 100% | Last Result |
+| 2 | 89% | 90% | Median |
+| 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
 
