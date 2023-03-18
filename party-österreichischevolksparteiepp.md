@@ -10,9 +10,9 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.0% | 20.3–23.9% | 19.8–24.4% | 19.4–24.9% | 18.5–25.8% |
+| N/A | [Poll Average](average.html) | 22.0% | 20.3–23.8% | 19.8–24.4% | 19.4–24.8% | 18.6–25.8% |
 | [6–9 March 2023](2023-03-09-UniqueResearch.html) | Unique Research <br> profil | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
-| [6–9 March 2023](2023-03-09-INSA.html) | INSA <br> eXXpress | 22.0% | N/A | N/A | N/A | N/A |
+| [6–9 March 2023](2023-03-09-INSA.html) | INSA <br> eXXpress | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [17–21 February 2023](2023-02-21-Market.html) | Market <br> Der Standard | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [13–16 February 2023](2023-02-16-UniqueResearch.html) | Unique Research <br> profil | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [12–16 February 2023](2023-02-16-OGM.html) | OGM <br> KURIER | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.6% | 18.8–25.4% |
@@ -276,15 +276,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.5% | 100% |  |
+| 17.5–18.5% | 0.4% | 100% |  |
 | 18.5–19.5% | 3% | 99.5% |  |
-| 19.5–20.5% | 11% | 97% |  |
+| 19.5–20.5% | 10% | 97% |  |
 | 20.5–21.5% | 23% | 86% |  |
-| 21.5–22.5% | 28% | 63% | Median |
+| 21.5–22.5% | 29% | 64% | Median |
 | 22.5–23.5% | 21% | 35% |  |
 | 23.5–24.5% | 10% | 14% |  |
 | 24.5–25.5% | 3% | 4% |  |
-| 25.5–26.5% | 0.7% | 0.8% |  |
+| 25.5–26.5% | 0.6% | 0.7% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -306,7 +306,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [6–9 March 2023](2023-03-09-UniqueResearch.html) | Unique Research <br> profil | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [6–9 March 2023](2023-03-09-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
+| [6–9 March 2023](2023-03-09-INSA.html) | INSA <br> eXXpress | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17–21 February 2023](2023-02-21-Market.html) | Market <br> Der Standard | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [13–16 February 2023](2023-02-16-UniqueResearch.html) | Unique Research <br> profil | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [12–16 February 2023](2023-02-16-OGM.html) | OGM <br> KURIER | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
