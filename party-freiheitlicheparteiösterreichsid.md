@@ -10,7 +10,10 @@ Last result: **17.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.0% | 25.7–31.5% | 25.2–32.4% | 24.7–33.2% | 23.8–34.5% |
+| N/A | [Poll Average](average.html) | 28.0% | 25.9–30.3% | 25.3–31.0% | 24.8–31.6% | 23.9–32.7% |
+| [20–23 March 2023](2023-03-23-UniqueResearch.html) | Unique Research <br> Heute | 28.0% | 26.0–30.1% | 25.5–30.7% | 25.0–31.2% | 24.1–32.3% |
+| [20–23 March 2023](2023-03-23-Market.html) | Market <br> Der Standard | 29.0% | 27.0–31.1% | 26.4–31.7% | 26.0–32.3% | 25.0–33.3% |
+| [20–22 March 2023](2023-03-22-Market.html) | Market <br> ÖSTERREICH | 28.0% | N/A | N/A | N/A | N/A |
 | [6–9 March 2023](2023-03-09-UniqueResearch.html) | Unique Research <br> profil | 31.0% | 29.0–33.2% | 28.4–33.8% | 27.9–34.3% | 26.9–35.3% |
 | [6–9 March 2023](2023-03-09-INSA.html) | INSA <br> eXXpress | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [17–21 February 2023](2023-02-21-Market.html) | Market <br> Der Standard | 28.0% | 26.0–30.1% | 25.5–30.7% | 25.0–31.2% | 24.1–32.3% |
@@ -281,21 +284,19 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.3% | 100% |  |
-| 23.5–24.5% | 2% | 99.7% |  |
-| 24.5–25.5% | 6% | 98% |  |
-| 25.5–26.5% | 14% | 92% |  |
-| 26.5–27.5% | 20% | 78% |  |
-| 27.5–28.5% | 18% | 58% | Median |
-| 28.5–29.5% | 13% | 40% |  |
-| 29.5–30.5% | 9% | 27% |  |
-| 30.5–31.5% | 7% | 17% |  |
-| 31.5–32.5% | 5% | 10% |  |
-| 32.5–33.5% | 3% | 5% |  |
-| 33.5–34.5% | 1.2% | 2% |  |
-| 34.5–35.5% | 0.3% | 0.4% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 22.5–23.5% | 0.2% | 100% |  |
+| 23.5–24.5% | 1.4% | 99.8% |  |
+| 24.5–25.5% | 5% | 98% |  |
+| 25.5–26.5% | 13% | 93% |  |
+| 26.5–27.5% | 20% | 80% |  |
+| 27.5–28.5% | 22% | 60% | Median |
+| 28.5–29.5% | 18% | 38% |  |
+| 29.5–30.5% | 11% | 19% |  |
+| 30.5–31.5% | 6% | 8% |  |
+| 31.5–32.5% | 2% | 3% |  |
+| 32.5–33.5% | 0.5% | 0.6% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -306,7 +307,10 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [20–23 March 2023](2023-03-23-UniqueResearch.html) | Unique Research <br> Heute | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [20–23 March 2023](2023-03-23-Market.html) | Market <br> Der Standard | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [20–22 March 2023](2023-03-22-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [6–9 March 2023](2023-03-09-UniqueResearch.html) | Unique Research <br> profil | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [6–9 March 2023](2023-03-09-INSA.html) | INSA <br> eXXpress | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [17–21 February 2023](2023-02-21-Market.html) | Market <br> Der Standard | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -574,11 +578,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 0.2% | 100% |  |
-| 5 | 45% | 99.8% |  |
-| 6 | 46% | 55% | Median |
-| 7 | 9% | 9% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 40% | 99.9% |  |
+| 6 | 59% | 60% | Median |
+| 7 | 1.5% | 1.5% |  |
+| 8 | 0% | 0% |  |
 
 
