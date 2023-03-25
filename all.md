@@ -5,6 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [20–23 March 2023](2023-03-23-UniqueResearch.html) | Unique Research <br> Heute | 22–28% <br> 4–6 | 21–27% <br> 4–6 | 25–31% <br> 5–6 | 9–13% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–23 March 2023](2023-03-23-Market.html) | Market <br> Der Standard | 20–26% <br> 4–5 | 18–24% <br> 3–5 | 26–32% <br> 5–7 | 8–12% <br> 1–2 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–22 March 2023](2023-03-22-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 March 2023](2023-03-09-UniqueResearch.html) | Unique Research <br> profil | 19–25% <br> 4–5 | 22–28% <br> 4–6 | 28–34% <br> 6–7 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 March 2023](2023-03-09-INSA.html) | INSA <br> eXXpress | 20–25% <br> 4–5 | 23–29% <br> 5–6 | 24–30% <br> 5–6 | 7–11% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [17–21 February 2023](2023-02-21-Market.html) | Market <br> Der Standard | 19–25% <br> 4–5 | 21–27% <br> 4–5 | 25–31% <br> 5–6 | 8–12% <br> 1–2 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
