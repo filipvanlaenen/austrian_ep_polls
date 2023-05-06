@@ -10,7 +10,10 @@ Last result: **23.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.4% | 22.2–26.2% | 21.7–26.7% | 21.2–27.2% | 20.3–28.1% |
+| N/A | [Poll Average](average.html) | 22.1% | 19.5–25.4% | 18.9–26.2% | 18.4–26.8% | 17.5–27.9% |
+| [24–27 April 2023](2023-04-27-PeterHajek.html) | Peter Hajek <br> APA and ATV | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
+| [24–26 April 2023](2023-04-26-OGM.html) | OGM <br> Servus TV | 20.0% | 18.4–21.7% | 18.0–22.1% | 17.6–22.6% | 16.9–23.4% |
+| [24–26 April 2023](2023-04-26-Market.html) | Market <br> ÖSTERREICH | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [3–12 April 2023](2023-04-12-Market.html) | Market | 25.0% | 23.8–26.3% | 23.4–26.6% | 23.2–26.9% | 22.6–27.6% |
 | [3–6 April 2023](2023-04-06-INSA.html) | INSA <br> eXXpress | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
 | [27 March–5 April 2023](2023-04-05-Market.html) | Market | 23.0% | N/A | N/A | N/A | N/A |
@@ -205,18 +208,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.7% | 99.9% |  |
-| 20.5–21.5% | 3% | 99.2% |  |
-| 21.5–22.5% | 9% | 96% |  |
-| 22.5–23.5% | 17% | 86% |  |
-| 23.5–24.5% | 24% | 70% | Last Result, Median |
-| 24.5–25.5% | 24% | 45% |  |
-| 25.5–26.5% | 15% | 21% |  |
-| 26.5–27.5% | 5% | 6% |  |
-| 27.5–28.5% | 1.1% | 1.3% |  |
-| 28.5–29.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.5% | 100% |  |
+| 17.5–18.5% | 3% | 99.5% |  |
+| 18.5–19.5% | 7% | 97% |  |
+| 19.5–20.5% | 13% | 90% |  |
+| 20.5–21.5% | 17% | 77% |  |
+| 21.5–22.5% | 17% | 60% | Median |
+| 22.5–23.5% | 14% | 43% |  |
+| 23.5–24.5% | 11% | 29% | Last Result |
+| 24.5–25.5% | 9% | 18% |  |
+| 25.5–26.5% | 6% | 9% |  |
+| 26.5–27.5% | 3% | 3% |  |
+| 27.5–28.5% | 0.7% | 0.9% |  |
+| 28.5–29.5% | 0.1% | 0.2% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
 
@@ -228,7 +233,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [24–27 April 2023](2023-04-27-PeterHajek.html) | Peter Hajek <br> APA and ATV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [24–26 April 2023](2023-04-26-OGM.html) | OGM <br> Servus TV | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| [24–26 April 2023](2023-04-26-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3–12 April 2023](2023-04-12-Market.html) | Market | 5 | 5 | 5 | 4–5 | 4–6 |
 | [3–6 April 2023](2023-04-06-INSA.html) | INSA <br> eXXpress | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [27 March–5 April 2023](2023-04-05-Market.html) | Market |  |  |  |  |  |
@@ -425,9 +433,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 22% | 100% |  |
-| 5 | 75% | 77% | Last Result, Median |
-| 6 | 2% | 2% |  |
+| 3 | 1.0% | 100% |  |
+| 4 | 53% | 99.0% | Median |
+| 5 | 45% | 46% | Last Result |
+| 6 | 1.3% | 1.3% |  |
 | 7 | 0% | 0% |  |
 
 
