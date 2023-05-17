@@ -10,7 +10,10 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.1% | 20.8–25.2% | 20.3–25.8% | 19.9–26.3% | 19.2–27.3% |
+| N/A | [Poll Average](average.html) | 23.1% | 20.9–25.1% | 20.4–25.7% | 20.0–26.2% | 19.3–27.2% |
+| [8–11 May 2023](2023-05-11-UniqueResearch.html) | Unique Research <br> profil | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
+| [28 April–10 May 2023](2023-05-10-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
+| [24 April–4 May 2023](2023-05-04-OGM.html) | OGM <br> KURIER | 23.0% | 21.9–24.1% | 21.6–24.5% | 21.3–24.8% | 20.8–25.3% |
 | [2–4 May 2023](2023-05-04-INSA.html) | INSA <br> eXXpress | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [28 April–3 May 2023](2023-05-03-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [29 April–1 May 2023](2023-05-01-IFDD.html) | IFDD <br> BVZ | 24.0% | 22.5–25.6% | 22.1–26.1% | 21.7–26.5% | 21.0–27.2% |
@@ -212,16 +215,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 1.1% | 99.9% |  |
-| 19.5–20.5% | 6% | 98.8% |  |
-| 20.5–21.5% | 13% | 93% |  |
-| 21.5–22.5% | 18% | 79% |  |
-| 22.5–23.5% | 22% | 61% | Median |
-| 23.5–24.5% | 21% | 40% |  |
-| 24.5–25.5% | 13% | 19% |  |
-| 25.5–26.5% | 5% | 7% |  |
-| 26.5–27.5% | 1.4% | 2% |  |
-| 27.5–28.5% | 0.3% | 0.3% |  |
+| 18.5–19.5% | 1.0% | 99.9% |  |
+| 19.5–20.5% | 5% | 99.0% |  |
+| 20.5–21.5% | 12% | 94% |  |
+| 21.5–22.5% | 19% | 81% |  |
+| 22.5–23.5% | 25% | 62% | Median |
+| 23.5–24.5% | 21% | 38% |  |
+| 24.5–25.5% | 11% | 17% |  |
+| 25.5–26.5% | 4% | 6% |  |
+| 26.5–27.5% | 1.2% | 1.5% |  |
+| 27.5–28.5% | 0.2% | 0.3% |  |
 | 28.5–29.5% | 0% | 0% |  |
 | 29.5–30.5% | 0% | 0% |  |
 | 30.5–31.5% | 0% | 0% |  |
@@ -240,6 +243,9 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [8–11 May 2023](2023-05-11-UniqueResearch.html) | Unique Research <br> profil | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [28 April–10 May 2023](2023-05-10-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4 | 4–5 |
+| [24 April–4 May 2023](2023-05-04-OGM.html) | OGM <br> KURIER | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–4 May 2023](2023-05-04-INSA.html) | INSA <br> eXXpress | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [28 April–3 May 2023](2023-05-03-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4 | 3–5 |
 | [29 April–1 May 2023](2023-05-01-IFDD.html) | IFDD <br> BVZ | 5 | 5 | 4–5 | 4–6 | 4–6 |
@@ -442,9 +448,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.3% | 100% |  |
-| 4 | 38% | 99.7% |  |
-| 5 | 59% | 61% | Median |
+| 3 | 0.1% | 100% |  |
+| 4 | 40% | 99.9% |  |
+| 5 | 58% | 60% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% | Last Result |
 
