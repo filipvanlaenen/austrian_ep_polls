@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-05-17T18:19:06.496314+02:00</updated>
+  <updated>2023-05-20T15:47:06.622232+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 21.7–26.5%, 4–6 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 18.9–23.4%, 4–5 seats</li><li>Freiheitliche Partei Österreichs (ID): 24.6–29.6%, 5–6 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 6.6–9.6%, 1–2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 7.6–10.8%, 1–2 seats</li><li>Kommunistische Partei Österreichs (GUE/NGL): 5.7–8.6%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2023-05-18-IFDD.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2023-05-18-IFDD.html"/>
+    <title>Opinion Poll by IFDD for Kronen Zeitung, 16–18 May 2023</title>
+    <updated>2023-05-20T15:42:03.439693+02:00</updated>
+    <dc:date>2023-05-20T15:42:03.439693+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 19.3–22.8%, 4 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 23.2–26.9%, 5 seats</li><li>Freiheitliche Partei Österreichs (ID): 24.1–28.0%, 5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 9.7–12.5%, 2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 9.7–12.5%, 2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2023-05-16-Market.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2023-05-16-Market.html"/>
+    <title>Opinion Poll by Market for ÖSTERREICH, 15–16 May 2023</title>
+    <updated>2023-05-20T15:47:06.622232+02:00</updated>
+    <dc:date>2023-05-20T15:47:06.622232+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 20.2–26.0%, 4–5 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 20.2–26.0%, 4–5 seats</li><li>Freiheitliche Partei Österreichs (ID): 26.0–32.3%, 5–7 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 7.2–11.2%, 1–2 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 8.1–12.3%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2023-05-11-UniqueResearch.html</id>
@@ -1431,5 +1447,5 @@
     <updated>2020-06-09T22:52:29+02:00</updated>
     <dc:date>2020-06-09T22:52:29+02:00</dc:date>
   </entry>
-  <dc:date>2023-05-17T18:19:06.496314+02:00</dc:date>
+  <dc:date>2023-05-20T15:47:06.622232+02:00</dc:date>
 </feed>
