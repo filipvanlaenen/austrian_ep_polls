@@ -2,17 +2,17 @@
 
 The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–26% <br> 4–5 | 19–26% <br> 4–5 | 25–32% <br> 5–7 | 8–12% <br> 1–2 | 7–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–18 May 2023](2023-05-18-IFDD.html) | IFDD <br> Kronen Zeitung | 22–26% <br> 4–6 | 19–23% <br> 4–5 | 25–30% <br> 5–6 | 8–11% <br> 1–2 | 7–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [15–16 May 2023](2023-05-16-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4 | 23–27% <br> 5 | 24–28% <br> 5 | 10–12% <br> 2 | 10–12% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–11 May 2023](2023-05-11-UniqueResearch.html) | Unique Research <br> profil | 20–26% <br> 4–5 | 20–26% <br> 4–5 | 26–32% <br> 5–7 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [24 April–4 May 2023](2023-05-04-OGM.html) | OGM <br> KURIER | 21–25% <br> 4–5 | 18–22% <br> 4 | 26–30% <br> 5–6 | 8–10% <br> 1–2 | 8–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [2–4 May 2023](2023-05-04-INSA.html) | INSA <br> eXXpress | 20–26% <br> 4–5 | 20–26% <br> 4–5 | 27–33% <br> 5–7 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [24–27 April 2023](2023-04-27-PeterHajek.html) | Peter Hajek <br> APA, ATV and PULS 24 | 21–27% <br> 4–6 | 19–25% <br> 4–5 | 26–32% <br> 5–7 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC | BIER |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 20–26% <br> 4–5 | 19–26% <br> 4–5 | 25–32% <br> 5–7 | 8–12% <br> 1–2 | 7–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [16–18 May 2023](2023-05-18-IFDD.html) | IFDD <br> Kronen Zeitung | 22–26% <br> 4–6 | 19–23% <br> 4–5 | 25–30% <br> 5–6 | 8–11% <br> 1–2 | 7–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–16 May 2023](2023-05-16-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4 | 23–27% <br> 5 | 24–28% <br> 5 | 10–12% <br> 2 | 10–12% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–11 May 2023](2023-05-11-UniqueResearch.html) | Unique Research <br> profil | 20–26% <br> 4–5 | 20–26% <br> 4–5 | 26–32% <br> 5–7 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24 April–4 May 2023](2023-05-04-OGM.html) | OGM <br> KURIER | 21–25% <br> 4–5 | 18–22% <br> 4 | 26–30% <br> 5–6 | 8–10% <br> 1–2 | 8–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–4 May 2023](2023-05-04-INSA.html) | INSA <br> eXXpress | 20–26% <br> 4–5 | 20–26% <br> 4–5 | 27–33% <br> 5–7 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–27 April 2023](2023-04-27-PeterHajek.html) | Peter Hajek <br> APA, ATV and PULS 24 | 21–27% <br> 4–6 | 19–25% <br> 4–5 | 26–32% <br> 5–7 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -27,6 +27,7 @@ Only polls for which at least the sample size has been published are included in
 + **JETZT:** JETZT–Liste Pilz (Greens/EFA)
 + **GILT:** Meine Stimme Gilt! (*)
 + **HC:** Team HC Strache–Allianz für Österreich (*)
++ **BIER:** Bierpartei (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
