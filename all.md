@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [26–31 May 2023](2023-05-31-Market.html) | Market <br> ÖSTERREICH | 19–26% <br> 4–5 | 17–24% <br> 3–5 | 23–31% <br> 5–6 | 8–13% <br> 1–2 | 11–17% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25–27 May 2023](2023-05-27-IFDD.html) | IFDD <br> Kronen Zeitung | 20–24% <br> 4–5 | 23–28% <br> 4–6 | 24–29% <br> 5–6 | 8–12% <br> 1–2 | 8–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–24 May 2023](2023-05-24-OGM.html) | OGM <br> Servus TV | 18–22% <br> 3–5 | 22–27% <br> 4–5 | 24–29% <br> 5–6 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–24 May 2023](2023-05-24-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4–5 | 23–27% <br> 5–6 | 26–30% <br> 5–6 | 9–11% <br> 1–2 | 11–14% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
