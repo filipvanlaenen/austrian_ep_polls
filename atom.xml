@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-07-21T15:47:20.714399+02:00</updated>
+  <updated>2023-07-22T19:28:02.187083+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 21.4–26.9%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 7.3–11.1%, 1–2 seats</li><li>Freiheitliche Partei Österreichs (ID): 24.2–29.9%, 5–6 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 22.3–27.9%, 4–6 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 7.3–11.1%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2023-07-20-OGM.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2023-07-20-OGM.html"/>
+    <title>Opinion Poll by OGM for KURIER, 18–20 July 2023</title>
+    <updated>2023-07-22T19:28:02.187083+02:00</updated>
+    <dc:date>2023-07-22T19:28:02.187083+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei (EPP): 21.2–24.9%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 6.9–9.3%, 1–2 seats</li><li>Kommunistische Partei Österreichs (GUE/NGL): 2.3–3.9%, 0 seats</li><li>Freiheitliche Partei Österreichs (ID): 28.0–32.1%, 6–7 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 21.2–24.9%, 4–5 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 9.7–12.5%, 2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2023-07-12-Market.html</id>
@@ -1575,5 +1583,5 @@
     <updated>2020-06-09T22:52:29+02:00</updated>
     <dc:date>2020-06-09T22:52:29+02:00</dc:date>
   </entry>
-  <dc:date>2023-07-21T15:47:20.714399+02:00</dc:date>
+  <dc:date>2023-07-22T19:28:02.187083+02:00</dc:date>
 </feed>
