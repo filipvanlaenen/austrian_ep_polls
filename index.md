@@ -5,10 +5,11 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC | BIER | KPÖ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–26% <br> 4–5 | 20–25% <br> 4–5 | 25–32% <br> 5–7 | 9–13% <br> 2–3 | 7–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 |
-| [4–7 September 2023](2023-09-07-INSA.html) | INSA <br> eXXpress | 20–26% <br> 4–5 | 20–25% <br> 4–5 | 26–32% <br> 5–6 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [4–6 September 2023](2023-09-06-Market.html) | Market <br> ÖSTERREICH | 20–24% <br> 4–5 | 21–25% <br> 4–5 | 28–32% <br> 6–7 | 9–11% <br> 1–2 | 7–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 |
-| [29 August–1 September 2023](2023-09-01-IFDD.html) | IFDD | 22–26% <br> 4–6 | 21–25% <br> 4–5 | 25–30% <br> 5–6 | 10–14% <br> 2–3 | 7–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 21–26% <br> 4–6 | 19–25% <br> 4–5 | 25–34% <br> 5–8 | 8–13% <br> 1–3 | 7–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
+| [11–14 September 2023](2023-09-14-UniqueResearch.html) | Unique Research <br> profil | 21–27% <br> 4–6 | 18–24% <br> 4–5 | 29–35% <br> 6–8 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
+| [11–13 September 2023](2023-09-13-Market.html) | Market <br> ÖSTERREICH | 21–25% <br> 4–5 | 21–25% <br> 4–5 | 27–31% <br> 6–7 | 8–10% <br> 1–2 | 9–11% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
+| [4–7 September 2023](2023-09-07-INSA.html) | INSA <br> eXXpress | 20–26% <br> 4–5 | 20–25% <br> 4–5 | 26–32% <br> 5–7 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29 August–1 September 2023](2023-09-01-IFDD.html) | IFDD | 22–26% <br> 5–6 | 21–25% <br> 4–6 | 25–30% <br> 5–7 | 10–14% <br> 2–3 | 7–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
