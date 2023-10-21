@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC | BIER | KPÖ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [16–18 October 2023](2023-10-18-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4–5 | 22–26% <br> 5–6 | 27–31% <br> 6–7 | 8–10% <br> 1–2 | 10–12% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 |
+| [9–12 October 2023](2023-10-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 19–25% <br> 4–5 | 18–24% <br> 4–5 | 29–35% <br> 6–8 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 |
 | [9–11 October 2023](2023-10-11-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4–5 | 23–27% <br> 5–6 | 28–32% <br> 6–7 | 8–10% <br> 1–2 | 9–11% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
 | [2–5 October 2023](2023-10-05-INSA.html) | INSA <br> eXXpress | 20–26% <br> 4–5 | 20–26% <br> 4–5 | 26–32% <br> 6–7 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–4 October 2023](2023-10-04-Market.html) | Market <br> ÖSTERREICH | 17–22% <br> 3–5 | 24–30% <br> 5–7 | 27–33% <br> 6–7 | 6–10% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
