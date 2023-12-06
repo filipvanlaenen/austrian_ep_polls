@@ -10,7 +10,10 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.8% | 19.0–23.5% | 18.5–24.2% | 18.1–24.8% | 17.2–25.8% |
+| N/A | [Poll Average](average.html) | 21.5% | 18.6–23.7% | 18.0–24.3% | 17.5–24.8% | 16.6–25.8% |
+| [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.1% | 19.4–24.8% |
+| [27–29 November 2023](2023-11-29-Market.html) | Market <br> ÖSTERREICH | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
+| [21–23 November 2023](2023-11-23-Market.html) | Market <br> Der Standard | 20.0% | N/A | N/A | N/A | N/A |
 | [20–22 November 2023](2023-11-22-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [13–16 November 2023](2023-11-16-OGM.html) | OGM <br> KURIER | 23.0% | 21.4–24.8% | 21.0–25.2% | 20.6–25.7% | 19.9–26.5% |
 | [13–15 November 2023](2023-11-15-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
@@ -279,16 +282,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.8% | 99.9% |  |
-| 17.5–18.5% | 4% | 99.1% |  |
-| 18.5–19.5% | 14% | 95% |  |
-| 19.5–20.5% | 24% | 80% |  |
-| 20.5–21.5% | 21% | 57% | Median |
-| 21.5–22.5% | 15% | 36% |  |
-| 22.5–23.5% | 11% | 21% |  |
-| 23.5–24.5% | 7% | 10% |  |
-| 24.5–25.5% | 3% | 3% |  |
+| 15.5–16.5% | 0.4% | 100% |  |
+| 16.5–17.5% | 2% | 99.5% |  |
+| 17.5–18.5% | 6% | 97% |  |
+| 18.5–19.5% | 11% | 91% |  |
+| 19.5–20.5% | 13% | 80% |  |
+| 20.5–21.5% | 18% | 67% | Median |
+| 21.5–22.5% | 21% | 48% |  |
+| 22.5–23.5% | 16% | 27% |  |
+| 23.5–24.5% | 8% | 11% |  |
+| 24.5–25.5% | 3% | 4% |  |
 | 25.5–26.5% | 0.7% | 0.8% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
@@ -310,6 +313,9 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [27–29 November 2023](2023-11-29-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| [21–23 November 2023](2023-11-23-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [20–22 November 2023](2023-11-22-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [13–16 November 2023](2023-11-16-OGM.html) | OGM <br> KURIER | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [13–15 November 2023](2023-11-15-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -579,9 +585,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.5% | 100% |  |
-| 4 | 64% | 99.5% | Median |
-| 5 | 35% | 35% |  |
+| 3 | 2% | 100% |  |
+| 4 | 54% | 98% | Median |
+| 5 | 43% | 44% |  |
 | 6 | 0.5% | 0.5% |  |
 | 7 | 0% | 0% | Last Result |
 
