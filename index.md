@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC | BIER | KPÖ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–25% <br> 4–5 | 21–27% <br> 4–6 | 27–34% <br> 6–7 | 7–10% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 18–25% <br> 4–5 | 20–27% <br> 4–6 | 27–34% <br> 6–7 | 7–11% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 |
 | [4–6 December 2023](2023-12-06-Market.html) | Market <br> ÖSTERREICH | 17–21% <br> 4–5 | 22–26% <br> 5–6 | 28–32% <br> 6–7 | 8–10% <br> 1–2 | 11–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
-| [4–6 December 2023](2023-12-06-INSA.html) | INSA <br> eXXpress | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–6 December 2023](2023-12-06-INSA.html) | INSA <br> eXXpress | 18–23% <br> 3–5 | 20–26% <br> 4–5 | 27–33% <br> 6–7 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 20–24% <br> 4–5 | 20–24% <br> 4–5 | 30–34% <br> 6–8 | 8–11% <br> 1–2 | 8–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 |
 | [13–16 November 2023](2023-11-16-OGM.html) | OGM <br> KURIER | 21–26% <br> 4–5 | 22–28% <br> 5–6 | 26–32% <br> 5–7 | 7–10% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
