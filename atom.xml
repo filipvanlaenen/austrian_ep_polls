@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-12-16T12:46:54.414022+01:00</updated>
+  <updated>2023-12-16T13:31:11.239987+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Österreichs (S&amp;D): 22.2–25.9%, 5–6 seats</li><li>Freiheitliche Partei Österreichs (ID): 28.0–32.1%, 6–7 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 7.8–10.3%, 1–2 seats</li><li>Österreichische Volkspartei (EPP): 17.3–20.8%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 10.6–13.5%, 2–3 seats</li><li>Kommunistische Partei Österreichs (GUE/NGL): 2.3–3.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-Market.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Market for ÖSTERREICH, 4–6 December 2023</title>
     <updated>2023-12-16T12:46:54.414022+01:00</updated>
     <dc:date>2023-12-16T12:46:54.414022+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Österreichs (S&amp;D): 20.5–25.7%, 4–5 seats</li><li>Freiheitliche Partei Österreichs (ID): 27.2–32.9%, 6–7 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 8.3–12.0%, 1–2 seats</li><li>Österreichische Volkspartei (EPP): 17.6–22.6%, 3–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 8.3–12.0%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA.html"/>
+    <title>Opinion Poll by INSA for eXXpress, 4–6 December 2023</title>
+    <updated>2023-12-16T13:31:11.239987+01:00</updated>
+    <dc:date>2023-12-16T13:31:11.239987+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Österreichs (S&amp;D): 20.0–24.1%, 4–5 seats</li><li>Freiheitliche Partei Österreichs (ID): 29.8–34.3%, 6–8 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 7.7–10.5%, 1–2 seats</li><li>Österreichische Volkspartei (EPP): 20.0–24.1%, 4–5 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 7.7–10.5%, 1–2 seats</li><li>Kommunistische Partei Österreichs (GUE/NGL): 3.1–5.1%, 0–1 seats</li></ul></div></content>
@@ -1719,5 +1727,5 @@
     <updated>2020-06-09T22:52:29+02:00</updated>
     <dc:date>2020-06-09T22:52:29+02:00</dc:date>
   </entry>
-  <dc:date>2023-12-16T12:46:54.414022+01:00</dc:date>
+  <dc:date>2023-12-16T13:31:11.239987+01:00</dc:date>
 </feed>
