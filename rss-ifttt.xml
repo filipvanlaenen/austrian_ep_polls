@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 16 Sep 2023 12:27:41 +0200</pubDate>
     <item>
+      <title>Opinion Poll by INSA for eXXpress, 4–6 December 2023 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by INSA for eXXpress, 4–6 December 2023<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA-seating-plan.png" length="372736" type="image/png"/>
+      <pubDate>Sat, 16 Dec 2023 13:31:11 +0100</pubDate>
+      <dc:date>2023-12-16T13:31:11.239987796+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA for eXXpress, 4–6 December 2023 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by INSA for eXXpress, 4–6 December 2023<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA-seats.png" length="227473" type="image/png"/>
+      <pubDate>Sat, 16 Dec 2023 13:31:11 +0100</pubDate>
+      <dc:date>2023-12-16T13:31:11.239987796+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA for eXXpress, 4–6 December 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by INSA for eXXpress, 4–6 December 2023<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-INSA.png" length="245896" type="image/png"/>
+      <pubDate>Sat, 16 Dec 2023 13:31:11 +0100</pubDate>
+      <dc:date>2023-12-16T13:31:11.239987796+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 4–6 December 2023 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-Market.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Market for ÖSTERREICH, 4–6 December 2023<br/>Details on https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-Market.html<br/><img src="https://filipvanlaenen.github.io/austrian_ep_polls/2023-12-06-Market-seating-plan.png"/>]]></description>
