@@ -10,8 +10,22 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% |
-| [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.6–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
+| [20–27 December 2023](2023-12-27-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
+| [18–21 December 2023](2023-12-21-Market.html) | Market <br> Der Standard | 2.0% | N/A | N/A | N/A | N/A |
+| [18–20 December 2023](2023-12-20-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
+| [11–13 December 2023](2023-12-13-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
+| [4–6 December 2023](2023-12-06-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
+| [4–6 December 2023](2023-12-06-INSA.html) | INSA <br> eXXpress | 0.0% | N/A | N/A | N/A | N/A |
+| [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 4.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% |
+| [27–29 November 2023](2023-11-29-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
+| [21–23 November 2023](2023-11-23-Market.html) | Market <br> Der Standard | 2.0% | N/A | N/A | N/A | N/A |
+| [20–22 November 2023](2023-11-22-Market.html) | Market <br> ÖSTERREICH | 4.0% | N/A | N/A | N/A | N/A |
+| [13–16 November 2023](2023-11-16-OGM.html) | OGM <br> KURIER | 0.0% | N/A | N/A | N/A | N/A |
+| [13–15 November 2023](2023-11-15-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
+| [6–9 November 2023](2023-11-09-UniqueResearch.html) | Unique Research <br> profil | 3.0% | N/A | N/A | N/A | N/A |
+| [6–8 November 2023](2023-11-08-Market.html) | Market <br> ÖSTERREICH | 4.0% | N/A | N/A | N/A | N/A |
+| [30 October–2 November 2023](2023-11-02-INSA.html) | INSA <br> eXXpress | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 October 2023](2023-10-30-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [23–25 October 2023](2023-10-25-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
 | [16–19 October 2023](2023-10-19-Market.html) | Market <br> Der Standard | 2.0% | N/A | N/A | N/A | N/A |
@@ -50,7 +64,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [22–24 May 2023](2023-05-24-OGM.html) | OGM <br> Servus TV | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.3% |
 | [15–24 May 2023](2023-05-24-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 May 2023](2023-05-18-IFDD.html) | IFDD <br> Kronen Zeitung | 7.0% | 6.2–8.1% | 5.9–8.4% | 5.7–8.6% | 5.4–9.1% |
-| [12–16 May 2023](2023-05-16-Market.html) | Market <br> Der Standard | 3.0% | N/A | N/A | N/A | N/A |
+| [8–16 May 2023](2023-05-16-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 May 2023](2023-05-11-UniqueResearch.html) | Unique Research <br> profil | 0.0% | N/A | N/A | N/A | N/A |
 | [28 April–10 May 2023](2023-05-10-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
 | [24 April–4 May 2023](2023-05-04-OGM.html) | OGM <br> KURIER | 7.0% | 6.3–7.7% | 6.2–7.9% | 6.0–8.1% | 5.7–8.5% |
@@ -64,7 +78,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–12 April 2023](2023-04-12-Market.html) | Market | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 April 2023](2023-04-06-INSA.html) | INSA <br> eXXpress | 0.0% | N/A | N/A | N/A | N/A |
 | [27 March–5 April 2023](2023-04-05-Market.html) | Market | 0.0% | N/A | N/A | N/A | N/A |
-| [20–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
+| [27–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
 | [20–23 March 2023](2023-03-23-UniqueResearch.html) | Unique Research <br> Heute | 0.0% | N/A | N/A | N/A | N/A |
 | [20–23 March 2023](2023-03-23-OGM.html) | OGM <br> KURIER | 0.0% | N/A | N/A | N/A | N/A |
 | [20–23 March 2023](2023-03-23-Market.html) | Market <br> Der Standard | 0.0% | N/A | N/A | N/A | N/A |
@@ -275,11 +289,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 11% | 100% |  |
-| 2.5–3.5% | 76% | 89% | Median |
-| 3.5–4.5% | 13% | 13% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 1.5–2.5% | 9% | 100% |  |
+| 2.5–3.5% | 81% | 91% | Median |
+| 3.5–4.5% | 10% | 10% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -290,8 +303,22 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–27 December 2023](2023-12-27-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
+| [18–21 December 2023](2023-12-21-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [18–20 December 2023](2023-12-20-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [11–13 December 2023](2023-12-13-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [4–6 December 2023](2023-12-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [4–6 December 2023](2023-12-06-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
 | [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 0 | 0 | 0 | 0 | 0–1 |
+| [27–29 November 2023](2023-11-29-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [21–23 November 2023](2023-11-23-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [20–22 November 2023](2023-11-22-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [13–16 November 2023](2023-11-16-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
+| [13–15 November 2023](2023-11-15-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [6–9 November 2023](2023-11-09-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [6–8 November 2023](2023-11-08-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [30 October–2 November 2023](2023-11-02-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
 | [27–30 October 2023](2023-10-30-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [23–25 October 2023](2023-10-25-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [16–19 October 2023](2023-10-19-Market.html) | Market <br> Der Standard |  |  |  |  |  |
@@ -330,7 +357,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–24 May 2023](2023-05-24-OGM.html) | OGM <br> Servus TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–24 May 2023](2023-05-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [16–18 May 2023](2023-05-18-IFDD.html) | IFDD <br> Kronen Zeitung | 1 | 1 | 1 | 1 | 1–2 |
-| [12–16 May 2023](2023-05-16-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [8–16 May 2023](2023-05-16-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [8–11 May 2023](2023-05-11-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [28 April–10 May 2023](2023-05-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [24 April–4 May 2023](2023-05-04-OGM.html) | OGM <br> KURIER | 1 | 1 | 1 | 1 | 1 |
@@ -344,7 +371,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–12 April 2023](2023-04-12-Market.html) | Market |  |  |  |  |  |
 | [3–6 April 2023](2023-04-06-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
 | [27 March–5 April 2023](2023-04-05-Market.html) | Market |  |  |  |  |  |
-| [20–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [27–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [20–23 March 2023](2023-03-23-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
 | [20–23 March 2023](2023-03-23-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
 | [20–23 March 2023](2023-03-23-Market.html) | Market <br> Der Standard |  |  |  |  |  |
@@ -555,8 +582,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
 | 2 | 0% | 0% |  |
 
 
