@@ -5,8 +5,9 @@ The table below lists the most recent polls (less than 25 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC | BIER | KPÖ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–25% <br> 4–6 | 22–26% <br> 5–6 | 28–32% <br> 6–7 | 10–14% <br> 2–3 | 6–8% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
-| [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 21–25% <br> 4–6 | 22–26% <br> 5–6 | 28–32% <br> 6–7 | 10–14% <br> 2–3 | 6–8% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 18–23% <br> 4–5 | 21–25% <br> 4–5 | 27–32% <br> 6–7 | 8–12% <br> 1–2 | 9–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
+| [20–27 December 2023](2023-12-27-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4–5 | 21–25% <br> 4–6 | 27–31% <br> 6–7 | 8–10% <br> 1–2 | 10–12% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
+| [4–6 December 2023](2023-12-06-INSA.html) | INSA <br> eXXpress | 18–23% <br> 3–5 | 20–26% <br> 4–5 | 27–33% <br> 6–7 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
