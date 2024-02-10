@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.0–7.1% | 4.8–7.5% |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH | 6.0% | N/A | N/A | N/A | N/A |
@@ -317,6 +318,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 1 | 1 | 1 | 1 | 1 |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |

@@ -11,6 +11,7 @@ Last result: **14.1%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.2% | 6.8–9.9% | 6.5–10.3% | 6.3–10.7% | 5.9–11.5% |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
@@ -317,6 +318,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 1 | 1 | 1 | 1 | 1 |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -604,8 +606,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 63% | 100% | Median |
-| 2 | 37% | 37% | Last Result |
+| 1 | 61% | 100% | Median |
+| 2 | 39% | 39% | Last Result |
 | 3 | 0% | 0% |  |
 
 
