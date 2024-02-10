@@ -5,11 +5,10 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC | BIER | KPÖ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–24% <br> 4–5 | 20–25% <br> 4–5 | 26–34% <br> 6–7 | 6–11% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 1 | 2–5% <br> 0–1 |
-| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4–5 | 19–23% <br> 4–5 | 26–30% <br> 6–7 | 7–9% <br> 1–2 | 11–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 1 | 2–4% <br> 0 |
-| [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 20–24% <br> 4–5 | 20–24% <br> 4–5 | 26–30% <br> 5–6 | 6–8% <br> 1 | 9–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 1 | N/A <br> N/A |
-| [22–24 January 2024](2024-01-24-INSA.html) | INSA <br> eXXpress | 19–24% <br> 4–5 | 20–25% <br> 4–5 | 28–34% <br> 6–7 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–22 January 2024](2024-01-22-TripleM.html) | Triple M <br> News | 17–23% <br> 4–5 | 20–26% <br> 4–6 | 28–34% <br> 6–8 | 7–11% <br> 1–2 | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 19–26% <br> 4–5 | 18–26% <br> 4–6 | 24–30% <br> 5–6 | 12–16% <br> 2–3 | 8–16% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
+| [22–31 January 2024](2024-01-31-OGM.html) | OGM | 20–24% <br> 4–5 | 19–23% <br> 4–5 | 24–28% <br> 5–6 | 13–16% <br> 2–3 | 11–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
+| [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 21–27% <br> 4–6 | 18–23% <br> 3–5 | 24–30% <br> 5–6 | 11–15% <br> 2–3 | 12–16% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
+| [25–28 January 2024](2024-01-28-IFDD.html) | IFDD <br> NÖN | 19–24% <br> 4–5 | 21–27% <br> 4–6 | 24–30% <br> 5–7 | 12–16% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
