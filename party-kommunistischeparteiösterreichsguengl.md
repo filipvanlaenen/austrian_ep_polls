@@ -10,24 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.7–4.7% | 2.6–5.0% | 2.4–5.3% | 2.2–5.9% |
-| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
-| [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
-| [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 0.0% | N/A | N/A | N/A | N/A |
-| [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH | 2.0% | N/A | N/A | N/A | N/A |
-| [22–24 January 2024](2024-01-24-INSA.html) | INSA <br> eXXpress | 0.0% | N/A | N/A | N/A | N/A |
-| [12–22 January 2024](2024-01-22-TripleM.html) | Triple M <br> News | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
-| [15–17 January 2024](2024-01-17-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
-| [10–12 January 2024](2024-01-12-OGM.html) | OGM | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| [8–10 January 2024](2024-01-10-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
-| [8–10 January 2024](2024-01-10-INSA.html) | INSA <br> eXXpress | 0.0% | N/A | N/A | N/A | N/A |
-| [20–27 December 2023](2023-12-27-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
-| [18–21 December 2023](2023-12-21-Market.html) | Market <br> Der Standard | 2.0% | N/A | N/A | N/A | N/A |
-| [18–20 December 2023](2023-12-20-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
-| [11–13 December 2023](2023-12-13-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
-| [4–6 December 2023](2023-12-06-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
-| [4–6 December 2023](2023-12-06-INSA.html) | INSA <br> eXXpress | 0.0% | N/A | N/A | N/A | N/A |
-| [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 4.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.4% | 1.6–3.7% | 1.4–3.9% | 1.2–4.4% |
+| [22–31 January 2024](2024-01-31-OGM.html) | OGM | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
+| [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [25–28 January 2024](2024-01-28-IFDD.html) | IFDD <br> NÖN | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [11–13 December 2023](2023-12-13-Market.html) | Market <br> ÖSTERREICH | 2.0% | N/A | N/A | N/A | N/A |
+| [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% |
 | [27–29 November 2023](2023-11-29-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
 | [21–23 November 2023](2023-11-23-Market.html) | Market <br> Der Standard | 2.0% | N/A | N/A | N/A | N/A |
 | [20–22 November 2023](2023-11-22-Market.html) | Market <br> ÖSTERREICH | 4.0% | N/A | N/A | N/A | N/A |
@@ -298,14 +286,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 51% | 95% | Median |
-| 3.5–4.5% | 31% | 44% |  |
-| 4.5–5.5% | 11% | 13% |  |
-| 5.5–6.5% | 1.4% | 1.4% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 59% | 95% | Median |
+| 2.5–3.5% | 29% | 36% |  |
+| 3.5–4.5% | 6% | 7% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -316,23 +302,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [22–31 January 2024](2024-01-31-OGM.html) | OGM | 0 | 0 | 0 | 0 | 0 |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
-| [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
-| [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [22–24 January 2024](2024-01-24-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
-| [12–22 January 2024](2024-01-22-TripleM.html) | Triple M <br> News | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–17 January 2024](2024-01-17-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
-| [10–12 January 2024](2024-01-12-OGM.html) | OGM | 0 | 0 | 0 | 0 | 0 |
-| [8–10 January 2024](2024-01-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [8–10 January 2024](2024-01-10-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
-| [20–27 December 2023](2023-12-27-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
-| [18–21 December 2023](2023-12-21-Market.html) | Market <br> Der Standard |  |  |  |  |  |
-| [18–20 December 2023](2023-12-20-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [25–28 January 2024](2024-01-28-IFDD.html) | IFDD <br> NÖN | 0 | 0 | 0 | 0 | 0–1 |
 | [11–13 December 2023](2023-12-13-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [4–6 December 2023](2023-12-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [4–6 December 2023](2023-12-06-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
 | [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 0 | 0 | 0 | 0 | 0–1 |
 | [27–29 November 2023](2023-11-29-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [21–23 November 2023](2023-11-23-Market.html) | Market <br> Der Standard |  |  |  |  |  |
@@ -605,8 +579,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 20% | 20% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% |  |
 
 
