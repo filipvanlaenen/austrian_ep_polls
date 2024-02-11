@@ -23,7 +23,7 @@ Last result: **8.4%** (General Election of 26 May 2019)
 | [13–15 November 2023](2023-11-15-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
 | [6–9 November 2023](2023-11-09-UniqueResearch.html) | Unique Research <br> profil | 10.0% | N/A | N/A | N/A | N/A |
 | [6–8 November 2023](2023-11-08-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
-| [30 October–2 November 2023](2023-11-02-INSA.html) | INSA <br> eXXpress | 10.0% | N/A | N/A | N/A | N/A |
+| [30 October–2 November 2023](2023-11-02-INSA.html) | INSA <br> eXXpress | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [27–30 October 2023](2023-10-30-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [23–25 October 2023](2023-10-25-Market.html) | Market <br> ÖSTERREICH | 12.0% | N/A | N/A | N/A | N/A |
 | [16–19 October 2023](2023-10-19-Market.html) | Market <br> Der Standard | 10.0% | N/A | N/A | N/A | N/A |
@@ -322,7 +322,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [13–15 November 2023](2023-11-15-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [6–9 November 2023](2023-11-09-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [6–8 November 2023](2023-11-08-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [30 October–2 November 2023](2023-11-02-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
+| [30 October–2 November 2023](2023-11-02-INSA.html) | INSA <br> eXXpress | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [27–30 October 2023](2023-10-30-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 2–3 |
 | [23–25 October 2023](2023-10-25-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [16–19 October 2023](2023-10-19-Market.html) | Market <br> Der Standard |  |  |  |  |  |
