@@ -10,7 +10,8 @@ Last result: **17.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.0% | 24.5–27.5% | 24.1–28.0% | 23.7–28.4% | 22.9–29.4% |
+| N/A | [Poll Average](average.html) | 27.1% | 24.8–29.5% | 24.3–30.1% | 23.8–30.6% | 22.9–31.6% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.1% | 24.7–32.0% |
 | [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 27.0% | 25.1–29.1% | 24.5–29.7% | 24.0–30.2% | 23.1–31.2% |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 26.0% | 24.8–27.3% | 24.5–27.6% | 24.2–28.0% | 23.6–28.6% |
@@ -293,15 +294,18 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 2% | 99.8% |  |
-| 23.5–24.5% | 8% | 98% |  |
-| 24.5–25.5% | 23% | 90% |  |
-| 25.5–26.5% | 34% | 67% | Median |
-| 26.5–27.5% | 23% | 32% |  |
-| 27.5–28.5% | 8% | 10% |  |
-| 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.3% | 0.3% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 22.5–23.5% | 1.4% | 99.8% |  |
+| 23.5–24.5% | 6% | 98% |  |
+| 24.5–25.5% | 12% | 93% |  |
+| 25.5–26.5% | 19% | 81% |  |
+| 26.5–27.5% | 21% | 62% | Median |
+| 27.5–28.5% | 19% | 41% |  |
+| 28.5–29.5% | 13% | 22% |  |
+| 29.5–30.5% | 6% | 9% |  |
+| 30.5–31.5% | 2% | 3% |  |
+| 31.5–32.5% | 0.5% | 0.6% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -312,7 +316,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -593,9 +598,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0.1% | 100% |  |
-| 5 | 41% | 99.9% |  |
-| 6 | 59% | 59% | Median |
-| 7 | 0.1% | 0.1% |  |
+| 5 | 28% | 99.9% |  |
+| 6 | 64% | 72% | Median |
+| 7 | 8% | 8% |  |
 | 8 | 0% | 0% |  |
 
 
