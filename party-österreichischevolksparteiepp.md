@@ -321,7 +321,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 5 | 5 | 4–6 | 4–6 | 4–6 |
@@ -599,8 +599,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 2% | 100% |  |
-| 4 | 73% | 98% | Median |
+| 3 | 1.3% | 100% |  |
+| 4 | 73% | 98.7% | Median |
 | 5 | 25% | 25% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% | Last Result |
