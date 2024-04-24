@@ -35,7 +35,7 @@ Last result: **8.4%** (General Election of 26 May 2019)
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 10.0% | N/A | N/A | N/A | N/A |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
 | [22–24 January 2024](2024-01-24-INSA.html) | INSA <br> eXXpress | 9.0% | N/A | N/A | N/A | N/A |
-| [12–22 January 2024](2024-01-22-TripleM.html) | Triple M <br> News | 10.0% | N/A | N/A | N/A | N/A |
+| [12–22 January 2024](2024-01-22-TripleM.html) | Triple M <br> News | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [15–17 January 2024](2024-01-17-Market.html) | Market <br> ÖSTERREICH | 11.0% | N/A | N/A | N/A | N/A |
 | [10–12 January 2024](2024-01-12-OGM.html) | OGM | 10.0% | N/A | N/A | N/A | N/A |
 | [8–10 January 2024](2024-01-10-Market.html) | Market <br> ÖSTERREICH | 12.0% | N/A | N/A | N/A | N/A |
@@ -360,7 +360,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [22–24 January 2024](2024-01-24-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
-| [12–22 January 2024](2024-01-22-TripleM.html) | Triple M <br> News |  |  |  |  |  |
+| [12–22 January 2024](2024-01-22-TripleM.html) | Triple M <br> News | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [15–17 January 2024](2024-01-17-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [10–12 January 2024](2024-01-12-OGM.html) | OGM |  |  |  |  |  |
 | [8–10 January 2024](2024-01-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
