@@ -350,7 +350,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 3–4 | 3–5 |
 | [8–10 April 2024](2024-04-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -656,7 +656,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
-| 4 | 79% | 98% | Median |
+| 4 | 78% | 98% | Median |
 | 5 | 19% | 19% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% | Last Result |

@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 18–23% <br> 4–5 | 19–24% <br> 4–5 | 26–33% <br> 6–7 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–9% <br> 0–2 | 3–6% <br> 0–1 |
 | [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH | 17–21% <br> 3–4 | 21–25% <br> 4–5 | 26–30% <br> 5–7 | 9–11% <br> 2 | 9–11% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–1 | 3–5% <br> 0–1 |
-| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 18–23% <br> 4–5 | 19–24% <br> 4–5 | 28–34% <br> 6–7 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 |
+| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 18–23% <br> 3–5 | 19–24% <br> 4–5 | 28–34% <br> 6–7 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 18–24% <br> 4–5 | 18–24% <br> 4–5 | 27–33% <br> 6–7 | 6–10% <br> 1–2 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 1–2 | 4–7% <br> 0–1 |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -227,7 +227,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
-| 4 | 79% | 98% | Median |
+| 4 | 78% | 98% | Median |
 | 5 | 19% | 19% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% | Last Result |
@@ -378,7 +378,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
-| 4 | 79% | 98% | Median |
+| 4 | 78% | 98% | Median |
 | 5 | 19% | 19% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% | Last Result |
@@ -418,5 +418,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 3
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.86%
