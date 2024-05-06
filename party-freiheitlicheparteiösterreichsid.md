@@ -10,7 +10,8 @@ Last result: **17.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.0% | 25.8–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
+| N/A | [Poll Average](average.html) | 27.0% | 25.1–29.0% | 24.5–29.6% | 24.1–30.1% | 23.2–31.0% |
+| [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard | 27.0% | 25.1–29.0% | 24.5–29.6% | 24.1–30.1% | 23.2–31.0% |
 | [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH | 27.0% | 25.7–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.1% | 24.7–32.0% |
 | [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 32.5% | 27.9–32.0% | 27.3–32.6% | 26.8–33.2% | 25.8–34.2% |
@@ -310,16 +311,18 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.6% | 100% |  |
-| 24.5–25.5% | 6% | 99.4% |  |
-| 25.5–26.5% | 25% | 93% |  |
-| 26.5–27.5% | 39% | 68% | Median |
-| 27.5–28.5% | 23% | 29% |  |
-| 28.5–29.5% | 6% | 6% |  |
-| 29.5–30.5% | 0.6% | 0.6% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.9% | 99.9% |  |
+| 23.5–24.5% | 4% | 99.0% |  |
+| 24.5–25.5% | 12% | 95% |  |
+| 25.5–26.5% | 22% | 83% |  |
+| 26.5–27.5% | 26% | 61% | Median |
+| 27.5–28.5% | 20% | 36% |  |
+| 28.5–29.5% | 11% | 16% |  |
+| 29.5–30.5% | 4% | 5% |  |
+| 30.5–31.5% | 1.0% | 1.2% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -330,7 +333,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -629,9 +633,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 10% | 100% |  |
-| 6 | 89% | 90% | Median |
-| 7 | 1.1% | 1.1% |  |
+| 5 | 19% | 100% |  |
+| 6 | 76% | 81% | Median |
+| 7 | 5% | 5% |  |
 | 8 | 0% | 0% |  |
 
 
