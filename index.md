@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC | BIER | KPÖ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–23% <br> 4–5 | 21–25% <br> 4–5 | 25–29% <br> 5–6 | 11–14% <br> 2–3 | 12–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
-| [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4–5 | 21–25% <br> 4–5 | 25–29% <br> 5–6 | 11–14% <br> 2–3 | 12–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 17–23% <br> 4–5 | 21–27% <br> 4–6 | 24–30% <br> 5–7 | 10–14% <br> 2–3 | 11–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 |
+| [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard | 17–23% <br> 4–5 | 21–27% <br> 4–6 | 24–30% <br> 5–7 | 10–14% <br> 2–3 | 11–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 |
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
