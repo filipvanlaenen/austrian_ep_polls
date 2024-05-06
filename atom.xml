@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2024-05-04T13:50:34.670291+02:00</updated>
+  <updated>2024-05-06T20:39:57.36902+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 10.8–15.4%, 2–3 seats</li><li>Österreichische Volkspartei (EPP): 17.4–22.8%, 4–5 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 10.0–14.4%, 2–3 seats</li><li>Kommunistische Partei Österreichs (GUE/NGL): 2.0–4.4%, 0–1 seats</li><li>Freiheitliche Partei Österreichs (ID): 24.1–30.1%, 5–7 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 21.2–27.0%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2024-04-25-Market.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2024-04-25-Market.html"/>
+    <title>Opinion Poll by Market for Der Standard, 22–25 April 2024</title>
+    <updated>2024-05-06T20:39:57.36902+02:00</updated>
+    <dc:date>2024-05-06T20:39:57.36902+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 11.6–14.6%, 2–3 seats</li><li>Österreichische Volkspartei (EPP): 19.3–22.8%, 4–5 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 10.6–13.5%, 2–3 seats</li><li>Kommunistische Partei Österreichs (GUE/NGL): 2.3–3.9%, 0 seats</li><li>Freiheitliche Partei Österreichs (ID): 25.1–29.0%, 5–6 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 21.2–24.9%, 4–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2024-04-24-Market.html</id>
@@ -1743,5 +1751,5 @@
     <updated>2020-06-09T22:52:29+02:00</updated>
     <dc:date>2020-06-09T22:52:29+02:00</dc:date>
   </entry>
-  <dc:date>2024-05-04T13:50:34.670291+02:00</dc:date>
+  <dc:date>2024-05-06T20:39:57.36902+02:00</dc:date>
 </feed>
