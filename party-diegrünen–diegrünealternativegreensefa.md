@@ -10,7 +10,8 @@ Last result: **14.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.0% | 13.1–15.0% | 12.8–15.3% | 12.6–15.6% | 12.1–16.1% |
+| N/A | [Poll Average](average.html) | 13.6% | 12.2–14.9% | 11.7–15.2% | 11.4–15.5% | 10.7–16.0% |
+| [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard | 12.0% | 10.7–13.5% | 10.3–14.0% | 10.0–14.4% | 9.4–15.2% |
 | [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
@@ -307,12 +308,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 2% | 100% |  |
-| 12.5–13.5% | 24% | 98% |  |
-| 13.5–14.5% | 48% | 73% | Last Result, Median |
-| 14.5–15.5% | 22% | 25% |  |
-| 15.5–16.5% | 3% | 3% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.3% | 100% |  |
+| 10.5–11.5% | 3% | 99.7% |  |
+| 11.5–12.5% | 13% | 96% |  |
+| 12.5–13.5% | 30% | 83% |  |
+| 13.5–14.5% | 36% | 53% | Last Result, Median |
+| 14.5–15.5% | 15% | 17% |  |
+| 15.5–16.5% | 2% | 2% |  |
 | 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -325,7 +328,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -624,8 +628,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 8% | 100% | Last Result |
-| 3 | 92% | 92% | Median |
+| 2 | 29% | 100% | Last Result |
+| 3 | 71% | 71% | Median |
 | 4 | 0% | 0% |  |
 
 
