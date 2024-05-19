@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC | BIER | KPÖ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [15–17 May 2024](2024-05-17-IFDD.html) | IFDD | 20–26% <br> 4–6 | 20–25% <br> 4–5 | 24–30% <br> 5–7 | 9–13% <br> 2–3 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 |
 | [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 20–25% <br> 4–5 | 20–25% <br> 4–5 | 23–29% <br> 5–6 | 11–15% <br> 2–3 | 12–16% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
 | [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 4–5 | 19–23% <br> 4–5 | 24–28% <br> 5–6 | 13–16% <br> 2–3 | 13–17% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
 | [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard | 17–23% <br> 4–5 | 21–27% <br> 4–6 | 24–30% <br> 5–7 | 10–14% <br> 2–3 | 11–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 |
