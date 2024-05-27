@@ -10,7 +10,11 @@ Last result: **23.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.6% | 20.1–23.4% | 19.8–24.0% | 19.4–24.4% | 18.8–25.4% |
+| N/A | [Poll Average](average.html) | 23.0% | 21.2–24.9% | 20.7–25.4% | 20.3–25.9% | 19.5–26.9% |
+| [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 23.0% | 21.4–24.7% | 20.9–25.1% | 20.5–25.6% | 19.8–26.4% |
+| [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
+| [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
+| [13–17 May 2024](2024-05-17-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 23.0% | 21.5–24.6% | 21.1–25.1% | 20.7–25.5% | 20.0–26.3% |
 | [15–17 May 2024](2024-05-17-IFDD.html) | IFDD | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 22.0% | 20.4–23.8% | 20.0–24.3% | 19.6–24.7% | 18.8–25.6% |
 | [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
@@ -309,17 +313,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 3% | 99.7% |  |
-| 19.5–20.5% | 15% | 97% |  |
-| 20.5–21.5% | 29% | 82% |  |
-| 21.5–22.5% | 28% | 53% | Median |
-| 22.5–23.5% | 16% | 25% |  |
-| 23.5–24.5% | 7% | 9% | Last Result |
-| 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.3% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 0.6% | 99.9% |  |
+| 19.5–20.5% | 3% | 99.4% |  |
+| 20.5–21.5% | 11% | 96% |  |
+| 21.5–22.5% | 22% | 85% |  |
+| 22.5–23.5% | 27% | 63% | Median |
+| 23.5–24.5% | 21% | 36% | Last Result |
+| 24.5–25.5% | 10% | 15% |  |
+| 25.5–26.5% | 3% | 4% |  |
+| 26.5–27.5% | 0.8% | 0.9% |  |
+| 27.5–28.5% | 0.1% | 0.1% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -330,7 +335,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 5 | 5 | 4–5 | 4–6 | 4–6 |
+| [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 5 | 5 | 4–5 | 4–6 | 4–6 |
+| [13–17 May 2024](2024-05-17-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [15–17 May 2024](2024-05-17-IFDD.html) | IFDD | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -631,9 +640,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 50% | 100% |  |
-| 5 | 50% | 50% | Last Result, Median |
-| 6 | 0.3% | 0.3% |  |
+| 4 | 16% | 100% |  |
+| 5 | 80% | 84% | Last Result, Median |
+| 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
 

@@ -10,7 +10,11 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.9% | 20.3–24.0% | 19.9–24.6% | 19.5–25.1% | 18.9–26.1% |
+| N/A | [Poll Average](average.html) | 22.3% | 20.6–24.0% | 20.1–24.5% | 19.7–24.9% | 18.9–25.8% |
+| [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 22.0% | 20.5–23.7% | 20.0–24.2% | 19.7–24.6% | 18.9–25.4% |
+| [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
+| [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
+| [13–17 May 2024](2024-05-17-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 23.0% | 21.5–24.6% | 21.1–25.1% | 20.7–25.5% | 20.0–26.3% |
 | [15–17 May 2024](2024-05-17-IFDD.html) | IFDD | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 22.0% | 20.4–23.8% | 20.0–24.3% | 19.6–24.7% | 18.8–25.6% |
 | [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
@@ -312,14 +316,14 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.2% | 100% |  |
 | 18.5–19.5% | 2% | 99.8% |  |
-| 19.5–20.5% | 12% | 97% |  |
-| 20.5–21.5% | 25% | 85% |  |
-| 21.5–22.5% | 25% | 60% | Median |
-| 22.5–23.5% | 19% | 35% |  |
-| 23.5–24.5% | 11% | 16% |  |
+| 19.5–20.5% | 8% | 98% |  |
+| 20.5–21.5% | 20% | 90% |  |
+| 21.5–22.5% | 29% | 70% | Median |
+| 22.5–23.5% | 24% | 41% |  |
+| 23.5–24.5% | 12% | 17% |  |
 | 24.5–25.5% | 4% | 5% |  |
-| 25.5–26.5% | 1.1% | 1.3% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
+| 25.5–26.5% | 0.7% | 0.8% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
 | 29.5–30.5% | 0% | 0% |  |
@@ -339,6 +343,10 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [13–17 May 2024](2024-05-17-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [15–17 May 2024](2024-05-17-IFDD.html) | IFDD | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -639,9 +647,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 43% | 100% |  |
-| 5 | 56% | 57% | Median |
-| 6 | 1.4% | 1.4% |  |
+| 4 | 30% | 100% |  |
+| 5 | 70% | 70% | Median |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% | Last Result |
 
 
