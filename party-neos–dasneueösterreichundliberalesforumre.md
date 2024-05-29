@@ -10,7 +10,7 @@ Last result: **8.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.0% | 10.0–15.4% | 9.5–16.0% | 9.1–16.5% | 8.4–17.4% |
+| N/A | [Poll Average](average.html) | 12.6% | 9.8–15.4% | 9.3–16.0% | 9.0–16.5% | 8.4–17.5% |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 12.0% | 10.9–13.4% | 10.5–13.8% | 10.2–14.1% | 9.7–14.8% |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
@@ -314,17 +314,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.7% | 100% | Last Result |
-| 8.5–9.5% | 5% | 99.3% |  |
-| 9.5–10.5% | 10% | 94% |  |
-| 10.5–11.5% | 11% | 84% |  |
-| 11.5–12.5% | 15% | 73% |  |
-| 12.5–13.5% | 19% | 58% | Median |
-| 13.5–14.5% | 18% | 40% |  |
-| 14.5–15.5% | 13% | 22% |  |
+| 7.5–8.5% | 0.9% | 100% | Last Result |
+| 8.5–9.5% | 6% | 99.1% |  |
+| 9.5–10.5% | 12% | 93% |  |
+| 10.5–11.5% | 14% | 81% |  |
+| 11.5–12.5% | 17% | 67% |  |
+| 12.5–13.5% | 17% | 50% | Median |
+| 13.5–14.5% | 14% | 33% |  |
+| 14.5–15.5% | 10% | 19% |  |
 | 15.5–16.5% | 6% | 9% |  |
 | 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.3% | 0.4% |  |
+| 17.5–18.5% | 0.4% | 0.4% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -336,7 +336,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 3 | 3 | 3 | 2–4 | 2–4 |
 | [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -641,9 +641,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.0% | 100% | Last Result |
-| 2 | 46% | 99.0% |  |
-| 3 | 52% | 53% | Median |
+| 1 | 1.3% | 100% | Last Result |
+| 2 | 54% | 98.7% | Median |
+| 3 | 44% | 45% |  |
 | 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 

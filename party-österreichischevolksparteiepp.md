@@ -10,7 +10,7 @@ Last result: **34.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.3% | 20.6–24.0% | 20.1–24.5% | 19.7–24.9% | 18.9–25.8% |
+| N/A | [Poll Average](average.html) | 22.3% | 20.6–24.0% | 20.1–24.5% | 19.7–25.0% | 19.0–25.8% |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 22.0% | 20.5–23.7% | 20.0–24.2% | 19.7–24.6% | 18.9–25.4% |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
@@ -317,12 +317,12 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0.2% | 100% |  |
 | 18.5–19.5% | 2% | 99.8% |  |
 | 19.5–20.5% | 8% | 98% |  |
-| 20.5–21.5% | 20% | 90% |  |
-| 21.5–22.5% | 29% | 70% | Median |
-| 22.5–23.5% | 24% | 41% |  |
-| 23.5–24.5% | 12% | 17% |  |
+| 20.5–21.5% | 20% | 91% |  |
+| 21.5–22.5% | 29% | 71% | Median |
+| 22.5–23.5% | 24% | 42% |  |
+| 23.5–24.5% | 13% | 18% |  |
 | 24.5–25.5% | 4% | 5% |  |
-| 25.5–26.5% | 0.7% | 0.8% |  |
+| 25.5–26.5% | 0.8% | 0.9% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -647,9 +647,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 30% | 100% |  |
-| 5 | 69% | 70% | Median |
-| 6 | 0.7% | 0.7% |  |
+| 4 | 27% | 100% |  |
+| 5 | 72% | 73% | Median |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% | Last Result |
 
 
