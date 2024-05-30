@@ -18,6 +18,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [15–17 May 2024](2024-05-17-IFDD.html) | IFDD | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
+| [3–7 May 2024](2024-05-07-TripleM.html) | Triple M <br> News | 4.3% | 3.5–5.5% | 3.3–5.8% | 3.1–6.1% | 2.7–6.7% |
 | [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard | 3.0% | 2.3–3.9% | 2.2–4.1% | 2.0–4.4% | 1.8–4.8% |
 | [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
@@ -338,6 +339,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–17 May 2024](2024-05-17-IFDD.html) | IFDD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 0 | 0 | 0 | 0 | 0 |
 | [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
+| [3–7 May 2024](2024-05-07-TripleM.html) | Triple M <br> News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0–1 | 0–1 |
 | [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0 | 0 | 0 | 0 |
