@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 0.8–2.5% | 0.7–2.7% | 0.6–2.9% | 0.5–3.3% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.6–2.6% | 1.5–2.8% | 1.4–2.9% | 1.2–3.3% |
+| [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–1.9% | 0.4–2.3% |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.2–3.4% |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 1.0% | N/A | N/A | N/A | N/A |
@@ -315,10 +316,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.4% | 100% | Last Result |
-| 0.5–1.5% | 49% | 98.6% |  |
-| 1.5–2.5% | 42% | 50% | Median |
-| 2.5–3.5% | 8% | 8% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 7% | 100% |  |
+| 1.5–2.5% | 82% | 93% | Median |
+| 2.5–3.5% | 11% | 12% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -332,6 +333,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 0 | 0 | 0 | 0 | 0 |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
