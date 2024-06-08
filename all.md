@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | Grüne | NEOS | JETZT | GILT | HC | BIER | KPÖ | DNA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 34.6% <br> 7 | 23.9% <br> 5 | 17.2% <br> 3 | 14.1% <br> 2 | 8.4% <br> 1 | 1.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH | 19–22% <br> 4–5 | 22–25% <br> 5–6 | 27–31% <br> 6–7 | 8–10% <br> 1–2 | 12–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 |
 | [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 19–25% <br> 4–5 | 21–27% <br> 4–6 | 24–30% <br> 5–7 | 7–11% <br> 1–2 | 12–17% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 1–2% <br> 0 |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 20–25% <br> 4–5 | 21–26% <br> 4–6 | 25–31% <br> 5–7 | 8–12% <br> 1–2 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 20–25% <br> 4–5 | 21–27% <br> 4–6 | 24–30% <br> 5–6 | 7–11% <br> 1–2 | 13–17% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A |
