@@ -336,7 +336,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -645,8 +645,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 51% | 100% | Median |
-| 3 | 49% | 49% |  |
+| 2 | 47% | 100% |  |
+| 3 | 53% | 53% | Median |
 | 4 | 0% | 0% |  |
 
 
