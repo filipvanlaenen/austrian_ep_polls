@@ -26,7 +26,7 @@ Only polls for which at least the sample size has been published are included in
 + **SPÖ:** Sozialdemokratische Partei Österreichs (S&D)
 + **NEOS:** NEOS–Das Neue Österreich und Liberales Forum (RE)
 + **ÖVP:** Österreichische Volkspartei (EPP)
-+ **FPÖ:** Freiheitliche Partei Österreichs (ID)
++ **FPÖ:** Freiheitliche Partei Österreichs (PfE)
 + **GILT:** Meine Stimme Gilt! (*)
 + **HC:** Team HC Strache–Allianz für Österreich (*)
 + **BIER:** Bierpartei (*)
