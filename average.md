@@ -26,7 +26,7 @@ Only polls for which at least the sample size has been published are included in
 + **SPÖ:** Sozialdemokratische Partei Österreichs (S&D)
 + **NEOS:** NEOS–Das Neue Österreich und Liberales Forum (RE)
 + **ÖVP:** Österreichische Volkspartei (EPP)
-+ **FPÖ:** Freiheitliche Partei Österreichs (ID)
++ **FPÖ:** Freiheitliche Partei Österreichs (PfE)
 + **GILT:** Meine Stimme Gilt! (*)
 + **HC:** Team HC Strache–Allianz für Österreich (*)
 + **BIER:** Bierpartei (*)
@@ -48,7 +48,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 0.0% | 21.0% | 19.6–22.5% |19.2–23.0% | 18.8–23.4% | 18.1–24.3% |
 | <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 0.0% | 10.0% | 7.6–11.5% |7.2–11.9% | 6.9–12.2% | 6.3–12.7% |
 | <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 0.0% | 23.8% | 22.0–25.4% |21.5–25.8% | 21.1–26.3% | 20.2–27.1% |
-| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 0.0% | 27.0% | 25.4–28.6% |25.0–29.1% | 24.5–29.6% | 23.7–30.5% |
+| <a href="#freiheitliche-partei-österreichs-(pfe)">Freiheitliche Partei Österreichs (PfE)</a> | 0.0% | 27.0% | 25.4–28.6% |25.0–29.1% | 24.5–29.6% | 23.7–30.5% |
 | <a href="#meine-stimme-gilt!-(*)">Meine Stimme Gilt! (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#team-hc-strache–allianz-für-österreich-(*)">Team HC Strache–Allianz für Österreich (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#bierpartei-(*)">Bierpartei (*)</a> | 0.0% | 5.1% | 3.8–7.5% |3.6–8.0% | 3.4–8.3% | 3.1–9.0% |
@@ -68,9 +68,9 @@ Only polls for which at least the sample size has been published are included in
 | 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
-### Freiheitliche Partei Österreichs (ID)
+### Freiheitliche Partei Österreichs (PfE)
 
-*For a full overview of the results for this party, see the [Freiheitliche Partei Österreichs (ID)](party-freiheitlicheparteiösterreichsid.html) page.*
+*For a full overview of the results for this party, see the [Freiheitliche Partei Österreichs (PfE)](party-freiheitlicheparteiösterreichspfe.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -261,7 +261,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 0 | 4 | 4–5 |4–5 | 4–5 | 4–5 |
 | <a href="#neos–das-neue-österreich-und-liberales-forum-(re)">NEOS–Das Neue Österreich und Liberales Forum (RE)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–3 |
 | <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 0 | 5 | 5–6 |5–6 | 4–6 | 4–6 |
-| <a href="#freiheitliche-partei-österreichs-(id)">Freiheitliche Partei Österreichs (ID)</a> | 0 | 6 | 5–6 |5–7 | 5–7 | 5–7 |
+| <a href="#freiheitliche-partei-österreichs-(pfe)">Freiheitliche Partei Österreichs (PfE)</a> | 0 | 6 | 5–6 |5–7 | 5–7 | 5–7 |
 | <a href="#meine-stimme-gilt!-(*)">Meine Stimme Gilt! (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#team-hc-strache–allianz-für-österreich-(*)">Team HC Strache–Allianz für Österreich (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#bierpartei-(*)">Bierpartei (*)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
@@ -347,11 +347,11 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 16% | 16% |  |
 | 7 | 0% | 0% |  |
 
-### Freiheitliche Partei Österreichs (ID)
+### Freiheitliche Partei Österreichs (PfE)
 
-*For a full overview of the results for this party, see the [Freiheitliche Partei Österreichs (ID)](party-freiheitlicheparteiösterreichsid.html) page.*
+*For a full overview of the results for this party, see the [Freiheitliche Partei Österreichs (PfE)](party-freiheitlicheparteiösterreichspfe.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-freiheitlicheparteiösterreichsid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-freiheitlicheparteiösterreichspfe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -405,14 +405,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Freiheitliche Partei Österreichs (ID) | 0 | 6 | 0% | 5–6 | 5–7 | 5–7 | 5–7 |
+| Freiheitliche Partei Österreichs (PfE) | 0 | 6 | 0% | 5–6 | 5–7 | 5–7 | 5–7 |
 | Österreichische Volkspartei (EPP) | 0 | 5 | 0% | 5–6 | 5–6 | 4–6 | 4–6 |
 | Sozialdemokratische Partei Österreichs (S&D) | 0 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA) | 0 | 2 | 0% | 1–2 | 1–2 | 1–3 | 1–3 |
 | NEOS–Das Neue Österreich und Liberales Forum (RE) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kommunistische Partei Österreichs (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
-### Freiheitliche Partei Österreichs (ID)
+### Freiheitliche Partei Österreichs (PfE)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-fpö.png "Seats Probability Mass Function")
 
