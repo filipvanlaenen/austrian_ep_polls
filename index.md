@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | KPÖ | Grüne | JETZT | SPÖ | NEOS | ÖVP | FPÖ | GILT | HC | BIER | DNA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 1–4% <br> 0 | 8–13% <br> 1–3 | N/A <br> N/A | 19–23% <br> 4–5 | 7–12% <br> 1–2 | 21–26% <br> 4–6 | 24–30% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 3–8% <br> 0–1 | N/A <br> N/A |
-| [1–2 July 2024](2024-07-02-Market.html) | Market | 1–3% <br> 0 | 8–10% <br> 1–2 | N/A <br> N/A | 19–23% <br> 4–5 | 10–12% <br> 2 | 22–26% <br> 5–6 | 25–29% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 2–4% <br> 0 | 7–13% <br> 1–3 | N/A <br> N/A | 19–24% <br> 4–5 | 7–13% <br> 1–3 | 20–26% <br> 4–6 | 24–30% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 4–8% <br> 0–1 | N/A <br> N/A |
+| [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard | 2–4% <br> 0–1 | 7–11% <br> 1–2 | N/A <br> N/A | 19–25% <br> 4–5 | 9–13% <br> 2–3 | 19–25% <br> 4–5 | 24–30% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A |
 | [24–26 June 2024](2024-06-26-OGM.html) | OGM <br> KURIER | 2–4% <br> 0–1 | 9–13% <br> 2–3 | N/A <br> N/A | 19–24% <br> 4–5 | 6–10% <br> 1–2 | 22–27% <br> 5–6 | 24–30% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A |
 | [12–19 June 2024](2024-06-19-UniqueResearch.html) | Unique Research <br> profil | 1–3% <br> 0 | 7–11% <br> 1–2 | N/A <br> N/A | 19–24% <br> 4–5 | 8–12% <br> 1–2 | 21–26% <br> 4–6 | 24–30% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
