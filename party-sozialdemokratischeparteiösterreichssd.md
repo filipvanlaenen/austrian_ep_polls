@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.3% | 19.6–23.2% | 19.2–23.8% | 18.8–24.3% | 18.0–25.3% |
+| [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 22.0% | 20.8–23.2% | 20.5–23.6% | 20.2–23.9% | 19.7–24.5% |
 | [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard | 22.0% | 20.2–23.9% | 19.7–24.5% | 19.3–25.0% | 18.4–25.9% |
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH | 21.0% | N/A | N/A | N/A | N/A |
 | [1–2 July 2024](2024-07-02-Market.html) | Market | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
@@ -68,6 +69,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [1–2 July 2024](2024-07-02-Market.html) | Market | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
