@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | KPÖ | Grüne | JETZT | SPÖ | NEOS | ÖVP | FPÖ | GILT | HC | BIER | DNA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 1–3% <br> 0 | 7–9% <br> 1–2 | N/A <br> N/A | 20–24% <br> 4–5 | 9–11% <br> 2 | 21–25% <br> 4–5 | 25–29% <br> 5–6 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–1 | N/A <br> N/A |
 | [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard | 2–4% <br> 0–1 | 7–11% <br> 1–2 | N/A <br> N/A | 19–25% <br> 4–5 | 9–13% <br> 2–3 | 19–25% <br> 4–5 | 24–30% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A |
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–2 July 2024](2024-07-02-Market.html) | Market | 1–3% <br> 0 | 8–10% <br> 1–2 | N/A <br> N/A | 19–23% <br> 4–5 | 10–12% <br> 2 | 22–26% <br> 5–6 | 25–29% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A |
