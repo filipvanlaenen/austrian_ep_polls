@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 4.4–7.5% | 4.1–8.0% | 3.9–8.3% | 3.5–9.0% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.5–7.5% | 4.2–8.0% | 4.0–8.3% | 3.7–9.0% |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard | 5.0% | 4.2–6.2% | 3.9–6.5% | 3.7–6.8% | 3.4–7.3% |
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH | 5.0% | N/A | N/A | N/A | N/A |
@@ -32,11 +32,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.6% | 100% |  |
-| 3.5–4.5% | 15% | 99.4% |  |
-| 4.5–5.5% | 34% | 85% |  |
-| 5.5–6.5% | 23% | 50% | Median |
-| 6.5–7.5% | 17% | 27% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 13% | 99.7% |  |
+| 4.5–5.5% | 41% | 87% | Median |
+| 5.5–6.5% | 20% | 46% |  |
+| 6.5–7.5% | 16% | 26% |  |
 | 7.5–8.5% | 8% | 10% |  |
 | 8.5–9.5% | 1.4% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
@@ -51,7 +51,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–2 |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 0–1 | 0–1 |
 | [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -72,8 +72,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 92% | 93% | Median |
+| 0 | 4% | 100% | Last Result |
+| 1 | 95% | 96% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
