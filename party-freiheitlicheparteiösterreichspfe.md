@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.0% | 25.4–28.6% | 25.0–29.1% | 24.5–29.6% | 23.7–30.5% |
+| N/A | [Poll Average](average.html) | 27.0% | 25.2–28.9% | 24.6–29.5% | 24.2–30.0% | 23.3–31.0% |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 27.0% | 25.7–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
+| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 27.0% | 25.7–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
+| [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 25.9% | 24.3–27.7% | 23.8–28.2% | 23.4–28.6% | 22.6–29.4% |
+| [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH | 27.0% | N/A | N/A | N/A | N/A |
+| [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
+| [8–12 July 2024](2024-07-12-UniqueResearch.html) | Unique Research <br> Kronen Zeitung | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
 | [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard | 27.0% | 25.1–29.1% | 24.5–29.6% | 24.1–30.1% | 23.2–31.2% |
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH | 28.0% | N/A | N/A | N/A | N/A |
 | [1–2 July 2024](2024-07-02-Market.html) | Market | 27.0% | 25.7–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
@@ -51,17 +56,17 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.3% | 100% |  |
-| 23.5–24.5% | 2% | 99.6% |  |
-| 24.5–25.5% | 9% | 97% |  |
-| 25.5–26.5% | 24% | 88% |  |
-| 26.5–27.5% | 32% | 65% | Median |
-| 27.5–28.5% | 22% | 33% |  |
-| 28.5–29.5% | 9% | 11% |  |
-| 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.4% | 0.5% |  |
-| 31.5–32.5% | 0% | 0.1% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.8% | 99.9% |  |
+| 23.5–24.5% | 4% | 99.1% |  |
+| 24.5–25.5% | 11% | 95% |  |
+| 25.5–26.5% | 22% | 85% |  |
+| 26.5–27.5% | 28% | 62% | Median |
+| 27.5–28.5% | 20% | 35% |  |
+| 28.5–29.5% | 10% | 15% |  |
+| 29.5–30.5% | 3% | 5% |  |
+| 30.5–31.5% | 0.9% | 1.1% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -73,8 +78,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 6 | 6 | 5–6 | 5–6 | 5–7 |
+| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 6 | 6 | 5–6 | 5–6 | 5–7 |
+| [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [8–12 July 2024](2024-07-12-UniqueResearch.html) | Unique Research <br> Kronen Zeitung | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [1–2 July 2024](2024-07-02-Market.html) | Market | 6 | 6 | 6 | 5–7 | 5–7 |
@@ -99,9 +109,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 11% | 100% |  |
-| 6 | 85% | 89% | Median |
-| 7 | 4% | 4% |  |
+| 5 | 18% | 100% |  |
+| 6 | 77% | 82% | Median |
+| 7 | 6% | 6% |  |
 | 8 | 0% | 0% |  |
 
 
