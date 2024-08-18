@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.0% | 25.2–28.9% | 24.6–29.5% | 24.2–30.0% | 23.3–31.0% |
+| N/A | [Poll Average](average.html) | 27.4% | 25.3–31.1% | 24.7–32.0% | 24.3–32.7% | 23.3–33.9% |
+| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 27.0% | 25.7–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
 | [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 27.0% | 25.7–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 25.9% | 24.3–27.7% | 23.8–28.2% | 23.4–28.6% | 22.6–29.4% |
@@ -21,7 +22,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH | 28.0% | N/A | N/A | N/A | N/A |
 | [1–2 July 2024](2024-07-02-Market.html) | Market | 27.0% | 25.7–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
 | [24–26 June 2024](2024-06-26-OGM.html) | OGM <br> KURIER | 27.0% | 25.3–28.8% | 24.8–29.3% | 24.3–29.8% | 23.5–30.7% |
-| [24–25 June 2024](2024-06-25-Market.html) | Market <br> ÖSTERREICH | 27.0% | 25.7–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
+| [24–25 June 2024](2024-06-25-Market.html) | Market <br> ÖSTERREICH | 27.0% | N/A | N/A | N/A | N/A |
 | [12–19 June 2024](2024-06-19-UniqueResearch.html) | Unique Research <br> profil | 27.0% | 25.2–28.8% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [10–19 June 2024](2024-06-19-Market.html) | Market <br> ÖSTERREICH | 25.0% | N/A | N/A | N/A | N/A |
 | [10–13 June 2024](2024-06-13-UniqueResearch.html) | Unique Research <br> Heute | 28.0% | N/A | N/A | N/A | N/A |
@@ -57,17 +58,20 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 0.8% | 99.9% |  |
-| 23.5–24.5% | 4% | 99.1% |  |
-| 24.5–25.5% | 11% | 95% |  |
-| 25.5–26.5% | 22% | 85% |  |
-| 26.5–27.5% | 28% | 62% | Median |
-| 27.5–28.5% | 20% | 35% |  |
-| 28.5–29.5% | 10% | 15% |  |
-| 29.5–30.5% | 3% | 5% |  |
-| 30.5–31.5% | 0.9% | 1.1% |  |
-| 31.5–32.5% | 0.2% | 0.2% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 22.5–23.5% | 0.7% | 99.9% |  |
+| 23.5–24.5% | 3% | 99.2% |  |
+| 24.5–25.5% | 9% | 96% |  |
+| 25.5–26.5% | 18% | 87% |  |
+| 26.5–27.5% | 22% | 70% | Median |
+| 27.5–28.5% | 17% | 48% |  |
+| 28.5–29.5% | 10% | 31% |  |
+| 29.5–30.5% | 7% | 21% |  |
+| 30.5–31.5% | 6% | 14% |  |
+| 31.5–32.5% | 4% | 7% |  |
+| 32.5–33.5% | 2% | 3% |  |
+| 33.5–34.5% | 0.7% | 0.9% |  |
+| 34.5–35.5% | 0.2% | 0.2% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -78,7 +82,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -89,7 +94,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [1–2 July 2024](2024-07-02-Market.html) | Market | 6 | 6 | 6 | 5–7 | 5–7 |
 | [24–26 June 2024](2024-06-26-OGM.html) | OGM <br> KURIER | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [24–25 June 2024](2024-06-25-Market.html) | Market <br> ÖSTERREICH | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [24–25 June 2024](2024-06-25-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–19 June 2024](2024-06-19-UniqueResearch.html) | Unique Research <br> profil | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [10–19 June 2024](2024-06-19-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [10–13 June 2024](2024-06-13-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
@@ -109,9 +114,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 18% | 100% |  |
-| 6 | 77% | 82% | Median |
-| 7 | 6% | 6% |  |
-| 8 | 0% | 0% |  |
+| 5 | 16% | 100% |  |
+| 6 | 62% | 84% | Median |
+| 7 | 20% | 22% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0% | 0% |  |
 
 
