@@ -77,7 +77,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREIC | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -108,8 +108,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 39% | 99.9% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 39% | 99.8% |  |
 | 5 | 60% | 61% | Median |
 | 6 | 1.1% | 1.1% |  |
 | 7 | 0% | 0% |  |
