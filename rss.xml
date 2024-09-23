@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 21 Sep 2024 19:13:41 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2024 19:23:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by OGM for Servus TV, 1–31 August 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2024-08-31-OGM.html#seats</link>
@@ -166,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-07-21-Spectra-seats.png"
         length="277712"
         type="image/png"/>
-      <pubDate>Fri, 23 Aug 2024 19:50:06 +0200</pubDate>
-      <dc:date>2024-08-23T19:50:06.127049+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2024 18:57:27 +0200</pubDate>
+      <dc:date>2024-09-23T18:57:27.143875+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spectra for Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten, 12–21 July 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -176,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-07-21-Spectra-coalitions-seats.png"
         length="205771"
         type="image/png"/>
-      <pubDate>Fri, 23 Aug 2024 19:50:06 +0200</pubDate>
-      <dc:date>2024-08-23T19:50:06.127049+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2024 18:57:27 +0200</pubDate>
+      <dc:date>2024-09-23T18:57:27.143875+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spectra for Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten, 12–21 July 2024 – Voting Intentions</title>
@@ -186,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-07-21-Spectra.png"
         length="301917"
         type="image/png"/>
-      <pubDate>Fri, 23 Aug 2024 19:50:06 +0200</pubDate>
-      <dc:date>2024-08-23T19:50:06.127049+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2024 18:57:27 +0200</pubDate>
+      <dc:date>2024-09-23T18:57:27.143875+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Kronen Zeitung, 8–12 July 2024 – Seat Projections for the Parties</title>
@@ -196,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-07-12-UniqueResearch-seats.png"
         length="261052"
         type="image/png"/>
-      <pubDate>Fri, 23 Aug 2024 19:56:26 +0200</pubDate>
-      <dc:date>2024-08-23T19:56:26.593219+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2024 19:23:17 +0200</pubDate>
+      <dc:date>2024-09-23T19:23:17.459349+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Kronen Zeitung, 8–12 July 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -206,8 +206,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-07-12-UniqueResearch-coalitions-seats.png"
         length="188144"
         type="image/png"/>
-      <pubDate>Fri, 23 Aug 2024 19:56:26 +0200</pubDate>
-      <dc:date>2024-08-23T19:56:26.593219+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2024 19:23:17 +0200</pubDate>
+      <dc:date>2024-09-23T19:23:17.459349+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Kronen Zeitung, 8–12 July 2024 – Voting Intentions</title>
@@ -216,8 +216,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-07-12-UniqueResearch.png"
         length="292178"
         type="image/png"/>
-      <pubDate>Fri, 23 Aug 2024 19:56:26 +0200</pubDate>
-      <dc:date>2024-08-23T19:56:26.593219+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2024 19:23:17 +0200</pubDate>
+      <dc:date>2024-09-23T19:23:17.459349+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGM for KURIER, 24–26 June 2024 – Seat Projections for the Parties</title>
@@ -249,6 +249,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2024-09-21T19:13:41.648435+02:00</dc:date>
+    <dc:date>2024-09-23T19:23:17.459349+02:00</dc:date>
   </channel>
 </rss>
