@@ -53,7 +53,7 @@
 | 4 | 0% | 100% |  |
 | 5 | 5% | 100% |  |
 | 6 | 80% | 95% | Median |
-| 7 | 14% | 14% |  |
+| 7 | 15% | 15% |  |
 | 8 | 0% | 0% |  |
 
 ### Österreichische Volkspartei (EPP)
@@ -68,8 +68,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 13% | 100% |  |
-| 5 | 82% | 87% | Median |
+| 4 | 12% | 100% |  |
+| 5 | 83% | 88% | Median |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
@@ -98,8 +98,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 28% | 100% |  |
-| 2 | 72% | 72% | Median |
+| 1 | 29% | 100% |  |
+| 2 | 71% | 71% | Median |
 | 3 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -123,9 +123,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% | Last Result |
-| 1 | 99.3% | 99.6% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 99.3% | 99.5% | Median |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 ### Kommunistische Partei Österreichs (GUE/NGL)
@@ -167,7 +167,7 @@
 | 4 | 0% | 100% |  |
 | 5 | 5% | 100% |  |
 | 6 | 80% | 95% | Median |
-| 7 | 14% | 14% |  |
+| 7 | 15% | 15% |  |
 | 8 | 0% | 0% |  |
 
 ### Österreichische Volkspartei (EPP)
@@ -180,8 +180,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 13% | 100% |  |
-| 5 | 82% | 87% | Median |
+| 4 | 12% | 100% |  |
+| 5 | 83% | 88% | Median |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
@@ -222,6 +222,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.43%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.37%
 
