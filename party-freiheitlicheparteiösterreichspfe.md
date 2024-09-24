@@ -10,9 +10,23 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.9% | 25.1–31.2% | 24.5–32.1% | 23.9–32.7% | 22.9–34.0% |
+| N/A | [Poll Average](average.html) | 27.0% | 25.1–29.0% | 24.6–29.7% | 24.1–30.2% | 23.2–31.4% |
+| [19–22 September 2024](2024-09-22-IFDD.html) | IFDD <br> ATV, Kronen Zeitung and PULS 24 | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
+| [16–18 September 2024](2024-09-18-OGM.html) | OGM <br> Servus TV | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
+| [9–17 September 2024](2024-09-17-Market.html) | Market <br> ÖSTERREICH | 27.0% | 25.7–28.3% | 25.3–28.6% | 25.0–28.9% | 24.5–29.6% |
+| [5–11 September 2024](2024-09-11-UniqueResearch.html) | Unique Research <br> Heute | 28.0% | 26.0–30.1% | 25.5–30.7% | 25.0–31.2% | 24.1–32.3% |
+| [9–11 September 2024](2024-09-11-INSA.html) | INSA <br> eXXpress | 29.0% | N/A | N/A | N/A | N/A |
+| [9–10 September 2024](2024-09-10-Market.html) | Market <br> ÖSTERREICH | 28.0% | N/A | N/A | N/A | N/A |
+| [2–9 September 2024](2024-09-09-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 27.0% | N/A | N/A | N/A | N/A |
+| [2–6 September 2024](2024-09-06-IFDD.html) | IFDD <br> Kronen Zeitung | 27.0% | N/A | N/A | N/A | N/A |
+| [28 August–4 September 2024](2024-09-04-UniqueResearch.html) | Unique Research <br> profil | 27.9% | N/A | N/A | N/A | N/A |
+| [2–4 September 2024](2024-09-04-Market.html) | Market <br> ÖSTERREICH | 28.0% | N/A | N/A | N/A | N/A |
+| [26 August–3 September 2024](2024-09-03-TripleM.html) | Triple M <br> News | 28.0% | N/A | N/A | N/A | N/A |
 | [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 27.0% | 24.6–29.6% | 23.9–30.3% | 23.3–31.0% | 22.2–32.2% |
-| [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREIC | 29.0% | 27.7–30.3% | 27.4–30.7% | 27.1–31.0% | 26.4–31.7% |
+| [26–27 August 2024](2024-08-27-Market.html) | Market | 27.0% | N/A | N/A | N/A | N/A |
+| [23–26 August 2024](2024-08-26-IFDD.html) | IFDD <br> Radio Content Austria | 27.0% | N/A | N/A | N/A | N/A |
+| [19–22 August 2024](2024-08-22-OGM.html) | OGM <br> Servus TV | 27.0% | N/A | N/A | N/A | N/A |
+| [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREICH | 29.0% | 27.7–30.3% | 27.4–30.7% | 27.1–31.0% | 26.4–31.7% |
 | [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 27.0% | N/A | N/A | N/A | N/A |
 | [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 27.0% | 25.7–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
@@ -59,21 +73,19 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.1% | 99.7% |  |
-| 23.5–24.5% | 4% | 98.6% |  |
-| 24.5–25.5% | 9% | 94% |  |
-| 25.5–26.5% | 14% | 85% |  |
-| 26.5–27.5% | 15% | 71% |  |
-| 27.5–28.5% | 15% | 56% | Median |
-| 28.5–29.5% | 15% | 41% |  |
-| 29.5–30.5% | 11% | 26% |  |
-| 30.5–31.5% | 7% | 15% |  |
-| 31.5–32.5% | 5% | 8% |  |
-| 32.5–33.5% | 2% | 3% |  |
-| 33.5–34.5% | 0.7% | 0.9% |  |
-| 34.5–35.5% | 0.2% | 0.2% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.8% | 99.9% |  |
+| 23.5–24.5% | 4% | 99.1% |  |
+| 24.5–25.5% | 11% | 95% |  |
+| 25.5–26.5% | 22% | 84% |  |
+| 26.5–27.5% | 27% | 62% | Median |
+| 27.5–28.5% | 19% | 35% |  |
+| 28.5–29.5% | 10% | 15% |  |
+| 29.5–30.5% | 4% | 6% |  |
+| 30.5–31.5% | 1.3% | 2% |  |
+| 31.5–32.5% | 0.3% | 0.4% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -84,9 +96,23 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6 | 5–7 | 5–7 | 5–7 |
+| [19–22 September 2024](2024-09-22-IFDD.html) | IFDD <br> ATV, Kronen Zeitung and PULS 24 | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [16–18 September 2024](2024-09-18-OGM.html) | OGM <br> Servus TV | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [9–17 September 2024](2024-09-17-Market.html) | Market <br> ÖSTERREICH | 6 | 6 | 6–7 | 6–7 | 5–7 |
+| [5–11 September 2024](2024-09-11-UniqueResearch.html) | Unique Research <br> Heute | 7 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [9–11 September 2024](2024-09-11-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
+| [9–10 September 2024](2024-09-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [2–9 September 2024](2024-09-09-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten |  |  |  |  |  |
+| [2–6 September 2024](2024-09-06-IFDD.html) | IFDD <br> Kronen Zeitung |  |  |  |  |  |
+| [28 August–4 September 2024](2024-09-04-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [2–4 September 2024](2024-09-04-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [26 August–3 September 2024](2024-09-03-TripleM.html) | Triple M <br> News |  |  |  |  |  |
 | [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREIC | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [26–27 August 2024](2024-08-27-Market.html) | Market |  |  |  |  |  |
+| [23–26 August 2024](2024-08-26-IFDD.html) | IFDD <br> Radio Content Austria |  |  |  |  |  |
+| [19–22 August 2024](2024-08-22-OGM.html) | OGM <br> Servus TV |  |  |  |  |  |
+| [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREICH | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 6 | 6 | 5–6 | 5–6 | 5–7 |
@@ -118,10 +144,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 17% | 100% |  |
-| 6 | 51% | 83% | Median |
-| 7 | 30% | 32% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0% | 0% |  |
+| 5 | 8% | 100% |  |
+| 6 | 85% | 92% | Median |
+| 7 | 7% | 7% |  |
+| 8 | 0% | 0% |  |
 
 
