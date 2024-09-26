@@ -23,8 +23,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–4 September 2024](2024-09-04-Market.html) | Market <br> ÖSTERREICH | 1.0% | N/A | N/A | N/A | N/A |
 | [26 August–3 September 2024](2024-09-03-TripleM.html) | Triple M <br> News | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 1.0% | 0.6–1.8% | 0.5–2.0% | 0.4–2.2% | 0.3–2.7% |
-| [26–27 August 2024](2024-08-27-Market.html) | Market | 1.0% | N/A | N/A | N/A | N/A |
-| [23–26 August 2024](2024-08-26-IFDD.html) | IFDD <br> Radio Content Austria | 1.0% | N/A | N/A | N/A | N/A |
+| [26–27 August 2024](2024-08-27-Market.html) | Market | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
+| [23–26 August 2024](2024-08-26-IFDD.html) | IFDD <br> Radio Content Austria | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.6–1.9% | 0.4–2.2% |
 | [19–22 August 2024](2024-08-22-OGM.html) | OGM <br> Servus TV | 1.0% | N/A | N/A | N/A | N/A |
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREICH | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
 | [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 0.0% | N/A | N/A | N/A | N/A |
@@ -78,8 +78,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–4 September 2024](2024-09-04-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [26 August–3 September 2024](2024-09-03-TripleM.html) | Triple M <br> News |  |  |  |  |  |
 | [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 0 | 0 | 0 | 0 | 0 |
-| [26–27 August 2024](2024-08-27-Market.html) | Market |  |  |  |  |  |
-| [23–26 August 2024](2024-08-26-IFDD.html) | IFDD <br> Radio Content Austria |  |  |  |  |  |
+| [26–27 August 2024](2024-08-27-Market.html) | Market | 0 | 0 | 0 | 0 | 0 |
+| [23–26 August 2024](2024-08-26-IFDD.html) | IFDD <br> Radio Content Austria | 0 | 0 | 0 | 0 | 0 |
 | [19–22 August 2024](2024-08-22-OGM.html) | OGM <br> Servus TV |  |  |  |  |  |
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
