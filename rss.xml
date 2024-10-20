@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 25 Sep 2024 21:47:23 +0200</pubDate>
+    <pubDate>Sat, 19 Oct 2024 23:30:23 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Market for ÖSTERREICH, 7–8 October 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2024-10-08-Market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 7–8 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 2 seats&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 5–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-10-08-Market-seats.png"
+        length="201558"
+        type="image/png"/>
+      <pubDate>Sat, 19 Oct 2024 23:30:23 +0200</pubDate>
+      <dc:date>2024-10-19T23:30:23.200443+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for ÖSTERREICH, 7–8 October 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2024-10-08-Market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-10-08-Market-coalitions-seats.png"
+        length="132112"
+        type="image/png"/>
+      <pubDate>Sat, 19 Oct 2024 23:30:23 +0200</pubDate>
+      <dc:date>2024-10-19T23:30:23.200443+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for ÖSTERREICH, 7–8 October 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2024-10-08-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 6.0–8.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 17.3–20.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 31.0–35.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.7–11.4%&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 24.1–28.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-10-08-Market.png"
+        length="253205"
+        type="image/png"/>
+      <pubDate>Sat, 19 Oct 2024 23:30:23 +0200</pubDate>
+      <dc:date>2024-10-19T23:30:23.200443+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IFDD for ATV, Kronen Zeitung and PULS 24, 19–22 September 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2024-09-22-IFDD.html#seats</link>
@@ -519,6 +549,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2024-09-25T21:47:23.761696+02:00</dc:date>
+    <dc:date>2024-10-19T23:30:23.200443+02:00</dc:date>
   </channel>
 </rss>
