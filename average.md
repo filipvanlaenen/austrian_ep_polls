@@ -315,7 +315,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 47% | 100% |  |
 | 5 | 53% | 53% | Median |
-| 6 | 0.1% | 0.1% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -327,8 +327,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 17% | 100% |  |
-| 2 | 83% | 83% | Median |
+| 1 | 18% | 100% |  |
+| 2 | 82% | 82% | Median |
 | 3 | 0% | 0% |  |
 
 ### Österreichische Volkspartei (EPP)
@@ -343,8 +343,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 13% | 100% |  |
-| 5 | 84% | 87% | Median |
+| 4 | 12% | 100% |  |
+| 5 | 85% | 88% | Median |
 | 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
@@ -363,7 +363,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 3% | 100% |  |
-| 7 | 71% | 97% | Median |
+| 7 | 72% | 97% | Median |
 | 8 | 25% | 25% |  |
 | 9 | 0% | 0% |  |
 
@@ -430,7 +430,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 3% | 100% |  |
-| 7 | 71% | 97% | Median |
+| 7 | 72% | 97% | Median |
 | 8 | 25% | 25% |  |
 | 9 | 0% | 0% |  |
 
@@ -444,8 +444,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 13% | 100% |  |
-| 5 | 84% | 87% | Median |
+| 4 | 12% | 100% |  |
+| 5 | 85% | 88% | Median |
 | 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
@@ -461,7 +461,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 47% | 100% |  |
 | 5 | 53% | 53% | Median |
-| 6 | 0.1% | 0.1% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative (Greens/EFA) – JETZT–Liste Pilz (Greens/EFA)
@@ -482,8 +482,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 17% | 100% |  |
-| 2 | 83% | 83% | Median |
+| 1 | 18% | 100% |  |
+| 2 | 82% | 82% | Median |
 | 3 | 0% | 0% |  |
 
 ### Kommunistische Partei Österreichs (GUE/NGL) – Wandel (GUE/NGL)
@@ -500,6 +500,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 0.84%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 0.47%
