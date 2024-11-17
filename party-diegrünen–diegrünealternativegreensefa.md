@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
+| N/A | [Poll Average](average.html) | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.6% | 6.2–10.2% |
+| [11–13 November 2024](2024-11-13-INSA.html) | INSA <br> eXXpress | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [11–12 November 2024](2024-11-12-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [4–5 November 2024](2024-11-05-Market.html) | Market <br> ÖSTERREICH | 8.0% | N/A | N/A | N/A | N/A |
+| [28–29 October 2024](2024-10-29-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [25–28 October 2024](2024-10-28-OGM.html) | OGM <br> Servus TV | 8.0% | 7.0–9.2% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
+| [21–22 October 2024](2024-10-22-Market.html) | Market <br> ÖSTERREICH | 8.0% | N/A | N/A | N/A | N/A |
+| [14–15 October 2024](2024-10-15-Market.html) | Market <br> ÖSTERREICH | 8.0% | N/A | N/A | N/A | N/A |
 | [7–8 October 2024](2024-10-08-Market.html) | Market <br> ÖSTERREICH | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [30 September–1 October 2024](2024-10-01-Market.html) | Market <br> ÖSTERREICH | 8.0% | N/A | N/A | N/A | N/A |
 | [19–22 September 2024](2024-09-22-IFDD.html) | IFDD <br> ATV, Kronen Zeitung and PULS 24 | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -58,12 +65,14 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.3% | 100% |  |
-| 5.5–6.5% | 20% | 99.7% |  |
-| 6.5–7.5% | 61% | 80% | Median |
-| 7.5–8.5% | 18% | 19% |  |
-| 8.5–9.5% | 0.6% | 0.6% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 2% | 100% |  |
+| 6.5–7.5% | 22% | 98% |  |
+| 7.5–8.5% | 52% | 76% | Median |
+| 8.5–9.5% | 21% | 24% |  |
+| 9.5–10.5% | 3% | 3% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -74,7 +83,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–13 November 2024](2024-11-13-INSA.html) | INSA <br> eXXpress | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–12 November 2024](2024-11-12-Market.html) | Market <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–5 November 2024](2024-11-05-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [28–29 October 2024](2024-10-29-Market.html) | Market <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [25–28 October 2024](2024-10-28-OGM.html) | OGM <br> Servus TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21–22 October 2024](2024-10-22-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [14–15 October 2024](2024-10-15-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [7–8 October 2024](2024-10-08-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1–2 |
 | [30 September–1 October 2024](2024-10-01-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [19–22 September 2024](2024-09-22-IFDD.html) | IFDD <br> ATV, Kronen Zeitung and PULS 24 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -120,8 +136,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.2% | 100% | Median |
-| 2 | 0.8% | 0.8% |  |
+| 1 | 68% | 100% | Median |
+| 2 | 32% | 32% |  |
 | 3 | 0% | 0% |  |
 
 
