@@ -5,8 +5,9 @@ The table below lists the most recent polls (less than 8 days old) registered an
 | Period     | Polling firm/Commissioner(s) | KPÖ | KEINE | Grüne | JETZT | SPÖ | NEOS | ÖVP | FPÖ | BIER | DNA | LMP | GILT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 2–3% <br> 0 | N/A <br> N/A | 6–8% <br> 1 | N/A <br> N/A | 17–21% <br> 4 | 9–11% <br> 2 | 24–28% <br> 5–6 | 31–35% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [7–8 October 2024](2024-10-08-Market.html) | Market <br> ÖSTERREICH | 1–3% <br> 0 | N/A <br> N/A | 6–8% <br> 1 | N/A <br> N/A | 17–21% <br> 4 | 9–11% <br> 2 | 24–28% <br> 5–6 | 31–35% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 1–4% <br> 0 | N/A <br> N/A | 7–10% <br> 1–2 | N/A <br> N/A | 19–23% <br> 4–5 | 8–11% <br> 1–2 | 20–25% <br> 4–6 | 30–35% <br> 6–8 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–13 November 2024](2024-11-13-INSA.html) | INSA <br> eXXpress | 1–3% <br> 0 | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | 19–24% <br> 4–5 | 7–11% <br> 1–2 | 20–25% <br> 4–5 | 29–35% <br> 6–8 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–12 November 2024](2024-11-12-Market.html) | Market <br> ÖSTERREICH | 2–4% <br> 0 | N/A <br> N/A | 7–9% <br> 1–2 | N/A <br> N/A | 19–23% <br> 4–5 | 8–10% <br> 1–2 | 21–25% <br> 4–6 | 31–35% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
