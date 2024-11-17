@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 17 Nov 2024 18:37:21 +0100</pubDate>
+    <pubDate>Sun, 17 Nov 2024 20:39:11 +0100</pubDate>
     <item>
       <title>Opinion Poll by INSA for eXXpress, 11–13 November 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2024-11-13-INSA.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-11-13-INSA-seats.png"
         length="248187"
         type="image/png"/>
-      <pubDate>Sun, 17 Nov 2024 18:17:08 +0100</pubDate>
-      <dc:date>2024-11-17T18:17:08.307173+01:00</dc:date>
+      <pubDate>Sun, 17 Nov 2024 20:35:00 +0100</pubDate>
+      <dc:date>2024-11-17T20:35:00.677352+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA for eXXpress, 11–13 November 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-11-13-INSA-coalitions-seats.png"
         length="172638"
         type="image/png"/>
-      <pubDate>Sun, 17 Nov 2024 18:17:08 +0100</pubDate>
-      <dc:date>2024-11-17T18:17:08.307173+01:00</dc:date>
+      <pubDate>Sun, 17 Nov 2024 20:35:00 +0100</pubDate>
+      <dc:date>2024-11-17T20:35:00.677352+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA for eXXpress, 11–13 November 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-11-13-INSA.png"
         length="279112"
         type="image/png"/>
-      <pubDate>Sun, 17 Nov 2024 18:17:08 +0100</pubDate>
-      <dc:date>2024-11-17T18:17:08.307173+01:00</dc:date>
+      <pubDate>Sun, 17 Nov 2024 20:35:00 +0100</pubDate>
+      <dc:date>2024-11-17T20:35:00.677352+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 11–12 November 2024 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-11-12-Market-seats.png"
         length="227409"
         type="image/png"/>
-      <pubDate>Sun, 17 Nov 2024 18:23:11 +0100</pubDate>
-      <dc:date>2024-11-17T18:23:11.969871+01:00</dc:date>
+      <pubDate>Sun, 17 Nov 2024 20:39:11 +0100</pubDate>
+      <dc:date>2024-11-17T20:39:11.339834+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 11–12 November 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-11-12-Market-coalitions-seats.png"
         length="160920"
         type="image/png"/>
-      <pubDate>Sun, 17 Nov 2024 18:23:11 +0100</pubDate>
-      <dc:date>2024-11-17T18:23:11.969871+01:00</dc:date>
+      <pubDate>Sun, 17 Nov 2024 20:39:11 +0100</pubDate>
+      <dc:date>2024-11-17T20:39:11.339834+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 11–12 November 2024 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-11-12-Market.png"
         length="254283"
         type="image/png"/>
-      <pubDate>Sun, 17 Nov 2024 18:23:11 +0100</pubDate>
-      <dc:date>2024-11-17T18:23:11.969871+01:00</dc:date>
+      <pubDate>Sun, 17 Nov 2024 20:39:11 +0100</pubDate>
+      <dc:date>2024-11-17T20:39:11.339834+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 28–29 October 2024 – Seat Projections for the Parties</title>
@@ -669,6 +669,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2024-11-17T18:37:21.354311+01:00</dc:date>
+    <dc:date>2024-11-17T20:39:11.339834+01:00</dc:date>
   </channel>
 </rss>
