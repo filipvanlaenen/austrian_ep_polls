@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–4 December 2024](2024-12-04-UniqueResearch.html) | Unique Research <br> Heute | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [2–3 December 2024](2024-12-03-Market.html) | Market <br> ÖSTERREICH | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [25–26 November 2024](2024-11-26-OGM.html) | OGM | 0.0% | N/A | N/A | N/A | N/A |
-| [25–26 November 2024](2024-11-26-Market.html) | Market <br> ÖSTERREICH | 4.0% | N/A | N/A | N/A | N/A |
+| [25–26 November 2024](2024-11-26-Market.html) | Market <br> ÖSTERREICH | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [18–19 November 2024](2024-11-19-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
 | [11–13 November 2024](2024-11-13-INSA.html) | INSA <br> eXXpress | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [11–12 November 2024](2024-11-12-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
@@ -86,7 +86,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–4 December 2024](2024-12-04-UniqueResearch.html) | Unique Research <br> Heute | 0 | 0 | 0 | 0 | 0 |
 | [2–3 December 2024](2024-12-03-Market.html) | Market <br> ÖSTERREICH | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–26 November 2024](2024-11-26-OGM.html) | OGM |  |  |  |  |  |
-| [25–26 November 2024](2024-11-26-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [25–26 November 2024](2024-11-26-Market.html) | Market <br> ÖSTERREICH | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–19 November 2024](2024-11-19-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [11–13 November 2024](2024-11-13-INSA.html) | INSA <br> eXXpress | 0 | 0 | 0 | 0 | 0 |
 | [11–12 November 2024](2024-11-12-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |

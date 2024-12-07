@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.3% | 26.7–36.1% | 25.9–36.8% | 25.3–37.3% | 24.2–38.6% |
+| N/A | [Poll Average](average.html) | 32.8% | 27.0–35.9% | 26.1–36.6% | 25.4–37.2% | 24.3–38.4% |
 | [2–4 December 2024](2024-12-04-UniqueResearch.html) | Unique Research <br> Heute | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.4% | 30.8–39.4% |
 | [2–3 December 2024](2024-12-03-Market.html) | Market <br> ÖSTERREICH | 35.0% | 33.6–36.4% | 33.3–36.8% | 32.9–37.1% | 32.3–37.8% |
-| [25–26 November 2024](2024-11-26-OGM.html) | OGM | 32.0% | N/A | N/A | N/A | N/A |
-| [25–26 November 2024](2024-11-26-Market.html) | Market <br> ÖSTERREICH | 33.0% | N/A | N/A | N/A | N/A |
+| [25–26 November 2024](2024-11-26-OGM.html) | OGM | 32.0% | 30.2–33.9% | 29.7–34.5% | 29.2–35.0% | 28.4–35.9% |
+| [25–26 November 2024](2024-11-26-Market.html) | Market <br> ÖSTERREICH | 33.0% | 31.7–34.4% | 31.3–34.8% | 31.0–35.1% | 30.3–35.8% |
 | [18–19 November 2024](2024-11-19-Market.html) | Market <br> ÖSTERREICH | 32.0% | N/A | N/A | N/A | N/A |
 | [11–13 November 2024](2024-11-13-INSA.html) | INSA <br> eXXpress | 32.0% | 30.1–33.9% | 29.6–34.5% | 29.2–35.0% | 28.3–35.9% |
 | [11–12 November 2024](2024-11-12-Market.html) | Market <br> ÖSTERREICH | 33.0% | 31.7–34.4% | 31.3–34.8% | 31.0–35.1% | 30.3–35.8% |
@@ -89,22 +89,22 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 0.8% | 99.9% |  |
-| 24.5–25.5% | 3% | 99.1% |  |
-| 25.5–26.5% | 6% | 96% |  |
-| 26.5–27.5% | 7% | 91% |  |
-| 27.5–28.5% | 5% | 84% |  |
-| 28.5–29.5% | 4% | 78% |  |
-| 29.5–30.5% | 4% | 75% |  |
-| 30.5–31.5% | 6% | 71% |  |
-| 31.5–32.5% | 8% | 65% |  |
-| 32.5–33.5% | 10% | 57% | Median |
-| 33.5–34.5% | 14% | 47% |  |
-| 34.5–35.5% | 16% | 33% |  |
-| 35.5–36.5% | 11% | 17% |  |
-| 36.5–37.5% | 5% | 7% |  |
-| 37.5–38.5% | 1.4% | 2% |  |
-| 38.5–39.5% | 0.4% | 0.5% |  |
+| 23.5–24.5% | 0.6% | 99.9% |  |
+| 24.5–25.5% | 2% | 99.3% |  |
+| 25.5–26.5% | 4% | 97% |  |
+| 26.5–27.5% | 6% | 93% |  |
+| 27.5–28.5% | 5% | 87% |  |
+| 28.5–29.5% | 4% | 83% |  |
+| 29.5–30.5% | 5% | 79% |  |
+| 30.5–31.5% | 9% | 74% |  |
+| 31.5–32.5% | 12% | 65% |  |
+| 32.5–33.5% | 12% | 53% | Median |
+| 33.5–34.5% | 13% | 41% |  |
+| 34.5–35.5% | 13% | 27% |  |
+| 35.5–36.5% | 9% | 14% |  |
+| 36.5–37.5% | 4% | 5% |  |
+| 37.5–38.5% | 1.2% | 2% |  |
+| 38.5–39.5% | 0.3% | 0.4% |  |
 | 39.5–40.5% | 0.1% | 0.1% |  |
 | 40.5–41.5% | 0% | 0% |  |
 
@@ -117,11 +117,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [2–4 December 2024](2024-12-04-UniqueResearch.html) | Unique Research <br> Heute | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [2–3 December 2024](2024-12-03-Market.html) | Market <br> ÖSTERREICH | 8 | 8 | 7–9 | 7–9 | 7–9 |
-| [25–26 November 2024](2024-11-26-OGM.html) | OGM |  |  |  |  |  |
-| [25–26 November 2024](2024-11-26-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [25–26 November 2024](2024-11-26-OGM.html) | OGM | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [25–26 November 2024](2024-11-26-Market.html) | Market <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [18–19 November 2024](2024-11-19-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [11–13 November 2024](2024-11-13-INSA.html) | INSA <br> eXXpress | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [11–12 November 2024](2024-11-12-Market.html) | Market <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
@@ -180,10 +180,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
-| 6 | 22% | 98% |  |
-| 7 | 31% | 76% | Median |
-| 8 | 42% | 45% |  |
-| 9 | 3% | 3% |  |
+| 6 | 20% | 98% |  |
+| 7 | 41% | 78% | Median |
+| 8 | 34% | 37% |  |
+| 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
 
