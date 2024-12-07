@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 07 Dec 2024 11:23:10 +0100</pubDate>
+    <pubDate>Sat, 07 Dec 2024 12:36:34 +0100</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 2–4 December 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2024-12-04-UniqueResearch.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-12-04-UniqueResearch-seats.png"
         length="207882"
         type="image/png"/>
-      <pubDate>Fri, 06 Dec 2024 20:12:32 +0100</pubDate>
-      <dc:date>2024-12-06T20:12:32.313448+01:00</dc:date>
+      <pubDate>Sat, 07 Dec 2024 11:48:23 +0100</pubDate>
+      <dc:date>2024-12-07T11:48:23.647294+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 2–4 December 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-12-04-UniqueResearch-coalitions-seats.png"
         length="141885"
         type="image/png"/>
-      <pubDate>Fri, 06 Dec 2024 20:12:32 +0100</pubDate>
-      <dc:date>2024-12-06T20:12:32.313448+01:00</dc:date>
+      <pubDate>Sat, 07 Dec 2024 11:48:23 +0100</pubDate>
+      <dc:date>2024-12-07T11:48:23.647294+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 2–4 December 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-12-04-UniqueResearch.png"
         length="265831"
         type="image/png"/>
-      <pubDate>Fri, 06 Dec 2024 20:12:32 +0100</pubDate>
-      <dc:date>2024-12-06T20:12:32.313448+01:00</dc:date>
+      <pubDate>Sat, 07 Dec 2024 11:48:23 +0100</pubDate>
+      <dc:date>2024-12-07T11:48:23.647294+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 2–3 December 2024 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-12-03-Market-seats.png"
         length="210410"
         type="image/png"/>
-      <pubDate>Fri, 06 Dec 2024 21:13:00 +0100</pubDate>
-      <dc:date>2024-12-06T21:13:00.38191+01:00</dc:date>
+      <pubDate>Sat, 07 Dec 2024 12:36:34 +0100</pubDate>
+      <dc:date>2024-12-07T12:36:34.009026+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 2–3 December 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-12-03-Market-coalitions-seats.png"
         length="147405"
         type="image/png"/>
-      <pubDate>Fri, 06 Dec 2024 21:13:00 +0100</pubDate>
-      <dc:date>2024-12-06T21:13:00.38191+01:00</dc:date>
+      <pubDate>Sat, 07 Dec 2024 12:36:34 +0100</pubDate>
+      <dc:date>2024-12-07T12:36:34.009026+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 2–3 December 2024 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-12-03-Market.png"
         length="251654"
         type="image/png"/>
-      <pubDate>Fri, 06 Dec 2024 21:13:00 +0100</pubDate>
-      <dc:date>2024-12-06T21:13:00.38191+01:00</dc:date>
+      <pubDate>Sat, 07 Dec 2024 12:36:34 +0100</pubDate>
+      <dc:date>2024-12-07T12:36:34.009026+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGM, 25–26 November 2024 – Seat Projections for the Parties</title>
@@ -789,6 +789,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2024-12-07T11:23:10.385781+01:00</dc:date>
+    <dc:date>2024-12-07T12:36:34.009026+01:00</dc:date>
   </channel>
 </rss>
