@@ -105,7 +105,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [2–4 December 2024](2024-12-04-UniqueResearch.html) | Unique Research <br> Heute | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [2–3 December 2024](2024-12-03-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [2–3 December 2024](2024-12-03-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4–5 | 3–5 |
 | [25–26 November 2024](2024-11-26-OGM.html) | OGM | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [25–26 November 2024](2024-11-26-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4–5 | 3–5 |
 | [18–19 November 2024](2024-11-19-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -163,8 +163,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.5% | 100% |  |
-| 4 | 65% | 99.5% | Median |
+| 3 | 0.6% | 100% |  |
+| 4 | 65% | 99.4% | Median |
 | 5 | 34% | 34% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
