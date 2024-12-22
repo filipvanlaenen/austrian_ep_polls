@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.4% | 18.6–22.4% | 18.1–23.0% | 17.8–23.4% | 17.1–24.4% |
+| N/A | [Poll Average](average.html) | 20.0% | 18.4–21.9% | 18.0–22.5% | 17.7–23.0% | 17.0–24.0% |
+| [17–18 December 2024](2024-12-18-IFDD.html) | IFDD <br> Kronen Zeitung | 20.0% | 18.6–21.5% | 18.2–21.9% | 17.9–22.3% | 17.2–23.1% |
+| [16–17 December 2024](2024-12-17-Market.html) | Market <br> ÖSTERREICH | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
+| [9–10 December 2024](2024-12-10-Market.html) | Market <br> ÖSTERREICH | 19.0% | N/A | N/A | N/A | N/A |
 | [2–4 December 2024](2024-12-04-UniqueResearch.html) | Unique Research <br> Heute | 21.0% | 19.2–22.9% | 18.7–23.5% | 18.3–24.0% | 17.5–24.9% |
+| [2–4 December 2024](2024-12-04-INSA.html) | INSA <br> eXXpress | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [2–3 December 2024](2024-12-03-Market.html) | Market <br> ÖSTERREICH | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [25–26 November 2024](2024-11-26-OGM.html) | OGM | 20.0% | 18.5–21.7% | 18.1–22.2% | 17.7–22.6% | 17.0–23.4% |
 | [25–26 November 2024](2024-11-26-Market.html) | Market <br> ÖSTERREICH | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
@@ -82,17 +86,16 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 1.3% | 99.9% |  |
-| 17.5–18.5% | 8% | 98.6% |  |
-| 18.5–19.5% | 19% | 90% |  |
-| 19.5–20.5% | 24% | 71% | Median |
-| 20.5–21.5% | 23% | 47% |  |
-| 21.5–22.5% | 15% | 24% |  |
-| 22.5–23.5% | 6% | 8% |  |
-| 23.5–24.5% | 2% | 2% |  |
-| 24.5–25.5% | 0.3% | 0.4% |  |
+| 16.5–17.5% | 2% | 99.9% |  |
+| 17.5–18.5% | 11% | 98% |  |
+| 18.5–19.5% | 25% | 87% |  |
+| 19.5–20.5% | 28% | 62% | Median |
+| 20.5–21.5% | 20% | 34% |  |
+| 21.5–22.5% | 10% | 14% |  |
+| 22.5–23.5% | 3% | 4% |  |
+| 23.5–24.5% | 0.9% | 1.1% |  |
+| 24.5–25.5% | 0.2% | 0.2% |  |
 | 25.5–26.5% | 0% | 0% |  |
-| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -104,7 +107,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [17–18 December 2024](2024-12-18-IFDD.html) | IFDD <br> Kronen Zeitung | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [16–17 December 2024](2024-12-17-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4–5 | 3–5 |
+| [9–10 December 2024](2024-12-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [2–4 December 2024](2024-12-04-UniqueResearch.html) | Unique Research <br> Heute | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [2–4 December 2024](2024-12-04-INSA.html) | INSA <br> eXXpress | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [2–3 December 2024](2024-12-03-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4–5 | 3–5 |
 | [25–26 November 2024](2024-11-26-OGM.html) | OGM | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [25–26 November 2024](2024-11-26-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4–5 | 3–5 |
@@ -163,10 +170,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.6% | 100% |  |
-| 4 | 65% | 99.4% | Median |
-| 5 | 34% | 34% |  |
-| 6 | 0.2% | 0.2% |  |
+| 3 | 0.8% | 100% |  |
+| 4 | 79% | 99.2% | Median |
+| 5 | 20% | 20% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
 
