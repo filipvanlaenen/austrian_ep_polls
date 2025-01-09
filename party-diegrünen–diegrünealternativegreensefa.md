@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.9% | 6.7–9.0% | 6.4–9.4% | 6.1–9.7% | 5.5–10.3% |
+| [3–4 January 2025](2025-01-04-IFDD.html) | IFDD <br> Kronen Zeitung | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.6% | 6.2–10.2% |
 | [17–18 December 2024](2024-12-18-IFDD.html) | IFDD <br> Kronen Zeitung | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.6% | 6.2–10.2% |
 | [16–17 December 2024](2024-12-17-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [9–10 December 2024](2024-12-10-Market.html) | Market <br> ÖSTERREICH | 8.0% | N/A | N/A | N/A | N/A |
@@ -93,6 +94,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [3–4 January 2025](2025-01-04-IFDD.html) | IFDD <br> Kronen Zeitung | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–18 December 2024](2024-12-18-IFDD.html) | IFDD <br> Kronen Zeitung | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–17 December 2024](2024-12-17-Market.html) | Market <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–10 December 2024](2024-12-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |

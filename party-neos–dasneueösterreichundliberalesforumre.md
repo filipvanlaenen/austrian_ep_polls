@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.5% | 8.8–12.8% | 8.4–13.3% | 8.0–13.8% | 7.4–14.6% |
+| N/A | [Poll Average](average.html) | 10.8% | 8.9–12.8% | 8.4–13.4% | 8.0–13.8% | 7.4–14.6% |
+| [3–4 January 2025](2025-01-04-IFDD.html) | IFDD <br> Kronen Zeitung | 11.0% | 10.0–12.3% | 9.7–12.6% | 9.4–12.9% | 8.9–13.5% |
 | [17–18 December 2024](2024-12-18-IFDD.html) | IFDD <br> Kronen Zeitung | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.5–11.8% | 8.0–12.4% |
 | [16–17 December 2024](2024-12-17-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [9–10 December 2024](2024-12-10-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
@@ -77,12 +78,12 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.8% | 100% |  |
-| 7.5–8.5% | 6% | 99.1% |  |
-| 8.5–9.5% | 18% | 93% |  |
-| 9.5–10.5% | 27% | 75% | Median |
-| 10.5–11.5% | 20% | 48% |  |
-| 11.5–12.5% | 15% | 28% |  |
-| 12.5–13.5% | 9% | 13% |  |
+| 7.5–8.5% | 5% | 99.1% |  |
+| 8.5–9.5% | 14% | 94% |  |
+| 9.5–10.5% | 23% | 80% |  |
+| 10.5–11.5% | 24% | 57% | Median |
+| 11.5–12.5% | 19% | 34% |  |
+| 12.5–13.5% | 10% | 14% |  |
 | 13.5–14.5% | 3% | 4% |  |
 | 14.5–15.5% | 0.5% | 0.6% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
@@ -98,6 +99,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [3–4 January 2025](2025-01-04-IFDD.html) | IFDD <br> Kronen Zeitung | 2 | 2 | 2 | 2–3 | 2–3 |
 | [17–18 December 2024](2024-12-18-IFDD.html) | IFDD <br> Kronen Zeitung | 2 | 2 | 2 | 1–2 | 1–2 |
 | [16–17 December 2024](2024-12-17-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
 | [9–10 December 2024](2024-12-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -159,9 +161,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 6% | 100% |  |
-| 2 | 86% | 94% | Median |
-| 3 | 8% | 8% |  |
+| 1 | 5% | 100% |  |
+| 2 | 86% | 95% | Median |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 
