@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2025-01-08T22:56:08.094642+01:00</updated>
+  <updated>2025-01-10T22:44:12.969053+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kommunistische Partei Österreichs (GUE/NGL): 2.1–4.3%, 0 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 8.3–12.0%, 1–2 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 16.7–21.6%, 3–5 seats</li><li>Freiheitliche Partei Österreichs (PfE): 36.0–42.1%, 8–9 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 8.3–12.0%, 1–2 seats</li><li>Österreichische Volkspartei (EPP): 14.8–19.5%, 3–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_ep_polls/2025-01-08-Market.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_ep_polls/2025-01-08-Market.html"/>
+    <title>Opinion Poll by Market for ÖSTERREICH, 7–8 January 2025</title>
+    <updated>2025-01-10T22:44:12.969053+01:00</updated>
+    <dc:date>2025-01-10T22:44:12.969053+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kommunistische Partei Österreichs (GUE/NGL): 2.2–4.1%, 0 seats</li><li>Die Grünen–Die Grüne Alternative (Greens/EFA): 6.6–9.6%, 1–2 seats</li><li>Sozialdemokratische Partei Österreichs (S&amp;D): 16.9–21.3%, 3–5 seats</li><li>Freiheitliche Partei Österreichs (PfE): 34.4–39.8%, 7–9 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum (RE): 9.4–12.9%, 2–3 seats</li><li>Österreichische Volkspartei (EPP): 18.9–23.4%, 4–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_ep_polls/2025-01-04-IFDD.html</id>
@@ -247,5 +255,5 @@
     <updated>2024-08-23T20:43:27.55166+02:00</updated>
     <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
   </entry>
-  <dc:date>2025-01-08T22:56:08.094642+01:00</dc:date>
+  <dc:date>2025-01-10T22:44:12.969053+01:00</dc:date>
 </feed>
