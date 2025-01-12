@@ -108,7 +108,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [7–8 January 2025](2025-01-08-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [3–4 January 2025](2025-01-04-IFDD.html) | IFDD <br> Kronen Zeitung | 4 | 4 | 4 | 3–5 | 3–5 |
 | [17–18 December 2024](2024-12-18-IFDD.html) | IFDD <br> Kronen Zeitung | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -174,8 +174,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 80% | 97% | Median |
+| 3 | 2% | 100% |  |
+| 4 | 80% | 98% | Median |
 | 5 | 17% | 17% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
