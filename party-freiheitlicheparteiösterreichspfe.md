@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.0% | 31.9–37.5% | 31.0–38.2% | 30.4–38.8% | 29.2–39.8% |
+| N/A | [Poll Average](average.html) | 34.6% | 31.8–37.5% | 31.0–38.2% | 30.4–38.8% | 29.2–39.8% |
+| [20–28 January 2025](2025-01-28-Market.html) | Market <br> ÖSTERREICH | 34.0% | 32.7–35.4% | 32.3–35.8% | 31.9–36.1% | 31.3–36.8% |
 | [20–21 January 2025](2025-01-21-Market.html) | Market <br> ÖSTERREICH | 35.0% | 33.6–36.4% | 33.3–36.8% | 32.9–37.1% | 32.3–37.8% |
 | [13–15 January 2025](2025-01-15-INSA.html) | INSA <br> eXXpress | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [13–14 January 2025](2025-01-14-Market.html) | Market <br> ÖSTERREICH | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
@@ -106,13 +107,13 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 0.7% | 99.9% |  |
 | 29.5–30.5% | 2% | 99.2% |  |
 | 30.5–31.5% | 5% | 97% |  |
-| 31.5–32.5% | 7% | 92% |  |
-| 32.5–33.5% | 10% | 85% |  |
-| 33.5–34.5% | 16% | 74% |  |
-| 34.5–35.5% | 20% | 58% | Median |
-| 35.5–36.5% | 17% | 39% |  |
-| 36.5–37.5% | 12% | 21% |  |
-| 37.5–38.5% | 6% | 10% |  |
+| 31.5–32.5% | 9% | 92% |  |
+| 32.5–33.5% | 14% | 83% |  |
+| 33.5–34.5% | 18% | 69% |  |
+| 34.5–35.5% | 17% | 51% | Median |
+| 35.5–36.5% | 14% | 34% |  |
+| 36.5–37.5% | 10% | 20% |  |
+| 37.5–38.5% | 6% | 9% |  |
 | 38.5–39.5% | 3% | 3% |  |
 | 39.5–40.5% | 0.7% | 0.8% |  |
 | 40.5–41.5% | 0.1% | 0.1% |  |
@@ -128,6 +129,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [20–28 January 2025](2025-01-28-Market.html) | Market <br> ÖSTERREICH | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [20–21 January 2025](2025-01-21-Market.html) | Market <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [13–15 January 2025](2025-01-15-INSA.html) | INSA <br> eXXpress | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [13–14 January 2025](2025-01-14-Market.html) | Market <br> ÖSTERREICH | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -200,8 +202,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 3% | 100% |  |
-| 7 | 35% | 97% |  |
-| 8 | 56% | 62% | Median |
+| 7 | 42% | 97% |  |
+| 8 | 49% | 55% | Median |
 | 9 | 6% | 6% |  |
 | 10 | 0% | 0% |  |
 
