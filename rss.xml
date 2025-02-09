@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 Jan 2025 19:53:16 +0100</pubDate>
+    <pubDate>Sat, 08 Feb 2025 23:56:22 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Market for ÖSTERREICH, 20–28 January 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2025-01-28-Market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 7–8 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 2 seats&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-01-28-Market-seats.png"
+        length="212727"
+        type="image/png"/>
+      <pubDate>Sat, 08 Feb 2025 23:56:22 +0100</pubDate>
+      <dc:date>2025-02-08T23:56:22.822208+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for ÖSTERREICH, 20–28 January 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2025-01-28-Market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-01-28-Market-coalitions-seats.png"
+        length="144833"
+        type="image/png"/>
+      <pubDate>Sat, 08 Feb 2025 23:56:22 +0100</pubDate>
+      <dc:date>2025-02-08T23:56:22.822208+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for ÖSTERREICH, 20–28 January 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2025-01-28-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 2.3–3.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 20.2–23.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 31.9–36.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.7–11.4%&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 17.3–20.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-01-28-Market.png"
+        length="253416"
+        type="image/png"/>
+      <pubDate>Sat, 08 Feb 2025 23:56:22 +0100</pubDate>
+      <dc:date>2025-02-08T23:56:22.822208+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 20–21 January 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2025-01-21-Market.html#seats</link>
@@ -1029,6 +1059,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2025-01-25T19:53:16.699406+01:00</dc:date>
+    <dc:date>2025-02-08T23:56:22.822208+01:00</dc:date>
   </channel>
 </rss>
