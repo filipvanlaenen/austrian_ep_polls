@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.8–3.5% | 1.6–3.7% | 1.4–3.9% | 1.2–4.3% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.9–3.6% | 1.7–3.8% | 1.5–4.0% | 1.2–4.4% |
+| [13–15 February 2025](2025-02-15-IFDD.html) | IFDD <br> Puls 24 | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.1% | 2.0–4.5% |
+| [13–14 February 2025](2025-02-14-Spectra.html) | Spectra <br> Kleine Zeitung | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.9–4.7% |
+| [10–11 February 2025](2025-02-11-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
+| [3–4 February 2025](2025-02-04-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
 | [20–28 January 2025](2025-01-28-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [20–21 January 2025](2025-01-21-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [13–15 January 2025](2025-01-15-INSA.html) | INSA <br> eXXpress | 0.0% | N/A | N/A | N/A | N/A |
@@ -76,11 +80,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 30% | 96% |  |
-| 2.5–3.5% | 57% | 66% | Median |
-| 3.5–4.5% | 10% | 10% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 26% | 97% |  |
+| 2.5–3.5% | 59% | 71% | Median |
+| 3.5–4.5% | 12% | 12% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -93,6 +97,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [13–15 February 2025](2025-02-15-IFDD.html) | IFDD <br> Puls 24 | 0 | 0 | 0 | 0 | 0–1 |
+| [13–14 February 2025](2025-02-14-Spectra.html) | Spectra <br> Kleine Zeitung | 0 | 0 | 0 | 0 | 0–1 |
+| [10–11 February 2025](2025-02-11-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
+| [3–4 February 2025](2025-02-04-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [20–28 January 2025](2025-01-28-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [20–21 January 2025](2025-01-21-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [13–15 January 2025](2025-01-15-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
@@ -159,8 +167,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 99.0% | 100% | Last Result, Median |
+| 1 | 1.0% | 1.0% |  |
 | 2 | 0% | 0% |  |
 
 
