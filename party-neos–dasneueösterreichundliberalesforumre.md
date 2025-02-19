@@ -109,7 +109,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [13–15 February 2025](2025-02-15-IFDD.html) | IFDD <br> Puls 24 | 2 | 2 | 2 | 2–3 | 2–3 |
-| [13–14 February 2025](2025-02-14-Spectra.html) | Spectra <br> Kleine Zeitung | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [13–14 February 2025](2025-02-14-Spectra.html) | Spectra <br> Kleine Zeitung | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [10–11 February 2025](2025-02-11-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
 | [3–4 February 2025](2025-02-04-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [20–28 January 2025](2025-01-28-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
@@ -179,8 +179,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.3% | 100% |  |
-| 2 | 92% | 98.7% | Median |
+| 1 | 1.4% | 100% |  |
+| 2 | 92% | 98.6% | Median |
 | 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 

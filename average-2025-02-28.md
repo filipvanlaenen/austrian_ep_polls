@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 2–4% <br> 0 | N/A <br> N/A | 7–11% <br> 1–2 | N/A <br> N/A | 18–24% <br> 4–5 | 9–14% <br> 2–3 | 17–22% <br> 3–5 | 31–38% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–15 February 2025](2025-02-15-IFDD.html) | IFDD <br> Puls 24 | 2–4% <br> 0 | N/A <br> N/A | 8–12% <br> 1–2 | N/A <br> N/A | 20–24% <br> 4–5 | 9–13% <br> 2–3 | 17–21% <br> 3–5 | 30–36% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–14 February 2025](2025-02-14-Spectra.html) | Spectra <br> Kleine Zeitung | 2–4% <br> 0 | N/A <br> N/A | 7–11% <br> 1–2 | N/A <br> N/A | 19–24% <br> 4–5 | 8–12% <br> 1–2 | 16–21% <br> 3–5 | 32–38% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–14 February 2025](2025-02-14-Spectra.html) | Spectra <br> Kleine Zeitung | 2–4% <br> 0 | N/A <br> N/A | 7–11% <br> 1–2 | N/A <br> N/A | 19–24% <br> 4–5 | 8–12% <br> 1–2 | 16–21% <br> 3–5 | 32–38% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–11 February 2025](2025-02-11-Market.html) | Market <br> ÖSTERREICH | 2–4% <br> 0 | N/A <br> N/A | 9–11% <br> 2 | N/A <br> N/A | 21–25% <br> 4–5 | 9–11% <br> 2 | 17–21% <br> 4 | 31–35% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–15 January 2025](2025-01-15-INSA.html) | INSA <br> eXXpress | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | 18–23% <br> 4–5 | 9–13% <br> 2–3 | 18–23% <br> 4–5 | 32–38% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–4 December 2024](2024-12-04-UniqueResearch.html) | Unique Research <br> Heute | 1–3% <br> 0 | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | 18–24% <br> 4–5 | 10–14% <br> 2–3 | 17–23% <br> 4–5 | 32–38% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -312,9 +312,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.4% | 100% |  |
-| 4 | 42% | 99.6% |  |
-| 5 | 57% | 58% | Median |
-| 6 | 0.3% | 0.3% |  |
+| 4 | 41% | 99.6% |  |
+| 5 | 59% | 59% | Median |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -326,8 +326,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.3% | 100% |  |
-| 2 | 92% | 98.7% | Median |
+| 1 | 1.4% | 100% |  |
+| 2 | 92% | 98.6% | Median |
 | 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
@@ -361,9 +361,9 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.3% | 100% |  |
-| 7 | 55% | 99.7% | Median |
-| 8 | 44% | 45% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 55% | 99.8% | Median |
+| 8 | 43% | 44% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
@@ -425,9 +425,9 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.3% | 100% |  |
-| 7 | 55% | 99.7% | Median |
-| 8 | 44% | 45% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 55% | 99.8% | Median |
+| 8 | 43% | 44% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
@@ -441,9 +441,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.4% | 100% |  |
-| 4 | 42% | 99.6% |  |
-| 5 | 57% | 58% | Median |
-| 6 | 0.3% | 0.3% |  |
+| 4 | 41% | 99.6% |  |
+| 5 | 59% | 59% | Median |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 ### Österreichische Volkspartei (EPP)
@@ -467,8 +467,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.3% | 100% |  |
-| 2 | 92% | 98.7% | Median |
+| 1 | 1.4% | 100% |  |
+| 2 | 92% | 98.6% | Median |
 | 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
@@ -497,6 +497,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 7,340,032
-+ **Error estimate:** 1.23%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
++ **Error estimate:** 0.73%
