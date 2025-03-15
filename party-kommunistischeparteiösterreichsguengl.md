@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.9% | 2.0–3.6% | 1.7–3.8% | 1.5–4.0% | 1.3–4.4% |
+| [3–11 March 2025](2025-03-11-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
+| [5–7 March 2025](2025-03-07-Market.html) | Market <br> Der Standard | 3.0% | N/A | N/A | N/A | N/A |
+| [24 February–4 March 2025](2025-03-04-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
 | [24–26 February 2025](2025-02-26-INSA.html) | INSA <br> Exxpress | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 February 2025](2025-02-25-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [17–18 February 2025](2025-02-18-OGM.html) | OGM <br> Servus TV | 2.0% | 1.5–2.7% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
@@ -101,6 +104,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [3–11 March 2025](2025-03-11-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
+| [5–7 March 2025](2025-03-07-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [24 February–4 March 2025](2025-03-04-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [24–26 February 2025](2025-02-26-INSA.html) | INSA <br> Exxpress |  |  |  |  |  |
 | [24–25 February 2025](2025-02-25-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [17–18 February 2025](2025-02-18-OGM.html) | OGM <br> Servus TV | 0 | 0 | 0 | 0 | 0 |

@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.7% | 20.1–23.7% | 19.6–24.3% | 19.2–24.8% | 18.4–25.8% |
+| [3–11 March 2025](2025-03-11-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
+| [5–7 March 2025](2025-03-07-Market.html) | Market <br> Der Standard | 21.0% | N/A | N/A | N/A | N/A |
+| [24 February–4 March 2025](2025-03-04-Market.html) | Market <br> ÖSTERREICH | 21.0% | N/A | N/A | N/A | N/A |
 | [24–26 February 2025](2025-02-26-INSA.html) | INSA <br> Exxpress | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [24–25 February 2025](2025-02-25-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [17–18 February 2025](2025-02-18-OGM.html) | OGM <br> Servus TV | 21.0% | 19.4–22.8% | 18.9–23.3% | 18.5–23.8% | 17.8–24.6% |
@@ -123,6 +126,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [3–11 March 2025](2025-03-11-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [5–7 March 2025](2025-03-07-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [24 February–4 March 2025](2025-03-04-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [24–26 February 2025](2025-02-26-INSA.html) | INSA <br> Exxpress | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [24–25 February 2025](2025-02-25-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17–18 February 2025](2025-02-18-OGM.html) | OGM <br> Servus TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -201,8 +207,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 45% | 99.9% |  |
-| 5 | 55% | 55% | Median |
+| 4 | 43% | 99.9% |  |
+| 5 | 57% | 57% | Median |
 | 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
