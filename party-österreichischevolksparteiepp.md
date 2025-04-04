@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.9% | 17.8–22.4% | 17.3–22.9% | 16.9–23.3% | 16.1–24.0% |
-| [21–23 March 2025](2025-03-23-IFDD.html) | IFDD <br> NÖN | 23.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 20.5% | 18.0–23.3% | 17.5–24.0% | 17.0–24.6% | 16.2–25.6% |
+| [21–23 March 2025](2025-03-23-IFDD.html) | IFDD <br> NÖN | 23.0% | 21.4–24.7% | 21.0–25.2% | 20.6–25.7% | 19.8–26.5% |
 | [17–18 March 2025](2025-03-18-Market.html) | Market <br> ÖSTERREICH | 22.0% | 20.8–23.2% | 20.5–23.6% | 20.2–23.9% | 19.7–24.5% |
 | [3–11 March 2025](2025-03-11-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [5–7 March 2025](2025-03-07-Market.html) | Market <br> Der Standard | 21.0% | N/A | N/A | N/A | N/A |
@@ -105,17 +105,19 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 1.2% | 99.9% |  |
-| 16.5–17.5% | 6% | 98.7% |  |
-| 17.5–18.5% | 15% | 93% |  |
-| 18.5–19.5% | 21% | 78% |  |
-| 19.5–20.5% | 19% | 57% | Median |
-| 20.5–21.5% | 16% | 38% |  |
-| 21.5–22.5% | 14% | 22% |  |
-| 22.5–23.5% | 6% | 8% |  |
-| 23.5–24.5% | 1.3% | 1.4% |  |
-| 24.5–25.5% | 0.1% | 0.1% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 15.5–16.5% | 0.9% | 99.9% |  |
+| 16.5–17.5% | 5% | 99.0% |  |
+| 17.5–18.5% | 12% | 94% |  |
+| 18.5–19.5% | 17% | 83% |  |
+| 19.5–20.5% | 16% | 66% |  |
+| 20.5–21.5% | 15% | 50% | Median |
+| 21.5–22.5% | 16% | 35% |  |
+| 22.5–23.5% | 11% | 19% |  |
+| 23.5–24.5% | 6% | 8% |  |
+| 24.5–25.5% | 2% | 3% |  |
+| 25.5–26.5% | 0.5% | 0.6% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -126,8 +128,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [21–23 March 2025](2025-03-23-IFDD.html) | IFDD <br> NÖN |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [21–23 March 2025](2025-03-23-IFDD.html) | IFDD <br> NÖN | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [17–18 March 2025](2025-03-18-Market.html) | Market <br> ÖSTERREICH | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3–11 March 2025](2025-03-11-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–7 March 2025](2025-03-07-Market.html) | Market <br> Der Standard |  |  |  |  |  |
@@ -210,10 +212,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 6% | 100% |  |
-| 4 | 70% | 94% | Median |
-| 5 | 24% | 24% |  |
-| 6 | 0.1% | 0.1% |  |
+| 3 | 5% | 100% |  |
+| 4 | 59% | 95% | Median |
+| 5 | 36% | 36% |  |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 
