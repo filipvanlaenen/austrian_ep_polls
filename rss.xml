@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 May 2025 23:31:07 +0200</pubDate>
+    <pubDate>Sat, 24 May 2025 18:01:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 5–13 May 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2025-05-13-Market.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-04-29-Market-seats.png"
         length="216288"
         type="image/png"/>
-      <pubDate>Fri, 23 May 2025 23:31:07 +0200</pubDate>
-      <dc:date>2025-05-23T23:31:07.21604+02:00</dc:date>
+      <pubDate>Sat, 24 May 2025 18:01:45 +0200</pubDate>
+      <dc:date>2025-05-24T18:01:45.410377+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 18–29 April 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-04-29-Market-coalitions-seats.png"
         length="149528"
         type="image/png"/>
-      <pubDate>Fri, 23 May 2025 23:31:07 +0200</pubDate>
-      <dc:date>2025-05-23T23:31:07.21604+02:00</dc:date>
+      <pubDate>Sat, 24 May 2025 18:01:45 +0200</pubDate>
+      <dc:date>2025-05-24T18:01:45.410377+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 18–29 April 2025 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-04-29-Market.png"
         length="254280"
         type="image/png"/>
-      <pubDate>Fri, 23 May 2025 23:31:07 +0200</pubDate>
-      <dc:date>2025-05-23T23:31:07.21604+02:00</dc:date>
+      <pubDate>Sat, 24 May 2025 18:01:45 +0200</pubDate>
+      <dc:date>2025-05-24T18:01:45.410377+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA for eXXpress, 14–16 April 2025 – Seat Projections for the Parties</title>
@@ -1539,6 +1539,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2025-05-23T23:31:07.21604+02:00</dc:date>
+    <dc:date>2025-05-24T18:01:45.410377+02:00</dc:date>
   </channel>
 </rss>
