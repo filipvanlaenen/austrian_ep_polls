@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.1% | 18.1–21.9% | 17.6–22.4% | 17.1–22.8% | 16.3–23.7% |
+| N/A | [Poll Average](average.html) | 19.8% | 18.0–21.8% | 17.5–22.4% | 17.1–22.9% | 16.3–23.8% |
 | [6–7 June 2025](2025-06-07-IFDD.html) | IFDD <br> Kronen Zeitung | 19.0% | 17.7–20.5% | 17.3–21.0% | 16.9–21.3% | 16.3–22.0% |
 | [2–5 June 2025](2025-06-05-UniqueResearch.html) | Unique Research <br> Heute | 19.0% | 17.3–20.9% | 16.8–21.4% | 16.4–21.9% | 15.7–22.8% |
+| [28 May–3 June 2025](2025-06-03-Market.html) | Market <br> Standard | 20.0% | 18.3–21.9% | 17.8–22.4% | 17.4–22.9% | 16.6–23.8% |
 | [5–27 May 2025](2025-05-27-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [23–26 May 2025](2025-05-26-OGM.html) | OGM <br> KURIER | 21.0% | 19.4–22.7% | 18.9–23.2% | 18.6–23.6% | 17.8–24.4% |
 | [19–21 May 2025](2025-05-21-INSA.html) | INSA <br> Exxpress | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -121,14 +122,14 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
 | 15.5–16.5% | 0.8% | 99.9% |  |
-| 16.5–17.5% | 4% | 99.2% |  |
-| 17.5–18.5% | 12% | 95% |  |
-| 18.5–19.5% | 20% | 84% |  |
-| 19.5–20.5% | 25% | 63% | Median |
-| 20.5–21.5% | 23% | 39% |  |
-| 21.5–22.5% | 12% | 16% |  |
+| 16.5–17.5% | 4% | 99.1% |  |
+| 17.5–18.5% | 14% | 95% |  |
+| 18.5–19.5% | 24% | 81% |  |
+| 19.5–20.5% | 25% | 57% | Median |
+| 20.5–21.5% | 19% | 32% |  |
+| 21.5–22.5% | 9% | 13% |  |
 | 22.5–23.5% | 3% | 4% |  |
-| 23.5–24.5% | 0.6% | 0.7% |  |
+| 23.5–24.5% | 0.7% | 0.8% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
@@ -144,6 +145,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [6–7 June 2025](2025-06-07-IFDD.html) | IFDD <br> Kronen Zeitung | 4 | 4 | 4 | 3–4 | 3–5 |
 | [2–5 June 2025](2025-06-05-UniqueResearch.html) | Unique Research <br> Heute | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [28 May–3 June 2025](2025-06-03-Market.html) | Market <br> Standard | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [5–27 May 2025](2025-05-27-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [23–26 May 2025](2025-05-26-OGM.html) | OGM <br> KURIER | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [19–21 May 2025](2025-05-21-INSA.html) | INSA <br> Exxpress | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -241,8 +243,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
-| 4 | 77% | 97% | Median |
-| 5 | 20% | 20% |  |
+| 4 | 82% | 97% | Median |
+| 5 | 15% | 15% |  |
 | 6 | 0% | 0% |  |
 
 
