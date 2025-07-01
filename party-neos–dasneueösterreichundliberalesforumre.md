@@ -67,7 +67,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [30 September–1 October 2024](2024-10-01-Market.html) | Market <br> ÖSTERREICH | 11.0% | N/A | N/A | N/A | N/A |
 | [19–22 September 2024](2024-09-22-IFDD.html) | IFDD <br> ATV, Kronen Zeitung and PULS 24 | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [16–18 September 2024](2024-09-18-OGM.html) | OGM <br> Servus TV | 9.0% | 7.9–10.3% | 7.7–10.6% | 7.4–10.9% | 6.9–11.6% |
-| [9–17 September 2024](2024-09-17-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.6–12.4% | 9.3–12.9% |
+| [16–17 September 2024](2024-09-17-Market.html) | Market <br> Der Standard | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.6–12.4% | 9.3–12.9% |
 | [5–11 September 2024](2024-09-11-UniqueResearch.html) | Unique Research <br> Heute | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [9–11 September 2024](2024-09-11-INSA.html) | INSA <br> eXXpress | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [9–10 September 2024](2024-09-10-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
@@ -191,7 +191,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30 September–1 October 2024](2024-10-01-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [19–22 September 2024](2024-09-22-IFDD.html) | IFDD <br> ATV, Kronen Zeitung and PULS 24 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–18 September 2024](2024-09-18-OGM.html) | OGM <br> Servus TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [9–17 September 2024](2024-09-17-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2–3 | 2–3 |
+| [16–17 September 2024](2024-09-17-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 2–3 | 2–3 |
 | [5–11 September 2024](2024-09-11-UniqueResearch.html) | Unique Research <br> Heute | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–11 September 2024](2024-09-11-INSA.html) | INSA <br> eXXpress | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–10 September 2024](2024-09-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |

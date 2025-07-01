@@ -67,7 +67,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [30 September–1 October 2024](2024-10-01-Market.html) | Market <br> ÖSTERREICH | 30.0% | N/A | N/A | N/A | N/A |
 | [19–22 September 2024](2024-09-22-IFDD.html) | IFDD <br> ATV, Kronen Zeitung and PULS 24 | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [16–18 September 2024](2024-09-18-OGM.html) | OGM <br> Servus TV | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
-| [9–17 September 2024](2024-09-17-Market.html) | Market <br> ÖSTERREICH | 27.0% | 25.7–28.3% | 25.3–28.6% | 25.0–28.9% | 24.5–29.6% |
+| [16–17 September 2024](2024-09-17-Market.html) | Market <br> Der Standard | 27.0% | 25.7–28.3% | 25.3–28.6% | 25.0–28.9% | 24.5–29.6% |
 | [5–11 September 2024](2024-09-11-UniqueResearch.html) | Unique Research <br> Heute | 28.0% | 26.0–30.1% | 25.5–30.7% | 25.0–31.2% | 24.1–32.3% |
 | [9–11 September 2024](2024-09-11-INSA.html) | INSA <br> eXXpress | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [9–10 September 2024](2024-09-10-Market.html) | Market <br> ÖSTERREICH | 28.0% | N/A | N/A | N/A | N/A |
@@ -214,7 +214,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30 September–1 October 2024](2024-10-01-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [19–22 September 2024](2024-09-22-IFDD.html) | IFDD <br> ATV, Kronen Zeitung and PULS 24 | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [16–18 September 2024](2024-09-18-OGM.html) | OGM <br> Servus TV | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [9–17 September 2024](2024-09-17-Market.html) | Market <br> ÖSTERREICH | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [16–17 September 2024](2024-09-17-Market.html) | Market <br> Der Standard | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [5–11 September 2024](2024-09-11-UniqueResearch.html) | Unique Research <br> Heute | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [9–11 September 2024](2024-09-11-INSA.html) | INSA <br> eXXpress | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [9–10 September 2024](2024-09-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
