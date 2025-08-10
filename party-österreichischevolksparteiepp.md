@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.0% | 18.8–24.6% | 18.1–25.2% | 17.6–25.7% | 16.7–26.7% |
+| N/A | [Poll Average](average.html) | 22.3% | 19.0–24.7% | 18.2–25.3% | 17.6–25.8% | 16.7–26.7% |
+| [24–30 July 2025](2025-07-30-Market.html) | Market <br> Der Standard | 22.0% | 20.2–23.9% | 19.7–24.5% | 19.3–25.0% | 18.4–25.9% |
 | [14–17 July 2025](2025-07-17-INSA.html) | INSA <br> Exxpress | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [6–7 June 2025](2025-06-07-IFDD.html) | IFDD <br> Kronen Zeitung | 24.0% | 22.5–25.6% | 22.1–26.1% | 21.7–26.5% | 21.0–27.2% |
 | [2–5 June 2025](2025-06-05-UniqueResearch.html) | Unique Research <br> Heute | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
@@ -122,18 +123,18 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.4% | 100% |  |
+| 15.5–16.5% | 0.3% | 100% |  |
 | 16.5–17.5% | 2% | 99.6% |  |
 | 17.5–18.5% | 5% | 98% |  |
-| 18.5–19.5% | 9% | 92% |  |
-| 19.5–20.5% | 12% | 83% |  |
-| 20.5–21.5% | 15% | 72% |  |
-| 21.5–22.5% | 17% | 57% | Median |
-| 22.5–23.5% | 16% | 40% |  |
-| 23.5–24.5% | 13% | 24% |  |
-| 24.5–25.5% | 7% | 11% |  |
+| 18.5–19.5% | 8% | 93% |  |
+| 19.5–20.5% | 9% | 85% |  |
+| 20.5–21.5% | 14% | 76% |  |
+| 21.5–22.5% | 18% | 62% | Median |
+| 22.5–23.5% | 18% | 44% |  |
+| 23.5–24.5% | 15% | 26% |  |
+| 24.5–25.5% | 8% | 11% |  |
 | 25.5–26.5% | 3% | 3% |  |
-| 26.5–27.5% | 0.6% | 0.6% |  |
+| 26.5–27.5% | 0.6% | 0.7% |  |
 | 27.5–28.5% | 0.1% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
@@ -147,6 +148,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [24–30 July 2025](2025-07-30-Market.html) | Market <br> Der Standard | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [14–17 July 2025](2025-07-17-INSA.html) | INSA <br> Exxpress | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [6–7 June 2025](2025-06-07-IFDD.html) | IFDD <br> Kronen Zeitung | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [2–5 June 2025](2025-06-05-UniqueResearch.html) | Unique Research <br> Heute | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -248,8 +250,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
-| 4 | 41% | 98% |  |
-| 5 | 55% | 57% | Median |
+| 4 | 38% | 98% |  |
+| 5 | 58% | 61% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
