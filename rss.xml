@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 20 Oct 2025 18:31:58 +0200</pubDate>
+    <pubDate>Fri, 24 Oct 2025 19:17:12 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 20–23 October 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2025-10-23-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 7–8 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-10-23-UniqueResearch-seats.png"
+        length="223714"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 19:17:12 +0200</pubDate>
+      <dc:date>2025-10-24T19:17:12.092022+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 20–23 October 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2025-10-23-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-10-23-UniqueResearch-coalitions-seats.png"
+        length="159732"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 19:17:12 +0200</pubDate>
+      <dc:date>2025-10-24T19:17:12.092022+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 20–23 October 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2025-10-23-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 2.8–5.5%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 9.1–13.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 14.6–19.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 30.8–37.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.2–12.3%&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 20.2–25.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-10-23-UniqueResearch.png"
+        length="271319"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 19:17:12 +0200</pubDate>
+      <dc:date>2025-10-24T19:17:12.092022+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 13–14 October 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2025-10-14-Market.html#seats</link>
@@ -2079,6 +2109,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2025-10-20T18:31:58.102717+02:00</dc:date>
+    <dc:date>2025-10-24T19:17:12.092022+02:00</dc:date>
   </channel>
 </rss>
