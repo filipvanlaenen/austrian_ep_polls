@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.7% | 8.8–12.0% | 8.3–12.4% | 7.9–12.7% | 7.3–13.3% |
+| N/A | [Poll Average](average.html) | 10.8% | 9.0–12.1% | 8.4–12.5% | 8.0–12.9% | 7.4–13.6% |
+| [20–23 October 2025](2025-10-23-UniqueResearch.html) | Unique Research <br> Heute | 11.0% | 9.7–12.5% | 9.4–12.9% | 9.1–13.3% | 8.5–14.1% |
 | [13–14 October 2025](2025-10-14-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [6–7 October 2025](2025-10-07-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
@@ -123,14 +124,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.0% | 100% |  |
-| 7.5–8.5% | 6% | 99.0% |  |
-| 8.5–9.5% | 13% | 93% |  |
-| 9.5–10.5% | 24% | 80% |  |
-| 10.5–11.5% | 35% | 56% | Median |
-| 11.5–12.5% | 17% | 21% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.3% | 0.3% |  |
+| 6.5–7.5% | 0.8% | 100% |  |
+| 7.5–8.5% | 5% | 99.2% |  |
+| 8.5–9.5% | 12% | 94% |  |
+| 9.5–10.5% | 24% | 82% |  |
+| 10.5–11.5% | 36% | 59% | Median |
+| 11.5–12.5% | 19% | 23% |  |
+| 12.5–13.5% | 4% | 5% |  |
+| 13.5–14.5% | 0.5% | 0.5% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -142,7 +143,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [20–23 October 2025](2025-10-23-UniqueResearch.html) | Unique Research <br> Heute | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [13–14 October 2025](2025-10-14-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 2–3 |
 | [6–7 October 2025](2025-10-07-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
@@ -251,9 +253,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 6% | 100% |  |
-| 2 | 92% | 94% | Median |
-| 3 | 2% | 2% |  |
+| 1 | 5% | 100% |  |
+| 2 | 92% | 95% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 
