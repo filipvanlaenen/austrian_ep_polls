@@ -29,7 +29,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#freiheitliche-partei-österreichs-(pfe)">Freiheitliche Partei Österreichs (PfE)</a> | 0 | 7 | 7–8 |7–8 |7–8 |6–8 |
+| <a href="#freiheitliche-partei-österreichs-(pfe)">Freiheitliche Partei Österreichs (PfE)</a> | 0 | 7 | 7–8 |7–8 |7–8 |6–9 |
 | <a href="#österreichische-volkspartei-(epp)">Österreichische Volkspartei (EPP)</a> | 0 | 5 | 4–5 |4–5 |4–6 |4–6 |
 | <a href="#sozialdemokratische-partei-österreichs-(s&d)">Sozialdemokratische Partei Österreichs (S&D)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#die-grünen–die-grüne-alternative-(greens/efa)">Die Grünen–Die Grüne Alternative (Greens/EFA)</a> | 0 | 2 | 2 |2–3 |2–3 |1–3 |
@@ -51,8 +51,8 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 56% | 98% | Median |
-| 8 | 41% | 41% |  |
+| 7 | 59% | 98% | Median |
+| 8 | 38% | 39% |  |
 | 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |
 
@@ -68,8 +68,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 16% | 100% |  |
-| 5 | 79% | 84% | Median |
+| 4 | 18% | 100% |  |
+| 5 | 78% | 82% | Median |
 | 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
@@ -84,8 +84,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 55% | 99.9% | Median |
-| 4 | 45% | 45% |  |
+| 3 | 56% | 99.9% | Median |
+| 4 | 44% | 44% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -113,7 +113,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 7% | 100% |  |
-| 2 | 93% | 93% | Median |
+| 2 | 92% | 93% | Median |
 | 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
@@ -125,8 +125,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 28% | 28% |  |
+| 0 | 67% | 100% | Last Result, Median |
+| 1 | 33% | 33% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -138,7 +138,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Freiheitliche Partei Österreichs (PfE) | 0 | 7 | 0% | 7–8 | 7–8 | 7–8 | 6–8 |
+| Freiheitliche Partei Österreichs (PfE) | 0 | 7 | 0% | 7–8 | 7–8 | 7–8 | 6–9 |
 | Österreichische Volkspartei (EPP) | 0 | 5 | 0% | 4–5 | 4–5 | 4–6 | 4–6 |
 | Sozialdemokratische Partei Österreichs (S&D) | 0 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | NEOS–Das Neue Österreich und Liberales Forum (RE) | 0 | 2 | 0% | 2 | 1–2 | 1–2 | 1–3 |
@@ -156,8 +156,8 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 56% | 98% | Median |
-| 8 | 41% | 41% |  |
+| 7 | 59% | 98% | Median |
+| 8 | 38% | 39% |  |
 | 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |
 
@@ -171,8 +171,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 16% | 100% |  |
-| 5 | 79% | 84% | Median |
+| 4 | 18% | 100% |  |
+| 5 | 78% | 82% | Median |
 | 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
@@ -185,8 +185,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 55% | 99.9% | Median |
-| 4 | 45% | 45% |  |
+| 3 | 56% | 99.9% | Median |
+| 4 | 44% | 44% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -198,7 +198,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 7% | 100% |  |
-| 2 | 93% | 93% | Median |
+| 2 | 92% | 93% | Median |
 | 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
@@ -214,6 +214,6 @@
 ### Calculations
 
 + **Sample size:** 836
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.94%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.44%
 
