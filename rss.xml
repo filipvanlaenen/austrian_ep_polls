@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 Oct 2025 19:17:12 +0200</pubDate>
+    <pubDate>Fri, 24 Oct 2025 21:28:16 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 20–23 October 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2025-10-23-UniqueResearch.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-10-23-UniqueResearch-seats.png"
         length="223714"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 19:17:12 +0200</pubDate>
-      <dc:date>2025-10-24T19:17:12.092022+02:00</dc:date>
+      <pubDate>Fri, 24 Oct 2025 21:28:16 +0200</pubDate>
+      <dc:date>2025-10-24T21:28:16.766004+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 20–23 October 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-10-23-UniqueResearch-coalitions-seats.png"
         length="159732"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 19:17:12 +0200</pubDate>
-      <dc:date>2025-10-24T19:17:12.092022+02:00</dc:date>
+      <pubDate>Fri, 24 Oct 2025 21:28:16 +0200</pubDate>
+      <dc:date>2025-10-24T21:28:16.766004+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 20–23 October 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2025-10-23-UniqueResearch.png"
         length="271319"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 19:17:12 +0200</pubDate>
-      <dc:date>2025-10-24T19:17:12.092022+02:00</dc:date>
+      <pubDate>Fri, 24 Oct 2025 21:28:16 +0200</pubDate>
+      <dc:date>2025-10-24T21:28:16.766004+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 13–14 October 2025 – Seat Projections for the Parties</title>
@@ -2109,6 +2109,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2025-10-24T19:17:12.092022+02:00</dc:date>
+    <dc:date>2025-10-24T21:28:16.766004+02:00</dc:date>
   </channel>
 </rss>
