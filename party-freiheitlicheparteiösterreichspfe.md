@@ -11,7 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 35.8% | 32.4–38.6% | 31.7–39.1% | 31.1–39.6% | 30.0–40.5% |
+| [27–28 October 2025](2025-10-28-Market.html) | Market <br> ÖSTERREICH | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
 | [20–23 October 2025](2025-10-23-UniqueResearch.html) | Unique Research <br> Heute | 34.0% | 31.9–36.1% | 31.3–36.7% | 30.8–37.3% | 29.9–38.3% |
+| [20–21 October 2025](2025-10-21-Market.html) | Market <br> ÖSTERREICH | 38.0% | N/A | N/A | N/A | N/A |
 | [13–14 October 2025](2025-10-14-Market.html) | Market <br> ÖSTERREICH | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
 | [6–7 October 2025](2025-10-07-Market.html) | Market <br> ÖSTERREICH | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 36.0% | 34.6–37.4% | 34.2–37.8% | 33.9–38.1% | 33.3–38.8% |
@@ -172,7 +174,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [27–28 October 2025](2025-10-28-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [20–23 October 2025](2025-10-23-UniqueResearch.html) | Unique Research <br> Heute | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [20–21 October 2025](2025-10-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [13–14 October 2025](2025-10-14-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [6–7 October 2025](2025-10-07-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 8 | 8 | 8–9 | 8–9 | 7–9 |
@@ -288,9 +292,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.8% | 100% |  |
 | 7 | 33% | 99.2% |  |
-| 8 | 51% | 66% | Median |
-| 9 | 16% | 16% |  |
-| 10 | 0.1% | 0.1% |  |
+| 8 | 47% | 67% | Median |
+| 9 | 19% | 19% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% | Majority |
 
 
