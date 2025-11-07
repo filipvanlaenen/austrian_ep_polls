@@ -14,6 +14,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [27–28 October 2025](2025-10-28-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [20–23 October 2025](2025-10-23-UniqueResearch.html) | Unique Research <br> Heute | 23.0% | 21.2–24.9% | 20.7–25.5% | 20.2–25.9% | 19.4–26.9% |
 | [20–21 October 2025](2025-10-21-Market.html) | Market <br> ÖSTERREICH | 21.0% | N/A | N/A | N/A | N/A |
+| [17–21 October 2025](2025-10-21-IFDD.html) | IFDD <br> Kronen Zeitung | 21.0% | 19.7–22.4% | 19.3–22.8% | 19.0–23.1% | 18.4–23.8% |
 | [13–14 October 2025](2025-10-14-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [6–7 October 2025](2025-10-07-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
@@ -162,6 +163,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–28 October 2025](2025-10-28-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [20–23 October 2025](2025-10-23-UniqueResearch.html) | Unique Research <br> Heute | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [20–21 October 2025](2025-10-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [17–21 October 2025](2025-10-21-IFDD.html) | IFDD <br> Kronen Zeitung | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [13–14 October 2025](2025-10-14-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [6–7 October 2025](2025-10-07-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -273,8 +275,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
-| 4 | 53% | 98% | Median |
-| 5 | 45% | 46% |  |
+| 4 | 51% | 98% | Median |
+| 5 | 46% | 48% |  |
 | 6 | 1.2% | 1.2% |  |
 | 7 | 0% | 0% |  |
 

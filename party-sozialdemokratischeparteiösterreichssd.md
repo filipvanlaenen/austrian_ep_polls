@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.1% | 16.3–20.5% | 15.8–21.1% | 15.4–21.7% | 14.6–22.7% |
+| N/A | [Poll Average](average.html) | 17.8% | 16.1–20.5% | 15.6–21.1% | 15.3–21.7% | 14.5–22.7% |
 | [27–28 October 2025](2025-10-28-Market.html) | Market <br> ÖSTERREICH | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
 | [20–23 October 2025](2025-10-23-UniqueResearch.html) | Unique Research <br> Heute | 17.0% | 15.4–18.7% | 15.0–19.3% | 14.6–19.7% | 13.9–20.6% |
 | [20–21 October 2025](2025-10-21-Market.html) | Market <br> ÖSTERREICH | 17.0% | N/A | N/A | N/A | N/A |
+| [17–21 October 2025](2025-10-21-IFDD.html) | IFDD <br> Kronen Zeitung | 17.0% | 15.8–18.3% | 15.5–18.7% | 15.2–19.0% | 14.6–19.6% |
 | [13–14 October 2025](2025-10-14-Market.html) | Market <br> ÖSTERREICH | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
 | [6–7 October 2025](2025-10-07-Market.html) | Market <br> ÖSTERREICH | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
@@ -133,14 +134,14 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.4% | 100% |  |
-| 14.5–15.5% | 3% | 99.5% |  |
-| 15.5–16.5% | 11% | 97% |  |
-| 16.5–17.5% | 22% | 85% |  |
-| 17.5–18.5% | 23% | 63% | Median |
-| 18.5–19.5% | 18% | 40% |  |
-| 19.5–20.5% | 12% | 22% |  |
-| 20.5–21.5% | 7% | 9% |  |
+| 13.5–14.5% | 0.5% | 100% |  |
+| 14.5–15.5% | 4% | 99.4% |  |
+| 15.5–16.5% | 15% | 96% |  |
+| 16.5–17.5% | 25% | 81% |  |
+| 17.5–18.5% | 20% | 56% | Median |
+| 18.5–19.5% | 15% | 35% |  |
+| 19.5–20.5% | 11% | 20% |  |
+| 20.5–21.5% | 6% | 9% |  |
 | 21.5–22.5% | 2% | 3% |  |
 | 22.5–23.5% | 0.5% | 0.6% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
@@ -159,6 +160,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–28 October 2025](2025-10-28-Market.html) | Market <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [20–23 October 2025](2025-10-23-UniqueResearch.html) | Unique Research <br> Heute | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [20–21 October 2025](2025-10-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [17–21 October 2025](2025-10-21-IFDD.html) | IFDD <br> Kronen Zeitung | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–14 October 2025](2025-10-14-Market.html) | Market <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–7 October 2025](2025-10-07-Market.html) | Market <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4 | 3–5 |
@@ -269,8 +271,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 23% | 100% |  |
-| 4 | 74% | 77% | Median |
+| 3 | 29% | 100% |  |
+| 4 | 68% | 71% | Median |
 | 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
 
