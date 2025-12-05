@@ -167,7 +167,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [24–27 November 2025](2025-11-27-OGM.html) | OGM <br> KURIER | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [24–25 November 2025](2025-11-25-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4 | 3–4 |
+| [24–25 November 2025](2025-11-25-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4 | 3–5 |
 | [17–20 November 2025](2025-11-20-Market.html) | Market <br> Der Standard | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [17–18 November 2025](2025-11-18-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4 | 3–5 |
 | [10–11 November 2025](2025-11-11-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
