@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.2% | 16.5–20.4% | 16.0–21.1% | 15.5–21.7% | 14.7–22.7% |
 | [2–3 February 2026](2026-02-03-Market.html) | Market <br> ÖSTERREICH | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
-| [26–27 January 2026](2026-01-27-Market.html) | Market <br> ÖSTERREICH | 18.0% | N/A | N/A | N/A | N/A |
+| [26–27 January 2026](2026-01-27-Market.html) | Market <br> ÖSTERREICH | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [19–20 January 2026](2026-01-20-Market.html) | Market <br> ÖSTERREICH | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [12–14 January 2026](2026-01-14-Market.html) | Market <br> ÖSTERREICH | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [12–14 January 2026](2026-01-14-INSA.html) | INSA <br> Exxpress | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -175,7 +175,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [2–3 February 2026](2026-02-03-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| [26–27 January 2026](2026-01-27-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [26–27 January 2026](2026-01-27-Market.html) | Market <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–20 January 2026](2026-01-20-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [12–14 January 2026](2026-01-14-Market.html) | Market <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–14 January 2026](2026-01-14-INSA.html) | INSA <br> Exxpress | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
