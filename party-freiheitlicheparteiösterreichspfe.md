@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.5% | 34.7–38.3% | 34.1–38.9% | 33.7–39.3% | 32.7–40.3% |
+| N/A | [Poll Average](average.html) | 36.0% | 34.4–37.6% | 34.0–38.1% | 33.6–38.4% | 32.9–39.2% |
+| [23–25 February 2026](2026-02-25-INSA.html) | INSA <br> Exxpress | 38.0% | N/A | N/A | N/A | N/A |
+| [23–24 February 2026](2026-02-24-Market.html) | Market <br> ÖSTERREICH | 36.0% | N/A | N/A | N/A | N/A |
 | [16–17 February 2026](2026-02-17-Market.html) | Market <br> ÖSTERREICH | 37.0% | 35.6–38.4% | 35.2–38.8% | 34.9–39.1% | 34.2–39.8% |
 | [9–10 February 2026](2026-02-10-Market.html) | Market <br> ÖSTERREICH | 36.0% | 34.6–37.4% | 34.2–37.8% | 33.9–38.1% | 33.3–38.8% |
 | [2–3 February 2026](2026-02-03-Market.html) | Market <br> ÖSTERREICH | 35.0% | 33.6–36.4% | 33.3–36.8% | 32.9–37.1% | 32.3–37.8% |
@@ -172,18 +174,16 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0.3% | 100% |  |
-| 32.5–33.5% | 2% | 99.7% |  |
-| 33.5–34.5% | 7% | 98% |  |
-| 34.5–35.5% | 16% | 91% |  |
-| 35.5–36.5% | 26% | 75% |  |
-| 36.5–37.5% | 26% | 49% | Median |
-| 37.5–38.5% | 16% | 23% |  |
-| 38.5–39.5% | 6% | 8% |  |
-| 39.5–40.5% | 1.5% | 2% |  |
-| 40.5–41.5% | 0.3% | 0.3% |  |
-| 41.5–42.5% | 0% | 0% |  |
-| 42.5–43.5% | 0% | 0% |  |
+| 31.5–32.5% | 0.2% | 100% |  |
+| 32.5–33.5% | 2% | 99.8% |  |
+| 33.5–34.5% | 10% | 98% |  |
+| 34.5–35.5% | 24% | 88% |  |
+| 35.5–36.5% | 32% | 64% | Median |
+| 36.5–37.5% | 22% | 33% |  |
+| 37.5–38.5% | 8% | 10% |  |
+| 38.5–39.5% | 2% | 2% |  |
+| 39.5–40.5% | 0.2% | 0.2% |  |
+| 40.5–41.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -194,7 +194,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [23–25 February 2026](2026-02-25-INSA.html) | INSA <br> Exxpress |  |  |  |  |  |
+| [23–24 February 2026](2026-02-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [16–17 February 2026](2026-02-17-Market.html) | Market <br> ÖSTERREICH | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [9–10 February 2026](2026-02-10-Market.html) | Market <br> ÖSTERREICH | 8 | 8 | 7–8 | 7–9 | 7–9 |
 | [2–3 February 2026](2026-02-03-Market.html) | Market <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
@@ -333,10 +335,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 10% | 100% |  |
-| 8 | 74% | 90% | Median |
-| 9 | 16% | 16% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% | Majority |
+| 7 | 11% | 100% |  |
+| 8 | 83% | 89% | Median |
+| 9 | 6% | 6% |  |
+| 10 | 0% | 0% |  |
 
 
