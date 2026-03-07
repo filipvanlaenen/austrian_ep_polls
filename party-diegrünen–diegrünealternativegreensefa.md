@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 8.3–10.7% | 7.9–11.0% | 7.6–11.3% | 7.1–11.8% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.6–11.4% | 8.1–11.7% | 7.8–11.9% | 7.2–12.4% |
 | [2–3 March 2026](2026-03-03-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [23–25 February 2026](2026-02-25-INSA.html) | INSA <br> Exxpress | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [23–24 February 2026](2026-02-24-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [16–17 February 2026](2026-02-17-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
-| [11–17 February 2026](2026-02-17-IFDD.html) | IFDD <br> Kronen Zeitung | 11.0% | N/A | N/A | N/A | N/A |
+| [11–17 February 2026](2026-02-17-IFDD.html) | IFDD <br> Kronen Zeitung | 11.0% | 10.2–11.8% | 10.0–12.1% | 9.8–12.3% | 9.5–12.7% |
 | [9–10 February 2026](2026-02-10-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [2–3 February 2026](2026-02-03-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [29 January–2 February 2026](2026-02-02-Market.html) | Market <br> Der Standard | 10.0% | N/A | N/A | N/A | N/A |
@@ -150,14 +150,15 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 13% | 98% |  |
-| 8.5–9.5% | 32% | 85% |  |
-| 9.5–10.5% | 39% | 53% | Median |
-| 10.5–11.5% | 13% | 14% |  |
-| 11.5–12.5% | 1.0% | 1.0% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 1.3% | 100% |  |
+| 7.5–8.5% | 9% | 98.7% |  |
+| 8.5–9.5% | 22% | 90% |  |
+| 9.5–10.5% | 33% | 68% | Median |
+| 10.5–11.5% | 28% | 35% |  |
+| 11.5–12.5% | 7% | 7% |  |
+| 12.5–13.5% | 0.3% | 0.3% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -168,12 +169,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [2–3 March 2026](2026-03-03-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
 | [23–25 February 2026](2026-02-25-INSA.html) | INSA <br> Exxpress | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–24 February 2026](2026-02-24-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
 | [16–17 February 2026](2026-02-17-Market.html) | Market <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11–17 February 2026](2026-02-17-IFDD.html) | IFDD <br> Kronen Zeitung |  |  |  |  |  |
+| [11–17 February 2026](2026-02-17-IFDD.html) | IFDD <br> Kronen Zeitung | 2 | 2 | 2 | 2 | 2 |
 | [9–10 February 2026](2026-02-10-Market.html) | Market <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–3 February 2026](2026-02-03-Market.html) | Market <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 January–2 February 2026](2026-02-02-Market.html) | Market <br> Der Standard |  |  |  |  |  |
@@ -305,8 +306,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 14% | 100% |  |
-| 2 | 86% | 86% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 10% | 100% |  |
+| 2 | 90% | 90% | Median |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 

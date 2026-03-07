@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 2.0–4.5% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.6–4.3% | 2.4–4.5% | 2.3–4.6% | 2.0–4.9% |
 | [2–3 March 2026](2026-03-03-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [23–25 February 2026](2026-02-25-INSA.html) | INSA <br> Exxpress | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [23–24 February 2026](2026-02-24-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [16–17 February 2026](2026-02-17-Market.html) | Market <br> ÖSTERREICH | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
-| [11–17 February 2026](2026-02-17-IFDD.html) | IFDD <br> Kronen Zeitung | 4.0% | N/A | N/A | N/A | N/A |
+| [11–17 February 2026](2026-02-17-IFDD.html) | IFDD <br> Kronen Zeitung | 4.0% | 3.5–4.5% | 3.4–4.7% | 3.3–4.8% | 3.1–5.1% |
 | [9–10 February 2026](2026-02-10-Market.html) | Market <br> ÖSTERREICH | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [2–3 February 2026](2026-02-03-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [29 January–2 February 2026](2026-02-02-Market.html) | Market <br> Der Standard | 3.0% | N/A | N/A | N/A | N/A |
@@ -146,10 +146,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 12% | 100% |  |
-| 2.5–3.5% | 73% | 88% | Median |
-| 3.5–4.5% | 14% | 15% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 8% | 100% |  |
+| 2.5–3.5% | 52% | 92% | Median |
+| 3.5–4.5% | 36% | 40% |  |
+| 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -161,12 +161,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [2–3 March 2026](2026-03-03-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [23–25 February 2026](2026-02-25-INSA.html) | INSA <br> Exxpress | 0 | 0 | 0 | 0 | 0–1 |
 | [23–24 February 2026](2026-02-24-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [16–17 February 2026](2026-02-17-Market.html) | Market <br> ÖSTERREICH | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–17 February 2026](2026-02-17-IFDD.html) | IFDD <br> Kronen Zeitung |  |  |  |  |  |
+| [11–17 February 2026](2026-02-17-IFDD.html) | IFDD <br> Kronen Zeitung | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–10 February 2026](2026-02-10-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 0–1 | 0–1 |
 | [2–3 February 2026](2026-02-03-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [29 January–2 February 2026](2026-02-02-Market.html) | Market <br> Der Standard |  |  |  |  |  |
@@ -297,8 +297,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Last Result, Median |
-| 1 | 1.3% | 1.3% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 
