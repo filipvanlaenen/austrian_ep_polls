@@ -14,6 +14,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–3 March 2026](2026-03-03-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [23–25 February 2026](2026-02-25-INSA.html) | INSA <br> Exxpress | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [23–24 February 2026](2026-02-24-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
+| [1–19 February 2026](2026-02-19-OGM.html) | OGM <br> Servus TV | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 February 2026](2026-02-17-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [11–17 February 2026](2026-02-17-IFDD.html) | IFDD <br> Kronen Zeitung | 11.0% | 10.2–11.8% | 10.0–12.1% | 9.8–12.3% | 9.5–12.7% |
 | [9–10 February 2026](2026-02-10-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
@@ -173,6 +174,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–3 March 2026](2026-03-03-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
 | [23–25 February 2026](2026-02-25-INSA.html) | INSA <br> Exxpress | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–24 February 2026](2026-02-24-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
+| [1–19 February 2026](2026-02-19-OGM.html) | OGM <br> Servus TV |  |  |  |  |  |
 | [16–17 February 2026](2026-02-17-Market.html) | Market <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–17 February 2026](2026-02-17-IFDD.html) | IFDD <br> Kronen Zeitung | 2 | 2 | 2 | 2 | 2 |
 | [9–10 February 2026](2026-02-10-Market.html) | Market <br> ÖSTERREICH | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
