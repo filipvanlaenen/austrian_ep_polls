@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.3% | 18.5–23.3% | 17.9–23.8% | 17.4–24.4% | 16.5–25.5% |
+| N/A | [Poll Average](average.html) | 21.2% | 18.7–23.1% | 18.1–23.7% | 17.5–24.2% | 16.6–25.4% |
 | [19–26 March 2026](2026-03-26-UniqueResearch.html) | Unique Research <br> Heute | 22.0% | 20.3–24.0% | 19.8–24.5% | 19.3–25.0% | 18.5–26.0% |
-| [23–24 March 2026](2026-03-24-Market.html) | Market <br> ÖSTERREICH | 21.0% | N/A | N/A | N/A | N/A |
+| [23–24 March 2026](2026-03-24-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [16–17 March 2026](2026-03-17-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [9–10 March 2026](2026-03-10-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [2–3 March 2026](2026-03-03-Market.html) | Market <br> ÖSTERREICH | 23.0% | 21.8–24.2% | 21.5–24.6% | 21.2–24.9% | 20.7–25.5% |
@@ -165,17 +165,17 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.5% | 100% |  |
-| 16.5–17.5% | 3% | 99.4% |  |
-| 17.5–18.5% | 7% | 97% |  |
-| 18.5–19.5% | 12% | 89% |  |
-| 19.5–20.5% | 14% | 78% |  |
-| 20.5–21.5% | 19% | 64% | Median |
-| 21.5–22.5% | 24% | 45% |  |
-| 22.5–23.5% | 14% | 21% |  |
-| 23.5–24.5% | 5% | 7% |  |
-| 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.4% | 0.5% |  |
+| 15.5–16.5% | 0.4% | 100% |  |
+| 16.5–17.5% | 2% | 99.6% |  |
+| 17.5–18.5% | 6% | 97% |  |
+| 18.5–19.5% | 10% | 92% |  |
+| 19.5–20.5% | 16% | 81% |  |
+| 20.5–21.5% | 24% | 65% | Median |
+| 21.5–22.5% | 24% | 41% |  |
+| 22.5–23.5% | 12% | 18% |  |
+| 23.5–24.5% | 4% | 6% |  |
+| 24.5–25.5% | 1.2% | 2% |  |
+| 25.5–26.5% | 0.3% | 0.4% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -188,9 +188,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [19–26 March 2026](2026-03-26-UniqueResearch.html) | Unique Research <br> Heute | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [23–24 March 2026](2026-03-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [23–24 March 2026](2026-03-24-Market.html) | Market <br> ÖSTERREICH | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16–17 March 2026](2026-03-17-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [9–10 March 2026](2026-03-10-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–3 March 2026](2026-03-03-Market.html) | Market <br> ÖSTERREICH | 5 | 5 | 5 | 4–5 | 4–6 |
@@ -332,9 +332,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 60% | 97% | Median |
-| 5 | 37% | 37% |  |
+| 3 | 2% | 100% |  |
+| 4 | 57% | 98% | Median |
+| 5 | 41% | 41% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
