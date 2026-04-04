@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Apr 2026 14:46:46 +0200</pubDate>
+    <pubDate>Sat, 04 Apr 2026 18:37:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 19–26 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-03-26-UniqueResearch.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-03-24-Market-seats.png"
         length="219790"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 23:14:08 +0200</pubDate>
-      <dc:date>2026-04-03T23:14:08.159949+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 18:37:38 +0200</pubDate>
+      <dc:date>2026-04-04T18:37:38.860123+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 23–24 March 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-03-24-Market-coalitions-seats.png"
         length="151279"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 23:14:08 +0200</pubDate>
-      <dc:date>2026-04-03T23:14:08.159949+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 18:37:38 +0200</pubDate>
+      <dc:date>2026-04-04T18:37:38.860123+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 23–24 March 2026 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-03-24-Market.png"
         length="252076"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 23:14:08 +0200</pubDate>
-      <dc:date>2026-04-03T23:14:08.159949+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 18:37:38 +0200</pubDate>
+      <dc:date>2026-04-04T18:37:38.860123+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 16–17 March 2026 – Seat Projections for the Parties</title>
@@ -2979,6 +2979,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2026-04-04T14:46:46.985169+02:00</dc:date>
+    <dc:date>2026-04-04T18:37:38.860123+02:00</dc:date>
   </channel>
 </rss>
