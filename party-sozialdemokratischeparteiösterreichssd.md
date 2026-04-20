@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.2% | 16.7–19.9% | 16.2–20.5% | 15.8–21.0% | 14.7–22.0% |
+| [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [6–7 April 2026](2026-04-07-Market.html) | Market <br> ÖSTERREICH | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [30–31 March 2026](2026-03-31-Market.html) | Market <br> ÖSTERREICH | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
@@ -52,7 +53,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [15–16 September 2025](2025-09-16-Market.html) | Market <br> ÖSTERREICH | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [10–12 September 2025](2025-09-12-IFDD.html) | IFDD <br> Kronen Zeitung | 18.0% | 16.7–19.4% | 16.4–19.8% | 16.0–20.1% | 15.4–20.8% |
-| [9–11 September 2025](2025-09-11-OGM.html) | OGM <br> KURIER | 19.0% | 17.5–20.6% | 17.1–21.1% | 16.7–21.5% | 16.0–22.3% |
+| [11 September 2025](2025-09-11-OGM.html) | OGM <br> Servus TV | 19.1% | 17.5–20.6% | 17.1–21.1% | 16.7–21.5% | 16.0–22.3% |
 | [8–9 September 2025](2025-09-09-Market.html) | Market <br> ÖSTERREICH | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [1–2 September 2025](2025-09-02-Market.html) | Market <br> ÖSTERREICH | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [15–27 August 2025](2025-08-27-INSA.html) | INSA <br> Exxpress | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -188,6 +189,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 3–4 | 3–4 |
 | [6–7 April 2026](2026-04-07-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4–5 | 3–5 |
 | [30–31 March 2026](2026-03-31-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4 | 3–5 |
@@ -229,7 +231,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4 | 3–5 |
 | [15–16 September 2025](2025-09-16-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [10–12 September 2025](2025-09-12-IFDD.html) | IFDD <br> Kronen Zeitung | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [9–11 September 2025](2025-09-11-OGM.html) | OGM <br> KURIER | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| [11 September 2025](2025-09-11-OGM.html) | OGM <br> Servus TV | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [8–9 September 2025](2025-09-09-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [1–2 September 2025](2025-09-02-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 4 | 3–5 |
 | [15–27 August 2025](2025-08-27-INSA.html) | INSA <br> Exxpress | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -334,9 +336,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 23% | 99.9% |  |
-| 4 | 76% | 77% | Median |
-| 5 | 1.2% | 1.2% |  |
+| 3 | 22% | 99.9% |  |
+| 4 | 76% | 78% | Median |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 
