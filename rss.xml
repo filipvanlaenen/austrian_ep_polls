@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 May 2026 16:49:14 +0200</pubDate>
+    <pubDate>Mon, 25 May 2026 11:45:17 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 27 April–20 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-05-20-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 8–9 seats&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-05-20-OGM-seats.png"
+        length="210122"
+        type="image/png"/>
+      <pubDate>Mon, 25 May 2026 11:45:17 +0200</pubDate>
+      <dc:date>2026-05-25T11:45:17.643082+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 27 April–20 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-05-20-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-05-20-OGM-coalitions-seats.png"
+        length="142869"
+        type="image/png"/>
+      <pubDate>Mon, 25 May 2026 11:45:17 +0200</pubDate>
+      <dc:date>2026-05-25T11:45:17.643082+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 27 April–20 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-05-20-OGM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 3.4–4.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 11.8–14.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 14.7–17.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 7.1–9.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 35.3–38.7%&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 18.6–21.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-05-20-OGM.png"
+        length="244340"
+        type="image/png"/>
+      <pubDate>Mon, 25 May 2026 11:45:17 +0200</pubDate>
+      <dc:date>2026-05-25T11:45:17.643082+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 18–19 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-05-19-Market.html#seats</link>
@@ -100,7 +130,7 @@
       <dc:date>2026-05-16T22:29:40.612786+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Market for ÖSTERREICH, 27–28 April 2026 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Market for Der Standard, 23–28 April 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-04-28-Market.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 7–8 seats&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-04-28-Market-seats.png"
@@ -110,7 +140,7 @@
       <dc:date>2026-05-05T22:46:31.307945+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Market for ÖSTERREICH, 27–28 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Market for Der Standard, 23–28 April 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-04-28-Market.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-04-28-Market-coalitions-seats.png"
@@ -120,7 +150,7 @@
       <dc:date>2026-05-05T22:46:31.307945+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Market for ÖSTERREICH, 27–28 April 2026 – Voting Intentions</title>
+      <title>Opinion Poll by Market for Der Standard, 23–28 April 2026 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-04-28-Market.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 8.7–11.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 18.3–21.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 6.0–8.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 32.9–37.1%&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 19.3–22.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-04-28-Market.png"
@@ -2800,7 +2830,7 @@
       <dc:date>2024-09-25T17:38:41.328118+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Market for ÖSTERREICH, 9–17 September 2024 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Market for Der Standard, 16–17 September 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2024-09-17-Market.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 6–7 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Liste Madeleine Petrovic (*): 0 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Wandel (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Bierpartei (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-09-17-Market-seats.png"
@@ -2810,7 +2840,7 @@
       <dc:date>2024-09-25T17:45:59.353722+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Market for ÖSTERREICH, 9–17 September 2024 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Market for Der Standard, 16–17 September 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2024-09-17-Market.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-09-17-Market-coalitions-seats.png"
@@ -2820,7 +2850,7 @@
       <dc:date>2024-09-25T17:45:59.353722+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Market for ÖSTERREICH, 9–17 September 2024 – Voting Intentions</title>
+      <title>Opinion Poll by Market for Der Standard, 16–17 September 2024 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2024-09-17-Market.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 25.0–28.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 18.2–21.8%&lt;/li&gt;&lt;li&gt;Liste Madeleine Petrovic (*): 0.1–0.6%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 9.6–12.4%&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 23.1–26.9%&lt;/li&gt;&lt;li&gt;Wandel (GUE/NGL): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Bierpartei (*): 2.3–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2024-09-17-Market.png"
@@ -3249,6 +3279,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2026-05-23T16:49:14.923186+02:00</dc:date>
+    <dc:date>2026-05-25T11:45:17.643082+02:00</dc:date>
   </channel>
 </rss>
