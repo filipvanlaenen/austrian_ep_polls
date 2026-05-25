@@ -323,8 +323,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 70% | 100% | Median |
-| 2 | 30% | 30% |  |
+| 1 | 71% | 100% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 ### Österreichische Volkspartei (EPP)
@@ -340,7 +340,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 63% | 100% | Median |
-| 5 | 36% | 37% |  |
+| 5 | 37% | 37% |  |
 | 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
@@ -441,7 +441,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 63% | 100% | Median |
-| 5 | 36% | 37% |  |
+| 5 | 37% | 37% |  |
 | 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
@@ -478,8 +478,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 70% | 100% | Median |
-| 2 | 30% | 30% |  |
+| 1 | 71% | 100% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 ### Kommunistische Partei Österreichs (GUE/NGL) – Wandel (GUE/NGL)
@@ -496,6 +496,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 7,340,032
-+ **Error estimate:** 0.50%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Error estimate:** 0.47%
