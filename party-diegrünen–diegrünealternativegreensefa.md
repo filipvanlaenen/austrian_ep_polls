@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [11–12 May 2026](2026-05-12-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [11–12 May 2026](2026-05-12-INSA.html) | INSA <br> Exxpress | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
-| [23–28 April 2026](2026-04-28-Market.html) | Market <br> Der Standard | 11.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
+| [27–28 April 2026](2026-04-28-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [20–21 April 2026](2026-04-21-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
@@ -59,7 +59,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [15–16 September 2025](2025-09-16-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [10–12 September 2025](2025-09-12-IFDD.html) | IFDD <br> Kronen Zeitung | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.5–12.8% | 9.0–13.4% |
-| [9–11 September 2025](2025-09-11-OGM.html) | OGM <br> KURIER | 11.0% | 9.8–12.4% | 9.5–12.7% | 9.2–13.1% | 8.7–13.7% |
+| [11 September 2025](2025-09-11-OGM.html) | OGM <br> Servus TV | 11.0% | 9.8–12.4% | 9.5–12.7% | 9.2–13.1% | 8.7–13.7% |
 | [8–9 September 2025](2025-09-09-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [1–2 September 2025](2025-09-02-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [15–27 August 2025](2025-08-27-INSA.html) | INSA <br> Exxpress | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -191,7 +191,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 2–3 |
 | [11–12 May 2026](2026-05-12-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2–3 | 2–3 |
 | [11–12 May 2026](2026-05-12-INSA.html) | INSA <br> Exxpress | 2 | 2 | 2 | 2–3 | 2–3 |
-| [23–28 April 2026](2026-04-28-Market.html) | Market <br> Der Standard | 2 | 2 | 2 | 2 | 1–2 |
+| [27–28 April 2026](2026-04-28-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
 | [20–21 April 2026](2026-04-21-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
 | [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 2 | 2 | 2 | 1–2 | 1–3 |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -235,7 +235,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [29–30 September 2025](2025-09-30-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
 | [15–16 September 2025](2025-09-16-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2–3 | 2–3 |
 | [10–12 September 2025](2025-09-12-IFDD.html) | IFDD <br> Kronen Zeitung | 2 | 2 | 2 | 2 | 2–3 |
-| [9–11 September 2025](2025-09-11-OGM.html) | OGM <br> KURIER | 2 | 2 | 2 | 2–3 | 2–3 |
+| [11 September 2025](2025-09-11-OGM.html) | OGM <br> Servus TV | 2 | 2 | 2 | 2–3 | 2–3 |
 | [8–9 September 2025](2025-09-09-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2–3 | 2–3 |
 | [1–2 September 2025](2025-09-02-Market.html) | Market <br> ÖSTERREICH | 2 | 2 | 2 | 2 | 1–2 |
 | [15–27 August 2025](2025-08-27-INSA.html) | INSA <br> Exxpress | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
