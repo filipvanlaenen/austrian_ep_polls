@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.0% | 34.5–38.6% | 33.6–39.1% | 32.9–39.5% | 31.6–40.3% |
+| N/A | [Poll Average](average.html) | 37.2% | 34.5–39.0% | 33.6–39.4% | 32.9–39.8% | 31.6–40.6% |
+| [15–16 June 2026](2026-06-16-Market.html) | Market <br> ÖSTERREICH | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
+| [8–9 June 2026](2026-06-09-Market.html) | Market <br> ÖSTERREICH | 38.0% | N/A | N/A | N/A | N/A |
 | [22 May–2 June 2026](2026-06-02-Market.html) | Market <br> ÖSTERREICH | 37.0% | 35.6–38.4% | 35.2–38.8% | 34.9–39.1% | 34.2–39.8% |
 | [22–26 May 2026](2026-05-26-Market.html) | Market <br> ÖSTERREICH | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
 | [27 April–20 May 2026](2026-05-20-OGM.html) | OGM <br> KURIER | 37.0% | 35.9–38.1% | 35.6–38.5% | 35.3–38.7% | 34.8–39.3% |
@@ -196,13 +198,13 @@ The following table shows the probability mass function per percentage block of 
 | 31.5–32.5% | 1.3% | 99.6% |  |
 | 32.5–33.5% | 3% | 98% |  |
 | 33.5–34.5% | 5% | 95% |  |
-| 34.5–35.5% | 9% | 90% |  |
-| 35.5–36.5% | 19% | 81% |  |
-| 36.5–37.5% | 29% | 61% | Median |
-| 37.5–38.5% | 21% | 32% |  |
-| 38.5–39.5% | 9% | 11% |  |
-| 39.5–40.5% | 2% | 2% |  |
-| 40.5–41.5% | 0.3% | 0.3% |  |
+| 34.5–35.5% | 8% | 90% |  |
+| 35.5–36.5% | 15% | 82% |  |
+| 36.5–37.5% | 26% | 67% | Median |
+| 37.5–38.5% | 24% | 41% |  |
+| 38.5–39.5% | 13% | 17% |  |
+| 39.5–40.5% | 4% | 4% |  |
+| 40.5–41.5% | 0.5% | 0.5% |  |
 | 41.5–42.5% | 0% | 0% |  |
 
 
@@ -215,6 +217,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [15–16 June 2026](2026-06-16-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
+| [8–9 June 2026](2026-06-09-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [22 May–2 June 2026](2026-06-02-Market.html) | Market <br> ÖSTERREICH | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [22–26 May 2026](2026-05-26-Market.html) | Market <br> ÖSTERREICH | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [27 April–20 May 2026](2026-05-20-OGM.html) | OGM <br> KURIER | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -375,8 +379,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.2% | 100% |  |
 | 7 | 11% | 99.8% |  |
-| 8 | 53% | 89% | Median |
-| 9 | 36% | 36% |  |
+| 8 | 44% | 89% | Median |
+| 9 | 45% | 45% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% | Majority |
 
