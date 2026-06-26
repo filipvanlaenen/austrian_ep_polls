@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.3% | 19.1–22.5% | 18.8–23.3% | 18.5–24.0% | 17.9–25.2% |
+| N/A | [Poll Average](average.html) | 20.3% | 19.1–22.4% | 18.8–23.3% | 18.5–23.9% | 17.9–25.1% |
+| [15–18 June 2026](2026-06-18-UniqueResearch.html) | Unique Research | 22.0% | 20.2–23.9% | 19.7–24.5% | 19.3–25.0% | 18.4–25.9% |
 | [15–16 June 2026](2026-06-16-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [8–9 June 2026](2026-06-09-Market.html) | Market <br> ÖSTERREICH | 18.0% | N/A | N/A | N/A | N/A |
 | [22 May–2 June 2026](2026-06-02-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
@@ -185,11 +186,11 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 20% | 97% |  |
 | 19.5–20.5% | 36% | 77% | Median |
 | 20.5–21.5% | 22% | 41% |  |
-| 21.5–22.5% | 9% | 19% |  |
-| 22.5–23.5% | 5% | 10% |  |
+| 21.5–22.5% | 9% | 18% |  |
+| 22.5–23.5% | 5% | 9% |  |
 | 23.5–24.5% | 3% | 4% |  |
-| 24.5–25.5% | 0.9% | 1.2% |  |
-| 25.5–26.5% | 0.2% | 0.3% |  |
+| 24.5–25.5% | 0.9% | 1.1% |  |
+| 25.5–26.5% | 0.2% | 0.2% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -202,6 +203,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [15–18 June 2026](2026-06-18-UniqueResearch.html) | Unique Research | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [15–16 June 2026](2026-06-16-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–9 June 2026](2026-06-09-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [22 May–2 June 2026](2026-06-02-Market.html) | Market <br> ÖSTERREICH | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -360,8 +362,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 72% | 100% | Median |
-| 5 | 28% | 28% |  |
+| 4 | 73% | 100% | Median |
+| 5 | 27% | 27% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
