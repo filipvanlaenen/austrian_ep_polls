@@ -269,8 +269,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 18% | 18% |  |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 17% | 17% |  |
 | 2 | 0% | 0% |  |
 
 ### Wandel (GUE/NGL)
@@ -288,9 +288,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.5% | 100% |  |
-| 2 | 72% | 99.5% | Median |
-| 3 | 28% | 28% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 72% | 99.6% | Median |
+| 3 | 27% | 27% |  |
 | 4 | 0% | 0% |  |
 
 ### JETZT–Liste Pilz (Greens/EFA)
@@ -361,8 +361,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
 | 7 | 7% | 99.9% |  |
-| 8 | 48% | 93% | Median |
-| 9 | 45% | 45% |  |
+| 8 | 47% | 93% | Median |
+| 9 | 45% | 46% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -426,8 +426,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
 | 7 | 7% | 99.9% |  |
-| 8 | 48% | 93% | Median |
-| 9 | 45% | 45% |  |
+| 8 | 47% | 93% | Median |
+| 9 | 45% | 46% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -467,9 +467,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.5% | 100% |  |
-| 2 | 72% | 99.5% | Median |
-| 3 | 28% | 28% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 72% | 99.6% | Median |
+| 3 | 27% | 27% |  |
 | 4 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum (RE)
@@ -489,14 +489,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 18% | 18% |  |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 17% | 17% |  |
 | 2 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 7,340,032
-+ **Error estimate:** 1.11%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Error estimate:** 1.33%
