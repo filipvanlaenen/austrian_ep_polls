@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 Jul 2026 23:45:45 +0200</pubDate>
+    <pubDate>Mon, 27 Jul 2026 09:00:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by IFDD for Kronen Zeitung, 15–17 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-07-17-IFDD.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-07-17-IFDD-seats.png"
         length="229364"
         type="image/png"/>
-      <pubDate>Mon, 20 Jul 2026 23:10:10 +0200</pubDate>
-      <dc:date>2026-07-20T23:10:10.355457+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 08:20:09 +0200</pubDate>
+      <dc:date>2026-07-27T08:20:09.560489+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IFDD for Kronen Zeitung, 15–17 July 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-07-17-IFDD-coalitions-seats.png"
         length="160091"
         type="image/png"/>
-      <pubDate>Mon, 20 Jul 2026 23:10:10 +0200</pubDate>
-      <dc:date>2026-07-20T23:10:10.355457+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 08:20:09 +0200</pubDate>
+      <dc:date>2026-07-27T08:20:09.560489+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IFDD for Kronen Zeitung, 15–17 July 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-07-17-IFDD.png"
         length="259516"
         type="image/png"/>
-      <pubDate>Mon, 20 Jul 2026 23:10:10 +0200</pubDate>
-      <dc:date>2026-07-20T23:10:10.355457+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 08:20:09 +0200</pubDate>
+      <dc:date>2026-07-27T08:20:09.560489+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA for Exxpress, 13–15 July 2026 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-07-15-INSA-seats.png"
         length="223860"
         type="image/png"/>
-      <pubDate>Thu, 23 Jul 2026 23:40:46 +0200</pubDate>
-      <dc:date>2026-07-23T23:40:46.308212+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 09:00:35 +0200</pubDate>
+      <dc:date>2026-07-27T09:00:35.728558+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA for Exxpress, 13–15 July 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-07-15-INSA-coalitions-seats.png"
         length="159696"
         type="image/png"/>
-      <pubDate>Thu, 23 Jul 2026 23:40:46 +0200</pubDate>
-      <dc:date>2026-07-23T23:40:46.308212+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 09:00:35 +0200</pubDate>
+      <dc:date>2026-07-27T09:00:35.728558+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA for Exxpress, 13–15 July 2026 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-07-15-INSA.png"
         length="257643"
         type="image/png"/>
-      <pubDate>Thu, 23 Jul 2026 23:40:46 +0200</pubDate>
-      <dc:date>2026-07-23T23:40:46.308212+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 09:00:35 +0200</pubDate>
+      <dc:date>2026-07-27T09:00:35.728558+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for ÖSTERREICH, 6–7 July 2026 – Seat Projections for the Parties</title>
@@ -3519,6 +3519,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2026-07-25T23:45:45.787222+02:00</dc:date>
+    <dc:date>2026-07-27T09:00:35.728558+02:00</dc:date>
   </channel>
 </rss>
