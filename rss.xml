@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 27 Jul 2026 09:00:35 +0200</pubDate>
+    <pubDate>Mon, 27 Jul 2026 12:16:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by IFDD for Kronen Zeitung, 15–17 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-07-17-IFDD.html#seats</link>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-06-22-Market-seats.png"
         length="224465"
         type="image/png"/>
-      <pubDate>Sat, 25 Jul 2026 23:45:45 +0200</pubDate>
-      <dc:date>2026-07-25T23:45:45.787222+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 12:16:08 +0200</pubDate>
+      <dc:date>2026-07-27T12:16:08.55207+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 16–22 June 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-06-22-Market-coalitions-seats.png"
         length="162027"
         type="image/png"/>
-      <pubDate>Sat, 25 Jul 2026 23:45:45 +0200</pubDate>
-      <dc:date>2026-07-25T23:45:45.787222+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 12:16:08 +0200</pubDate>
+      <dc:date>2026-07-27T12:16:08.55207+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 16–22 June 2026 – Voting Intentions</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-06-22-Market.png"
         length="264656"
         type="image/png"/>
-      <pubDate>Sat, 25 Jul 2026 23:45:45 +0200</pubDate>
-      <dc:date>2026-07-25T23:45:45.787222+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 12:16:08 +0200</pubDate>
+      <dc:date>2026-07-27T12:16:08.55207+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research, 15–18 June 2026 – Seat Projections for the Parties</title>
@@ -3519,6 +3519,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2026-07-27T09:00:35.728558+02:00</dc:date>
+    <dc:date>2026-07-27T12:16:08.55207+02:00</dc:date>
   </channel>
 </rss>
