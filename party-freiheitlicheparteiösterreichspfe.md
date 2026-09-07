@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.1% | 35.2–39.4% | 34.5–40.2% | 33.9–40.9% | 32.7–42.1% |
+| N/A | [Poll Average](average.html) | 37.9% | 35.1–40.2% | 34.4–40.7% | 33.8–41.3% | 32.6–42.3% |
+| [31 August–1 September 2026](2026-09-01-Market.html) | Market <br> ÖSTERREICH | 39.0% | 37.6–40.4% | 37.2–40.8% | 36.9–41.2% | 36.2–41.8% |
+| [24–25 August 2026](2026-08-25-Market.html) | Market <br> ÖSTERREICH | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
 | [15–17 July 2026](2026-07-17-IFDD.html) | IFDD <br> Kronen Zeitung | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
 | [13–15 July 2026](2026-07-15-INSA.html) | INSA <br> Exxpress | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.0% |
 | [6–7 July 2026](2026-07-07-Market.html) | Market <br> ÖSTERREICH | 37.0% | 35.6–38.4% | 35.2–38.8% | 34.9–39.1% | 34.2–39.8% |
@@ -24,7 +26,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-Market.html) | Market <br> ÖSTERREICH | 37.0% | 35.6–38.4% | 35.2–38.8% | 34.9–39.1% | 34.2–39.8% |
 | [11–12 May 2026](2026-05-12-Market.html) | Market <br> ÖSTERREICH | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
 | [11–12 May 2026](2026-05-12-INSA.html) | INSA <br> Exxpress | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
-| [23–28 April 2026](2026-04-28-Market.html) | Market <br> Der Standard | 36.1% | 33.6–36.4% | 33.3–36.8% | 32.9–37.1% | 32.3–37.8% |
+| [27–28 April 2026](2026-04-28-Market.html) | Market <br> ÖSTERREICH | 35.0% | 33.6–36.4% | 33.3–36.8% | 32.9–37.1% | 32.3–37.8% |
 | [20–21 April 2026](2026-04-21-Market.html) | Market <br> ÖSTERREICH | 37.0% | 35.6–38.4% | 35.2–38.8% | 34.9–39.1% | 34.2–39.8% |
 | [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
@@ -130,7 +132,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [30 September–1 October 2024](2024-10-01-Market.html) | Market <br> ÖSTERREICH | 30.0% | N/A | N/A | N/A | N/A |
 | [19–22 September 2024](2024-09-22-IFDD.html) | IFDD <br> ATV, Kronen Zeitung and PULS 24 | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [16–18 September 2024](2024-09-18-OGM.html) | OGM <br> Servus TV | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
-| [16–17 September 2024](2024-09-17-Market.html) | Market <br> Der Standard | 27.0% | 25.7–28.3% | 25.3–28.6% | 25.0–28.9% | 24.5–29.6% |
+| [9–17 September 2024](2024-09-17-Market.html) | Market <br> ÖSTERREICH | 27.0% | 25.7–28.3% | 25.3–28.6% | 25.0–28.9% | 24.5–29.6% |
 | [5–11 September 2024](2024-09-11-UniqueResearch.html) | Unique Research <br> Heute | 28.0% | 26.0–30.1% | 25.5–30.7% | 25.0–31.2% | 24.1–32.3% |
 | [9–11 September 2024](2024-09-11-INSA.html) | INSA <br> eXXpress | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [9–10 September 2024](2024-09-10-Market.html) | Market <br> ÖSTERREICH | 28.0% | N/A | N/A | N/A | N/A |
@@ -200,19 +202,20 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0.1% | 100% |  |
-| 31.5–32.5% | 0.3% | 99.9% |  |
-| 32.5–33.5% | 1.2% | 99.6% |  |
-| 33.5–34.5% | 3% | 98% |  |
-| 34.5–35.5% | 9% | 95% |  |
-| 35.5–36.5% | 20% | 86% |  |
-| 36.5–37.5% | 27% | 66% | Median |
-| 37.5–38.5% | 20% | 39% |  |
-| 38.5–39.5% | 10% | 19% |  |
-| 39.5–40.5% | 5% | 9% |  |
-| 40.5–41.5% | 2% | 4% |  |
-| 41.5–42.5% | 0.8% | 1.1% |  |
-| 42.5–43.5% | 0.2% | 0.2% |  |
+| 31.5–32.5% | 0.4% | 99.9% |  |
+| 32.5–33.5% | 1.5% | 99.5% |  |
+| 33.5–34.5% | 4% | 98% |  |
+| 34.5–35.5% | 8% | 94% |  |
+| 35.5–36.5% | 13% | 86% |  |
+| 36.5–37.5% | 16% | 73% |  |
+| 37.5–38.5% | 19% | 57% | Median |
+| 38.5–39.5% | 19% | 38% |  |
+| 39.5–40.5% | 12% | 19% |  |
+| 40.5–41.5% | 5% | 6% |  |
+| 41.5–42.5% | 1.3% | 2% |  |
+| 42.5–43.5% | 0.3% | 0.3% |  |
 | 43.5–44.5% | 0% | 0% |  |
+| 44.5–45.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -224,6 +227,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| [31 August–1 September 2026](2026-09-01-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
+| [24–25 August 2026](2026-08-25-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [15–17 July 2026](2026-07-17-IFDD.html) | IFDD <br> Kronen Zeitung | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [13–15 July 2026](2026-07-15-INSA.html) | INSA <br> Exxpress | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [6–7 July 2026](2026-07-07-Market.html) | Market <br> ÖSTERREICH | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
@@ -237,7 +242,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-Market.html) | Market <br> ÖSTERREICH | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [11–12 May 2026](2026-05-12-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [11–12 May 2026](2026-05-12-INSA.html) | INSA <br> Exxpress | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
-| [23–28 April 2026](2026-04-28-Market.html) | Market <br> Der Standard | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [27–28 April 2026](2026-04-28-Market.html) | Market <br> ÖSTERREICH | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [20–21 April 2026](2026-04-21-Market.html) | Market <br> ÖSTERREICH | 8 | 8 | 8–9 | 7–9 | 7–9 |
 | [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -343,7 +348,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30 September–1 October 2024](2024-10-01-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [19–22 September 2024](2024-09-22-IFDD.html) | IFDD <br> ATV, Kronen Zeitung and PULS 24 | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [16–18 September 2024](2024-09-18-OGM.html) | OGM <br> Servus TV | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [16–17 September 2024](2024-09-17-Market.html) | Market <br> Der Standard | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [9–17 September 2024](2024-09-17-Market.html) | Market <br> ÖSTERREICH | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [5–11 September 2024](2024-09-11-UniqueResearch.html) | Unique Research <br> Heute | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [9–11 September 2024](2024-09-11-INSA.html) | INSA <br> eXXpress | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [9–10 September 2024](2024-09-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -389,11 +394,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 7% | 100% |  |
-| 8 | 61% | 93% | Median |
-| 9 | 31% | 32% |  |
-| 10 | 0.7% | 0.7% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 8% | 99.9% |  |
+| 8 | 49% | 92% | Median |
+| 9 | 42% | 43% |  |
+| 10 | 1.5% | 1.5% |  |
 | 11 | 0% | 0% | Majority |
 
 
