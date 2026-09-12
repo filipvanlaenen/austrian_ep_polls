@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 37.9% | 35.1–40.2% | 34.4–40.7% | 33.8–41.3% | 32.6–42.3% |
+| [7–8 September 2026](2026-09-08-Market.html) | Market <br> ÖSTERREICH | 39.0% | 37.6–40.4% | 37.2–40.8% | 36.9–41.2% | 36.2–41.8% |
 | [31 August–1 September 2026](2026-09-01-Market.html) | Market <br> ÖSTERREICH | 39.0% | 37.6–40.4% | 37.2–40.8% | 36.9–41.2% | 36.2–41.8% |
 | [24–25 August 2026](2026-08-25-Market.html) | Market <br> ÖSTERREICH | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
 | [15–17 July 2026](2026-07-17-IFDD.html) | IFDD <br> Kronen Zeitung | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
@@ -227,6 +228,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| [7–8 September 2026](2026-09-08-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [31 August–1 September 2026](2026-09-01-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [24–25 August 2026](2026-08-25-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [15–17 July 2026](2026-07-17-IFDD.html) | IFDD <br> Kronen Zeitung | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
@@ -396,9 +398,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
 | 7 | 8% | 99.9% |  |
-| 8 | 49% | 92% | Median |
-| 9 | 42% | 43% |  |
-| 10 | 1.5% | 1.5% |  |
+| 8 | 52% | 92% | Median |
+| 9 | 39% | 40% |  |
+| 10 | 1.0% | 1.0% |  |
 | 11 | 0% | 0% | Majority |
 
 
