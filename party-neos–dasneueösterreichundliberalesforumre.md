@@ -200,7 +200,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [1–30 September 2026](2026-09-30-OGM.html) | OGM <br> ServusTV | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [1–30 September 2026](2026-09-30-OGM.html) | OGM <br> ServusTV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26–29 September 2026](2026-09-29-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1–2 |
 | [21–22 September 2026](2026-09-22-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
 | [7–15 September 2026](2026-09-15-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
