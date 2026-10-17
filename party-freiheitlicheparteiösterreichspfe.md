@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.8% | 35.3–40.2% | 34.6–40.9% | 34.0–41.5% | 32.7–42.6% |
+| N/A | [Poll Average](average.html) | 39.7% | 37.5–42.0% | 36.9–42.7% | 36.4–43.3% | 35.4–44.3% |
+| [7–10 October 2026](2026-10-10-IFDD.html) | IFDD <br> Kronenzeitung | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
+| [5–7 October 2026](2026-10-07-OGM.html) | OGM <br> ServusTV | 39.0% | 37.0–41.0% | 36.5–41.5% | 36.0–42.1% | 35.1–43.0% |
+| [5–6 October 2026](2026-10-06-Market.html) | Market <br> ÖSTERREICH | 41.0% | 39.0–43.0% | 38.5–43.6% | 38.0–44.1% | 37.1–45.1% |
+| [28 September–1 October 2026](2026-10-01-UniqueResearch.html) | Unique Research <br> Heute | 38.0% | N/A | N/A | N/A | N/A |
 | [29 September–1 October 2026](2026-10-01-Market.html) | Market <br> Der Standard | 38.0% | 35.8–40.2% | 35.2–40.8% | 34.7–41.4% | 33.7–42.4% |
 | [1–30 September 2026](2026-09-30-OGM.html) | OGM <br> ServusTV | 37.0% | 34.3–39.8% | 33.6–40.6% | 32.9–41.2% | 31.7–42.6% |
 | [26–29 September 2026](2026-09-29-Market.html) | Market <br> ÖSTERREICH | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.8% |
@@ -208,21 +212,23 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.1% | 100% |  |
-| 31.5–32.5% | 0.3% | 99.9% |  |
-| 32.5–33.5% | 1.1% | 99.6% |  |
-| 33.5–34.5% | 3% | 98% |  |
-| 34.5–35.5% | 7% | 95% |  |
-| 35.5–36.5% | 14% | 88% |  |
-| 36.5–37.5% | 19% | 74% |  |
-| 37.5–38.5% | 20% | 55% | Median |
-| 38.5–39.5% | 17% | 35% |  |
-| 39.5–40.5% | 11% | 18% |  |
-| 40.5–41.5% | 5% | 7% |  |
-| 41.5–42.5% | 2% | 2% |  |
-| 42.5–43.5% | 0.4% | 0.5% |  |
-| 43.5–44.5% | 0.1% | 0.1% |  |
-| 44.5–45.5% | 0% | 0% |  |
+| 30.5–31.5% | 0% | 100% |  |
+| 31.5–32.5% | 0% | 100% |  |
+| 32.5–33.5% | 0% | 100% |  |
+| 33.5–34.5% | 0.1% | 100% |  |
+| 34.5–35.5% | 0.5% | 99.9% |  |
+| 35.5–36.5% | 2% | 99.4% |  |
+| 36.5–37.5% | 7% | 97% |  |
+| 37.5–38.5% | 14% | 90% |  |
+| 38.5–39.5% | 21% | 75% |  |
+| 39.5–40.5% | 22% | 54% | Median |
+| 40.5–41.5% | 17% | 33% |  |
+| 41.5–42.5% | 10% | 16% |  |
+| 42.5–43.5% | 4% | 6% |  |
+| 43.5–44.5% | 1.3% | 2% |  |
+| 44.5–45.5% | 0.3% | 0.4% |  |
+| 45.5–46.5% | 0% | 0.1% |  |
+| 46.5–47.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -233,7 +239,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
+| [7–10 October 2026](2026-10-10-IFDD.html) | IFDD <br> Kronenzeitung | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
+| [5–7 October 2026](2026-10-07-OGM.html) | OGM <br> ServusTV | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
+| [5–6 October 2026](2026-10-06-Market.html) | Market <br> ÖSTERREICH | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
+| [28 September–1 October 2026](2026-10-01-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
 | [29 September–1 October 2026](2026-10-01-Market.html) | Market <br> Der Standard | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [1–30 September 2026](2026-09-30-OGM.html) | OGM <br> ServusTV | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [26–29 September 2026](2026-09-29-Market.html) | Market <br> ÖSTERREICH | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
@@ -409,10 +419,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 4% | 100% |  |
-| 8 | 56% | 96% | Median |
-| 9 | 39% | 40% |  |
-| 10 | 1.4% | 1.4% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 25% | 99.8% |  |
+| 9 | 65% | 75% | Median |
+| 10 | 10% | 10% |  |
 | 11 | 0% | 0% | Majority |
 
 
