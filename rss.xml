@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/austrian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 15 Oct 2026 21:53:56 +0200</pubDate>
+    <pubDate>Sun, 18 Oct 2026 12:05:34 +0200</pubDate>
     <item>
       <title>Opinion Poll by IFDD for Kronenzeitung, 7–10 October 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-10-10-IFDD.html#seats</link>
@@ -98,6 +98,36 @@
         type="image/png"/>
       <pubDate>Thu, 15 Oct 2026 21:53:56 +0200</pubDate>
       <dc:date>2026-10-15T21:53:56.797625+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 28 September–1 October 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-10-01-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 2–4 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 7–9 seats&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-10-01-UniqueResearch-seats.png"
+        length="230440"
+        type="image/png"/>
+      <pubDate>Sun, 18 Oct 2026 12:05:34 +0200</pubDate>
+      <dc:date>2026-10-18T12:05:34.371518+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 28 September–1 October 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-10-01-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-10-01-UniqueResearch-coalitions-seats.png"
+        length="166661"
+        type="image/png"/>
+      <pubDate>Sun, 18 Oct 2026 12:05:34 +0200</pubDate>
+      <dc:date>2026-10-18T12:05:34.371518+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 28 September–1 October 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_ep_polls/2026-10-01-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kommunistische Partei Österreichs (GUE/NGL): 2.8–5.5%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative (Greens/EFA): 9.9–14.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs (S&amp;amp;D): 12.8–17.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum (RE): 8.1–12.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs (PfE): 34.7–41.4%&lt;/li&gt;&lt;li&gt;Österreichische Volkspartei (EPP): 17.4–22.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_ep_polls/2026-10-01-UniqueResearch.png"
+        length="270006"
+        type="image/png"/>
+      <pubDate>Sun, 18 Oct 2026 12:05:34 +0200</pubDate>
+      <dc:date>2026-10-18T12:05:34.371518+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 29 September–1 October 2026 – Seat Projections for the Parties</title>
@@ -3879,6 +3909,6 @@
       <pubDate>Fri, 23 Aug 2024 20:43:27 +0200</pubDate>
       <dc:date>2024-08-23T20:43:27.55166+02:00</dc:date>
     </item>
-    <dc:date>2026-10-15T21:53:56.797625+02:00</dc:date>
+    <dc:date>2026-10-18T12:05:34.371518+02:00</dc:date>
   </channel>
 </rss>
