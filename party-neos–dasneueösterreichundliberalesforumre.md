@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.7–8.0% | 5.4–8.3% | 5.1–8.6% | 4.6–9.2% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.8–10.1% | 5.4–10.8% | 5.2–11.3% | 4.7–12.3% |
 | [7–10 October 2026](2026-10-10-IFDD.html) | IFDD <br> Kronenzeitung | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [5–7 October 2026](2026-10-07-OGM.html) | OGM <br> ServusTV | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.6–8.7% | 5.1–9.3% |
 | [5–6 October 2026](2026-10-06-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
-| [28 September–1 October 2026](2026-10-01-UniqueResearch.html) | Unique Research <br> Heute | 10.0% | N/A | N/A | N/A | N/A |
+| [28 September–1 October 2026](2026-10-01-UniqueResearch.html) | Unique Research <br> Heute | 10.0% | 8.8–11.5% | 8.4–11.9% | 8.1–12.3% | 7.6–13.0% |
 | [29 September–1 October 2026](2026-10-01-Market.html) | Market <br> Der Standard | 8.0% | 6.9–9.3% | 6.6–9.7% | 6.3–10.0% | 5.8–10.7% |
 | [1–30 September 2026](2026-09-30-OGM.html) | OGM <br> ServusTV | 6.9% | 5.7–8.6% | 5.3–9.1% | 5.0–9.5% | 4.5–10.3% |
 | [26–29 September 2026](2026-09-29-Market.html) | Market <br> ÖSTERREICH | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
@@ -185,14 +185,17 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 7% | 99.6% |  |
-| 5.5–6.5% | 31% | 92% |  |
-| 6.5–7.5% | 40% | 62% | Median |
-| 7.5–8.5% | 18% | 21% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.2% | 0.2% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 6% | 99.7% |  |
+| 5.5–6.5% | 24% | 94% |  |
+| 6.5–7.5% | 32% | 69% | Median |
+| 7.5–8.5% | 16% | 37% |  |
+| 8.5–9.5% | 7% | 21% |  |
+| 9.5–10.5% | 7% | 14% |  |
+| 10.5–11.5% | 5% | 7% |  |
+| 11.5–12.5% | 1.5% | 2% |  |
+| 12.5–13.5% | 0.3% | 0.3% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -203,11 +206,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–10 October 2026](2026-10-10-IFDD.html) | IFDD <br> Kronenzeitung | 1 | 1 | 1 | 1–2 | 1–2 |
 | [5–7 October 2026](2026-10-07-OGM.html) | OGM <br> ServusTV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [5–6 October 2026](2026-10-06-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
-| [28 September–1 October 2026](2026-10-01-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
+| [28 September–1 October 2026](2026-10-01-UniqueResearch.html) | Unique Research <br> Heute | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [29 September–1 October 2026](2026-10-01-Market.html) | Market <br> Der Standard | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–30 September 2026](2026-09-30-OGM.html) | OGM <br> ServusTV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26–29 September 2026](2026-09-29-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1–2 |
@@ -377,8 +380,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 97% | 99.9% | Median |
-| 2 | 3% | 3% |  |
-| 3 | 0% | 0% |  |
+| 1 | 79% | 99.9% | Median |
+| 2 | 21% | 21% |  |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
 
 
