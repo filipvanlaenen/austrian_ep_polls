@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.1% | 5.8–10.3% | 5.5–11.0% | 5.3–11.5% | 5.0–12.4% |
+| [23–26 October 2026](2026-10-26-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [19–20 October 2026](2026-10-20-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [12–13 October 2026](2026-10-13-Market.html) | Market <br> ÖSTERREICH | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [7–10 October 2026](2026-10-10-IFDD.html) | IFDD <br> Kronenzeitung | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -209,6 +210,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [23–26 October 2026](2026-10-26-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
 | [19–20 October 2026](2026-10-20-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
 | [12–13 October 2026](2026-10-13-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1–2 |
 | [7–10 October 2026](2026-10-10-IFDD.html) | IFDD <br> Kronenzeitung | 1 | 1 | 1 | 1–2 | 1–2 |
