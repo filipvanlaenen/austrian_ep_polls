@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.9% | 11.6–15.9% | 11.1–16.4% | 10.7–16.9% | 10.0–17.8% |
+| N/A | [Poll Average](average.html) | 13.6% | 11.6–15.6% | 11.1–16.2% | 10.7–16.8% | 10.0–17.8% |
+| [2–3 November 2026](2026-11-03-Market.html) | Market <br> ÖSTERREICH | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [23–26 October 2026](2026-10-26-Market.html) | Market <br> ÖSTERREICH | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.2% |
 | [19–20 October 2026](2026-10-20-Market.html) | Market <br> ÖSTERREICH | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [12–13 October 2026](2026-10-13-Market.html) | Market <br> ÖSTERREICH | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 14.0–18.2% |
@@ -197,11 +198,11 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 2% | 99.9% |  |
 | 10.5–11.5% | 8% | 98% |  |
 | 11.5–12.5% | 16% | 90% |  |
-| 12.5–13.5% | 18% | 74% |  |
-| 13.5–14.5% | 19% | 57% | Median |
-| 14.5–15.5% | 21% | 37% |  |
-| 15.5–16.5% | 12% | 16% |  |
-| 16.5–17.5% | 3% | 4% |  |
+| 12.5–13.5% | 23% | 74% |  |
+| 13.5–14.5% | 25% | 51% | Median |
+| 14.5–15.5% | 15% | 25% |  |
+| 15.5–16.5% | 7% | 10% |  |
+| 16.5–17.5% | 3% | 3% |  |
 | 17.5–18.5% | 0.7% | 0.8% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
@@ -216,6 +217,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [2–3 November 2026](2026-11-03-Market.html) | Market <br> ÖSTERREICH | 3 | 3 | 3 | 2–3 | 2–3 |
 | [23–26 October 2026](2026-10-26-Market.html) | Market <br> ÖSTERREICH | 3 | 3 | 3 | 3 | 3–4 |
 | [19–20 October 2026](2026-10-20-Market.html) | Market <br> ÖSTERREICH | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [12–13 October 2026](2026-10-13-Market.html) | Market <br> ÖSTERREICH | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -393,8 +395,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 31% | 100% |  |
-| 3 | 67% | 69% | Median |
+| 2 | 32% | 100% |  |
+| 3 | 66% | 68% | Median |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
