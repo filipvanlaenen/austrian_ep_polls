@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.1% | 5.8–10.3% | 5.5–11.0% | 5.3–11.5% | 5.0–12.4% |
+| [2–10 November 2026](2026-11-10-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [2–3 November 2026](2026-11-03-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [23–26 October 2026](2026-10-26-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [19–20 October 2026](2026-10-20-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
@@ -41,7 +42,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [11–12 May 2026](2026-05-12-Market.html) | Market <br> ÖSTERREICH | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [11–12 May 2026](2026-05-12-INSA.html) | INSA <br> Exxpress | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
-| [27–28 April 2026](2026-04-28-Market.html) | Market <br> ÖSTERREICH | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
+| [23–28 April 2026](2026-04-28-Market.html) | Market <br> Der Standard | 9.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [20–21 April 2026](2026-04-21-Market.html) | Market <br> ÖSTERREICH | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
@@ -211,6 +212,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [2–10 November 2026](2026-11-10-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
 | [2–3 November 2026](2026-11-03-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
 | [23–26 October 2026](2026-10-26-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
 | [19–20 October 2026](2026-10-20-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
@@ -241,7 +243,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-Market.html) | Market <br> ÖSTERREICH | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–12 May 2026](2026-05-12-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1–2 |
 | [11–12 May 2026](2026-05-12-INSA.html) | INSA <br> Exxpress | 1 | 1 | 1 | 1 | 1–2 |
-| [27–28 April 2026](2026-04-28-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1–2 |
+| [23–28 April 2026](2026-04-28-Market.html) | Market <br> Der Standard | 1 | 1 | 1 | 1 | 1–2 |
 | [20–21 April 2026](2026-04-21-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1 |
 | [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 1 | 1 | 1 | 1 | 1–2 |

@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.6% | 11.6–15.6% | 11.1–16.2% | 10.7–16.8% | 10.0–17.8% |
+| [2–10 November 2026](2026-11-10-Market.html) | Market <br> ÖSTERREICH | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [2–3 November 2026](2026-11-03-Market.html) | Market <br> ÖSTERREICH | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [23–26 October 2026](2026-10-26-Market.html) | Market <br> ÖSTERREICH | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.2% |
 | [19–20 October 2026](2026-10-20-Market.html) | Market <br> ÖSTERREICH | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
@@ -41,7 +42,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-Market.html) | Market <br> ÖSTERREICH | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [11–12 May 2026](2026-05-12-Market.html) | Market <br> ÖSTERREICH | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [11–12 May 2026](2026-05-12-INSA.html) | INSA <br> Exxpress | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
-| [27–28 April 2026](2026-04-28-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
+| [23–28 April 2026](2026-04-28-Market.html) | Market <br> Der Standard | 19.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [20–21 April 2026](2026-04-21-Market.html) | Market <br> ÖSTERREICH | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
@@ -217,6 +218,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [2–10 November 2026](2026-11-10-Market.html) | Market <br> ÖSTERREICH | 3 | 3 | 3 | 2–3 | 2–3 |
 | [2–3 November 2026](2026-11-03-Market.html) | Market <br> ÖSTERREICH | 3 | 3 | 3 | 2–3 | 2–3 |
 | [23–26 October 2026](2026-10-26-Market.html) | Market <br> ÖSTERREICH | 3 | 3 | 3 | 3 | 3–4 |
 | [19–20 October 2026](2026-10-20-Market.html) | Market <br> ÖSTERREICH | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -247,7 +249,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [11–12 May 2026](2026-05-12-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 3–4 | 3–4 |
 | [11–12 May 2026](2026-05-12-INSA.html) | INSA <br> Exxpress | 4 | 4 | 4 | 3–4 | 3–4 |
-| [27–28 April 2026](2026-04-28-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [23–28 April 2026](2026-04-28-Market.html) | Market <br> Der Standard | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [20–21 April 2026](2026-04-21-Market.html) | Market <br> ÖSTERREICH | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 4 | 4 | 4 | 3–4 | 3–4 |
@@ -395,8 +397,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 33% | 100% |  |
-| 3 | 66% | 67% | Median |
+| 2 | 32% | 100% |  |
+| 3 | 66% | 68% | Median |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
