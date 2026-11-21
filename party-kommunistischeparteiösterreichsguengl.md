@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.2% | 3.4–5.4% | 3.2–5.7% | 3.0–6.0% | 2.7–6.6% |
+| [16–17 November 2026](2026-11-17-Market.html) | Market <br> ÖSTERREICH | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [2–10 November 2026](2026-11-10-Market.html) | Market <br> ÖSTERREICH | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [2–3 November 2026](2026-11-03-Market.html) | Market <br> ÖSTERREICH | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [23–26 October 2026](2026-10-26-Market.html) | Market <br> ÖSTERREICH | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
@@ -42,7 +43,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [11–12 May 2026](2026-05-12-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [11–12 May 2026](2026-05-12-INSA.html) | INSA <br> Exxpress | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
-| [23–28 April 2026](2026-04-28-Market.html) | Market <br> Der Standard | 3.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
+| [27–28 April 2026](2026-04-28-Market.html) | Market <br> ÖSTERREICH | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [20–21 April 2026](2026-04-21-Market.html) | Market <br> ÖSTERREICH | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
@@ -206,6 +207,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [16–17 November 2026](2026-11-17-Market.html) | Market <br> ÖSTERREICH | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–10 November 2026](2026-11-10-Market.html) | Market <br> ÖSTERREICH | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–3 November 2026](2026-11-03-Market.html) | Market <br> ÖSTERREICH | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–26 October 2026](2026-10-26-Market.html) | Market <br> ÖSTERREICH | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -237,7 +239,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [11–12 May 2026](2026-05-12-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [11–12 May 2026](2026-05-12-INSA.html) | INSA <br> Exxpress | 0 | 0 | 0 | 0 | 0 |
-| [23–28 April 2026](2026-04-28-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
+| [27–28 April 2026](2026-04-28-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [20–21 April 2026](2026-04-21-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [13–16 April 2026](2026-04-16-INSA.html) | INSA <br> Exxpress | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–14 April 2026](2026-04-14-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
@@ -383,8 +385,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Last Result, Median |
-| 1 | 47% | 47% |  |
+| 0 | 50% | 100% | Last Result, Median |
+| 1 | 50% | 50% |  |
 | 2 | 0% | 0% |  |
 
 
